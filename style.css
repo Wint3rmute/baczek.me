@@ -1,0 +1,92 @@
+body{
+  background-color: white;
+  color:white;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+}
+
+h1{
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  font-weight: 100;
+  font-size: 100px;
+  background-color: black;
+  padding: 10px;
+}
+
+.card{
+  text-align: center;
+  font-size: 40px;
+  float: left;
+  background-color: black;
+  width: 23%;
+  height: 85px;
+  margin: 1%;
+  transition: all 0.5s;
+  font-weight: 100;
+}
+#triangle-topleft {
+	width: 0;
+	height: 0;
+	border-top: 20px solid white;
+	border-right: 20px solid transparent;
+}
+
+#student:hover{
+  background-color: #3F51B5;
+  color:black;
+}
+
+#webDev:hover{
+  background-color: #03A9F4;
+  color:black;
+}
+
+#ux:hover{
+  background-color: #00BCD4;
+  color:black;
+}
+
+#programmer:hover{
+  background-color: #009688;
+  color:black;
+}
+
+
+#someSpace
+{
+  height: 100px;
+}
+
+.contentContainer{
+  margin-left: 2%;
+  margin-right: 2%;
+
+  background-color: black;
+  color: white;
+  width: 96%;
+  height: 0px;
+  float:left;
+    font-size: 50px;
+
+}
+
+#studentContent{
+  background-color: #3F51B5;
+}
+
+#webDevContent{
+  background-color: #03A9F4;
+}
+
+#uiContent{
+  background-color: #00BCD4;
+}
+
+#programmerContent{
+  background-color: #009688;
+}
