@@ -18,6 +18,12 @@ h1{
   padding: 10px;
 }
 
+h2{
+  font-weight: 100;
+  font-size: 60px;
+  
+}
+
 .card{
   text-align: center;
   font-size: 40px;
