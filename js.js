@@ -14,6 +14,7 @@ function expandContent(id)
   $(id).animate({
   //  width: "500px",
     width: "75%",
+    color: "white",
     opacity: 1
 
   },{ duration: animationDuration, queue: false });
@@ -23,7 +24,8 @@ function hideContent(id)
 {
   $(id).animate({
     width: "2%",
-    opacity: 0
+    color: "rgba(0,0,0,0)",
+    opacity: 1
 
   },{ duration: animationDuration, queue: false });
 }

@@ -71,17 +71,19 @@ h1{
   margin-right: 2%;
 
   background-color: black;
-  color: white;
+  color: rgba(0,0,0,0);
   width: 2%;
   height: 500px;
   float:left;
-    font-size: 50px;
+  font-size: 50px;
 
   text-overflow: clip;
 
 }
 
 #studentContent{
+  color: white;
+  opacity: 1;
   width: 75%;
   background-color: #3F51B5;
 }
