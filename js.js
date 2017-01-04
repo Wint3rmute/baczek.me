@@ -1,27 +1,31 @@
 
-
+var animationDuration = 500;
 
 function animateBackground(newColor)
 {
   $( "#title" ).animate({
             backgroundColor: newColor
-          }, 500 );
+
+          }, { duration: animationDuration, queue: false });
 }
 
 function expandContent(id)
 {
   $(id).animate({
   //  width: "500px",
-    height: "500px"
-  },500);
+    width: "75%",
+    opacity: 1
+
+  },{ duration: animationDuration, queue: false });
 }
 
 function hideContent(id)
 {
   $(id).animate({
-    //width: "0px",
-    height: "0px"
-  },500);
+    width: "2%",
+    opacity: 0
+
+  },{ duration: animationDuration, queue: false });
 }
 
 function hideAllContent()

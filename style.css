@@ -29,6 +29,10 @@ h1{
   transition: all 0.5s;
   font-weight: 100;
 }
+
+.card:hover{
+  cursor: default;
+}
 #triangle-topleft {
 	width: 0;
 	height: 0;
@@ -68,14 +72,17 @@ h1{
 
   background-color: black;
   color: white;
-  width: 96%;
-  height: 0px;
+  width: 2%;
+  height: 500px;
   float:left;
     font-size: 50px;
+
+  text-overflow: clip;
 
 }
 
 #studentContent{
+  width: 75%;
   background-color: #3F51B5;
 }
 
