@@ -37,7 +37,7 @@ h2{
 }
 
 .card:hover{
-  cursor: default;
+  cursor: pointer; 
 }
 #triangle-topleft {
 	width: 0;
