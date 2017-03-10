@@ -5,7 +5,7 @@ var theCategory = "";
 
 function login()
 {
-webSettings.setDomStorageEnabled(true);
+
   alert("logging in...");
 
   alert("1");
