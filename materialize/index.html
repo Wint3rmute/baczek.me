@@ -3,9 +3,10 @@
   <html>
     <head>
       <!--Import Google Icon Font-->
-      <link href="//fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
       <!--Import materialize.css-->
       <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+      <link type="text/css" rel="stylesheet" href="css/style.css"  media="screen,projection"/>
 
       <!--Let browser know website is optimized for mobile-->
       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
@@ -35,21 +36,73 @@
 
 <!-- HERE THE PAGE STARTS -->
 
- <nav class="nav-extended">
-    <div class="nav-content">
-      <span class="nav-title" style="text-align: center" >Bączkowa Strona</span>
-      <a class="btn-floating btn-large halfway-fab waves-effect waves-light teal" onclick="getUsers()">
-        <i class="material-icons">add</i>
-      </a>
-    </div>
-  </nav>
+<nav>
+   <div class="nav-wrapper">
+     <a href="#" class="brand-logo center">Control Center</a>
 
-  <ul class="collapsible popout" data-collapsible="accordion" id = "articleList" style="width: 800px; margin-left: auto; margin-right:auto;">
+     <ul id="nav-mobile" class="left hide-on-med-and-down">
+        <li><a onclick="getCategories()"> <i class="material-icons">refresh</i></a></li>
+      </ul>
+      <ul id="nav-mobile" class="right hide-on-med-and-down">
+         <li><a onclick="addQuestion()"> <i class="material-icons">add</i></a></li>
+       </ul>
+   </div>
+ </nav>
 
 
- </ul>
+
+<div id = "loaderDiv">
+
+  <div class="preloader-wrapper big active" id="mainLoader">
+      <div class="spinner-layer spinner-blue-only">
+        <div class="circle-clipper left">
+          <div class="circle"></div>
+        </div><div class="gap-patch">
+          <div class="circle"></div>
+        </div><div class="circle-clipper right">
+          <div class="circle"></div>
+        </div>
+      </div>
+      </div>
+    <div class="card-panel blue lighten-2">Loading data...</div>
+ </div>
 
 
+
+
+ <div id = "categoryDiv">
+   <div id="categoryList" class="collection">
+  </div>
+ </div>
+
+
+ <div id = "questionsDiv">
+   <ul class="collapsible popout" data-collapsible="accordion" id = "questionsList">
+
+ </div>
+
+<div id = "newQuestionDiv">
+
+          <div class="input-field col s6">
+            <input id="question" type="text" class="validate">
+            <label for="last_name">Question</label>
+          </div>
+          <div class="input-field col s6">
+            <input id="a1" type="text" class="validate">
+            <label for="last_name">Answer 1</label>
+          </div>
+          <div class="input-field col s6">
+            <input id="a2" type="text" class="validate">
+            <label for="last_name">Answer 2</label>
+          </div>
+          <div class="input-field col s6">
+            <input id="a3" type="text" class="validate">
+            <label for="last_name">Answer 3 (the right one)</label>
+          </div>
+          <a class="waves-effect waves-light btn" onclick="newQuestionAdd()">Send<i class="material-icons right">send</i></a>
+
+
+</div>
 
 
 
