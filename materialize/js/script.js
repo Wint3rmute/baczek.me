@@ -46,13 +46,13 @@ function chooseCategory(category)
 
     var html1 = '<li><div class="collapsible-header">';
     //question here
-    var html2 = '</div><div class="collapsible-body"><ul class="collection"><li class="collection-item">';
+    var html2 = '</div><div class="collapsible-body"><ul class="collection"><li class="collection-item"> 1. ';
     //answer 1 here
-    var html3 = '</li><li class="collection-item">';
+    var html3 = '</li><li class="collection-item">2. ';
     //answer 2 here;
-    //html3 again
+    var html4 = '</li><li class="collection-item">3. ';
     //answer 3 here;
-    var html4 = '</li></ul></div></li>';
+    var html5 = '</li></ul></div></li>';
     //and we're done!
 
   $( "#categoryDiv" ).fadeOut(500, function()
@@ -92,7 +92,7 @@ function chooseCategory(category)
 
 
         //$( "#articleList" ).append( '<li> <div class="collapsible-header">' + childKey + '</div> <div class="collapsible-body"><span>' + childData +  '</span></div> </li>');
-    $("#questionsList").append(html1 + q + html2 + a1 + html3 + a2 + html3 + a3 + html4);
+    $("#questionsList").append(html1 + q + html2 + a1 + html3 + a2 + html4 + a3 + html5);
       });
       $( "#questionsDiv" ).fadeIn(1000);
     });
