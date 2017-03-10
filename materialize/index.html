@@ -18,6 +18,7 @@
       <script type="text/javascript" src="js/materialize.min.js"></script>
       <script type="text/javascript" src="js/script.js"></script>
       <script src="https://www.gstatic.com/firebasejs/3.7.1/firebase.js"></script>
+
       <script>
         // Initialize Firebase
         var config = {
@@ -99,7 +100,7 @@
             <input id="a3" type="text" class="validate">
             <label for="last_name">Answer 3 (the right one)</label>
           </div>
-          <a class="waves-effect waves-light btn" onclick="newQuestionAdd()">Send<i class="material-icons right">send</i></a>
+          <a class="waves-effect waves-light btn" id= "sendQuestionButton" onclick="newQuestionAdd()">Send<i class="material-icons right">send</i></a>
 
 
 </div>
