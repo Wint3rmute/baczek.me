@@ -125,6 +125,14 @@ function newQuestionAdd()
   var _a1 = $("#a1").val();
   var _a2 = $("#a2").val();
   var _a3 = $("#a3").val();
+
+
+  if(_question == "" || _a1 == "" || _a2 == "" || a3 == "")
+  {
+    Materialize.toast('Fill the boxes pls...', 600);
+    return;
+  }
+
   Materialize.toast('Adding...', 500);
 
   var postData = {
