@@ -1,0 +1,111 @@
+
+<!DOCTYPE html>
+  <html>
+    <head>
+      <!--Import Google Icon Font-->
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <!--Import materialize.css-->
+      <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+      <link type="text/css" rel="stylesheet" href="css/style.css"  media="screen,projection"/>
+
+      <!--Let browser know website is optimized for mobile-->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    </head>
+
+    <body>
+      <!--Import jQuery before materialize.js-->
+      <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+      <script type="text/javascript" src="js/materialize.min.js"></script>
+      <script type="text/javascript" src="js/script.js"></script>
+      <script src="https://www.gstatic.com/firebasejs/3.7.1/firebase.js"></script>
+
+      <script>
+        // Initialize Firebase
+        var config = {
+          apiKey: "AIzaSyBT9qkHjoByxrPkigzFpA1cav89Z0S-Rec",
+          authDomain: "interestingproject-c60c4.firebaseapp.com",
+          databaseURL: "https://interestingproject-c60c4.firebaseio.com",
+          storageBucket: "interestingproject-c60c4.appspot.com",
+          messagingSenderId: "1059263970003"
+        };
+        firebase.initializeApp(config);
+      </script>
+      <!--ALL THE FUCKING SCRIPTS>
+
+
+
+
+<!-- HERE THE PAGE STARTS -->
+
+<nav>
+   <div class="nav-wrapper">
+     <a href="#" class="brand-logo center">Control Center</a>
+
+     <ul id="nav-mobile" class="left hide-on-med-and-down">
+        <li><a onclick="getCategories()"> <i class="material-icons">refresh</i></a></li>
+      </ul>
+      <ul id="nav-mobile" class="right hide-on-med-and-down">
+         <li><a onclick="addQuestion()"> <i class="material-icons">add</i></a></li>
+       </ul>
+   </div>
+ </nav>
+
+
+
+<div id = "loaderDiv">
+
+  <div class="preloader-wrapper big active" id="mainLoader">
+      <div class="spinner-layer spinner-blue-only">
+        <div class="circle-clipper left">
+          <div class="circle"></div>
+        </div><div class="gap-patch">
+          <div class="circle"></div>
+        </div><div class="circle-clipper right">
+          <div class="circle"></div>
+        </div>
+      </div>
+      </div>
+    <div class="card-panel blue lighten-2">Loading data...</div>
+ </div>
+
+
+
+
+ <div id = "categoryDiv">
+   <div id="categoryList" class="collection">
+  </div>
+ </div>
+
+
+ <div id = "questionsDiv">
+   <ul class="collapsible popout" data-collapsible="accordion" id = "questionsList">
+
+ </div>
+
+<div id = "newQuestionDiv">
+
+          <div class="input-field col s6">
+            <input id="question" type="text" class="validate">
+            <label for="last_name">Question</label>
+          </div>
+          <div class="input-field col s6">
+            <input id="a1" type="text" class="validate">
+            <label for="last_name">Answer 1</label>
+          </div>
+          <div class="input-field col s6">
+            <input id="a2" type="text" class="validate">
+            <label for="last_name">Answer 2</label>
+          </div>
+          <div class="input-field col s6">
+            <input id="a3" type="text" class="validate">
+            <label for="last_name">Answer 3 (the right one)</label>
+          </div>
+          <a class="waves-effect waves-light btn" id= "sendQuestionButton" onclick="newQuestionAdd()">Send<i class="material-icons right">send</i></a>
+
+
+</div>
+
+
+
+    </body>
+  </html>
