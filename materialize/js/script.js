@@ -5,6 +5,8 @@ var theCategory = "";
 
 function login()
 {
+
+  alert("logging in...");
   webSettings.setDomStorageEnabled(true);
 var provider = new firebase.auth.GoogleAuthProvider();
 firebase.auth().signInWithPopup(provider).then(function(result) {
