@@ -34,13 +34,13 @@
         <div class="row">
 
             <div class="col m6">
-                <div class="card blue darken-3">
+                <div class="card blue darken-3 z-depth-5">
                     <div class="card-content white-text">
                         <span class="card-title">Fala 1</span>
 
                         <form class="col s6">
-                            <div class="input-field" onchange="changeF(0)">
-                                <input placeholder="Częstotliwość [Hz]" id="frequency0" type="number">
+                            <div class="input-field" >
+                                <input placeholder="Częstotliwość [Hz]" id="frequency0" type="number" onchange="changeF(0, this.value)">
                             </div>
                         </form>
 
@@ -55,7 +55,7 @@
 
                         </div>
 
-                        <a id="play0" onclick="play(0)" class="player btn-floating btn-large waves-effect waves-light red darken-3"><i class="material-icons">volume_up</i></a>
+                        <a id="play0" onclick="play(0)" class="player btn-floating btn-large waves-effect waves-light red darken-3"><i class="material-icons">volume_off</i></a>
 
                     </div>
                 </div>
@@ -64,18 +64,18 @@
 
 
             <div class="col m6">
-                <div class="card blue darken-3">
+                <div class="card blue darken-3 z-depth-5">
                     <div class="card-content white-text">
-                        <span class="card-title">Fala 1</span>
+                        <span class="card-title">Fala 2</span>
 
                         <form class="col s6">
-                            <div class="input-field" onchange="changeF(0)">
-                                <input placeholder="Częstotliwość [Hz]" id="frequency0" type="number">
+                            <div class="input-field" >
+                                <input placeholder="Częstotliwość [Hz]" id="frequency1" type="number" onchange="changeF(1, this.value)">
                             </div>
                         </form>
 
                         <div class="input-field col s6">
-                            <select id="type0" onchange="changeT(0)">
+                            <select id="type1" onchange="changeT(1)">
     <option value="" disabled selected>Rodzaj fali</option>
     <option value="1">Sine</option>
     <option value="2">Square</option>
@@ -85,38 +85,7 @@
 
                         </div>
 
-                        <a id="play0" onclick="play(0)" class="player btn-floating btn-large waves-effect waves-light red darken-3"><i class="material-icons">volume_up</i></a>
-
-                    </div>
-                </div>
-            </div>
-
-
-
-
-            <div class="col m6">
-                <div class="card blue darken-3">
-                    <div class="card-content white-text">
-                        <span class="card-title">Fala 1</span>
-
-                        <form class="col s6">
-                            <div class="input-field" onchange="changeF(0)">
-                                <input placeholder="Częstotliwość [Hz]" id="frequency0" type="number">
-                            </div>
-                        </form>
-
-                        <div class="input-field col s6">
-                            <select id="type0" onchange="changeT(0)">
-    <option value="" disabled selected>Rodzaj fali</option>
-    <option value="1">Sine</option>
-    <option value="2">Square</option>
-    <option value="3">Triangle</option>
-    <option value="4">Sawtooth</option>
-  </select>
-
-                        </div>
-
-                        <a id="play0" onclick="play(0)" class="player btn-floating btn-large waves-effect waves-light red darken-3"><i class="material-icons">volume_up</i></a>
+                        <a id="play1" onclick="play(1)" class="player btn-floating btn-large waves-effect waves-light red darken-3"><i class="material-icons">volume_off</i></a>
 
                     </div>
                 </div>
@@ -126,18 +95,18 @@
 
 
             <div class="col m6">
-                <div class="card blue darken-3">
+                <div class="card blue darken-3 z-depth-5">
                     <div class="card-content white-text">
-                        <span class="card-title">Fala 1</span>
+                        <span class="card-title">Fala 3</span>
 
                         <form class="col s6">
-                            <div class="input-field" onchange="changeF(0)">
-                                <input placeholder="Częstotliwość [Hz]" id="frequency0" type="number">
+                            <div class="input-field">
+                                <input placeholder="Częstotliwość [Hz]" id="frequency2" type="number"  onchange="changeF(2, this.value)">
                             </div>
                         </form>
 
                         <div class="input-field col s6">
-                            <select id="type0" onchange="changeT(0)">
+                            <select id="type2" onchange="changeT(2)">
     <option value="" disabled selected>Rodzaj fali</option>
     <option value="1">Sine</option>
     <option value="2">Square</option>
@@ -147,17 +116,52 @@
 
                         </div>
 
-                        <a id="play0" onclick="play(0)" class="player btn-floating btn-large waves-effect waves-light red darken-3"><i class="material-icons">volume_up</i></a>
+                        <a id="play2" onclick="play(2)" class="player btn-floating btn-large waves-effect waves-light red darken-3"><i class="material-icons">volume_off</i></a>
 
                     </div>
                 </div>
             </div>
-    </div>
+
+
+
+
+            <div class="col m6">
+                <div class="card blue darken-3 z-depth-5">
+                    <div class="card-content white-text">
+                        <span class="card-title">Fala 4</span>
+
+                        <form class="col s6">
+                            <div class="input-field" >
+                                <input placeholder="Częstotliwość [Hz]" id="frequency3" type="number" onchange="changeF(3, this.value)">
+                            </div>
+                        </form>
+
+                        <div class="input-field col s6">
+                            <select id="type3" onchange="changeT(3)">
+    <option value="" disabled selected>Rodzaj fali</option>
+    <option value="1">Sine</option>
+    <option value="2">Square</option>
+    <option value="3">Triangle</option>
+    <option value="4">Sawtooth</option>
+  </select>
+
+                        </div>
+
+                        <a id="play3" onclick="play(3)" class="player btn-floating btn-large waves-effect waves-light red darken-3">
+                          <i class="material-icons">volume_off</i>
+                        </a>
+
+                    </div>
+                </div>
+            </div>
+        </div>
 
 
 
 
 
 </body>
+
+
 
 </html>

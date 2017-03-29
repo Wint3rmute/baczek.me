@@ -1,68 +1,81 @@
- var frequency = 440;
- var type =  'sine';
-var isPlaying = false;
+ var frequency = [440,440,440,440];
+ var type =  ['sine','sine','sine','sine'];
+var isPlaying = [false,false,false,false];
+var Waves = [];
 
 $(document).ready(function() {
     $('select').material_select();
-  });
+    $('pulse').material_select();
 
-
-var Waves = [];
-
-for(var i = 0; i < 4; i++)
-{
- Waves[i] = new Pizzicato.Sound({
-    source: 'wave',
-    options: {
-        frequency: frequency,
-        type: type
-    }
- });
-
- //alert(i);
-}
-
- function refreshWave()
- {
-     Wave.stop();
-
-     Wave = new Pizzicato.Sound({
+    for(var i = 0; i < 4; i++)
+    {
+     Waves[i] = new Pizzicato.Sound({
         source: 'wave',
         options: {
-            frequency: frequency,
-            type: type
+            frequency: frequency[0],
+            type: type[0]
         }
      });
 
-     if(isPlaying)
-       Wave.play();
+     //alert(i);
+    }
+
+  });
+
+
+
+
+
+
+ function refreshWave(whichOne)
+ {
+     Waves[whichOne].stop();
+
+     Waves[whichOne] = new Pizzicato.Sound({
+        source: 'wave',
+        options: {
+            frequency: frequency[whichOne],
+            type: type[whichOne]
+        }
+     });
+
+     if(isPlaying[whichOne])
+       Waves[whichOne].play();
  }
 
-function changeF(amount)
+function changeF(whichOne, value)
 {
-  frequency = amount;
-  refreshWave();
+//alert(value);
+  frequency[whichOne] = value;
+
+  refreshWave(whichOne);
 }
 
-function changeT(newType)
+function changeT(whichOne)
 {
-  type = newType;
-  refreshWave();
+  var value =  $('#type' + whichOne).find(":selected").text().toLowerCase();
+
+  type[whichOne] = value;
+  refreshWave(whichOne);
 
 }
 
-function play()
+function play(whichOne)
 {
-  refreshWave();
-  if(isPlaying)
+  refreshWave(whichOne);
+  if(isPlaying[whichOne])
   {
-    Wave.stop();
-    $("#play").html('<i class="material-icons">volume_up</i>');
-    isPlaying = false;
+    Waves[whichOne].stop();
+    $("#play" + whichOne).html('<i class="material-icons">volume_off </i>');
+     $("#play" + whichOne).removeClass("pulse");
+    isPlaying[whichOne] = false;
   }
   else {
-    Wave.play();
-    $("#play").html('<i class="material-icons">volume_off</i>');
-    isPlaying = true;
+    Waves[whichOne].play();
+    $("#play" + whichOne).html('<i class="material-icons">volume_up</i>');
+      $("#play" + whichOne).addClass("pulse");
+    isPlaying[whichOne] = true;
   }
+
+  //alert(whichOne + " " + frequency[whichOne] + " " + type[whichOne]);
 }
