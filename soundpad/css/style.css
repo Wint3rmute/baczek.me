@@ -2,9 +2,8 @@
 {
   margin-left: 80%;
 }
-
 #card
 {
-  margin-left: 25%;
-  margin-right: -30%;
+  
+  float: left;
 }

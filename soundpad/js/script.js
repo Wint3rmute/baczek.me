@@ -2,7 +2,12 @@
  var type =  'sine';
 var isPlaying = false;
 
- var Wave = new Pizzicato.Sound({
+
+var Waves = [];
+
+for(var i = 0; i < 4; i++)
+{
+ Waves[i] = new Pizzicato.Sound({
     source: 'wave',
     options: {
         frequency: frequency,
@@ -10,6 +15,8 @@ var isPlaying = false;
     }
  });
 
+ //alert(i);
+}
 
  function refreshWave()
  {
