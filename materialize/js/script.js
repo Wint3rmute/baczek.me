@@ -15,10 +15,11 @@ var isPlaying = false;
  {
      Wave.stop();
 
-     sineWave = new Pizzicato.Sound({
+     Wave = new Pizzicato.Sound({
         source: 'wave',
         options: {
-            frequency: frequency
+            frequency: frequency,
+            type: type
         }
      });
 
@@ -41,6 +42,7 @@ function changeT(newType)
 
 function play()
 {
+  refreshWave();
   if(isPlaying)
   {
     Wave.stop();

@@ -9,6 +9,8 @@
       <!--Let browser know website is optimized for mobile-->
       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
+       <link rel="stylesheet" type="text/css" href="css/style.css">
+
 <script src = "js/pizzicato.js"></script>
 <script src = "js/script.js"></script>
 
@@ -24,15 +26,15 @@
 
 
 <nav>
-    <div class="nav-wrapper">
+    <div class="nav-wrapper red darken-3">
       <a href="#" class="brand-logo center">Soundpad</a>
     </div>
   </nav>
 
 
- <div class="row"  style="margin-right:auto; margin-left:auto;">
+ <div class="row"  id ="card">
         <div class="col s12 m6">
-          <div class="card grey">
+          <div class="card blue darken-3">
             <div class="card-content white-text">
               <span class="card-title">Ustawienia fali</span>
               <p>Częstotliwość</p>
@@ -40,21 +42,39 @@
    <p class="range-field">
      <input type="range" id="frequency" min="100" max="800" onchange="changeF(this.value);"/>
    </p>
+
+
+   <div class="card-action">
+
+
+   <p>Typ Fali</p>
+   <form action="#">
+
+   <p>
+     <input name="group1" type="radio" id="test2" />
+     <label for="test2" style="color:white" onclick="changeT('sine')">Sine</label>
+   </p>
+   <p>
+     <input name="group1" type="radio" id="test3" />
+     <label for="test3" style="color:white" onclick="changeT('triangle')">Triangle</label>
+   </p>
+   <p>
+     <input name="group1" type="radio" id="test4" />
+     <label for="test4" style="color:white" onclick="changeT('square')">Square</label>
+   </p>
+   <p>
+     <input name="group1" type="radio" id="test5" />
+     <label for="test5" style="color:white" onclick="changeT('sawtooth')">Sawtooth</label>
+   </p>
+
  </form>
 
- <a class='dropdown-button btn' href='#' data-activates='dropdown1'>Typ fali</a>
-
-   <!-- Dropdown Structure -->
-   <ul id='dropdown1' class='dropdown-content'>
-     <li><a onclick = "changeT('sine')">Sine</a></li>
-     <li><a onclick = "changeT('square')">Square</a></li>
-     <li><a onclick = "changeT('triangle')">Triangle</a></li>
-     <li><a onclick = "changeT('sawtooth')">Sawtooth</a></li>
-
-   </ul>
+                </div>
+   <div class="card-action">
 
    <a class="btn-floating btn-large waves-effect waves-light red" id ="play" onclick = "play()"><i class="material-icons">volume_up</i></a>
 
+</div>
 
             </div>
 
