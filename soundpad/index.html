@@ -9,7 +9,7 @@
     <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
     <!--Let browser know website is optimized for mobile-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
+    <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="css/style.css">
 
     <script src="js/pizzicato.js"></script>
@@ -24,72 +24,138 @@
     <script type="text/javascript" src="js/materialize.min.js"></script>
 
     <!--WEBSITE-->
-
-
     <nav>
         <div class="nav-wrapper red darken-3">
             <a href="#" class="brand-logo center">Soundpad</a>
         </div>
     </nav>
 
+    <div class="container">
+        <div class="row">
 
-    <div class="row">
-        <div class="col m6">
-            <div class="card blue darken-3">
-                <div class="card-content white-text">
-                    <span class="card-title">Fala 1</span>
-                    <p>Częstotliwość</p>
+            <div class="col m6">
+                <div class="card blue darken-3">
+                    <div class="card-content white-text">
+                        <span class="card-title">Fala 1</span>
 
-                    <form class="col s12">
+                        <form class="col s6">
+                            <div class="input-field" onchange="changeF(0)">
+                                <input placeholder="Częstotliwość [Hz]" id="frequency0" type="number">
+                            </div>
+                        </form>
 
-        <div class="input-field col s16">
-          <input placeholder="Placeholder" id="first_name" type="text" class="validate">
-          <label for="first_name">First Name</label>
-        </div>
+                        <div class="input-field col s6">
+                            <select id="type0" onchange="changeT(0)">
+    <option value="" disabled selected>Rodzaj fali</option>
+    <option value="1">Sine</option>
+    <option value="2">Square</option>
+    <option value="3">Triangle</option>
+    <option value="4">Sawtooth</option>
+  </select>
 
-    </form>
+                        </div>
+
+                        <a id="play0" onclick="play(0)" class="player btn-floating btn-large waves-effect waves-light red darken-3"><i class="material-icons">volume_up</i></a>
+
+                    </div>
                 </div>
             </div>
-        </div>
 
 
-        <div class="col m6">
-            <div class="card blue darken-3">
-                <div class="card-content white-text">
-                    <span class="card-title">Fala 2</span>
-                    <p>Częstotliwość</p>
+
+            <div class="col m6">
+                <div class="card blue darken-3">
+                    <div class="card-content white-text">
+                        <span class="card-title">Fala 1</span>
+
+                        <form class="col s6">
+                            <div class="input-field" onchange="changeF(0)">
+                                <input placeholder="Częstotliwość [Hz]" id="frequency0" type="number">
+                            </div>
+                        </form>
+
+                        <div class="input-field col s6">
+                            <select id="type0" onchange="changeT(0)">
+    <option value="" disabled selected>Rodzaj fali</option>
+    <option value="1">Sine</option>
+    <option value="2">Square</option>
+    <option value="3">Triangle</option>
+    <option value="4">Sawtooth</option>
+  </select>
+
+                        </div>
+
+                        <a id="play0" onclick="play(0)" class="player btn-floating btn-large waves-effect waves-light red darken-3"><i class="material-icons">volume_up</i></a>
+
+                    </div>
                 </div>
             </div>
-        </div>
+
+
+
+
+            <div class="col m6">
+                <div class="card blue darken-3">
+                    <div class="card-content white-text">
+                        <span class="card-title">Fala 1</span>
+
+                        <form class="col s6">
+                            <div class="input-field" onchange="changeF(0)">
+                                <input placeholder="Częstotliwość [Hz]" id="frequency0" type="number">
+                            </div>
+                        </form>
+
+                        <div class="input-field col s6">
+                            <select id="type0" onchange="changeT(0)">
+    <option value="" disabled selected>Rodzaj fali</option>
+    <option value="1">Sine</option>
+    <option value="2">Square</option>
+    <option value="3">Triangle</option>
+    <option value="4">Sawtooth</option>
+  </select>
+
+                        </div>
+
+                        <a id="play0" onclick="play(0)" class="player btn-floating btn-large waves-effect waves-light red darken-3"><i class="material-icons">volume_up</i></a>
+
+                    </div>
+                </div>
+            </div>
+
+
+
+
+            <div class="col m6">
+                <div class="card blue darken-3">
+                    <div class="card-content white-text">
+                        <span class="card-title">Fala 1</span>
+
+                        <form class="col s6">
+                            <div class="input-field" onchange="changeF(0)">
+                                <input placeholder="Częstotliwość [Hz]" id="frequency0" type="number">
+                            </div>
+                        </form>
+
+                        <div class="input-field col s6">
+                            <select id="type0" onchange="changeT(0)">
+    <option value="" disabled selected>Rodzaj fali</option>
+    <option value="1">Sine</option>
+    <option value="2">Square</option>
+    <option value="3">Triangle</option>
+    <option value="4">Sawtooth</option>
+  </select>
+
+                        </div>
+
+                        <a id="play0" onclick="play(0)" class="player btn-floating btn-large waves-effect waves-light red darken-3"><i class="material-icons">volume_up</i></a>
+
+                    </div>
+                </div>
+            </div>
     </div>
 
 
 
-
-
-
-
-    <div class="row">
-        <div class="col m6">
-            <div class="card blue darken-3">
-                <div class="card-content white-text">
-                    <span class="card-title">Fala 3</span>
-                    <p>Częstotliwość</p>
-                </div>
-            </div>
-        </div>
-
-
-        <div class="col m6">
-            <div class="card blue darken-3">
-                <div class="card-content white-text">
-                    <span class="card-title">Fala 4</span>
-                    <p>Częstotliwość</p>
-
-                </div>
-            </div>
-        </div>
-    </div>
 
 
 </body>

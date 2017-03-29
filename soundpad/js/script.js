@@ -2,6 +2,10 @@
  var type =  'sine';
 var isPlaying = false;
 
+$(document).ready(function() {
+    $('select').material_select();
+  });
+
 
 var Waves = [];
 
