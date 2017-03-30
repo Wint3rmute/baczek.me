@@ -5,8 +5,12 @@
 }
 #card
 {
-
   float: left;
+}
+
+.container
+{
+  margin-top: 2%;
 }
 
 body {
@@ -18,3 +22,13 @@ body {
   main {
     flex: 1 0 auto;
   }
+  .input-field input:focus + label {
+     color: white !important;
+
+   }
+   /* label underline focus color */
+   .row .input-field input:focus {
+     border-bottom: 1px solid white !important;
+     box-shadow: 0 1px 0 0 white !important;
+
+   }

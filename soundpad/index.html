@@ -39,8 +39,9 @@
                         <span class="card-title">Fala 1</span>
 
                         <form class="col s6">
-                            <div class="input-field" >
-                                <input placeholder="Częstotliwość [Hz]" id="frequency0" type="number" onchange="changeF(0, this.value)">
+                            <div class="input-field">
+                                <input id="frequency0" type="text" class="validate" onchange="changeF(0, this.value)">
+                                <label for="frequency0">Częstotliwość</label>
                             </div>
                         </form>
 
@@ -65,12 +66,13 @@
 
             <div class="col m6">
                 <div class="card blue darken-3 z-depth-5">
-                    <div class="card-content white-text waves-effect waves-light">
+                    <div class="card-content white-text waves-effect">
                         <span class="card-title">Fala 2</span>
 
                         <form class="col s6">
-                            <div class="input-field" >
-                                <input placeholder="Częstotliwość [Hz]" id="frequency1" type="number" onchange="changeF(1, this.value)">
+                            <div class="input-field">
+                                <input id="frequency1" type="text" class="validate" onchange="changeF(1, this.value)">
+                                <label for="frequency1">Częstotliwość</label>
                             </div>
                         </form>
 
@@ -95,13 +97,14 @@
 
 
             <div class="col m6">
-                <div class="card blue darken-3 z-depth-5 waves-effect waves-light">
+                <div class="card blue darken-3 z-depth-5 waves-effect pulse">
                     <div class="card-content white-text">
                         <span class="card-title">Fala 3</span>
 
                         <form class="col s6">
                             <div class="input-field">
-                                <input placeholder="Częstotliwość [Hz]" id="frequency2" type="number"  onchange="changeF(2, this.value)">
+                                <input id="frequency2" type="text" class="validate" onchange="changeF(2, this.value)">
+                                <label for="frequency2">Częstotliwość</label>
                             </div>
                         </form>
 
@@ -126,13 +129,14 @@
 
 
             <div class="col m6">
-                <div class="card blue darken-3 z-depth-5 waves-effect waves-light">
+                <div class="card blue darken-3 z-depth-5 waves-effect">
                     <div class="card-content white-text">
                         <span class="card-title">Fala 4</span>
 
                         <form class="col s6">
-                            <div class="input-field" >
-                                <input placeholder="Częstotliwość [Hz]" id="frequency3" type="number" onchange="changeF(3, this.value)">
+                            <div class="input-field">
+                                <input id="frequency3" type="text" class="validate" onchange="changeF(3, this.value)">
+                                <label for="frequency3">Częstotliwość</label>
                             </div>
                         </form>
 
@@ -148,7 +152,7 @@
                         </div>
 
                         <a id="play3" onclick="play(3)" class="player btn-floating btn-large waves-effect waves-light red darken-3">
-                          <i class="material-icons">volume_off</i>
+                            <i class="material-icons">volume_off</i>
                         </a>
 
                     </div>
@@ -156,27 +160,27 @@
             </div>
         </div>
 
-<br><br><br><br><br>
+        <br><br><br><br><br>
 
+    </div>
+
+    <footer class="page-footer red darken-3 waves-effect waves-light z-depth-5" style="cursor: default;">
+        <div class="container">
+            <div class="row">
+                <div class="col l6 s12">
+                    <h5 class="white-text">Praca konkursowa</h5>
+                    <p class="grey-text text-lighten-4">Strona wykonana na potrzeby Otwartego Międzyszkolnego Konkursu Fizyczny im. B. Koronkiewicz.</p>
+                </div>
+
+            </div>
         </div>
-
-        <footer class="page-footer red darken-3 waves-effect waves-light z-depth-5" style="cursor: default;">
-                  <div class="container">
-                    <div class="row">
-                      <div class="col l6 s12">
-                        <h5 class="white-text">Praca konkursowa</h5>
-                        <p class="grey-text text-lighten-4">Strona wykonana na potrzeby Otwartego Międzyszkolnego Konkursu Fizyczny im. B. Koronkiewicz.</p>
-                      </div>
-
-                    </div>
-                  </div>
-                  <div class="footer-copyright">
-                    <div class="container">
-                    Mateusz Bączek © 2017
-                    <a class="grey-text text-lighten-4 right" href="https://github.com/Wint3rmute" target="_blank" >Check out my GitHub</a>
-                    </div>
-                  </div>
-                </footer>
+        <div class="footer-copyright">
+            <div class="container">
+                Mateusz Bączek © 2017
+                <a class="grey-text text-lighten-4 right" href="https://github.com/Wint3rmute" target="_blank">Check out my GitHub</a>
+            </div>
+        </div>
+    </footer>
 
 
 </body>
