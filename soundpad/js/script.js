@@ -17,9 +17,9 @@ $(document).ready(function() {
         }
      });
 
-     //alert(i);
-    }
 
+    }
+alert("Ready!");
   });
 
 
