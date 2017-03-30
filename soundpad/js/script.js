@@ -1,5 +1,5 @@
- var frequency = 440;
- var type =  'sine';
+var frequency = 440;
+var type =  'sine';
 var isPlaying = false;
 
 $(document).ready(function() {
