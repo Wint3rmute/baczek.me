@@ -1,13 +1,7 @@
-<<<<<<< HEAD
- var frequency = [440,440,440,440];
- var type =  ['sine','sine','sine','sine'];
+var frequency = [440,440,440,440];
+var type =  ['sine','sine','sine','sine'];
 var isPlaying = [false,false,false,false];
 var Waves = [];
-=======
-var frequency = 440;
-var type =  'sine';
-var isPlaying = false;
->>>>>>> 290f33bd571c850c93f2a0f30e6457a950805d1d
 
 $(document).ready(function() {
     $('select').material_select();
