@@ -30,8 +30,8 @@ function generateGraph(whichOne)
   for (var j = 0; j < count; j++) {
   datasetValue[j] =
       {
-      x: j/5000 * frequency[whichOne],
-      y: Math.sin(j/5000 * frequency[whichOne])
+      x: j/count/100 * frequency[whichOne],
+      y: Math.sin(j/count/100 * frequency[whichOne])
       }
   }
 
@@ -48,7 +48,14 @@ function generateGraph(whichOne)
         scales: {
             xAxes: [{
                 type: 'linear',
-                position: 'bottom'
+                position: 'top',
+                display: false
+
+            }],
+            yAxes: [{
+                type: 'linear',
+
+                display: true
 
             }]
         }
@@ -72,15 +79,15 @@ function refreshWave(whichOne) {
     if (isPlaying[whichOne])
         Waves[whichOne].play();
 
-        generateGraph(whichOne);
+
 }
 
 function changeF(whichOne, value) {
     //alert(value);
     frequency[whichOne] = value;
-
+    generateGraph(whichOne);
     refreshWave(whichOne);
-    generateGraph();
+
 }
 
 function changeT(whichOne) {
@@ -92,7 +99,7 @@ function changeT(whichOne) {
 }
 
 function play(whichOne) {
-    refreshWave(whichOne);
+
     if (isPlaying[whichOne]) {
         Waves[whichOne].stop();
         $("#play" + whichOne).html('<i class="material-icons">volume_off </i>');
