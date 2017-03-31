@@ -16,13 +16,46 @@ $(document).ready(function() {
             }
         });
     }
+generateGraph(0);
+generateGraph(1);
+generateGraph(2);
+generateGraph(3);
+
+});
+
+function generateGraph(whichOne)
+{
+  var datasetValue = [];
+  var count =100;
+  for (var j = 0; j < count; j++) {
+  datasetValue[j] =
+      {
+      x: j/5000 * frequency[whichOne],
+      y: Math.sin(j/5000 * frequency[whichOne])
+      }
+  }
+
+    var ctx = document.getElementById("graph" + whichOne);
+    var myChart =new Chart(ctx, {
+    type: 'line',
+    data: {
+        datasets: [{
+            label: '',
+            data: datasetValue
+        }]
+    },
+    options: {
+        scales: {
+            xAxes: [{
+                type: 'linear',
+                position: 'bottom'
+
+            }]
+        }
+    }
+});
 
 }
-);
-
-
-
-
 
 
 function refreshWave(whichOne) {
@@ -38,6 +71,8 @@ function refreshWave(whichOne) {
 
     if (isPlaying[whichOne])
         Waves[whichOne].play();
+
+        generateGraph(whichOne);
 }
 
 function changeF(whichOne, value) {
@@ -45,6 +80,7 @@ function changeF(whichOne, value) {
     frequency[whichOne] = value;
 
     refreshWave(whichOne);
+    generateGraph();
 }
 
 function changeT(whichOne) {
@@ -71,3 +107,7 @@ function play(whichOne) {
 
     //alert(whichOne + " " + frequency[whichOne] + " " + type[whichOne]);
 }
+
+$(function() {
+    $("form").submit(function() { return false; });
+});
