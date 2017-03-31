@@ -13,15 +13,6 @@
   margin-top: 2%;
 }
 
-body {
-    display: flex;
-    min-height: 100vh;
-    flex-direction: column;
-  }
-
-  main {
-    flex: 1 0 auto;
-  }
   .input-field input:focus + label {
      color: white !important;
 
