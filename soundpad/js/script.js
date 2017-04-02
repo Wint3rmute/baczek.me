@@ -25,14 +25,18 @@ generateGraph(3);
 
 function generateGraph(whichOne)
 {
+  var currentFrequency = frequency[whichOne];
   var datasetValue = [];
-  var count =50;
+  var count =100;
   for (var j = 0; j < count; j++) {
   datasetValue[j] =
       {
-      x: j/count/100 * frequency[whichOne],
-      y: Math.sin(j/count/100 * frequency[whichOne])
+      x: j,
+      y: Math.sin(j * currentFrequency * Math.PI / 18000)
+
       }
+
+
   }
 
     var ctx = document.getElementById("graph" + whichOne);
@@ -41,27 +45,27 @@ function generateGraph(whichOne)
     data: {
         datasets: [{
             label: '',
-            data: datasetValue
+            data: datasetValue,
+            pointRadius: 1
+
+
         }]
     },
     options: {
+
         scales: {
             xAxes: [{
                 type: 'linear',
                 position: 'top',
                 display: false
-
             }],
             yAxes: [{
                 type: 'linear',
-
                 display: true
-
             }]
         }
     }
 });
-
 }
 
 
