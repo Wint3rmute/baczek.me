@@ -17,10 +17,17 @@ $(document).ready(function() {
             }
         });
     }
+
 generateGraph(0);
 generateGraph(1);
 generateGraph(2);
 generateGraph(3);
+
+
+$(".container").onkeydown = function(evt) {
+    evt = evt || window.event;
+    alert("keydown: " + evt.keyCode);
+};
 
 });
 
