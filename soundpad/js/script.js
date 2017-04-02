@@ -2,6 +2,7 @@ var frequency = [440, 440, 440, 440];
 var type = ['sine', 'sine', 'sine', 'sine'];
 var isPlaying = [false, false, false, false];
 var Waves = [];
+var recursiveQuantumCubicCanvasRetracting = true;
 
 $(document).ready(function() {
     $('select').material_select();
@@ -26,6 +27,13 @@ generateGraph(3);
 function generateGraph(whichOne)
 {
   var currentFrequency = frequency[whichOne];
+
+  if(recursiveQuantumCubicCanvasRetracting && currentFrequency == 2137)
+  {
+    Materialize.toast("JP2GMD", 500);
+    recursiveQuantumCubicCanvasRetracting = false;
+  }
+
   var datasetValue = [];
   var count =100;
   for (var j = 0; j < count; j++) {
