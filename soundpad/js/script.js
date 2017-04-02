@@ -26,7 +26,7 @@ generateGraph(3);
 function generateGraph(whichOne)
 {
   var datasetValue = [];
-  var count =100;
+  var count =50;
   for (var j = 0; j < count; j++) {
   datasetValue[j] =
       {
