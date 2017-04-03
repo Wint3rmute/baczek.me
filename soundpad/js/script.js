@@ -61,13 +61,12 @@ function generateGraph(whichOne)
         datasets: [{
             label: '',
             data: datasetValue,
-            pointRadius: 1
+            pointRadius: 0,
+	    //borderColor: 'rgb(100, 100, 100)' 
 
-
-        }]
+       }]
     },
     options: {
-
         scales: {
             xAxes: [{
                 type: 'linear',
