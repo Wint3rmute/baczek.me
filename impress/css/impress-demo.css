@@ -97,6 +97,15 @@ body {
 */
 }
 
+body.impress-on-step-0 {
+    background: black;
+    color:white;
+  }
+  body.impress-on-bored {
+      background: black !important;
+      color:white !important;
+    }
+
 body.impress-on-step-1 {
     background: black;
     color:white;
