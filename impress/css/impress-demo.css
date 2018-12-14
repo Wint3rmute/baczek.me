@@ -97,27 +97,30 @@ body {
 */
 }
 
-body.impress-on-step-0 {
-    background: black;
-    color:white;
-  }
-  body.impress-on-bored {
-      background: black !important;
-      color:white !important;
-    }
 
 body.impress-on-step-1 {
     background: black;
     color:white;
   }
 
-  
+
+  body.impress-on-bored {
+      background: black !important;
+      color:white !important;
+    }
+
 body.impress-on-step-2 {
     background: black;
     color:white;
   }
 
-  body.impress-on-step-3 {
+  
+body.impress-on-step-3 {
+    background: black;
+    color:white;
+  }
+
+  body.impress-on-step-4 {
     background: black;
     color:white;
   }
