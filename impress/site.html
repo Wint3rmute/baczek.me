@@ -172,11 +172,11 @@
 
 
 
-    <div id="its" class="step list wide" data-x="900" data-y="900" data-scale="4">
+    <div id="its" class="step list wide" data-x="900" data-y="900" data-scale="3">
         <br><br><br>
-        <p>- <strong>Prawdziwy świat</strong> jest mapą <br/></p>
+        <p>- Waszą mapą jest <strong>prawdziwy świat</strong><br/></p>
         <p>- Kooperacja/Rywalizacja z innymi graczami</p>
-        <p>- Gra drużynowa</p>
+        <p>- Zbierz znajomych i graj drużyną!</p>
     </div>
 
     
@@ -194,7 +194,7 @@
         
             <p>- Otwarty</p>
             <p>- Wypełniony zasobami i niespodziankami</p>
-            <p>- Wolność tworzenia</p>
+            <p>- Gotowy na <strong>Waszą</strong> kreatywność</p>
       
         
         </div>
@@ -203,30 +203,37 @@
 
 
     
-    <div class="step" data-x="-500" data-y="2200" data-rotate="0" data-scale="1">
+    <div id="video1-step" class="step" data-x="500" data-y="2200" data-rotate="0" data-scale="1">
 
       
-        <video width="400" height="800" controls>
-            <source src="./demo_shader.mp4">
-        </video>
+        <div style="margin-left: -450px !important">
+            <video controls width="1728" height="972" id="video1">
+                <source src="./timelapse.mp4">
+            </video>
+        </div>
     
-        
-    
-    <div style="float: right;" style="align-items: center;">
-    
-        <br><br><br> <br> 
 
-        <h1><i class="material-icons" style="font-size:106px;">games</i></h1>        
-        
-        <div style="font-size: 39px" >Demo</div> 
-    
-    </div>
     
 
     </div>
 
     
-    <div class="step" data-x="500" data-y="2200" data-rotate="0" data-scale="1">
+    <div id="video2-step" class="step" data-x="500" data-y="3200" data-rotate="0" data-scale="1">
+
+      
+        <div style="margin-left: -450px !important">
+            <video controls width="1728" height="972" id="video2">
+                <source src="./takeover.mp4">
+            </video>
+        </div>
+    
+
+    
+
+    </div>
+
+    
+    <div class="step" data-x="2000" data-y="3200" data-rotate="0" data-scale="1">
 
         <div id='big'>
         <h1><i class="material-icons" style="font-size:96px;">videogame_asset</i></h1>
@@ -245,33 +252,6 @@
         </div>
         
     </div>
-
-
-
-    
-    <div class="step" data-x="2000" data-y="2200" data-rotate="0" data-scale="1">
-
-      
-        <video width="400" height="800" controls>
-            <source src="./demo.mp4">
-        </video>
-    
-        
-    
-    <div style="float: right;" style="align-items: center;">
-    
-        <br><br><br> <br> 
-
-        <h1><i class="material-icons" style="font-size:106px;">games</i></h1>        
-        
-        <div style="font-size: 39px" >Demo</div> 
-    
-    </div>
-    
-
-    </div>
-
-
     
 
     <div  class="step title last " data-x="800" data-y="0" data-scale="4">
@@ -279,8 +259,16 @@
 
     </div>
  
-    <div id="tiny" class="step" data-x="750" data-y="70" data-z="-3000" data-rotate="120" data-scale="1">
+    <div id="video3-step" class="step" data-x="750" data-y="70" data-z="-3000" data-rotate="120" data-scale="1">
         
+        <div style="position:absolute; margin-top: 870px; margin-left: 970px; color: lightgray">Consquare</div>
+
+
+        <div style="margin-left: -450px !important">
+            <video loop width="1728" height="972" id="video3">
+                <source src="./teaming.mp4">
+            </video>
+        </div>
     </div>
 
     <!--
@@ -328,6 +316,7 @@
 <script src="css/impress.js"></script>
 <script>impress().init();</script>
 
+
 <!--
     
     The `impress()` function also gives you access to the API that controls the presentation.
@@ -355,9 +344,37 @@
 
 
 
-<script >
+    <script>
+    var videoStep1 = document.getElementById("video1-step");
+    var video1 = document.getElementById("video1");
+    videoStep1.addEventListener("impress:stepenter", function() {
+        video1.play();
+    }, false);
+    videoStep1.addEventListener("impress:stepleave", function() {
+        video1.pause();
+    }, false);
+    
 
+    var videoStep2 = document.getElementById("video2-step");
+    var video2 = document.getElementById("video2");
+    videoStep2.addEventListener("impress:stepenter", function() {
+        video2.play();
+    }, false);
+    videoStep2.addEventListener("impress:stepleave", function() {
+        video2.pause();
+    }, false);
 
+    
+    var videoStep3 = document.getElementById("video3-step");
+    var video3 = document.getElementById("video3");
+    videoStep3.addEventListener("impress:stepenter", function() {
+        video3.play();
+    }, false);
+    videoStep3.addEventListener("impress:stepleave", function() {
+        video3.pause();
+    }, false);
+    
+    </script>
 
 
 </script>
