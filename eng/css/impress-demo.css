@@ -356,17 +356,31 @@ code{
 
 
 
-.appearable {
+.appear-gone {
     transition: 3s;
     opacity: 0 !important;
 }
 
-.appearable.active {
+.appear-gone.active {
     opacity: 1 !important;
 }
 
-.appearable.past {
-    opacity: 0.5 !important;
+.appear-gone.past {
+    opacity: 0 !important;
+}
+
+
+.appear-fade {
+    transition: 3s;
+    opacity: 0 !important;
+}
+
+.appear-fade.active {
+    opacity: 1 !important;
+}
+
+.appear-fade.past {
+    opacity: 0.3 !important;
 }
 
 .definition {
@@ -400,8 +414,34 @@ code{
     border-style: dashed;
     border-width: 10px;
     border-radius: 50px;
-    border-color: red;
+    border-color: #1B5E20;
 
+}
+
+
+body.impress-on-dont {
+    background: black;
+    color: white;
+}
+
+body.impress-on-dont2 {
+    background: black;
+    color: white;
+}
+
+body.impress-on-dont3 {
+    background: black;
+    color: white;
+}
+
+body.impress-on-dont4 {
+    background: black;
+    color: white;
+}
+
+body.impress-on-dont5 {
+    background: black;
+    color: white;
 }
 
 /*
