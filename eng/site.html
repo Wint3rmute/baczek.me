@@ -184,8 +184,11 @@
             </div>
             <br><br>
 
-            <img height="200" src="nasa.png" class="logo">
-            <img src="prosthetics.png" class="logo logo-image"></img>
+            <div style="margin-left: -40px">
+                <img height="200" src="nasa.png" class="logo">
+                <img src="prosthetics.png" class="logo logo-image"></img>
+                <img src="pressure_sim.png" class="logo logo-image"></img>
+            </div>
         </div>
 
         <div id="buisiness" class="step" data-x="500" data-y="-400">
@@ -388,7 +391,7 @@
         </div>
 
         <div class="step" id="same-things" data-x="5000" data-y="-2200" data-scale="4">
-            <div style="text-align: center">
+            <div style="text-align: center; font-weight: 700">
                 <br><br><br><br> <br> <br>
                 But there are some things that from both
                 points of view are the same
@@ -450,7 +453,7 @@
         </div>
 
 
-        <div class="step appear-gone" data-x="5150" data-y="-2250" data-scale="0.15">
+        <div class="step appear-gone" data-x="5150" data-y="-2270" data-scale="0.15">
             <br>
             <div style="text-align: center">Case study: Uber</div> <br>
 
@@ -467,28 +470,28 @@
                 <div> <strong>With event storming:</strong> <br> <br></div>
                 <div>
 
-                        <div style="float: left; text-align: center">
-                        
-                                <strong> The user: </strong><br> <br>
-                                Picks a location <br>
-                                ↓ <br>
-                                Waits for a driver <br>
-                                ↓ <br>
-                                Is delivered to <br> the destination
+                    <div style="float: left; text-align: center">
 
-                        </div>
-                        <div style="float: right; text-align: center; margin-left: 20px">
-                        
-                
-                                <strong> The driver: </strong><br> <br>
-                                Receives a <br> notification <br>
-                                ↓<br>
-                                Picks the client up<br>
-                                ↓ <br>
-                                Drives the client to <br> their destination
+                        <strong> The user: </strong><br> <br>
+                        Picks a location <br>
+                        ↓ <br>
+                        Waits for a driver <br>
+                        ↓ <br>
+                        Is delivered to <br> the destination
 
-                                <br><br><br><br><br><br><br>
-                        </div>
+                    </div>
+                    <div style="float: right; text-align: center; margin-left: 20px">
+
+
+                        <strong> The driver: </strong><br> <br>
+                        Receives a <br> notification <br>
+                        ↓<br>
+                        Picks the client up<br>
+                        ↓ <br>
+                        Drives the client to <br> their destination
+
+                        <br><br><br><br><br><br><br>
+                    </div>
                 </div>
 
                 <!--
@@ -523,6 +526,35 @@
 
         </div>
 
+
+        <div class="step appear-gone" data-x="5150" data-y="-2200" data-scale="0.15">
+            <div style="text-align: center; font-weight: 700">How it works in practice?</div>
+            <br>
+
+            <div style="float: left">
+                You will need:
+
+                <div style="font-size: 40px">
+                    <li>
+                        A whiteboard
+                    </li>
+                    <li>
+                        Markers
+                    </li>
+                    <li>
+                        Post-it cards
+                    </li>
+                </div>
+            </div>
+
+            <div style="float: right">
+
+                <img src="events.png" width="600px" alt="">
+
+            </div>
+
+        </div>
+
         <div class="step appear-gone" data-x="5500" data-y="-2800" data-scale="4">
             Solution to the
             <div class="rectangle">
@@ -531,30 +563,37 @@
         </div>
 
 
-        <div id='dont' class="step appearable-fade invisible-at-first" data-scale="4" data-x="15000" data-y="-2800"data-autoplay='7'>
-          
+        <div id='dont' class="step appearable-fade invisible-at-first" data-scale="4" data-x="15000" data-y="-2800"
+            data-autoplay='7'>
+
             <div> Next time you get a </div>
             <strong style="font-size: 81px"> million-dollars</strong>
             <div style="font-size: 81px"> buisiness idea </div>
         </div>
 
-        <div id='dont2' class="step appearable-fade invisible-at-first" data-scale="4" data-x="15000" data-y="-1500" data-autoplay='7'>
-                <strong style="font-size: 64px"> Do not write a</strong> <div> 100-pages-long </div> <div style="font-size: 65px"> business plan</div>
-            </div>
-    
-
-            <div id='dont3' class="step appearable-fade invisible-at-first" data-scale="4" data-x="15000" data-y="-200" data-autoplay='8'>
-                    Just<strong style="font-size: 64px"> Event Storm</strong> it
-               </div>
+        <div id='dont2' class="step appearable-fade invisible-at-first" data-scale="4" data-x="15000" data-y="-1500"
+            data-autoplay='7'>
+            <strong style="font-size: 64px"> Do not write a</strong>
+            <div> 100-pages-long </div>
+            <div style="font-size: 65px"> business plan</div>
+        </div>
 
 
-               <div id='dont4' class="step appearable-fade invisible-at-first" data-scale="4" data-x="15000" data-y="3000" data-autoplay='1'>
-                </div>
+        <div id='dont3' class="step appearable-fade invisible-at-first" data-scale="4" data-x="15000" data-y="-200"
+            data-autoplay='8'>
+            Just<strong style="font-size: 64px"> Event Storm</strong> it
+        </div>
 
-               <div id='dont5' class="step appearable-fade invisible-at-first" data-scale="1" data-x="-3000" data-y="3000" data-autoplay='1'>
-                </div>
-          
-            
+
+        <div id='dont4' class="step appearable-fade invisible-at-first" data-scale="4" data-x="15000" data-y="3000"
+            data-autoplay='1'>
+        </div>
+
+        <div id='dont5' class="step appearable-fade invisible-at-first" data-scale="1" data-x="-3000" data-y="3000"
+            data-autoplay='1'>
+        </div>
+
+
 
         <!--
         
@@ -630,7 +669,7 @@
 
 
     <script>
-   
+
     </script>
 </body>
 
