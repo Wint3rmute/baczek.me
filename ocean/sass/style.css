@@ -14,10 +14,16 @@ h2 {
 body {
   margin-left: auto;
   margin-right: auto;
-  width: 60%;
+  width: 90%;
   font: 100% "Comfortaa", cursive;
   color: #fff;
   background: #263238;
+}
+
+@media (min-width: 640px) {
+  body {
+    width: 60%;
+  }
 }
 
 code {
