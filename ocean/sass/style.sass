@@ -26,10 +26,17 @@ h2
 body
   margin-left: auto
   margin-right: auto
-  width: 60%
+  
+  @media (min-width: 640px)
+    width: 60%
+
+  width: 90%;
+		
   font: 100% $main-font
   color: $primary-color
   background: $background-color
+
+
 
 code
   background: $popup-color //lighten($background-color, 10)
