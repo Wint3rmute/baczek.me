@@ -1,43 +1,21 @@
 @import url("https://fonts.googleapis.com/css?family=Comfortaa|Roboto+Mono");
-h1 {
+header-default, h1, h2 {
+  display: block;
   font-weight: 600;
+  margin-bottom: 6vh;
+}
+
+h1 {
   font-size: 300%;
   margin-bottom: 6vh;
 }
 
 h2 {
-  font-weight: 600;
   font-size: 150%;
-  margin-bottom: 6vh;
-}
-
-body {
-  margin-left: auto;
-  margin-right: auto;
-  width: 90%;
-  font: 100% "Comfortaa", cursive;
-  color: #fff;
-  background: #263238;
-}
-
-@media (min-width: 640px) {
-  body {
-    width: 60%;
-  }
-}
-
-code {
-  background: #37474F;
-  border-radius: 12px;
-  margin: 2vh;
-  padding: 2vh;
-  padding-left: 1.5vh;
-  font-weight: 600;
-  display: inline-block;
-  font: 120% "Roboto Mono", cursive;
 }
 
 .button {
+  cursor: pointer;
   background-color: #82AAFF;
   margin: 10px;
   padding: 10px;
@@ -67,30 +45,6 @@ code {
   background-color: #6999ff;
 }
 
-textarea,
-input[type=text] {
-  background: transparent;
-  font: 100% "Comfortaa", cursive;
-  color: white;
-  border: 0px;
-  border-bottom: 1px solid grey;
-  -webkit-transition: 0.2s;
-  transition: 0.2s;
-}
-
-textarea:focus,
-input[type=text]:focus {
-  border-bottom: 1px solid white;
-}
-
-form {
-  border-radius: 12px;
-  padding: 2vh;
-  margin: 2vh;
-  display: inline-block;
-  background: #37474F;
-}
-
 .switch {
   position: relative;
   display: inline-block;
@@ -114,8 +68,8 @@ form {
   right: 0;
   bottom: 0;
   background-color: gray;
-  -webkit-transition: .4s;
-  transition: .4s;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
 }
 
 .slider:before {
@@ -126,8 +80,8 @@ form {
   left: 4px;
   bottom: 4px;
   background-color: white;
-  -webkit-transition: .4s;
-  transition: .4s;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
 }
 
 input:checked + .slider {
@@ -136,15 +90,65 @@ input:checked + .slider {
 
 input:checked + .slider:before {
   -webkit-transform: translateX(16px);
-  transform: translateX(16px);
+          transform: translateX(16px);
 }
 
 /* Rounded sliders */
 .slider.round {
-  border-radius: 24px;
+  border-radius: 12px;
 }
 
 .slider.round:before {
-  border-radius: 50%;
+  border-radius: 12px;
+}
+
+body {
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  font: 100% "Comfortaa", cursive;
+  color: #fff;
+  background: #263238;
+}
+
+@media (min-width: 640px) {
+  body {
+    width: 60%;
+  }
+}
+
+code {
+  background: #37474F;
+  border-radius: 12px;
+  margin: 2vh;
+  padding: 2vh;
+  padding-left: 1.5vh;
+  font-weight: 600;
+  display: inline-block;
+  font: 120% "Roboto Mono", cursive;
+}
+
+textarea,
+input[type=text] {
+  background: transparent;
+  font: 100% "Comfortaa", cursive;
+  color: white;
+  border: 0px;
+  border-bottom: 1px solid grey;
+  -webkit-transition: 0.2s;
+  transition: 0.2s;
+}
+
+textarea:focus,
+input[type=text]:focus {
+  border-bottom: 1px solid white;
+}
+
+form {
+  border-radius: 12px;
+  padding: 2vh;
+  margin: 2vh;
+  display: inline-block;
+  background: #37474F;
 }
 /*# sourceMappingURL=style.css.map */

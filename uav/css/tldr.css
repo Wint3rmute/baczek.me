@@ -1,0 +1,190 @@
+#d1 {
+    left: -300px;
+}
+
+#d2 {
+    left: -600px;
+}
+
+#r1 {
+    position: relative;
+    top: -300px;
+    left: 300px;
+    opacity: 0;
+
+    animation-fill-mode: forwards;
+
+}
+
+#tldr.active > #r1,
+#tldr.past > #r1 {
+    animation-name: robot-animation;
+    animation-duration: 5s;
+    animation-delay: 8s;
+}
+
+
+#h1 {
+    position: relative;
+    top: -200px;
+    left: 460px;
+    opacity: 0;
+
+    animation-fill-mode: forwards;
+
+}
+
+#tldr.active > #h1,
+#tldr.past > #h1 {
+    animation-name: human-animation;
+    animation-duration: 1s;
+    animation-delay: 12s;
+}
+
+
+
+
+#house {
+    position: relative;
+    top: -200px;
+    left: -900px;
+}
+
+.animatedDrone {
+    position: relative;
+    top: -200px;
+    animation-duration: 5s;
+    /* animation-timing-function: linear; */
+    animation-fill-mode: forwards;
+
+}
+
+#tldr.active > #d1,
+#tldr.past > #d1 {
+    animation-name: d1-animation;
+    animation-delay: 1.8s;
+}
+
+#tldr.active > #d2,
+#tldr.past > #d2 {
+    animation-name: d2-animation;
+    animation-delay: 7s;
+    animation-duration: 2s;
+}
+
+#link {
+    opacity: 0;
+    animation-name: link-animation;
+    animation-delay: 13s;
+    animation-fill-mode: forwards;
+    animation-duration: 2s;
+}
+
+@keyframes link-animation {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+
+#wifi {
+    position: relative;
+    width: 90px;
+    height: 0px;
+
+    border: dashed 2px black;
+
+    top: -300px;
+    left: 960px;
+    transform: rotate(30deg);
+
+}
+#radio1 {
+    position: relative;
+    width: 400px;
+    height: 0px;
+
+    border: dashed 2px black;
+
+    top: -350px;
+    left: -180px;
+
+    transform: rotate(-10deg);
+
+}
+#radio2 {
+    position: relative;
+    width: 500px;
+    height: 0px;
+
+    border: dashed 2px black;
+
+    top: -400px;
+    left: 380px;
+
+}
+
+@keyframes d1-animation {
+    0% {
+        transform: translateX(0px) translateY(0px);
+        animation-timing-function: ease-in;
+    }
+  
+    50% {
+        transform: translateX(500px)  translateY(-100px);
+        animation-timing-function: ease-out;
+    }
+
+    100% {
+        transform: translateX(1000px)  translateY(-90px);
+        animation-timing-function: ease-in-out;
+    }
+  }
+
+
+@keyframes d2-animation {
+    0% {
+        transform: translateX(0px) translateY(0px);
+        animation-timing-function: ease-in;
+    }
+  
+    50% {
+        transform: translateX(250px)  translateY(-100px);
+        animation-timing-function: ease-out;
+    }
+
+    100% {
+        transform: translateX(500px)  translateY(-90px);
+        animation-timing-function: ease-in-out;
+    }
+  }
+
+@keyframes robot-animation {
+    0% {
+        opacity: 0;
+    }
+
+    40% {
+        opacity: 1;
+        transform: translateY(100px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(100px) translateX(150px);
+    }
+}
+
+@keyframes human-animation {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
