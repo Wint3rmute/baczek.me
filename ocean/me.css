@@ -1,0 +1,51 @@
+.block {
+    background-color: #37474F;
+    border-radius: 12px;
+    padding: 15px;
+    margin-top: 130px;
+    width: 650px;
+    
+    
+}
+
+.text {
+    position: relative;
+    top: -170px;
+}
+
+.face {
+    border-radius: 12px;
+    width: 200px;
+    position: relative;
+    top: -130px;
+    left: -50px;
+}
+
+.name {
+    position: relative;
+    left: 170px;
+    top: -290px;
+    font-size: 300%;
+}
+
+.buttons {
+    position: relative;
+    top: -272px;
+    left: 150px;
+}
+
+.top-button {
+    cursor: pointer;
+    background-color: #82AAFF;
+    padding: 10px;
+    display: inline-block;
+    -webkit-transition: 0.2s;
+    transition: 0.2s;
+  
+}
+
+
+.top-button.red {
+    background-color: #FF5370;
+  }
+  
