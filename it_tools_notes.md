@@ -1,19 +1,14 @@
 ## Dla roczników 2-3
 
-Hej, jeśli uważasz że potrafisz już programować, może czas poszerzyć swój informatyczny zasób narzędzi o rzeczy takie jak:
+Hej, jeśli uważasz że potrafisz już programować, może czas poszerzyć swój informatyczny zasób wiedzy o kilka fajnych narzędzi?
+Prowadzę warsztaty, na których będę omawiał i uczył:
 
-* Linux
-* Git
-* Docker
-* Automatyzacja (skrypty)
+* Linuxa
+* Gita
+* Dockera
+* Automatyzację (skrypty)
 * Workflow'y i narzędzia różnych języków programowania                                    
  (fajnie to wygląda w CV i często pytają o te rzeczy na rozmowach rekrutacyjnych ;v)
-
-Prowadzę wykłady i warsztaty z szeroko pojętych narzędzi informatycznych.
-Jeśli chcecie poprawić swoją znajomość narzędzi ułatwiających pisanie projektów,
-pracę w teamie i automatyzację zadań,
-zapraszam we wtorki o 17 do sali 2.17
-
 
 
 ## Dla 1roczniaków
