@@ -3,17 +3,21 @@
 header-default, h1, h2 {
   display: block;
   font-weight: 600;
-  margin-bottom: 6vh;
 }
 
 h1 {
-  font-size: 300%;
-  margin-bottom: 6vh;
+  font-size: 250%;
+  /* margin-bottom: 6vh; */
 }
 
 h2 {
   font-size: 150%;
 }
+
+h3 {
+  font-size: 150%;
+}
+
 
 .button {
   cursor: pointer;
@@ -104,16 +108,32 @@ input:checked + .slider:before {
 }
 
 body {
-  margin-left: auto;
-  margin-right: auto;
-  width: 90%;
   font: 100% "Comfortaa", cursive;
   color: #fff;
   background: #263238;
 }
 
+.full {
+  width: 100%;
+}
+
+.content {
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  margin-top: 0px !important;
+  margin-bottom: 0px !important;
+}
+
 @media (min-width: 640px) {
-  body {
+  .content {
+    width: 60%;
+    /* padding-right: 30%; */
+    line-height: 1.4;
+    font: 150% "Comfortaa", cursive;
+  }
+  
+  section {
     width: 60%;
   }
 }
