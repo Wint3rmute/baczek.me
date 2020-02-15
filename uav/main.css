@@ -1,0 +1,105 @@
+.modules {
+    width: 97% !important;
+    margin: auto;
+}
+
+.title {
+    /* font-family: 'Roboto Mono', monospace; */
+}
+
+.module {
+    box-shadow: 0px 0px 10px #000;
+    background-color: #263238;
+    color: white;
+    margin: 10px;
+    padding: 30px;
+    /* padding: 10px; */
+    border-radius: 10px;
+    /* margin: 20px; */
+}
+
+.fields-n-methods {
+    color: #eee;
+    font-weight: bold;
+    margin-top: 20px;   
+    font-size: 108%;
+    font-family: 'Roboto Mono', monospace;
+}
+
+
+.desc {
+    font-weight: 500;
+    text-align: justify;
+    display: block;
+    margin-left: 10px;
+    color: #ede;
+}
+
+/* method desc */
+.mdesc {
+    margin-bottom: 20px;
+}
+
+.float::after, .int::after, .string::after, .tbd::after, .bool::after, .string::after {
+    font-style: italic;
+    color: "#000";
+    font-weight: normal;
+}
+
+.float, .int, .string, .method, .tbd, .bool {
+    font-weight: bold;
+    /* color: #fff; */
+    color: #fff;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.float::after {
+    content: ": float";
+    font-weight: normal;
+}
+
+.tbd::after {
+    content: ": type to be determined";
+}
+
+.int::after {
+    content: ": int";
+}
+
+.bool::after {
+    content: ": bool";
+}
+
+.string::after {
+    content: ": string";
+}
+
+.code {
+
+    font-family: 'Roboto Mono', monospace;
+}
+
+#nav {
+    color: #82AAFF;
+}
+
+#rover {
+    color: #F78C6C;
+}
+
+#ml {
+    color: #C792EA;
+
+}
+
+#telem {
+    color: #C3E88D;
+}
+
+#coms {
+    color: #FF5370;
+}
+
+#gcs {
+    color: #FFCB6B;
+}
