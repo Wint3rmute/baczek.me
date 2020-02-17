@@ -77,6 +77,12 @@
 .code {
 
     font-family: 'Roboto Mono', monospace;
+    /* white-space: pre-line; */
+}
+
+.testbody {
+    font-family: 'Roboto Mono', monospace;
+    white-space: pre-line;
 }
 
 #nav {
