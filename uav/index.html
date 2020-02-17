@@ -67,11 +67,12 @@
         </div>
 
         <div class="desc">
-          <div class="method">set_flight_route(route)</div>
-          <div class="mdesc">Sets the route for the plane to follow.
-            Route is defined as a set of points (lon, lat, height=some_sane_default).
-            The plane starts to follow the route immediately after this function call.
-            After the last route point is reached, plane starts to circle around it.
+          <div class="method">takeoff()</div>
+          <div class="mdesc">Arms the plane and takes off.</div>
+
+          <div class="method">fly_to_point(lan, lot, alt)</div>
+          <div class="mdesc">Used for manual controls. After the target point is reached,
+            the plane will circle around it.
           </div>
 
           <div class="method">hold()</div>
@@ -83,13 +84,17 @@
           <div class="method">continue_flight()</div>
           <div class="mdesc">Continues the flight from the hold() state.</div>
 
-          <div class="method">fly_to_point(lan, lot, alt)</div>
-          <div class="mdesc">Used for manual controls. After the target point is reached,
-            the plane will circle around it.
-          </div>
-
           <div class="method">land(lan, lot)</div>
           <div class="mdesc">Lands the plane at the given coordinates.</div>
+
+          <div class="method">set_flight_route(route)</div>
+          <div class="mdesc">Sets the route for the plane to follow.
+            Route is defined as a set of points (lon, lat, height=some_sane_default).
+            The plane starts to follow the route immediately after this function call.
+            After the last route point is reached, plane starts to circle around it.
+          </div>
+
+
         </div>
       </div>
 
@@ -153,7 +158,7 @@
             <p>action_lon: float</p>
           </div>
 
-          
+
         </div>
 
         <div class="fields-n-methods">
@@ -161,7 +166,7 @@
         </div>
         <div class="desc">
           All planes shall regularly send their telemetry data to the ground station.
-          Once again, pre-alpha telemetry packet concept, 
+          Once again, pre-alpha telemetry packet concept,
           <a href="https://docs.python.org/2/library/struct.html">also using struct</a>.
           <br><br>
           <div class="code">
@@ -171,7 +176,7 @@
             <p>current_lon: float</p>
           </div>
 
-          
+
         </div>
 
         <div class="fields-n-methods">
@@ -209,22 +214,22 @@
       <div class="column module">
         <h1 class="title" id="rover">UavRover</h1>
         <div class="desc">
-          How the rover should work. Currently, i'd love the rover team to 
+          How the rover should work. Currently, i'd love the rover team to
           talk to me about their preffered way of driving the rover.
           After that, i'll write the specification and think
           about the protocol to wrap it up. <br> <br>
           Don't keep me waiting pls 💕
         </div>
 
-       
+
         <div class="fields-n-methods">
           Fields and methods
         </div>
-          <div class="desc">To be determinted.</div>
+        <div class="desc">To be determinted.</div>
       </div>
 
 
-      
+
 
       <div class="column module">
         <h1 class="title" id="coms">UavComs</h1>
@@ -234,20 +239,20 @@
           communication systems - antennas, radios, enchanted magical beacons. <br><br>
           For now, just play around with UPD in your LAN. We'll probably be using
           <a href="https://www.zerotier.com/">ZeroTier</a> afterwards.
-          
-        </div>       
+
+        </div>
       </div>
 
       <div class="column module">
         <h1 class="title" id="gcs">UavGcs</h1>
         <div class="desc">
-         Ground Control Station GUI. The UavTelem packets all go there,
-         and it displays them on a nice map, with labels, icons and fancy stuff. <br><br>
+          Ground Control Station GUI. The UavTelem packets all go there,
+          and it displays them on a nice map, with labels, icons and fancy stuff. <br><br>
 
-         It also allows to send out UavTelem RC orders to control the planes remotely. <br><br>
-         More info after I get some sleep.
-          
-        </div>       
+          It also allows to send out UavTelem RC orders to control the planes remotely. <br><br>
+          More info after I get some sleep.
+
+        </div>
       </div>
 
     </div>
