@@ -55,7 +55,7 @@
         </div>
 
         <div class="desc">
-          <div class="float">lan</div>
+          <div class="float">lat</div>
           <div class="float">lon</div>
           <div class="float">altitude</div>
           <div class="tbd">route</div>
@@ -70,8 +70,9 @@
           <div class="method">takeoff()</div>
           <div class="mdesc">Arms the plane and takes off.</div>
 
-          <div class="method">fly_to_point(lan, lot, alt)</div>
-          <div class="mdesc">Used for manual controls. After the target point is reached,
+          <div class="method">fly_to_point(lat, lon, alt)</div>
+          <div class="mdesc">
+            Used for manual controls. After the target point is reached,
             the plane will circle around it.
           </div>
 
@@ -84,11 +85,12 @@
           <div class="method">continue_flight()</div>
           <div class="mdesc">Continues the flight from the hold() state.</div>
 
-          <div class="method">land(lan, lot)</div>
+          <div class="method">land(lat, lon)</div>
           <div class="mdesc">Lands the plane at the given coordinates.</div>
 
           <div class="method">set_flight_route(route)</div>
-          <div class="mdesc">Sets the route for the plane to follow.
+          <div class="mdesc">
+            Sets the route for the plane to follow.
             Route is defined as a set of points (lon, lat, height=some_sane_default).
             The plane starts to follow the route immediately after this function call.
             After the last route point is reached, plane starts to circle around it.
