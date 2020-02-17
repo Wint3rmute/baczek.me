@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="has-navbar-fixed-top">
 
 <head>
   <meta charset="UTF-8">
@@ -14,251 +14,57 @@
 
 <body>
 
+  <!-- navbar -->
+
+  <nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+      <a class="navbar-item" href=".">
+        <!-- <img src="https://bulma.io/images/bulma-logo.png" width="112" height="28"> -->
+        <b>UAV Challenge Knowledge Base</b>
+      </a>
+
+      <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false"
+        data-target="navbarBasicExample">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+
+    <div id="navbarBasicExample" class="navbar-menu">
+      <div class="navbar-start">
+        <a class="navbar-item" href="./components.html">
+          Components specification
+        </a>
+
+        <a class="navbar-item" href="./tests.html">
+          Tests
+        </a>
+
+      </div>
+    </div>
+  </nav>
+
+  <!-- site -->
   <div class="container">
 
     <div class="section"></div>
-    <h1 class="title">UAV Challenge components specification draft</h1>
+    <h1 class="title">UAV Challenge Knowledge Base</h1>
 
     <div class="columns">
       <div class="column">
 
         <h2 class="subtitle">
-          This document is meant to define the nessesary
-          interfaces that each team will implement. While the internal
-          details are left for the teams, all members must be aware
-          of the public APIs and know how they behave, in order to
-          build a interconnected architecture of components.
+          Use the menu above.
+          
         </h2>
       </div>
       <div class="column"></div>
     </div>
 
-    <div class="section"></div>
-
+    
   </div>
 
-  <div class="modules">
-    <div class="columns">
-      <div class="column module">
-        <h1 class="title" id="nav">UavNav</h1>
-        <div class="desc">
-          Communicates with the plane's onboard computer.
-          All things connnected with the plane's
-          navigation system. A wrapper around PyMavlink,
-          which also takes care of respecting UAV Challenge
-          flight rules and lets other system components access the plane's data. <br> <br>
-          <b style="color: #FF5370">Write a SITL-only version now.</b>
-        </div>
-
-        <div class="fields-n-methods">
-          Fields
-        </div>
-
-        <div class="desc">
-          <div class="float">lat</div>
-          <div class="float">lon</div>
-          <div class="float">altitude</div>
-          <div class="tbd">route</div>
-          <div class="int">current_route_point</div>
-        </div>
-
-        <div class="fields-n-methods">
-          Methods
-        </div>
-
-        <div class="desc">
-          <div class="method">takeoff()</div>
-          <div class="mdesc">Arms the plane and takes off.</div>
-
-          <div class="method">fly_to_point(lat, lon, alt)</div>
-          <div class="mdesc">
-            Used for manual controls. After the target point is reached,
-            the plane will circle around it.
-          </div>
-
-          <div class="method">hold()</div>
-          <div class="mdesc">Holds the plane in place until continue_flight() is called.
-            The rules expect the plane to be able to hold in place when ordered.
-            During hold, the plane shall circle around its current position.
-          </div>
-
-          <div class="method">continue_flight()</div>
-          <div class="mdesc">Continues the flight from the hold() state.</div>
-
-          <div class="method">land(lat, lon)</div>
-          <div class="mdesc">Lands the plane at the given coordinates.</div>
-
-          <div class="method">set_flight_route(route)</div>
-          <div class="mdesc">
-            Sets the route for the plane to follow.
-            Route is defined as a set of points (lon, lat, height=some_sane_default).
-            The plane starts to follow the route immediately after this function call.
-            After the last route point is reached, plane starts to circle around it.
-          </div>
-
-
-        </div>
-      </div>
-
-
-      <div class="column module">
-        <h1 class="title" id="ml">UavML</h1>
-        <div class="desc">
-          Controls the YoloML-based scanner that locates
-          the shed and determines an optimal landing zone.
-        </div>
-
-        <div class="fields-n-methods">
-          Fields
-        </div>
-
-        <div class="desc">
-          <div class="tbd">shed_image</div>
-          <div class="float">shed_lon</div>
-          <div class="float">shed_lat</div>
-          <div class="float">landing_zone_lon</div>
-          <div class="float">landing_zone_lat</div>
-          <div class="bool">shed_found</div>
-          <div class="float">shed_found_likelyness</div>
-        </div>
-
-        <div class="fields-n-methods">
-          Methods
-        </div>
-
-        <div class="desc">
-          <div class="method">scan_step(plane: UavNav)</div>
-          <div class="mdesc">
-            Take a picture, process it and try to locate the shed and a landing zone.
-            If the likelyness (probability of successfull shed detection) is higher than
-            SOME_VALUE_WE_WILL_DETERMINE_EXPERIMENTALLY, replace the shed-related data fields with
-            the new data.
-          </div>
-        </div>
-      </div>
-
-
-      <div class="column module">
-        <h1 class="title" id="telem">UavProtocol</h1>
-        <div class="desc">
-          Unified telemetry and remote control over the mission vehicles.
-        </div>
-
-        <div class="fields-n-methods">
-          Protocol frame - remote control orders
-        </div>
-        <div class="desc">
-          Data that will be sent from ground control station to the vehicles.
-          Pre-alpha version, only for planes control, constant packet length, UDP protocol.
-          Refer to <a href="https://docs.python.org/2/library/struct.html">python's struct</a>
-          library documentation for the info on how to pack the data into a byte array.
-          <br><br>
-          <div class="code">
-            <p>vehicle_id: char</p>
-            <p>action_id: char</p>
-            <p>action_lat: float</p>
-            <p>action_lon: float</p>
-          </div>
-
-
-        </div>
-
-        <div class="fields-n-methods">
-          Protocol frame - telemetry data
-        </div>
-        <div class="desc">
-          All planes shall regularly send their telemetry data to the ground station.
-          Once again, pre-alpha telemetry packet concept,
-          <a href="https://docs.python.org/2/library/struct.html">also using struct</a>.
-          <br><br>
-          <div class="code">
-            <p>vehicle_id: char</p>
-            <p>action_id: char</p>
-            <p>current_lat: float</p>
-            <p>current_lon: float</p>
-          </div>
-
-
-        </div>
-
-        <div class="fields-n-methods">
-          Fields
-        </div>
-
-        <div class="desc">
-          <div class="string">telem_uri_string</div>
-          <div class="int">vehicle_id</div>
-        </div>
-
-        <div class="fields-n-methods">
-          Methods
-        </div>
-
-        <div class="desc">
-          <div class="method">send_telem_update()</div>
-          <div class="mdesc">
-            Send the vehicle data through the telem_uri_string.
-          </div>
-
-
-          <div class="method">process_remote_order(order)</div>
-          <div class="mdesc">
-            Execute the order received through UavComs (described below).
-          </div>
-        </div>
-      </div>
-
-
-    </div>
-    <div class="columns">
-
-
-      <div class="column module">
-        <h1 class="title" id="rover">UavRover</h1>
-        <div class="desc">
-          How the rover should work. Currently, i'd love the rover team to
-          talk to me about their preffered way of driving the rover.
-          After that, i'll write the specification and think
-          about the protocol to wrap it up. <br> <br>
-          Don't keep me waiting pls 💕
-        </div>
-
-
-        <div class="fields-n-methods">
-          Fields and methods
-        </div>
-        <div class="desc">To be determinted.</div>
-      </div>
-
-
-
-
-      <div class="column module">
-        <h1 class="title" id="coms">UavComs</h1>
-        <div class="desc">
-          Black magic fuckery, honestly. <br><br>
-          This section will contain the interfaces rekated with the vehicles
-          communication systems - antennas, radios, enchanted magical beacons. <br><br>
-          For now, just play around with UPD in your LAN. We'll probably be using
-          <a href="https://www.zerotier.com/">ZeroTier</a> afterwards.
-
-        </div>
-      </div>
-
-      <div class="column module">
-        <h1 class="title" id="gcs">UavGcs</h1>
-        <div class="desc">
-          Ground Control Station GUI. The UavTelem packets all go there,
-          and it displays them on a nice map, with labels, icons and fancy stuff. <br><br>
-
-          It also allows to send out UavTelem RC orders to control the planes remotely. <br><br>
-          More info after I get some sleep.
-
-        </div>
-      </div>
-
-    </div>
-  </div>
 </body>
 
 </html>
