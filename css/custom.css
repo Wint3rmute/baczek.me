@@ -13,6 +13,21 @@ a:hover {
 
 }
 
+.ultra_secret_hidden_link {
+    color: black;
+    border-bottom: none;
+    
+
+    transition-timing-function: ease;
+    transition: 1s;
+}
+
+.ultra_secret_hidden_link:hover {
+    color: #666;
+    background-color: transparent;
+    /* font-size: 150%; */
+}
+
 #last_name {
     /* color: #324ca8; */
 }
@@ -36,7 +51,39 @@ img {
     animation-fill-mode: forwards;
 }
 
+.disappearing {
+    animation-timing-function: ease;
+    animation-name: disappear;
+    opacity: 1;
+
+    animation-duration: 0.5s;
+    animation-fill-mode: forwards;
+}
+
+
+@keyframes disappear {
+    from {opacity: 1;}
+    to {opacity: 0;}
+  }
+
 @keyframes appear {
     from {opacity: 0;}
     to {opacity: 1;}
   }
+
+.dark {
+    background-color: #000;
+    /* font-family: 'Courier New', Courier, monospace; */
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 130%;
+    color: white;
+
+
+}
+
+.lyrics {
+    font-style: italic;
+    white-space: pre-line;
+    text-align: center;
+}
