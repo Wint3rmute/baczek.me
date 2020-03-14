@@ -5,6 +5,7 @@ body {
 a {
     color: #324ca8;
     border-bottom: 1px solid #324ca8;
+    /* transition: 0.2s; */
 }
 
 a:hover {
@@ -28,8 +29,22 @@ a:hover {
     /* font-size: 150%; */
 }
 
-#last_name {
-    /* color: #324ca8; */
+.my_name_link {
+    /* color: black; */
+    background-color: #324ca8;
+    color: white;
+
+    border-bottom: none;
+
+    padding: 5px;
+    padding-bottom: 1px;
+    border-radius: 5px;
+}
+
+
+.my_name_link:hover {
+    color: white;
+    border-bottom: 1px solid #324ca8;
 }
 
 img {
