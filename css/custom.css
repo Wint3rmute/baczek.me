@@ -41,12 +41,6 @@ a:hover {
     border-radius: 5px;
 }
 
-
-.my_name_link:hover {
-    color: white;
-    border-bottom: 1px solid #324ca8;
-}
-
 img {
     box-shadow: 0px 0px 39px -10px rgba(0,0,0,0.5);
     width: 100%;
