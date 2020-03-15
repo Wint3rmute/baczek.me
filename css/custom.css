@@ -49,6 +49,13 @@ img {
     margin-top: 10px;
 }
 
+.subtitle {
+    /* font-style: italic; */
+    font-family: Georgia, serif;
+    text-align: center;
+    color: #222;
+}
+
 .container {
     /* opacity: 1; */
     animation-timing-function: ease;
