@@ -1,5 +1,11 @@
 body {
     line-height: 1.7 !important;
+    font-size: 90%;
+}
+
+hr {
+    margin-top: -10px;
+    margin-bottom: -10px;
 }
 
 a {
@@ -12,6 +18,12 @@ a:hover {
     color: white;
     background-color: #324ca8;
 
+}
+
+.fas {
+    margin-left: 5px;
+    color: #324ca8;
+    font-size: 110% !important;
 }
 
 .ultra_secret_hidden_link {
@@ -59,8 +71,8 @@ img {
 .container {
     /* opacity: 1; */
     animation-timing-function: ease;
-    animation-name: appear;
-    opacity: 0;
+    /* animation-name: appear; */
+    opacity: 1;
 
     animation-delay: 0.2s;
     animation-duration: 0.5s;
