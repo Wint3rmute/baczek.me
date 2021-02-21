@@ -1,0 +1,120 @@
+baseURL: "http://mateusz.baczek1998.gitlab.io/homepage/"
+title: ExampleSite
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: "Mateusz Bączek" 
+    description: "ExampleSite description"
+    author: Me
+    # author: ["Me", "You"] # multiple authors
+    images: ["https://github.com/wint3rmute.png"]
+
+    defaultTheme: auto # dark, light
+    disableThemeToggle: false
+
+    ShowReadingTime: false
+    ShowShareButtons: false
+    disableSpecial1stPost: false
+    comments: false
+    hidemeta: false
+    showtoc: false
+    tocopen: false
+
+    assets:
+        # disableHLJS: true # to disable highlight.js
+        # disableFingerprinting: true
+        favicon: "<link / abs url>"
+        favicon16x16: "<link / abs url>"
+        favicon32x32: "<link / abs url>"
+        apple_touch_icon: "<link / abs url>"
+        safari_pinned_tab: "<link / abs url>"
+
+    label:
+        text: "Home"
+        icon: "https://github.com/wint3rmute.png" 
+        iconHeight: 35
+
+    # profile-mode
+    profileMode:
+        enabled: true # needs to be explicitly set
+        title: Mateusz Bączek 
+        subtitle: "Linux nerd, UAV programming enthusiast, amateur IT lecturer, pythonista"
+        imageUrl: "https://github.com/wint3rmute.png"
+        imageWidth: 220
+        imageHeight: 220
+        imageTitle: "This is me"
+        buttons:
+            - name: More about me 
+              url: about 
+            # - name: Tags
+              # url: tags
+
+    # home-info mode
+    homeInfoParams:
+        Title: "Hi there \U0001F44B"
+        Content: Welcome to my blog
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/wint3rmute"
+        - name: gitlab
+          url: "https://gitlab.com/mateusz.baczek1998"
+        - name: linkedin 
+          url: "https://www.linkedin.com/in/mateusz-b%C4%85czek-63336a150/"
+        - name: stackoverflow
+          url: "https://stackoverflow.com/users/10502740/wint3rmute"
+    analytics:
+        google:
+            SiteVerificationTag: "XYZabc"
+
+    cover:
+        hidden: true # hide everywhere but not in structured data
+        hiddenInList: true # hide on list pages and home
+        hiddenInSingle: true # hide on single page
+
+    # for search
+    # https://fusejs.io/api/options.html
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
+menu:
+    main:
+        - identifier: categories
+          name: categories
+          url: /categories/
+          weight: 10
+        - identifier: tags
+          name: tags
+          url: /tags/
+          weight: 20
+        - identifier: example
+          name: example.org
+          url: https://example.org
+          weight: 30
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+# pygmentsUseClasses: true
+# markup:
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         style: monokai
