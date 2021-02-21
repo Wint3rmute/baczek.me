@@ -17,8 +17,8 @@ minify:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: "Mateusz Bączek" 
-    description: "ExampleSite description"
-    author: Me
+    description: "A humble portfolio of mine"
+    # author: Me
     # author: ["Me", "You"] # multiple authors
     images: ["https://github.com/wint3rmute.png"]
 
