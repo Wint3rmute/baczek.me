@@ -97,4 +97,4 @@ to develop on embedded devices or to build high-performance server/desktop apps.
 
 ---
 
-[Here's some non-programming stuff about me, if you're still interested]({{< ref "more_about" >}})
+[Here's some non-programming stuff about me, if you're still interested]({{< ref "non_programming" >}})
