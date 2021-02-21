@@ -1,0 +1,6 @@
+{{ if .IsNamedParams }}
+<img src="{{.Get "src" }}" alt="bomch">
+<center><i style="font-family: Georgia, 'Times New Roman', serif">{{.Get "title"}}</i></center>
+{{ else }}
+<div>Use named params bro</div>
+{{ end }}
