@@ -46,7 +46,7 @@ cover:
 
 ## UAVs
 
-Since 2019, I've been rolling with the [Academic Aviation Club](http://akl.pwr.edu.pl) - a student research circle from my uni,
+Since 2019, I've been rolling with the [Academic Aviation Club](http://akl.pwr.edu.pl) - a student club from my uni,
 dedicated to developing autonomous airplanes and drones. I've got the know-how to develop on top of ArduPilot-based flight controllers.
 
 As a confimation of my skills: I've attended [SAE Aero Design 2020](https://www.saeaerodesign.com/) and my team has placed second in the Advance cathegory.
