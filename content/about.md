@@ -84,7 +84,7 @@ for the last years of high school and first years of uni.
 
 I've been field tested during [Nokia Innovative Projects](https://github.com/nokia-wroclaw/innovativeprojects),
 scoring a second place with a project of a global, team-based RTS game - [Consquare](https://marekchoinski.com/consquare/)
-(kind of like Pokemon Go, except you actually get to affect the world around you, not just change the color of some
+(kind of like Pokemon Go, except you actually get to affect the world map around you, not just change the color of some
 statically placed structures on the map). We wrote game in
 Unity and the server software in Django.
 
