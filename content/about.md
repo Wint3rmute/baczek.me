@@ -28,21 +28,39 @@ cover:
 
 ### Work-related interests:
 
-- Currently designing a commercial cubesat platform at [SatRevolution](https://satrevolution.com/)
-- Playing around with UAVs - MavLink, ArduPilot & DroneKit
-- Vice president of the [Academic Aviation Club](http://akl.pwr.edu.pl)
-- Writing automation & testing scripts mainly in Python & Bash
+- Currently designing & operating a commercial CubeSat constellation @[SatRevolution](https://satrevolution.com/)
+- Playing around with UAVs - ArduPilot, computer vision, telemetry systems
+- Tech lead of the [Academic Aviation Club](http://akl.pwr.edu.pl)
 - Extensive Linux knowledge (long time power user, ricing enthusiast)
-- Solid understanding of C++ and low-level, planning to learn Rust
-- Web services and web apps with Flask and Django
+- Solid understanding of mission operations & telemetry system design
+- Python + Rust + Bash = ❤️
 
 ### Other interests:
 
 - Hard sci-fi
-- Lots of music, weird sounds
-- Random philosophical ideas
+- Overly pretentious music
+- Messing around with synthesizers
+- Philosophy
 
 ---
+
+## CubeSats
+
+During the summer of 2020 I've started working at [SatRevolution](https://satrevolution.com/) - company
+designing a cubesat satellite fleet for commercial and research usage.
+
+I currently lead the mission operations software team -- that's where we design
+the communication & telemetry systems of our satellites, create the tools used for automated
+testing and finally talk with the satellites on orbit.
+
+I'm involved 
+
+I worked on the telemetry & testing systems, doing some fancy code generation and
+automating the testing/building processes. Gained a great insight into low level and
+C++ during the internship. I am currently working there (as of February 2021).
+
+{{< image src="/sw1ft.jpg" title="Summer of 2020. The SW1FT cubesat I worked on during my internship (artistic vision, duh)" >}}
+
 
 ## UAVs
 
@@ -52,17 +70,6 @@ dedicated to developing autonomous airplanes and drones. I've got the know-how t
 As a confimation of my skills: I've attended [SAE Aero Design 2020](https://www.saeaerodesign.com/) and my team has placed second in the Advance cathegory.
 
 {{< image src="/sae2020.jpg" title="8th of March 2020. Lakeland, FL, USA" >}}
-
-## CubeSats
-
-During the summer of 2020 I've started my internship at [SatRevolution](https://satrevolution.com/) - company
-designing a cubesat satellite platform for commercial and research usage.
-
-I worked on the telemetry & testing systems, doing some fancy code generation and
-automating the testing/building processes. Gained a great insight into low level and
-C++ during the internship. I am currently working there (as of February 2021).
-
-{{< image src="/sw1ft.jpg" title="Summer of 2020. The SW1FT cubesat I worked on during my internship (artistic vision, duh)" >}}
 
 ## Linux
 
