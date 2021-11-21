@@ -97,7 +97,7 @@ Unity and the server software in Django.
 
 ## 🌌 The future?
 
-I've learned the basics of programming with C, then switched to high-level languages and technologies.
+I've learned the basics of programming in C, then switched to higher-level languages and technologies.
 My current self development plan is built around Rust. I'm aiming to combine
 my Linux knowledge and aerial systems design knowledge,
 to develop reliable and high-performance embedded and server applications.
