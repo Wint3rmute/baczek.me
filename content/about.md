@@ -24,11 +24,11 @@ cover:
 
 ---
 
-## TL;DR
+## 📖 TL;DR
 
 ### Work-related interests:
 
-- Currently designing & operating a commercial CubeSat constellation @[SatRevolution](https://satrevolution.com/)
+- Currently designing & operating commercial CubeSat constellation @[SatRevolution](https://satrevolution.com/)
 - Playing around with UAVs - ArduPilot, computer vision, telemetry systems
 - Tech lead of the [Academic Aviation Club](http://akl.pwr.edu.pl) (2nd place [Sae Aero Design Advanced](https://www.saeaerodesign.com/) winner)
 - Extensive Linux knowledge (long time power user, ricing enthusiast)
@@ -44,10 +44,10 @@ cover:
 
 ---
 
-## CubeSats
+## 🛰️ Satellites
 
 During the summer of 2020 I've started working at [SatRevolution](https://satrevolution.com/) - company
-designing a cubesat satellite fleet for commercial and research usage.
+designing a CubeSat satellite fleet for commercial and research usage.
 
 I currently lead the mission operations software team -- that's where we design
 the communication & telemetry systems of our satellites, create the tools used for automated
@@ -62,7 +62,7 @@ waiting for the next part of the constellation to launch around Q1 2022.
 {{< image src="/sw1ft.jpg" title="Summer of 2020. The SW1FT cubesat I worked on during my internship (artistic vision, duh)" >}}
 
 
-## UAVs
+## ✈️ UAVs
 
 During 2019 I joined the [Academic Aviation Club](http://akl.pwr.edu.pl) - a student club from my university,
 dedicated to developing autonomous airplanes and drones. I've got the know-how to develop on top of ArduPilot-based flight controllers.
@@ -71,7 +71,7 @@ I've attended [SAE Aero Design 2020](https://www.saeaerodesign.com/) and my team
 
 {{< image src="/sae2020.jpg" title="8th of March 2020. Lakeland, FL, USA" >}}
 
-## Linux
+## 🐧 Linux
 
 Since my first Linux install I've fallen in love with the customizability and
 flexibility of this operating system. Since then, I've been using it everywhere
@@ -83,7 +83,7 @@ about the advantages of the OS and providing them with knowledge for a painless 
 
 {{< image src="/workshops.jpg" title="Wint3r of 2019. They clearly look like they're having fun" >}}
 
-## Python & WebDev
+## 🐍 Python & WebDev
 
 Python is my primary language, as I do lots of prototyping and scripting. In my high-school years,
 after getting a grip on the basics of programming, I've turned to WebDev, which has been my passion
@@ -95,7 +95,7 @@ scoring a second place with a project of a global, team-based RTS game - [Consqu
 statically placed structures on the map). We wrote game in
 Unity and the server software in Django.
 
-## The future?
+## 🌌 The future?
 
 I've learned the basics of programming with C, then switched to high-level languages and technologies.
 My current self development plan is built around Rust. I'm aiming to combine
