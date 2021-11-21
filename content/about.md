@@ -38,7 +38,7 @@ cover:
 ### Other interests:
 
 - Hard sci-fi
-- Overly pretentious music
+- Music of (mostly) all sorts
 - Messing around with synthesizers
 - Philosophy
 
