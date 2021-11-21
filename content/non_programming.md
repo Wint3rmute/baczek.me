@@ -29,34 +29,23 @@ cover:
 I've been through a music school, learning piano for 6 years (also boosting my typing speed, which came in handy later).
 I spend most of my time with music, exploring interesting genres and artists.
 
-Artists I love:
+Here are some of my favourite picks:
 
 - Kate Bush
 - Son Lux
+- Vulfpeck
 - Leonard Cohen
 - Peter Gabriel
-
-Artists I really really like:
-
-- The Cure
-- Depeche Mode
-- Vulfpeck
 - Yazoo
 - The Punch Brothers
-
-Honorable mentions:
-
 - Bryan Ferry
-- Radiohead
-- 21 Pilots
 
 ## Books
 
-- Anything by [Jacek Dukaj](https://en.wikipedia.org/wiki/Jacek_Dukaj)
+- Anything by [Jacek Dukaj](https://en.wikipedia.org/wiki/Jacek_Dukaj) or [Stanisław Lem](https://en.wikipedia.org/wiki/Stanis%C5%82aw_Lem)
 - Brave New World
 - Neuromancer
 - Simulacra and Simulation
-- 1984
 - His Master's Voice
 - The End of Faith
 - The Screwtape Letters
