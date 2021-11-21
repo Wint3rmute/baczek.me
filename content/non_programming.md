@@ -42,6 +42,10 @@ Some of my favourite picks:
 - Bryan Ferry
 - Adam Neely
 
+I'm currently fascinated by electronic sound design, exploring various approaches to sound synthesis --
+programming and DSP knowledge proved surprisingly useful here. Hopefully I'll soon find more time to combine
+those two domains and maybe write a custom sequencer or something similiar to jam on :)
+
 ## Books
 
 - Anything by [Jacek Dukaj](https://en.wikipedia.org/wiki/Jacek_Dukaj) or [Stanisław Lem](https://en.wikipedia.org/wiki/Stanis%C5%82aw_Lem)
