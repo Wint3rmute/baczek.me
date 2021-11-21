@@ -30,7 +30,7 @@ cover:
 
 - Currently designing & operating a commercial CubeSat constellation @[SatRevolution](https://satrevolution.com/)
 - Playing around with UAVs - ArduPilot, computer vision, telemetry systems
-- Tech lead of the [Academic Aviation Club](http://akl.pwr.edu.pl)
+- Tech lead of the [Academic Aviation Club](http://akl.pwr.edu.pl) (2nd place [Sae Aero Design Advanced](https://www.saeaerodesign.com/) winner)
 - Extensive Linux knowledge (long time power user, ricing enthusiast)
 - Solid understanding of mission operations & telemetry system design
 - Python + Rust + Bash = ❤️
@@ -53,31 +53,31 @@ I currently lead the mission operations software team -- that's where we design
 the communication & telemetry systems of our satellites, create the tools used for automated
 testing and finally talk with the satellites on orbit.
 
-I'm involved 
+Involved into a wide scope of satellite creation process: prototyping, tests and ground station operations,
+I have gained a significant insight into the design philosophy of space systems and I'm still eager to learn more.
 
-I worked on the telemetry & testing systems, doing some fancy code generation and
-automating the testing/building processes. Gained a great insight into low level and
-C++ during the internship. I am currently working there (as of February 2021).
+Two of the satellites I've worked on were launched on the [first commercial Virgin Orbit flight](https://virginorbit.com/the-latest/virgin-orbit-selected-to-launch-satrevolutions-constellation-of-constellations/). I am currently running mission operations for them,
+waiting for the next part of the constellation to launch around Q1 2022.
 
 {{< image src="/sw1ft.jpg" title="Summer of 2020. The SW1FT cubesat I worked on during my internship (artistic vision, duh)" >}}
 
 
 ## UAVs
 
-Since 2019, I've been rolling with the [Academic Aviation Club](http://akl.pwr.edu.pl) - a student club from my uni,
+During 2019 I joined the [Academic Aviation Club](http://akl.pwr.edu.pl) - a student club from my university,
 dedicated to developing autonomous airplanes and drones. I've got the know-how to develop on top of ArduPilot-based flight controllers.
 
-As a confimation of my skills: I've attended [SAE Aero Design 2020](https://www.saeaerodesign.com/) and my team has placed second in the Advance cathegory.
+I've attended [SAE Aero Design 2020](https://www.saeaerodesign.com/) and my team has placed second in the Advance cathegory.
 
 {{< image src="/sae2020.jpg" title="8th of March 2020. Lakeland, FL, USA" >}}
 
 ## Linux
 
-Since my first Linux install (was 16 back then), I've fallen in love with the customizability and
+Since my first Linux install I've fallen in love with the customizability and
 flexibility of this operating system. Since then, I've been using it everywhere
 I could ([my Kindle runs Arch btw](https://github.com/Wint3rmute/arch-linux-on-kindle)).
 
-I've a solid knowledge base on Linux-related tools: from shell scripts to Docker containers.
+I've a solid knowledge base on Linux-related tools: from building embedded linux distributions to deploying Docker-based infrastructure.
 In my spare time, I'm running Linux-related lectures on my uni, trying to teach more people
 about the advantages of the OS and providing them with knowledge for a painless transition to Linux.
 
@@ -97,10 +97,10 @@ Unity and the server software in Django.
 
 ## The future?
 
-I've started programming with C/C++, then switched to high-level languages and technologies.
-My plan is to go full circle and return to low-level - probably with Rust. I'll try to combine
-my Linux knowledge and low-level programming (backed by high-level prototyping and testing),
-to develop on embedded devices or to build high-performance server/desktop apps.
+I've learned the basics of programming with C, then switched to high-level languages and technologies.
+My current self development plan is built around Rust. I'm aiming to combine
+my Linux knowledge and aerial systems design knowledge,
+to develop reliable and high-performance embedded and server applications.
 
 ---
 
