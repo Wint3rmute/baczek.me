@@ -27,18 +27,20 @@ cover:
 ## Music
 
 I've been through a music school, learning piano for 6 years (also boosting my typing speed, which came in handy later).
-I spend most of my time with music, exploring interesting genres and artists.
+I spend most of my time with music, exploring genres and artists that I find interesting.
 
-Here are some of my favourite picks:
+Some of my favourite picks:
 
 - Kate Bush
 - Son Lux
 - Vulfpeck
 - Leonard Cohen
 - Peter Gabriel
+- Brian Eno
 - Yazoo
 - The Punch Brothers
 - Bryan Ferry
+- Adam Neely
 
 ## Books
 
