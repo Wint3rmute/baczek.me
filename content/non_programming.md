@@ -24,7 +24,7 @@ cover:
 
 ---
 
-## Music
+## 🎹 Music
 
 I've been through a music school, learning piano for 6 years (also boosting my typing speed, which came in handy later).
 I spend most of my time with music, exploring genres and artists that I find interesting.
@@ -46,7 +46,7 @@ I'm currently fascinated by electronic sound design, exploring various approache
 programming and DSP knowledge proved surprisingly useful here. Hopefully I'll soon find more time to combine
 those two domains and maybe write a custom sequencer or something similiar to jam on :)
 
-## Books
+## 📚 Books
 
 - Anything by [Jacek Dukaj](https://en.wikipedia.org/wiki/Jacek_Dukaj) or [Stanisław Lem](https://en.wikipedia.org/wiki/Stanis%C5%82aw_Lem)
 - Brave New World
@@ -56,7 +56,7 @@ those two domains and maybe write a custom sequencer or something similiar to ja
 - The End of Faith
 - The Screwtape Letters
 
-## Movies/shows:
+## 🎬 Movies/shows:
 
 - Evangelion
 - Blade Runner
