@@ -51,7 +51,7 @@ params:
     profileMode:
         enabled: true # needs to be explicitly set
         title: Mateusz Bączek 
-        subtitle: "Linux nerd, UAV programming enthusiast, amateur IT lecturer, pythonista"
+        subtitle: "Satellite mission operations programmer, autonomous UAV software developer, pythonista"
         imageUrl: "https://github.com/wint3rmute.png"
         imageWidth: 220
         imageHeight: 220
