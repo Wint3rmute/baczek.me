@@ -70,15 +70,14 @@ params:
     socialIcons:
         - name: github
           url: "https://github.com/wint3rmute"
+        - name: mastodon
+          url: "https://101010.pl/@Wint3rmute"
         - name: gitlab
           url: "https://gitlab.com/mateusz.baczek1998"
         - name: linkedin 
           url: "https://www.linkedin.com/in/mateusz-b%C4%85czek-63336a150/"
         - name: stackoverflow
           url: "https://stackoverflow.com/users/10502740/wint3rmute"
-    analytics:
-        google:
-            SiteVerificationTag: "XYZabc"
 
     cover:
         hidden: true # hide everywhere but not in structured data
