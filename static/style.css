@@ -1,0 +1,109 @@
+:root {
+--content_foreground: rgba(255, 255, 255, 0.74);
+--headers_foreground: rgba(255, 255, 255, 0.84);
+--background: #263238;
+--header-height: 2vh;
+}
+
+body {
+    background-color: var(--background);
+    color: var(--content_foreground);
+    font-family: -apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen,Ubuntu,Cantarell,open sans,helvetica neue,sans-serif;
+    font-size: 18px;
+    height: 100vh;
+    flex-direction: column;
+    margin: 0;
+}
+
+header, main, footer {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+header, nav, ul {
+    overflow: hidden;
+}
+
+nav > ul {
+    padding-left: 0px;
+}
+
+header, h1, h2, h3, h4, h5 {
+    color: var(--headers_foreground);
+}
+
+nav > ul {
+    text-decoration: none;
+}
+
+nav > ul > li {
+    display: block;
+    float: right;
+    padding: 5px;
+}
+
+.logo {
+    float: left;
+}
+
+main {
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.6;
+    width: 96%;
+}
+
+footer {
+    margin-top: 3vh;
+    text-align: center;
+}
+
+.index-div {
+    margin-top: 15vh;
+    align-items: center;
+    text-align: center;
+}
+
+.index-image {
+    max-width: 50%;
+    height: auto;
+    border-radius: 50%;
+}
+
+a {
+    color: white;
+}
+
+.image {
+    object-fit: contain;
+    max-width: 100%;
+    height: auto;
+    border-radius: 7px;
+    box-shadow: 0px 0px 5px black;
+}
+
+svg {
+    width: 30px;
+    height: 30px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+figcaption {
+    text-align: center;
+}
+
+@media only screen and (min-width: 768px) {
+    header {
+        width: 55%;
+    }
+    main {
+        width: 40%;
+    }
+
+    .index-image {
+        max-width: 35%;
+    }
+}
