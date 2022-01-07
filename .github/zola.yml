@@ -4,7 +4,7 @@ on:
       - master 
   pull_request:
 
-name: deploy
+name: zola
 jobs:
   build:
     runs-on: ubuntu-latest
