@@ -1,27 +1,6 @@
 ---
 title: "About me"
-# date: 2020-09-15T11:30:03+00:00
-# weight: 1
-# aliases: ["/first"]
-author: " "
-# author: ["Me", "You"] # multiple authors
-showToc: false
-TocOpen: false
-draft: false
-hidemeta: false
-comments: false
-# description: "Desc Text."
-disableHLJS: true # to disable highlightjs
-disableShare: false
-disableHLJS: false
-searchHidden: true
-cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
-
+description: "About me"
 ---
 
 ## 📖 TL;DR
@@ -59,7 +38,7 @@ I have gained a significant insight into the design philosophy of space systems 
 Two of the satellites I've worked on were launched on the [first commercial Virgin Orbit flight](https://virginorbit.com/the-latest/virgin-orbit-selected-to-launch-satrevolutions-constellation-of-constellations/). I am currently running mission operations for them,
 waiting for the next part of the constellation to launch around Q1 2022.
 
-{{< image src="/sw1ft.jpg" title="Summer of 2020. The SW1FT cubesat I worked on during my internship (artistic vision, duh)" >}}
+{{image (src="/sw1ft.jpg" title="Summer of 2020. The SW1FT cubesat I worked on during my internship (artistic vision, duh)") }}
 
 
 ## ✈️ UAVs
@@ -69,7 +48,7 @@ dedicated to developing autonomous airplanes and drones. I've got the know-how t
 
 I've attended [SAE Aero Design 2020](https://www.saeaerodesign.com/) and my team has placed second in the Advance cathegory.
 
-{{< image src="/sae2020.jpg" title="8th of March 2020. Lakeland, FL, USA" >}}
+{{image (src="/sae2020.jpg" title="8th of March 2020. Lakeland, FL, USA") }}
 
 ## 🐧 Linux
 
@@ -81,7 +60,7 @@ I've a solid knowledge base on Linux-related tools: from building embedded linux
 In my spare time, I'm running Linux-related lectures on my uni, trying to teach more people
 about the advantages of the OS and providing them with knowledge for a painless transition to Linux.
 
-{{< image src="/workshops.jpg" title="Wint3r of 2019. They clearly look like they're having fun" >}}
+{{image (src="/workshops.jpg" title="Wint3r of 2019. They clearly look like they're having fun :)") }}
 
 ## 🐍 Python & WebDev
 
@@ -104,4 +83,4 @@ to develop reliable and high-performance embedded and server applications.
 
 ---
 
-[Here's some non-programming stuff about me, if you're still interested]({{< ref "non_programming" >}})
+[Here's some non-programming stuff about me, if you're still interested](/non-programming)
