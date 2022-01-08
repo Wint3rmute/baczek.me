@@ -10,7 +10,7 @@ body {
     background-color: var(--background);
     color: var(--content_foreground);
     font-family: -apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen,Ubuntu,Cantarell,open sans,helvetica neue,sans-serif;
-    font-size: 18px;
+    font-size: 17px;
     height: 100vh;
     flex-direction: column;
     margin: 0;
@@ -23,66 +23,36 @@ header, main, footer {
     padding-right: 5px;
 }
 
-header, nav, ul {
-    overflow: hidden;
+footer {
+    margin-top: 5vh;
+    text-align: center;
 }
 
-nav > ul {
-    padding-left: 0px;
+header, nav, ul {
+    overflow: hidden;
 }
 
 header, h1, h2, h3, h4, h5 {
     color: var(--headers_foreground);
 }
 
-nav > ul {
-    text-decoration: none;
+button {
+    background-color: var(--background-light);
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
 }
+
+nav > ul {
+    padding-left: 0px;
+}
+
 
 nav > ul > li {
     display: block;
     float: right;
     padding: 5px;
-}
-
-.logo {
-    float: left;
-}
-
-main {
-    margin-left: auto;
-    margin-right: auto;
-    line-height: 1.6;
-    width: 96%;
-}
-
-footer {
-    margin-top: 5vh;
-    text-align: center;
-}
-
-.index-div {
-    margin-top: 15vh;
-    align-items: center;
-    text-align: center;
-}
-
-.index-image {
-    max-width: 50%;
-    height: auto;
-    border-radius: 50%;
-}
-
-a {
-    color: white;
-}
-
-.image {
-    object-fit: contain;
-    max-width: 100%;
-    height: auto;
-    border-radius: 7px;
-    box-shadow: 0px 0px 5px black;
 }
 
 svg {
@@ -97,13 +67,38 @@ figcaption {
     font-style: italic;
 }
 
-button {
-    background-color: var(--background-light);
-    padding: 10px;
+.logo {
+    float: left;
+}
+
+main {
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.6;
+    width: 95%;
+}
+
+.index-div {
+    margin-top: 15vh;
+    text-align: center;
+}
+
+.index-image {
+    max-width: 50%;
+    height: auto;
+    border-radius: 50%;
+}
+
+a, button {
     color: white;
-    border-radius: 5px;
-    border: none;
-    cursor: pointer;
+}
+
+.image {
+    object-fit: contain;
+    max-width: 100%;
+    height: auto;
+    border-radius: 7px;
+    box-shadow: 0px 0px 5px black;
 }
 
 @media only screen and (min-width: 768px) {
