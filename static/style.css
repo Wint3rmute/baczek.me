@@ -3,6 +3,7 @@
 --headers_foreground: rgba(255, 255, 255, 0.84);
 --background: #263238;
 --background-light: #37474F;
+--accent: #82AAFF;
 --header-height: 2vh;
 }
 
@@ -42,6 +43,15 @@ button {
     border-radius: 5px;
     border: none;
     cursor: pointer;
+}
+
+a, button {
+    color: white;
+    transition: .5s;
+}
+
+button:hover {
+    background-color: var(--accent);
 }
 
 nav > ul {
@@ -87,10 +97,6 @@ main {
     max-width: 50%;
     height: auto;
     border-radius: 50%;
-}
-
-a, button {
-    color: white;
 }
 
 .image {

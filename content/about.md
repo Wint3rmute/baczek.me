@@ -21,7 +21,10 @@ description: "About me"
 - Messing around with synthesizers
 - Philosophy
 
+*TL;DR ends here, full version below*
+
 ---
+
 
 ## 🛰️ Satellites
 
