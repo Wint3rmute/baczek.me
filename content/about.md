@@ -7,7 +7,7 @@ description: "About me"
 
 ### Work-related interests:
 
-- Currently designing & operating commercial CubeSat constellation @[SatRevolution](https://satrevolution.com/)
+- Currently designing & operating commercial CubeSat constellation [@SatRevolution](https://satrevolution.com/)
 - Playing around with UAVs - ArduPilot, computer vision, telemetry systems
 - Tech lead of the [Academic Aviation Club](http://akl.pwr.edu.pl) (2nd place [Sae Aero Design Advanced](https://www.saeaerodesign.com/) winner)
 - Extensive Linux knowledge (long time power user, ricing enthusiast)

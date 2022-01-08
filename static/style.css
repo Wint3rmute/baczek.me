@@ -54,6 +54,10 @@ button:hover {
     background-color: var(--accent);
 }
 
+a:hover {
+    color: var(--accent)
+}
+
 nav > ul {
     padding-left: 0px;
 }
