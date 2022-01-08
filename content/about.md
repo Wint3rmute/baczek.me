@@ -12,7 +12,7 @@ description: "About me"
 - Tech lead of the [Academic Aviation Club](http://akl.pwr.edu.pl) (2nd place [Sae Aero Design Advanced](https://www.saeaerodesign.com/) winner)
 - Extensive Linux knowledge (long time power user, ricing enthusiast)
 - Solid understanding of mission operations & telemetry system design
-- Python + Rust + Bash = ❤️
+- Python + Rust + Linux = ❤️
 
 ### Other interests:
 
