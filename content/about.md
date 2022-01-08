@@ -47,7 +47,9 @@ waiting for the next part of the constellation to launch around Q1 2022.
 ## ✈️ UAVs
 
 During 2019 I joined the [Academic Aviation Club](http://akl.pwr.edu.pl) - a student club from my university,
-dedicated to developing autonomous airplanes and drones. I've got the know-how to develop on top of ArduPilot-based flight controllers.
+dedicated to developing autonomous airplanes and drones. I've got the know-how to develop on top of
+[ArduPilot](https://github.com/ArduPilot/ardupilot)-based flight controllers, designing systems aimed
+both for fully autonomous operation and for human-aircraft(s) cooperation.
 
 I've attended [SAE Aero Design 2020](https://www.saeaerodesign.com/) and my team has placed second in the Advance cathegory.
 
