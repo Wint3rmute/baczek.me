@@ -98,8 +98,13 @@ main {
 }
 
 .index-image {
-    max-width: 50%;
-    height: auto;
+    background-image: url("https://github.com/wint3rmute.png");
+    background-position: center center;
+    background-size: cover;
+    width: 30vh;
+    height: 30vh;
+    margin-left: auto;
+    margin-right: auto;
     border-radius: 50%;
     box-shadow: 0px 0px 35px -10px black;
 }
@@ -119,8 +124,5 @@ main {
     main {
         width: 40%;
     }
-
-    .index-image {
-        max-width: 35%;
-    }
 }
+
