@@ -17,6 +17,7 @@
 - Music of (mostly) all sorts
 - Messing around with synthesizers
 - Philosophy
+- Non-standard applications of terminal-based user interfaces
 
 *TL;DR ends here, full version below*
 
