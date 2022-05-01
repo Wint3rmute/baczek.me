@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2022-05-01T23:34:29+02:00
+modified: 2022-05-01T23:40:04+02:00
 title: The Waiting room
 ---
 
@@ -14,22 +14,62 @@ This is where I keep ideas, movies, music, interesting words and other things th
   - https://llllllll.co/t/flash-crash-monthly-livecoding-stream-archive/45273/3
 - Reverb algorithms
 
-● https://llllllll.co/t/generative-visuals-video-graphics-art-etc/2658/8
-● Aion Carl Jung
-● https://media.libreplanet.org/u/libreplanet/m/software-doldrums/
-● Miasto Światłości, Mieczysław Smolarski
-● Neo Tokyo
-● Wolf's Rain
-● Homunculus manga
-● Kobieta w czerni 2012
-● Permutation City
-● Julien Offray de La Mettrie - Człowiek Maszyna
-● Pulse, Kurosawa
-● [polski horror XD] wszyscy moi przyjaciele nie żyją
-● Amusing Ourselves to Death
-● Dark City
-● Melancholy of Haruchi Sizumiya
-● Counterpart HBO
-● Oldboy
-● https://naiwarszawa.pl/
-● Józef Kosecki, kybernetyka
+https://llllllll.co/t/generative-visuals-video-graphics-art-etc/2658/8
+Aion Carl Jung
+https://media.libreplanet.org/u/libreplanet/m/software-doldrums/
+Miasto Światłości, Mieczysław Smolarski
+Neo Tokyo
+Wolf's Rain
+Homunculus manga
+Kobieta w czerni 2012
+Permutation City
+Julien Offray de La Mettrie - Człowiek Maszyna 
+Pulse, Kurosawa
+[polski horror XD] wszyscy moi przyjaciele nie żyją
+Amusing Ourselves to Death
+Dark City
+Melancholy of Haruchi Sizumiya
+Counterpart HBO 
+Oldboy
+https://naiwarszawa.pl/
+Józef Kosecki, kybernetyka
+Mini wykłady o maxi sprawach
+ID invaded
+Hitchcock Psychoza
+Deleuze (body without organs)
+Max Stirner (ten dziwny ziomek z obrazka w okularach) 
+Virginia Woolf
+Hegel
+Wittgenstein
+Euphoria (skąd to mam?) 
+Kocia kołyska vonnegut
+Dukajowi: Julio Cortazar, Gene Wolfe, Friedrich Durrenmatt
+Disturbing the universe dyson
+Eraserhead 77
+Brazil 85
+http://justiceharvard.org/justicecourse/
+https://github.com/adaltas/ece-devops-2020-fall
+Siedemnaście mgnień wiosny
+Allo allo
+Psychologia Ewolucyjna, Buss
+Willard Van Orman Quine 
+Richard Rorty
+Irlandczyk 2019
+Bakemonogatari 
+Budapest Grand Hotel
+Megazone23
+On Contingency - Liebniz
+The Affair, serial od Dukaja 
+Castlevania
+Pale Cocoon
+Berserk
+Dom, który zbudował Jack 
+The Bird Box
+Lost Highway 97
+Blame from Netflix
+Angel's Egg
+Dark
+Simulacra and simulation
+Wyspa Huxley
+Prawy Umysł, Haidt
+American Psycho
