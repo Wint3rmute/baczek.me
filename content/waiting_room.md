@@ -1,11 +1,9 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2022-05-01T22:54:14+02:00
+modified: 2022-05-01T23:01:18+02:00
 ---
 
-+++
-title= "The Waiting Room"
-+++
+# The Waiting room
 
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
