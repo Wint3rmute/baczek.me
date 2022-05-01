@@ -1,7 +1,7 @@
 ---
 created: 2022-05-01T23:29:23+02:00
-modified: 2022-05-01T23:29:28+02:00
-title: About me
+modified: 2022-05-01T23:36:32+02:00
+title: About
 ---
 
 ## 📖 TL;DR
