@@ -1,7 +1,4 @@
-+++
-title= "About me"
-description= "About me"
-+++
+# About me
 
 ## 📖 TL;DR
 
