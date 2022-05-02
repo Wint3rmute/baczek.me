@@ -4,6 +4,9 @@ modified: 2022-05-01T23:40:04+02:00
 title: The Waiting room
 ---
 
+
+{{image (src="/waiting_room.jpg" title="") }}
+
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
 - Musique Concrete

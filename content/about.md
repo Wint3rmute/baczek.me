@@ -91,3 +91,6 @@ to develop reliable and high-performance embedded and server applications.
 ---
 
 [Here's some non-programming stuff about me, if you're still interested](/non-programming)
+
+[More content is in the works as of now](/meta)
+
