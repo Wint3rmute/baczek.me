@@ -1,7 +1,7 @@
 ---
 created: 2022-05-01T23:43:57+02:00
 modified: 2022-05-02T00:03:47+02:00
-title: Website workflow
+title: Content creation workflow
 ---
 
 # A starting point
