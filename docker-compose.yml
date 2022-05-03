@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  deploy:
+    build: .
+    environment:
+      - REPO_URL=https://github.com/Wint3rmute/Wint3rmute.github.io.git
+    volumes:
+      - /usr/share/nginx:/usr/share/nginx
+
