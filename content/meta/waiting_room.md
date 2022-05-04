@@ -1,14 +1,14 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2022-05-01T23:40:04+02:00
+modified: 2022-05-04T13:06:46+02:00
 title: The Waiting room
 ---
-
 
 {{image (src="/waiting_room.jpg" title="") }}
 
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
+- Digital filter design https://ccrma.stanford.edu/~jos/filters/Why_learn_about_filters.html
 - Musique Concrete
   - https://llllllll.co/t/mangling-manipulating-digital-physical-media-like-analog/54876 
   - https://en.m.wikipedia.org/wiki/Musique_concr%C3%A8te
@@ -74,4 +74,3 @@ This is where I keep ideas, movies, music, interesting words and other things th
 - Simulacra and simulation
 - Island, Huxley
 - Righteous Mind, Haidt
-
