@@ -20,3 +20,8 @@ less predictable (and in my opinion more enjoyable). I'd love to extend this unp
 by using some sort of data clustering algorithm (think t-SNE but I'm no expert here)
 to automagically generate `related posts` links.
 
+Shower thought from 5.05
+
+> no links, only directions
+
+Sounds pretentious enough to make a nice headline
