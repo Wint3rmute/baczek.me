@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2022-05-08T13:58:59+02:00
+modified: 2022-05-08T22:12:19+02:00
 title: The Waiting room
 ---
 
@@ -8,6 +8,7 @@ title: The Waiting room
 
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
+- Possessor 2022
 - [Physical string modeling](https://ccrma.stanford.edu/software/clm/compmus/clm-tutorials/pm.html#k-s)
 - Baasch - neurotransmisja
 - Digital filter design https://ccrma.stanford.edu/~jos/filters/Why_learn_about_filters.html
