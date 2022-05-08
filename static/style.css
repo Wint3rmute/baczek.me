@@ -92,6 +92,18 @@ main {
     width: 94%;
 }
 
+blockquote > p::before {
+  content: "~ ";
+}
+
+blockquote > p {
+  background-color: var(--background-light);
+  padding: 10px;
+  border-radius: 10px;
+  font-style: italic;
+  width: max-content;
+}
+
 .index-div {
     margin-top: 15vh;
     text-align: center;
