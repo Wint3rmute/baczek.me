@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2022-05-21T19:24:01+02:00
+modified: 2022-05-28T13:09:47+02:00
 title: The Waiting room
 ---
 
@@ -8,6 +8,7 @@ title: The Waiting room
 
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
+- [Pure Data](https://puredata.info/) 
 - Another great list from [Devine](https://wiki.xxiivv.com/site/directory.html) 
 - [Daisy seed, synth microcontroller](https://www.electro-smith.com/daisy/daisy) 
 - Possessor 2022
