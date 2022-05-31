@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T23:29:23+02:00
-modified: 2022-05-01T23:36:32+02:00
+modified: 2022-05-31T17:45:03+02:00
 title: About
 ---
 
@@ -37,7 +37,7 @@ I currently lead the mission operations software team -- that's where we design
 the communication & telemetry systems of our satellites, create the tools used for automated
 testing and finally talk with the satellites on orbit.
 
-Involved into a wide scope of satellite creation process: prototyping, tests and ground station operations,
+Involved into a wide scope of satellite creation processes: prototyping, tests and ground station operations,
 I have gained a significant insight into the design philosophy of space systems and I'm still eager to learn more.
 
 Two of the satellites I've worked on were launched on the [first commercial Virgin Orbit flight](https://virginorbit.com/the-latest/virgin-orbit-selected-to-launch-satrevolutions-constellation-of-constellations/). I am currently running mission operations for them,
@@ -93,4 +93,3 @@ to develop reliable and high-performance embedded and server applications.
 [Here's some non-programming stuff about me, if you're still interested](/non-programming)
 
 [More content is in the works as of now](/meta)
-
