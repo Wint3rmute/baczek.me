@@ -1,7 +1,7 @@
 # Personal website
 
-Currently hosted on [baczek.me](https://baczek.me).
-[wint3rmute.github.io](https://wint3rmute.github.io) serves as a redirect now.
+Currently hosted on [baczek.me](https://Baczek.me).
+[Wint3rmute.github.io](https://wint3rmute.github.io) serves as a redirect now.
 
 # Building
 
