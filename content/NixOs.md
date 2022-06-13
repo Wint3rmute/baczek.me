@@ -1,6 +1,6 @@
 ---
 created: 2022-06-13T23:48:37+02:00
-modified: 2022-06-13T23:59:16+02:00
+modified: 2022-06-14T00:10:02+02:00
 title: NixOs
 ---
 
@@ -12,3 +12,4 @@ I am currently switching my main machine from Arch to Nix, as it solves my bigge
 
 Useful links:
 - [NixOs egui](https://scvalex.net/posts/63/)
+- [Nix Pills](https://nixos.org/guides/nix-pills/)
