@@ -25,3 +25,5 @@ Shower thought from 5.05:
 > no links, only directions
 
 Sounds pretentious enough to make a nice headline.
+
+https://sanjayasubedi.com.np/nlp/nlp-with-python-nearest-neighbor-search/
