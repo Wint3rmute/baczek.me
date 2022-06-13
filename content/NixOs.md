@@ -1,6 +1,6 @@
 ---
 created: 2022-06-13T23:48:37+02:00
-modified: 2022-06-13T23:56:40+02:00
+modified: 2022-06-13T23:57:39+02:00
 title: NixOs
 ---
 
@@ -11,3 +11,4 @@ When they say that it's declarative, they really mean it, if you copy a `.nix` o
 I am currently switching my main machine from Arch to Nix, as it solves my biggest issue with OS management, by making the whole system stateless. My main concern when experimenting with UNIX systems was that I always had to carefully keep track of all the changes I'm making, which are often scattered across different configuration files, written in different languages/formats. Even though I find the Nix language confusing at times, I believe that is has the potential to grow into a wonderful ecosystem.
 
 Useful links:
+- [NixOs egui](https://scvalex.net/posts/63/)
