@@ -2,6 +2,7 @@ version: '3'
 
 services:
   deploy:
+    restart: always
     build: .
     environment:
       - REPO_URL=https://github.com/Wint3rmute/Wint3rmute.github.io.git
