@@ -13,6 +13,9 @@ I am currently transcribing [**wintermute**](https://ryanlott.bandcamp.com/track
 written by [Ryan Lott](https://ryan-lott.com/). You can track my progress and get the notes
 [here](https://github.com/Wint3rmute/Wintermute).
 
+![Work in progress wintermute transcription](/wip_transcription.png)
+
+
 ## Writing your own sheet music
 
 Try using [LilyPond](http://lilypond.org/) for a LaTeX-like experience. LilyPond can

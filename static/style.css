@@ -129,6 +129,11 @@ blockquote > p {
     box-shadow: 0px 0px 50px -10px black;
 }
 
+img {
+  object-fit: contain;
+  max-width: 100%;
+}
+
 ::selection {
   background: var(--accent);
   color: black;
