@@ -1,6 +1,6 @@
-+++
+---
 title= "My life apart from programming"
-+++
+---
 
 ## 🎹 Sounds
 
@@ -49,4 +49,3 @@ those two domains and maybe write a custom sequencer or something similiar to ja
 - Ghost In The Shell 
 - Everything Everywhere All At Once
 - Twin Peaks
-
