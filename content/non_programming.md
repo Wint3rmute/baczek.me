@@ -1,5 +1,5 @@
 ---
-title= "My life apart from programming"
+title: My life apart from programming
 ---
 
 ## 🎹 Sounds
