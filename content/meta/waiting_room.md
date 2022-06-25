@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2022-06-25T13:36:08+02:00
+modified: 2022-06-25T13:36:35+02:00
 title: The Waiting room
 ---
 
@@ -10,7 +10,7 @@ This is where I keep ideas, movies, music, interesting words and other things th
 
 
 - [Faust - functional audio stream](https://faust.grame.fr/) 
-- [Bespoke Synth](https://github.com/BespokeSynth/Bespoke Synth)
+- [Bespoke Synth](https://github.com/BespokeSynth/BespokeSynth)
 - [Lock-free rust structures](https://morestina.net/blog/742/exploring-lock-free-rust-1-locks) 
 - [Yet another synthesis method](https://ccrma.stanford.edu/~bilbao/booktop/node14.html)
 - [Pure Data](https://puredata.info/) 
