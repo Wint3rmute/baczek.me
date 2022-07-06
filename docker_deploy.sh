@@ -16,6 +16,6 @@ while true; do
   echo "/usr/share/nginx/html updated"
 
   echo "sleeping.."
-  sleep 36000
+  sleep 360000
 done
 
