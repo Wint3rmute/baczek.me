@@ -4,7 +4,14 @@ modified: 2022-07-06T21:22:43+02:00
 title: Daily software guide
 ---
 
+
 I've found that lots of people are writing extensive lists of tools they use to get things done, whether open source or not. I've decided to do it in a slightly different way - by imagining a day of my life, when I'm using various open source tools to do things that most of the people use proprietary software for.
+
+I believe that using FOSS software results in a more healthy lifestyle
+and approach to technology, as the software will not try to manipulate you
+into consuming more content.
+The only thing driving you while using free & open source software is
+you own curiosity and will.
 
 # Waking up
 
@@ -12,11 +19,15 @@ Not a lot of software here, mostly hardware like the fridge and some cutlery. I'
 
 # Transit to work/University
 
->You can always read a book instead. 
->But I get it, you're here for the software
->so here we go
+>You can always **read a book instead**. 
+>But I get it, you're here for the software,
+>so here we go:
 
-Instead of scrolling through social media, use an RSS reader and find some interesting blogs to follow. I also recommend keeping a list of interesting webrings or other pages that are run by people or small organisations, not companies/corporations.
+Instead of scrolling through social media, use an
+[RSS reader](https://f-droid.org/en/packages/com.nononsenseapps.feeder/)
+and find some interesting blogs to follow. I also recommend keeping a list
+of webrings or other pages that are run by people or
+small organisations, not companies/corporations.
 
 # Work/University
 
