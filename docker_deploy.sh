@@ -9,6 +9,7 @@ while true; do
   cd "$CLONE_LOCATION"
 
   python related_posts_generator.py
+  dot -Tsvg generated/connections.dot > generated/connections.svg
   zola build
 
   mv public html

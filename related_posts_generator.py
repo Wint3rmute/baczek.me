@@ -60,7 +60,7 @@ words = vectorizer.get_feature_names_out()
 similarity_matrix = cosine_similarity(tfidf, tfidf)
 
 
-visualisation_str = "digraph {  node [shape=box];\n "
+visualisation_str = "digraph {  node [shape=box, fontcolor=white];\n bgcolor=\"transparent\" \n color=\"white\" \n "
 
 print("Generating related posts...")
 for post_index, post in enumerate(all_posts):
@@ -106,8 +106,8 @@ for post_index, post in enumerate(all_posts):
             related_posts.append(
                 {"title": related_post.title, "url": "/" + str(post_link)}
             )
-            visualisation_str += f'"{post.title}" -> "{related_post.title}"\n'
-            visualisation_str += f'"{related_post.title}"[URL="/{post_link}"]\n'
+            visualisation_str += f'"{post.title}" -> "{related_post.title}"[color="white"]\n'
+            visualisation_str += f'"{related_post.title}"[URL="/{post_link}",color="white",fontcolor="white"]\n'
 
         json.dump({"posts": related_posts}, related_links_json)
 
