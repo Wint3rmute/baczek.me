@@ -2,10 +2,28 @@
 
 {% block content %}
 
+{% set filename_no_slashes = page.path | replace(from="/", to="") %}
+{% set related_file_name = [ filename_no_slashes, ".json" ] | join() %}
+{% set related_file_path = ["generated", related_file_name ] | join(sep="/") -%}
+{% set related_posts = load_data(path=related_file_path, required=false) -%}
 <h1>
 {{ page.title }}
+
 </h1>
 
 {{ page.content | safe }}
+
+<hr>
+
+{% if related_posts %}
+
+
+<p>Related posts:</p>
+
+~
+{% for post in related_posts.posts %}
+<a href="{{ post.url }}">{{ post.title }}</a> ~
+{%endfor%}
+{% else %}{% endif %}
 
 {% endblock content %}
