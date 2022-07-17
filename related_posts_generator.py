@@ -7,6 +7,7 @@ wanted to make an automatic "related posts" section generator
 
 """
 import json
+import subprocess
 from dataclasses import dataclass
 from pathlib import Path
 
@@ -24,10 +25,14 @@ class Post:
 
     @classmethod
     def from_path(cls, path: Path):
-        content = path.read_text()
+        content = subprocess.check_output(
+            ["pandoc", "-f", "markdown", "-t", "plain", path.absolute()]
+        ).decode()
+
+        content_raw = path.read_text()
 
         title = None
-        for line in content.split("\n"):
+        for line in content_raw.split("\n"):
             if "title: " in line:
                 title = line.replace("title: ", "").strip()
 
@@ -98,13 +103,14 @@ for post_index, post in enumerate(all_posts):
                 related_post.path.relative_to("content").parent
                 / related_post.path.relative_to("content").stem
             )
-            related_posts.append({"title": related_post.title, "url": "/" + str(post_link)})
-            visualisation_str += f"\"{post.title}\" -> \"{related_post.title}\"\n"
-            visualisation_str += f"\"{related_post.title}\"[URL=\"/{post_link}\"]\n"
+            related_posts.append(
+                {"title": related_post.title, "url": "/" + str(post_link)}
+            )
+            visualisation_str += f'"{post.title}" -> "{related_post.title}"\n'
+            visualisation_str += f'"{related_post.title}"[URL="/{post_link}"]\n'
 
         json.dump({"posts": related_posts}, related_links_json)
 
 visualisation_str += "\n}"
 with open("generated/connections.dot", "w") as graph_file:
     graph_file.write(visualisation_str)
-
