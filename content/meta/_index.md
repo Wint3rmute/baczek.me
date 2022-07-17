@@ -1,5 +1,5 @@
 ---
-title: "Meta - how the site operates"
+title: Meta - how the site operates
 template: "blog.html"
 ---
 

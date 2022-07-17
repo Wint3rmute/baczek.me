@@ -55,6 +55,8 @@ words = vectorizer.get_feature_names_out()
 similarity_matrix = cosine_similarity(tfidf, tfidf)
 
 
+visualisation_str = "digraph {  node [shape=box];\n "
+
 print("Generating related posts...")
 for post_index, post in enumerate(all_posts):
     # We can check that using a new document text
@@ -91,11 +93,18 @@ for post_index, post in enumerate(all_posts):
     with open(related_posts_json, "w") as related_links_json:
         related_posts = []
         for post_id in related_product_indices:
-            post = all_posts[post_id]
+            related_post = all_posts[post_id]
             post_link = (
-                post.path.relative_to("content").parent
-                / post.path.relative_to("content").stem
+                related_post.path.relative_to("content").parent
+                / related_post.path.relative_to("content").stem
             )
-            related_posts.append({"title": post.title, "url": "/" + str(post_link)})
-        #     post_to_write_related_links.write(f"- [{post.title}](/{post_link})\n")
+            related_posts.append({"title": related_post.title, "url": "/" + str(post_link)})
+            visualisation_str += f"\"{post.title}\" -> \"{related_post.title}\"\n"
+            visualisation_str += f"\"{related_post.title}\"[URL=\"/{post_link}\"]\n"
+
         json.dump({"posts": related_posts}, related_links_json)
+
+visualisation_str += "\n}"
+with open("generated/connections.dot", "w") as graph_file:
+    graph_file.write(visualisation_str)
+
