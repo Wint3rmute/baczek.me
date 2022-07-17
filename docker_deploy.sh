@@ -8,6 +8,7 @@ while true; do
   git clone "$REPO_URL" "$CLONE_LOCATION" --depth=1
   cd "$CLONE_LOCATION"
 
+  python related_posts_generator.py
   zola build
 
   mv public html
