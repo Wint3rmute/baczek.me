@@ -112,7 +112,9 @@ relations_graph = graphviz.Digraph(
 
 for post in all_posts:
     color = f"#ffffff{int(255 * post.posts_linking_to_this):02x}"
-    relations_graph.node(post.title, color=color, fontcolor="white")
+    relations_graph.node(
+        post.title, color=color, fontcolor="white", URL=post.path.with_suffix("").name
+    )
 
 
 for post in all_posts:
