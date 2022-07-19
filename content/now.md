@@ -42,3 +42,16 @@ as the resulting graphs look promising.
 >Busy Doing Nothing - 100 Rabbits<br>
 >Imperium Chmur - Jacek Dukaj<br>
 >The Hitchhiker's Guide to the Galaxy - Douglas Adams<br>
+
+```
+17.07 
+```
+
+Reading & thinking about graphs visualisation, both for the website and for my masters thesis. There seems to be plenty of papers exploring the matter, but not a lot of software which will let me experiment straight away (`graphviz` and `networkx` is all I found so far).
+
+I like the idea of using physical modeling of objects such as springs to create graph layouts. This approach allows the structure to grow dynamically in real time, which makes interactive visualisations possible.
+
+As for my masters, I'm devoting too much time thinking about the visualisation side. The core idea is to automatically create a DSP pipeline that would mimic a sample, given by the user. I'm planning to use a genetic algorithm to optimize the pipeline graph. This is similar to the popular YouTube videos where randomly generated creatures are trying to walk. I'm gonna be creating organisms which dwell in the realm of sounds :) I really want to visualise the evolution process of theese creatures and watch how their DSP-node-based bodies evolve to create various timbres, with animations and a possibility to interact with the process. I hope that explains why I'm kind of obsessed over the visualisation part.
+
+>Albums:<br>
+>Boy Harsher - Careful
