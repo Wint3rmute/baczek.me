@@ -2,8 +2,9 @@
 Credit: https://flavioclesio.com/cosine-similarity-search-for-new-documents-using-scikit-learn
 Source SO post: https://stackoverflow.com/questions/44862712/td-idf-find-cosine-similarity-between-new-document-and-dataset/44863365#44863365
 
-Disclaimer: I am not a data scientist, just a random guy who
-wanted to make an automatic "related posts" section generator
+Disclaimer: I am not a data scientist, just a random guy who wanted to make an automatic
+"related posts" section generator. This script is by no means proffesional
+nor comprehensive in any way, it's just a quick hack that is good enough for me.
 
 """
 import json
@@ -60,7 +61,7 @@ words = vectorizer.get_feature_names_out()
 similarity_matrix = cosine_similarity(tfidf, tfidf)
 
 
-visualisation_str = "digraph {  node [shape=box, fontcolor=white];\n bgcolor=\"transparent\" \n color=\"white\" \n "
+visualisation_str = 'digraph {  node [shape=box, fontcolor=white];\n bgcolor="transparent" \n color="white" \n '
 
 print("Generating related posts...")
 for post_index, post in enumerate(all_posts):
@@ -106,7 +107,9 @@ for post_index, post in enumerate(all_posts):
             related_posts.append(
                 {"title": related_post.title, "url": "/" + str(post_link)}
             )
-            visualisation_str += f'"{post.title}" -> "{related_post.title}"[color="white"]\n'
+            visualisation_str += (
+                f'"{post.title}" -> "{related_post.title}"[color="white"]\n'
+            )
             visualisation_str += f'"{related_post.title}"[URL="/{post_link}",color="white",fontcolor="white"]\n'
 
         json.dump({"posts": related_posts}, related_links_json)
