@@ -26,6 +26,7 @@ class Post:
     path: Path
 
     related_post_ids: list[int] = field(default_factory=list)
+    posts_linking_to_this: int = 0
 
     @classmethod
     def from_path(cls, path: Path):
@@ -92,14 +93,26 @@ for post_index, post in enumerate(all_posts):
 
     post.related_post_ids = related_product_indices[:3]
 
+for post in all_posts:
+    for post_id in post.related_post_ids:
+        all_posts[post_id].posts_linking_to_this += 1
 
-relations_graph = graphviz.Digraph(
-    comment="All Relations", graph_attr={"bgcolor": "transparent"}
-)
-relations_graph.format = "svg"
+max_num_of_links = max(post.posts_linking_to_this for post in all_posts)
 
 for post in all_posts:
-    relations_graph.node(post.title, color="white", fontcolor="white")
+    post.posts_linking_to_this /= max_num_of_links
+
+relations_graph = graphviz.Digraph(
+    comment="All Relations",
+    graph_attr={"bgcolor": "transparent"},
+    format="svg",
+    node_attr={"shape": "box"},
+)
+
+
+for post in all_posts:
+    color = f"#ffffff{int(255 * post.posts_linking_to_this):02x}"
+    relations_graph.node(post.title, color=color, fontcolor="white")
 
 
 for post in all_posts:
