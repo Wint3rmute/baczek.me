@@ -2,7 +2,6 @@
 title: 2022's Devlog
 ---
 
-
 ```
 DD.MM
 ```
@@ -21,10 +20,10 @@ Description of things I'm working on
 ```
 
 Implemented the first prototype of automated mind mapping, using word vectorisation
-and out of the box graphing algorithms. I'm gonna need more content on the site
-for this feature to be useful.
+and out-of-the-box graphing algorithms. I'm gonna need more content on the site
+for this feature to become useful.
 
-It looks promising when run on blogs with lots of content:
+It looks promising when run on blogs with lots of entries:
 
 ![umm](/xxiivv_text_vectorisation_example.jpg)
 *Posts on [XXIIVV](http://xxiivv.com/), plugged into the visualisation script*
@@ -43,6 +42,3 @@ as the resulting graphs look promising.
 >Busy Doing Nothing - 100 Rabbits<br>
 >Imperium Chmur - Jacek Dukaj<br>
 >The Hitchhiker's Guide to the Galaxy - Douglas Adams<br>
-
-
-
