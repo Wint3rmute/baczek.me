@@ -12,6 +12,7 @@ import subprocess
 from dataclasses import dataclass, field
 from pathlib import Path
 
+import graphviz
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
@@ -40,7 +41,7 @@ class Post:
                 title = line.replace("title: ", "").strip()
 
         if not title:
-            raise ValueError("Title not found in %s", path)
+            raise ValueError(f"Title not found in {path}")
 
         return cls(title, content, path)
 
@@ -62,8 +63,6 @@ words = vectorizer.get_feature_names_out()
 # Compute cosine similarity between samples in X and Y.
 similarity_matrix = cosine_similarity(tfidf, tfidf)
 
-
-visualisation_str = 'digraph {  node [shape=box, fontcolor=white];\n bgcolor="transparent" \n color="white" \n '
 
 print("Generating related posts...")
 for post_index, post in enumerate(all_posts):
@@ -94,32 +93,36 @@ for post_index, post in enumerate(all_posts):
     post.related_post_ids = related_product_indices[:3]
 
 
-visualisation_str = 'digraph {  node [shape=box, fontcolor=white];\n bgcolor="transparent" \n color="white" \n '
+relations_graph = graphviz.Digraph(
+    comment="All Relations", graph_attr={"bgcolor": "transparent"}
+)
+relations_graph.format = "svg"
 
 for post in all_posts:
-    related_posts_json = Path("./generated") / post.path.relative_to(
+    relations_graph.node(post.title, color="white", fontcolor="white")
+
+
+for post in all_posts:
+    related_posts_json_path = Path("./generated") / post.path.relative_to(
         "content"
     ).with_suffix(".json")
+    related_posts_json_path.parent.mkdir(parents=True, exist_ok=True)
 
-    related_posts_json.parent.mkdir(parents=True, exist_ok=True)
-    with open(related_posts_json, "w") as related_links_json:
-        related_posts = []
-        for post_id in post.related_post_ids:
-            related_post = all_posts[post_id]
-            post_link = (
-                related_post.path.relative_to("content").parent
-                / related_post.path.relative_to("content").stem
-            )
-            related_posts.append(
-                {"title": related_post.title, "url": "/" + str(post_link)}
-            )
-            visualisation_str += (
-                f'"{post.title}" -> "{related_post.title}"[color="white"]\n'
-            )
-            visualisation_str += f'"{related_post.title}"[URL="/{post_link}",color="white",fontcolor="white"]\n'
+    related_posts_json = []
 
-        json.dump({"posts": related_posts}, related_links_json)
+    for post_id in post.related_post_ids:
+        related_post = all_posts[post_id]
+        relations_graph.edge(post.title, related_post.title, color="white")
 
-visualisation_str += "\n}"
-with open("generated/connections.dot", "w") as graph_file:
-    graph_file.write(visualisation_str)
+        post_link = str(
+            related_post.path.relative_to("content").parent
+            / related_post.path.relative_to("content").stem
+        )
+
+        related_posts_json.append({"title": related_post.title, "url": post_link})
+
+    with open(related_posts_json_path, "w", encoding="utf-8") as relations_file:
+        json.dump({"posts": related_posts_json}, relations_file)
+
+# Note: it actually renders to connections.svg
+relations_graph.render("./generated/connections")
