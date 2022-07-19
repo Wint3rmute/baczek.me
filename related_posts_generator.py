@@ -9,7 +9,7 @@ nor comprehensive in any way, it's just a quick hack that is good enough for me.
 """
 import json
 import subprocess
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from pathlib import Path
 
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -23,6 +23,8 @@ class Post:
     title: str
     content: str
     path: Path
+
+    related_post_ids: list[int] = field(default_factory=list)
 
     @classmethod
     def from_path(cls, path: Path):
@@ -89,8 +91,12 @@ for post_index, post in enumerate(all_posts):
         i for i in related_product_indices if i != requested_index
     ]
 
-    related_product_indices = related_product_indices[:3]
+    post.related_post_ids = related_product_indices[:3]
 
+
+visualisation_str = 'digraph {  node [shape=box, fontcolor=white];\n bgcolor="transparent" \n color="white" \n '
+
+for post in all_posts:
     related_posts_json = Path("./generated") / post.path.relative_to(
         "content"
     ).with_suffix(".json")
@@ -98,7 +104,7 @@ for post_index, post in enumerate(all_posts):
     related_posts_json.parent.mkdir(parents=True, exist_ok=True)
     with open(related_posts_json, "w") as related_links_json:
         related_posts = []
-        for post_id in related_product_indices:
+        for post_id in post.related_post_ids:
             related_post = all_posts[post_id]
             post_link = (
                 related_post.path.relative_to("content").parent
