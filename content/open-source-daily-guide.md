@@ -31,6 +31,10 @@ small organisations, not companies/corporations.
 
 # Work/University
 
+## Searching for information on the internet
+
+Use [DuckDuckGo](duckduckgo.com/) or [SearX](https://searx.space/). They won't track you or suggest any targeted content.
+
 ## Creating a slideshow
 
 - The quick way: write them in markdown and use [pandoc](https://pandoc.org/demos.html) to convert them into a presentation (I recommend using the revealJS slide show)
@@ -42,6 +46,17 @@ small organisations, not companies/corporations.
 - Try [Jupyter Lab](https://jupyter.org/) if you're working on something bigger
 
 # Time spent at home
+
+## Internet Surfing (the old school way)
+
+[Wiby](http://wiby.me/) is a search engine, which indexes only minimalist websites.
+It's great for finding hand-crafted sites and old gems from before the FAANG age.
+
+[Merveilles Webring Search Engine](https://lieu.cblgh.org/) - indexes the sites made by people from [Merveilles](merveilles.town).
+
+
+>I highly recommend searching for niche movies/music/art in those web engines,
+>as they will lead you to more in-depth articles than Google/Bing/etc.
 
 ## VPN/Networking
 
