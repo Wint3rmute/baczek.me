@@ -32,7 +32,7 @@ It looks promising when run on blogs with lots of entries:
 is writing all the links to related pages manually. Because of this, text vectorisation has
 no problems with connecting the dots :) On the other hand, this experiment made me more confident
 that semi-automatic generation of related blog entries in a graph form is not a bad idea,
-as the resulting graphs look promising.
+as the resulting graphs look promising. You can see them [here](/website-map).
 
 
 >Albums: <br>
