@@ -4,6 +4,7 @@
 --background: #263238;
 --background-light: #37474F;
 --accent: #82AAFF;
+--accent2: #C3E88D;
 --header-height: 2vh;
 }
 
@@ -37,12 +38,27 @@ header, h1, h2, h3, h4, h5 {
     color: var(--headers_foreground);
 }
 
+/* h2::before { */
+/*     content: "▎"; */
+/*     color: var(--accent); */
+/* } */
+
+/* h3::before { */
+/*     content: "▎"; */
+/*     color: var(--accent2); */
+/* } */
+
 button {
     background-color: var(--background-light);
     padding: 10px;
     border-radius: 5px;
     border: none;
     cursor: pointer;
+}
+
+a.hidden {
+  text-decoration: none;
+  color: var(--content_foreground);
 }
 
 a, button {
