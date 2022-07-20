@@ -129,7 +129,7 @@ for post in all_posts:
         related_post = all_posts[post_id]
         relations_graph.edge(post.title, related_post.title, color="white")
 
-        post_link = str(
+        post_link = "/" + str(
             related_post.path.relative_to("content").parent
             / related_post.path.relative_to("content").stem
         )
