@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2022-06-27T16:55:35+02:00
+modified: 2022-07-21T09:38:24+02:00
 title: The Waiting room
 ---
 
@@ -8,7 +8,7 @@ title: The Waiting room
 
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
-
+- Mad God movie
 - [Bessel Function](https://en.m.wikipedia.org/wiki/Bessel_function) 
 - [Faust - functional audio stream](https://faust.grame.fr/) 
 - [Bespoke Synth](https://github.com/BespokeSynth/BespokeSynth)
