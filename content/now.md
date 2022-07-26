@@ -16,6 +16,16 @@ Description of things I'm working on
 
 
 ```
+26.07 
+```
+
+Busy sailing with friends at Mazury, a region of Poland with lots of nice lakes. Sailing helps a lot when taking a break from technology as I don't get bored watching the waves, boat and landscapes around. 
+
+I finally have some time to dig through The Rust Book now :)
+
+*todo:* add pic
+
+```
 19.07 
 ```
 
