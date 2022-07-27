@@ -25,6 +25,8 @@ I finally have some time to dig through The Rust Book now :)
 
 *todo:* add pic
 
+![Sailing. Mazury, Poland](/sailing_mazury.jpg)
+
 ```
 19.07 
 ```
