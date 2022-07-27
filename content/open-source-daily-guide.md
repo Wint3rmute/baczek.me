@@ -1,9 +1,8 @@
 ---
 created: 2022-06-26T22:51:04+02:00
-modified: 2022-07-06T21:22:43+02:00
+modified: 2022-07-27T14:55:15+02:00
 title: Daily software guide
 ---
-
 
 I've found that lots of people are writing extensive lists of tools they use to get things done, whether open source or not. I've decided to do it in a slightly different way - by imagining a day of my life, when I'm using various open source tools to do things that most of the people use proprietary software for.
 
@@ -51,6 +50,8 @@ Use [DuckDuckGo](duckduckgo.com/) or [SearX](https://searx.space/). They won't t
 
 [Wiby](http://wiby.me/) is a search engine, which indexes only minimalist websites.
 It's great for finding hand-crafted sites and old gems from before the FAANG age.
+
+![Wiby main page screenshot](/wiby.jpg)
 
 [Merveilles Webring Search Engine](https://lieu.cblgh.org/) - indexes the sites made by people from [Merveilles](merveilles.town).
 
