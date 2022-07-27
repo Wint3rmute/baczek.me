@@ -1,6 +1,6 @@
 ---
 created: 2022-06-26T22:51:04+02:00
-modified: 2022-07-27T17:47:01+02:00
+modified: 2022-07-27T17:48:13+02:00
 title: Daily open-source software guide
 ---
 
@@ -66,3 +66,7 @@ It's great for finding hand-crafted sites and old gems from before the FAANG age
 ## Cloud drive
 
 - Nextcloud is surprisingly easy to setup and maintain
+
+## Taking Notes
+
+- GitJournal works wonders as a markdown-based notes tool that you can integrate with your existing git workflow
