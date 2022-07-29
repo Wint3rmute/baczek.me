@@ -14,6 +14,11 @@ Description of things I'm working on
 
 *TODOs and other comments*
 
+```
+29.07
+```
+
+Exploring ideas related with sound fingerprinting and song similarity calculation. *Computer Vision for Music Identification* is the most interesting paper I've found so far. Even in such niche use cases, [Arch Linux repos still deliver](https://archlinux.org/packages/extra/x86_64/chromaprint/). 
 
 ```
 26.07 
