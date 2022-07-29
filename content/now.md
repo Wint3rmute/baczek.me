@@ -35,7 +35,7 @@ for this feature to become useful.
 
 It looks promising when run on blogs with lots of entries:
 
-![umm](/xxiivv_text_vectorisation_example.jpg)
+![text vectorisation example graph](/xxiivv_text_vectorisation_example.jpg)
 *Posts on [XXIIVV](http://xxiivv.com/), plugged into the visualisation script*
 
 *Note:* honestly, I'm cheating in this example. Blog's author, [Devine](https://wiki.xxiivv.com/site/devine_lu_linvega.html),
