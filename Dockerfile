@@ -1,10 +1,13 @@
 FROM archlinux:latest
 
 RUN pacman -Sy --noconfirm
+# Related posts generation
 RUN pacman -S zola pandoc git python-scikit-learn python-scipy python-graphviz --noconfirm
-RUN zola --version
+# Auto-deploy
+RUN pacman -S python-fastapi uvicorn --noconfirm
 
-COPY docker_deploy.sh .
+COPY site_deploy.sh .
+COPY webhook_handler.py .
 
-CMD [ "./docker_deploy.sh" ]
+CMD [ "uvicorn", "webhook_handler:app", "--port", "5555", "--host", "0.0.0.0" ]
 

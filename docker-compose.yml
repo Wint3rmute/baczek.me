@@ -8,4 +8,6 @@ services:
       - REPO_URL=https://github.com/Wint3rmute/Wint3rmute.github.io.git
     volumes:
       - /usr/share/nginx:/usr/share/nginx
+    ports:
+      - 5555:5555
 
