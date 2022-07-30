@@ -10,7 +10,7 @@ Devlog format, first try.
 
 Description of things I'm working on
 
->Culture I've read/heard/saw
+>Culture I've read/heard/experienced in other ways
 
 *TODOs and other comments*
 
