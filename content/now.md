@@ -1,5 +1,6 @@
 ---
 title: 2022's Devlog
+type: Journal
 ---
 
 ```
