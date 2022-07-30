@@ -21,7 +21,7 @@ Description of things I'm working on
 
 Exploring ideas related with sound fingerprinting and song similarity calculation. *Computer Vision for Music Identification* is the most interesting paper I've found so far. Even in such niche use cases, [Arch Linux repos still deliver](https://archlinux.org/packages/extra/x86_64/chromaprint/). 
 
-{{image (src="/olsztyn-festival-logo.jpg" title="Logo of a music/art festival in Olsztyn. Ulotne is a play on words, meaning both something passing, transitory, delicate and something that can fly away, hence the airship :)") }}
+{{image (src="/olsztyn-festival-logo.jpg" title="Logo of a music/art festival in Olsztyn. `ulotne` is a play on words, meaning both something passing, transitory, delicate and something that is capable of flying") }}
 
 ```
 26.07 
