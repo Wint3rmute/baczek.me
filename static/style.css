@@ -150,6 +150,11 @@ img {
   max-width: 100%;
 }
 
+figure {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
 ::selection {
   background: var(--accent);
   color: black;
