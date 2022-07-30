@@ -20,7 +20,7 @@ Description of things I'm working on
 
 Exploring ideas related with sound fingerprinting and song similarity calculation. *Computer Vision for Music Identification* is the most interesting paper I've found so far. Even in such niche use cases, [Arch Linux repos still deliver](https://archlinux.org/packages/extra/x86_64/chromaprint/). 
 
-![Logo of a music/art festival in Olsztyn](/olsztyn-festival-logo.jpg)
+{{image (src="/olsztyn-festival-logo.jpg" title="Logo of a music/art festival in Olsztyn") }}
 
 ```
 26.07 
