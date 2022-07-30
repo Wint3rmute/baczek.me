@@ -29,5 +29,17 @@ If you're interested, you can read the
    calculated from the vectors obtained in the 2nd step.
 4. I'm connecting each post with its top 3 similiar posts (using 4 or more leads to clutter).
 5. This graph is drawn by `graphviz`, it automatically generates the layout.
-6. I'm planning to experiment with *T-SNE* or other visualisation methods
-   in the future, stay tuned!
+
+
+### Future plans
+
+1. Make this thing look more map-alike
+2. Experiment with text clusterisation & dimensionality reduction algorithms, such as:
+    - tSNE
+    - K-means clustering
+    - UMAP
+    - Latent Dirichlet allocation
+    - DBSCAN
+3. Add #tags. 
+4. Introduce color-coding and other visual markers allowing viewers to make sense of the data based on different similarity metrics. 
+5. Generate a *mini-map* below each page, containing links to the posts *"around"* it.
