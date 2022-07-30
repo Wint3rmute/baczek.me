@@ -1,5 +1,6 @@
 ---
 title: Website map
+type: Journal
 ---
 
 {{svg (src="generated/connections.svg")}}
