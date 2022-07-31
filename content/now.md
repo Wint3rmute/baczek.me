@@ -23,7 +23,7 @@ Exploring ideas related with sound fingerprinting and song similarity calculatio
 
 {{image (src="/olsztyn-festival-logo.jpg" title="Logo of a music/art festival in Olsztyn. `ulotne` is a play on words, meaning both something passing, transitory, delicate and something that is capable of flying") }}
 
-Implementing site auto-deployment with github webhooks. 
+Implemented site auto-deployment with github webhooks. 
 
 ```
 26.07 
