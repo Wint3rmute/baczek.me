@@ -11,10 +11,15 @@ jobs:
     steps:
       - name: 'Checkout'
         uses: actions/checkout@master
-      - name: 'Build only' 
-        uses: shalzz/zola-deploy-action@master
-        env:
-          BUILD_DIR: .
-          TOKEN: ${{ secrets.TOKEN }}
-          BUILD_ONLY: true
+      - name: Build and push Docker images
+        uses: docker/build-push-action@v3.1.0
+      # Zola build won't work now, need to finish
+      # the related posts generation scripts
+
+      # - name: 'Build only' 
+      #   uses: shalzz/zola-deploy-action@master
+      #   env:
+      #     BUILD_DIR: .
+      #     TOKEN: ${{ secrets.TOKEN }}
+      #     BUILD_ONLY: true
 

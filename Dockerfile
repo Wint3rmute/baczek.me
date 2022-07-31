@@ -1,8 +1,26 @@
 FROM archlinux:latest
 
-RUN pacman -Sy --noconfirm
 # Related posts generation
-RUN pacman -S zola pandoc git python-scikit-learn python-scipy python-graphviz --noconfirm
+RUN pacman -Sy zola pandoc git gcc gcc-fortran poetry cblas lapack --noconfirm
+
+WORKDIR /website
+
+COPY pyproject.toml .
+COPY poetry.lock .
+
+RUN poetry install
+
+# Run a test website build
+COPY related_posts_generator.py .
+COPY content .
+COPY static .
+COPY templates .
+COPY config.toml .
+
+RUN python related_posts_generator.py
+RUN zola build
+
+
 # Auto-deploy
 RUN pacman -S python-fastapi uvicorn --noconfirm
 
