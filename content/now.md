@@ -19,7 +19,7 @@ Description of things I'm working on
 01.08
 ```
 
-Cleaned up the site deployment code, moved the docker image to Fedora + Python3.9 (3.10 does not yet have wheels for `sklearn` and there are some problems with numpy compatibility). I'm now ready to test UMAP for site map generation :)
+Cleaned up the site deployment code, moved the docker image to Fedora + Python3.9 (3.10 does not yet have wheels for `sklearn` and there are some problems with numpy compatibility). I'm now ready to test UMAP for [site map](/website-map) generation :)
 
 >Music:<br>
 >Welcome - Harmonia & Eno '76
