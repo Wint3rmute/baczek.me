@@ -13,7 +13,9 @@ from dataclasses import dataclass, field
 from pathlib import Path
 
 import graphviz
+import matplotlib.pyplot as plt
 from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.manifold import TSNE
 from sklearn.metrics.pairwise import cosine_similarity
 
 all_posts_paths = Path.glob(Path("./content/"), "**/*.md")
@@ -57,6 +59,18 @@ vectorizer = TfidfVectorizer()
 
 # Learn vocabulary and idf, return term-document matrix.
 tfidf = vectorizer.fit_transform([post.content for post in all_posts])
+
+tsne_result = TSNE(n_components=2, learning_rate="auto", init="random").fit_transform(
+    tfidf
+)
+
+for post, post_position in zip(all_posts, tsne_result):
+    plt.scatter(post_position[0], post_position[1])
+    plt.annotate(post.title, post_position, post_position)
+
+
+plt.show()
+
 
 # Array mapping from feature integer indices to feature name
 words = vectorizer.get_feature_names_out()
