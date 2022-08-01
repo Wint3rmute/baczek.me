@@ -17,7 +17,7 @@ COPY static .
 COPY templates .
 COPY config.toml .
 
-RUN python related_posts_generator.py
+RUN poetry run python related_posts_generator.py
 RUN zola build
 
 
