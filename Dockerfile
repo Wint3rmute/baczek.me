@@ -1,7 +1,9 @@
-FROM archlinux:latest
+FROM fedora:36
 
 # Related posts generation
-RUN pacman -Sy zola pandoc git gcc gcc-fortran poetry cblas lapack --noconfirm
+#RUN pacman -Sy zola pandoc git gcc gcc-fortran poetry cblas lapack --noconfirm
+
+RUN dnf install --refresh -y pandoc zola git gcc poetry
 
 WORKDIR /website
 
