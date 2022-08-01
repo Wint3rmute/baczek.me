@@ -4,7 +4,7 @@ FROM fedora:36
 #RUN pacman -Sy zola pandoc git gcc gcc-fortran poetry cblas lapack --noconfirm
 
 RUN dnf install --refresh -y pandoc zola git gcc poetry
-RUN dnf install --refresh -y blas-devel lapack-devel
+RUN dnf install --refresh -y blas-devel lapack-devel gcc-gfortran
 
 WORKDIR /website
 
