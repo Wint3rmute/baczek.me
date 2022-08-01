@@ -6,7 +6,7 @@ title: Rust
 
 Useful links:
 
-- [Macroquad](https://macroquad.rs/) a minimalist game engine that deserves more attention imo
-- [delegate crate](https://lib.rs/crates/delegate)
+- [Macroquad](https://macroquad.rs/) a minimalist game engine that deserves more attention
+- [Delegate crate](https://lib.rs/crates/delegate)
 - [faster than lime blog](https://fasterthanli.me/about)
-- https://pwy.io/en/
+- [A cool guy whose talk I've heard at a Rust Meetup in Wrocław](https://pwy.io/en/)

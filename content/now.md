@@ -33,7 +33,7 @@ Busy sailing with friends at Mazury, a region of Poland with lots of nice lakes.
 
 I finally have some time to dig through The Rust Book now :)
 
-![Sailing. Mazury, Poland](/sailing_mazury.jpg)
+{{image (src="/sailing_mazury.jpg", title="Mazury, Poland")}}
 
 ```
 19.07 
