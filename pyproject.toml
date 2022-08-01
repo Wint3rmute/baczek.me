@@ -5,11 +5,13 @@ description = ""
 authors = ["wint3rmute <mateusz.baczek1998@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.10"
-scikit-learn = "^1.1.1"
+python = "~3.9"
+scikit-learn = "~1.1.1"
 graphviz = "^0.20.1"
-matplotlib = "^3.5.2"
-umap-learn = "^0.5.3"
+matplotlib = "~3.5.2"
+umap-learn = "~0.5.3"
+fastapi = "^0.79.0"
+uvicorn = {extras = ["standard"], version = "^0.18.2"}
 
 [tool.poetry.dev-dependencies]
 
