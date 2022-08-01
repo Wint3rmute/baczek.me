@@ -21,8 +21,7 @@ Description of things I'm working on
 
 Cleaned up the site deployment code, moved the docker image to Fedora + Python3.9 (3.10 does not yet have wheels for `sklearn` and there are some problems with numpy compatibility). I'm now ready to test UMAP for site map generation :)
 
->Music:
->
+>Music:<br>
 >Welcome - Harmonia & Eno '76
 >Ben Bohmer - Fade to Blue
 
