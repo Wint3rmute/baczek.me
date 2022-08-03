@@ -12,6 +12,9 @@ matplotlib = "~3.5.2"
 umap-learn = "~0.5.3"
 fastapi = "^0.79.0"
 uvicorn = {extras = ["standard"], version = "^0.18.2"}
+jupyterlab = "^3.4.4"
+ipywidgets = "^7.7.1"
+pycairo = "^1.21.0"
 
 [tool.poetry.dev-dependencies]
 

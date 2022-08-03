@@ -11,6 +11,7 @@ import json
 import subprocess
 from dataclasses import dataclass, field
 from pathlib import Path
+import re
 
 import graphviz
 import matplotlib.pyplot as plt
@@ -18,7 +19,6 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.manifold import TSNE
 from sklearn.metrics.pairwise import cosine_similarity
 
-all_posts_paths = Path.glob(Path("./content/"), "**/*.md")
 
 
 @dataclass
@@ -32,129 +32,151 @@ class Post:
 
     @classmethod
     def from_path(cls, path: Path):
-        content = subprocess.check_output(
-            ["pandoc", "-f", "markdown", "-t", "plain", path.absolute()]
-        ).decode()
+        
+        if path.suffix == ".md":
+            
+            content = subprocess.check_output(
+                ["pandoc", "-f", "markdown", "-t", "plain", path.absolute()]
+            ).decode()
+            
+            content_raw = path.read_text()
+            title = None
+            
+            for line in content_raw.split("\n"):
+                if "title: " in line:
+                    title = line.replace("title: ", "").strip()
 
-        content_raw = path.read_text()
-
-        title = None
-        for line in content_raw.split("\n"):
-            if "title: " in line:
-                title = line.replace("title: ", "").strip()
-
-        if not title:
-            raise ValueError(f"Title not found in {path}")
+            if not title:
+                raise ValueError(f"Title not found in {path}")
+                
+        elif path.suffix == ".html":
+            content_raw = path.read_text()
+            stripped = re.sub("<nav>.*</nav>", "", content_raw)
+            with open("/tmp/related_posts_tmp.html", "w") as tmp_file:
+                tmp_file.write(stripped)
+                
+            content = subprocess.check_output(
+                ["pandoc", "-f", "html", "-t", "plain", "/tmp/related_posts_tmp.html"]
+            ).decode()
+            title = path.name
 
         return cls(title, content, path)
 
 
-all_posts = []
+def get_all_posts() -> list[Post]:
+    all_posts = []
+    all_posts_paths = Path.glob(Path("./content/"), "**/*.md")
 
-for post_path in all_posts_paths:
-    all_posts.append(Post.from_path(post_path))
+    for post_path in all_posts_paths:
+        all_posts.append(Post.from_path(post_path))
 
-# Vectorizer to convert a collection of raw documents to a matrix of TF-IDF features
-vectorizer = TfidfVectorizer()
+    return all_posts
+    
+    
+if __name__ == "__main__":
+    all_posts = get_all_posts()
+    
+    # Vectorizer to convert a collection of raw documents to a matrix of TF-IDF features
+    vectorizer = TfidfVectorizer()
 
-# Learn vocabulary and idf, return term-document matrix.
-tfidf = vectorizer.fit_transform([post.content for post in all_posts])
+    # Learn vocabulary and idf, return term-document matrix.
+    tfidf = vectorizer.fit_transform([post.content for post in all_posts])
 
-tsne_result = TSNE(n_components=2, learning_rate="auto", init="random").fit_transform(
-    tfidf
-)
+    tsne_result = TSNE(n_components=2, learning_rate="auto", init="random").fit_transform(
+        tfidf
+    )
 
-for post, post_position in zip(all_posts, tsne_result):
-    plt.scatter(post_position[0], post_position[1])
-    plt.annotate(post.title, post_position, post_position)
-
-
-plt.show()
-
-
-# Array mapping from feature integer indices to feature name
-words = vectorizer.get_feature_names_out()
-
-# Compute cosine similarity between samples in X and Y.
-similarity_matrix = cosine_similarity(tfidf, tfidf)
+    for post, post_position in zip(all_posts, tsne_result):
+        plt.scatter(post_position[0], post_position[1])
+        plt.annotate(post.title, post_position, post_position)
 
 
-print("Generating related posts...")
-for post_index, post in enumerate(all_posts):
-    # We can check that using a new document text
-    requested_index = post_index
-    query = all_posts[requested_index].content  # "software"
-    print("-", all_posts[requested_index].title)
-
-    # Instead of using fit_transform, you need to first fit
-    # the new document to the TFIDF matrix corpus like this:
-    queryTFIDF = TfidfVectorizer().fit([post.content for post in all_posts])
-
-    # Now we can 'transform' this vector into that matrix shape by using the transform function:
-    queryTFIDF = queryTFIDF.transform([query])
-
-    # As we transformed our query in a tfidf object
-    # we can calculate the cosine similarity in comparison with
-    # our pevious corpora
-    cosine_similarities = cosine_similarity(queryTFIDF, tfidf).flatten()
-
-    # Get most similar jobs based on next text
-    related_product_indices = cosine_similarities.argsort()[:-11:-1]
-
-    related_product_indices = [
-        i for i in related_product_indices if i != requested_index
-    ]
-
-    post.related_post_ids = related_product_indices[:3]
-
-for post in all_posts:
-    for post_id in post.related_post_ids:
-        all_posts[post_id].posts_linking_to_this += 1
-
-max_num_of_links = max(post.posts_linking_to_this for post in all_posts)
-
-for post in all_posts:
-    post.posts_linking_to_this /= max_num_of_links
-
-relations_graph = graphviz.Digraph(
-    comment="All Relations",
-    graph_attr={"bgcolor": "transparent"},
-    format="svg",
-    node_attr={"shape": "box"},
-)
+    plt.show()
 
 
-for post in all_posts:
-    color = f"#ffffff{int(255 * post.posts_linking_to_this):02x}"
-    relations_graph.node(
-        post.title,
-        color=color,
-        fontcolor="white",
-        URL="/" + post.path.with_suffix("").name,
+    # Array mapping from feature integer indices to feature name
+    words = vectorizer.get_feature_names_out()
+
+    # Compute cosine similarity between samples in X and Y.
+    similarity_matrix = cosine_similarity(tfidf, tfidf)
+
+
+    print("Generating related posts...")
+    for post_index, post in enumerate(all_posts):
+        # We can check that using a new document text
+        requested_index = post_index
+        query = all_posts[requested_index].content  # "software"
+        print("-", all_posts[requested_index].title)
+
+        # Instead of using fit_transform, you need to first fit
+        # the new document to the TFIDF matrix corpus like this:
+        queryTFIDF = TfidfVectorizer().fit([post.content for post in all_posts])
+
+        # Now we can 'transform' this vector into that matrix shape by using the transform function:
+        queryTFIDF = queryTFIDF.transform([query])
+
+        # As we transformed our query in a tfidf object
+        # we can calculate the cosine similarity in comparison with
+        # our pevious corpora
+        cosine_similarities = cosine_similarity(queryTFIDF, tfidf).flatten()
+
+        # Get most similar jobs based on next text
+        related_product_indices = cosine_similarities.argsort()[:-11:-1]
+
+        related_product_indices = [
+            i for i in related_product_indices if i != requested_index
+        ]
+
+        post.related_post_ids = related_product_indices[:3]
+
+    for post in all_posts:
+        for post_id in post.related_post_ids:
+            all_posts[post_id].posts_linking_to_this += 1
+
+    max_num_of_links = max(post.posts_linking_to_this for post in all_posts)
+
+    for post in all_posts:
+        post.posts_linking_to_this /= max_num_of_links
+
+    relations_graph = graphviz.Digraph(
+        comment="All Relations",
+        graph_attr={"bgcolor": "transparent"},
+        format="svg",
+        node_attr={"shape": "box"},
     )
 
 
-for post in all_posts:
-    related_posts_json_path = Path("./generated") / post.path.relative_to(
-        "content"
-    ).with_suffix(".json")
-    related_posts_json_path.parent.mkdir(parents=True, exist_ok=True)
-
-    related_posts_json = []
-
-    for post_id in post.related_post_ids:
-        related_post = all_posts[post_id]
-        relations_graph.edge(post.title, related_post.title, color="white")
-
-        post_link = "/" + str(
-            related_post.path.relative_to("content").parent
-            / related_post.path.relative_to("content").stem
+    for post in all_posts:
+        color = f"#ffffff{int(255 * post.posts_linking_to_this):02x}"
+        relations_graph.node(
+            post.title,
+            color=color,
+            fontcolor="white",
+            URL="/" + post.path.with_suffix("").name,
         )
 
-        related_posts_json.append({"title": related_post.title, "url": post_link})
 
-    with open(related_posts_json_path, "w", encoding="utf-8") as relations_file:
-        json.dump({"posts": related_posts_json}, relations_file)
+    for post in all_posts:
+        related_posts_json_path = Path("./generated") / post.path.relative_to(
+            "content"
+        ).with_suffix(".json")
+        related_posts_json_path.parent.mkdir(parents=True, exist_ok=True)
 
-# Note: it actually renders to connections.svg
-relations_graph.render("./generated/connections")
+        related_posts_json = []
+
+        for post_id in post.related_post_ids:
+            related_post = all_posts[post_id]
+            relations_graph.edge(post.title, related_post.title, color="white")
+
+            post_link = "/" + str(
+                related_post.path.relative_to("content").parent
+                / related_post.path.relative_to("content").stem
+            )
+
+            related_posts_json.append({"title": related_post.title, "url": post_link})
+
+        with open(related_posts_json_path, "w", encoding="utf-8") as relations_file:
+            json.dump({"posts": related_posts_json}, relations_file)
+
+    # Note: it actually renders to connections.svg
+    relations_graph.render("./generated/connections")
