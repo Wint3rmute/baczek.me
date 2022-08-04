@@ -17,6 +17,16 @@ Description of things I'm working on
 
 
 ```
+04.08
+```
+
+Added stemming to the algorithm generating related posts, I'm seeing a lot of improvement!
+
+{{image (src="/xxiivv_umap_stemming.jpg" title="After stemming, clusters are clearly visible, even when fully unzoomed.
+I am still testing on XXIIVV blog contents, as it has lots and lots of posts.") }}
+
+
+```
 03.08
 ```
 

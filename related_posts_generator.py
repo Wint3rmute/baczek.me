@@ -8,17 +8,16 @@ nor comprehensive in any way, it's just a quick hack that is good enough for me.
 
 """
 import json
+import re
 import subprocess
 from dataclasses import dataclass, field
 from pathlib import Path
-import re
 
 import graphviz
 import matplotlib.pyplot as plt
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.manifold import TSNE
 from sklearn.metrics.pairwise import cosine_similarity
-
 
 
 @dataclass
@@ -32,31 +31,28 @@ class Post:
 
     @classmethod
     def from_path(cls, path: Path):
-        
+
         if path.suffix == ".md":
-            
+
             content = subprocess.check_output(
                 ["pandoc", "-f", "markdown", "-t", "plain", path.absolute()]
             ).decode()
-            
+
             content_raw = path.read_text()
             title = None
-            
+
             for line in content_raw.split("\n"):
                 if "title: " in line:
                     title = line.replace("title: ", "").strip()
 
             if not title:
                 raise ValueError(f"Title not found in {path}")
-                
+
         elif path.suffix == ".html":
             content_raw = path.read_text()
-            stripped = re.sub("<nav>.*</nav>", "", content_raw)
-            with open("/tmp/related_posts_tmp.html", "w") as tmp_file:
-                tmp_file.write(stripped)
-                
+            
             content = subprocess.check_output(
-                ["pandoc", "-f", "html", "-t", "plain", "/tmp/related_posts_tmp.html"]
+                f"sed 's/<nav>.*<\/nav>//' {path} | pandoc -f html -t plain -", shell=True,
             ).decode()
             title = path.name
 
@@ -71,35 +67,26 @@ def get_all_posts() -> list[Post]:
         all_posts.append(Post.from_path(post_path))
 
     return all_posts
-    
-    
+
+
 if __name__ == "__main__":
     all_posts = get_all_posts()
-    
+
     # Vectorizer to convert a collection of raw documents to a matrix of TF-IDF features
     vectorizer = TfidfVectorizer()
 
     # Learn vocabulary and idf, return term-document matrix.
     tfidf = vectorizer.fit_transform([post.content for post in all_posts])
 
-    tsne_result = TSNE(n_components=2, learning_rate="auto", init="random").fit_transform(
-        tfidf
-    )
-
-    for post, post_position in zip(all_posts, tsne_result):
-        plt.scatter(post_position[0], post_position[1])
-        plt.annotate(post.title, post_position, post_position)
-
-
-    plt.show()
-
+    tsne_result = TSNE(
+        n_components=2, learning_rate="auto", init="random"
+    ).fit_transform(tfidf)
 
     # Array mapping from feature integer indices to feature name
     words = vectorizer.get_feature_names_out()
 
     # Compute cosine similarity between samples in X and Y.
     similarity_matrix = cosine_similarity(tfidf, tfidf)
-
 
     print("Generating related posts...")
     for post_index, post in enumerate(all_posts):
@@ -145,7 +132,6 @@ if __name__ == "__main__":
         node_attr={"shape": "box"},
     )
 
-
     for post in all_posts:
         color = f"#ffffff{int(255 * post.posts_linking_to_this):02x}"
         relations_graph.node(
@@ -154,7 +140,6 @@ if __name__ == "__main__":
             fontcolor="white",
             URL="/" + post.path.with_suffix("").name,
         )
-
 
     for post in all_posts:
         related_posts_json_path = Path("./generated") / post.path.relative_to(
