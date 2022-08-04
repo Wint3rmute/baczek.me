@@ -16,6 +16,7 @@ jupyterlab = "^3.4.4"
 ipywidgets = "^7.7.1"
 pycairo = "^1.21.0"
 ipympl = "^0.9.1"
+nltk = "^3.7"
 
 [tool.poetry.dev-dependencies]
 

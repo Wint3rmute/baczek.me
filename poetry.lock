@@ -803,6 +803,28 @@ optional = false
 python-versions = ">=3.5"
 
 [[package]]
+name = "nltk"
+version = "3.7"
+description = "Natural Language Toolkit"
+category = "main"
+optional = false
+python-versions = ">=3.7"
+
+[package.dependencies]
+click = "*"
+joblib = "*"
+regex = ">=2021.8.3"
+tqdm = "*"
+
+[package.extras]
+all = ["numpy", "pyparsing", "scipy", "matplotlib", "twython", "requests", "scikit-learn", "python-crfsuite"]
+corenlp = ["requests"]
+machine_learning = ["numpy", "python-crfsuite", "scikit-learn", "scipy"]
+plot = ["matplotlib"]
+tgrep = ["pyparsing"]
+twitter = ["twython"]
+
+[[package]]
 name = "notebook"
 version = "6.4.12"
 description = "A web-based notebook environment for interactive computing"
@@ -1126,6 +1148,14 @@ python-versions = ">=3.6"
 [package.dependencies]
 cffi = {version = "*", markers = "implementation_name == \"pypy\""}
 py = {version = "*", markers = "implementation_name == \"pypy\""}
+
+[[package]]
+name = "regex"
+version = "2022.7.25"
+description = "Alternative regular expression module, to replace re."
+category = "main"
+optional = false
+python-versions = ">=3.6"
 
 [[package]]
 name = "requests"
@@ -1494,7 +1524,7 @@ testing = ["pytest (>=6)", "pytest-checkdocs (>=2.4)", "pytest-flake8", "pytest-
 [metadata]
 lock-version = "1.1"
 python-versions = "~3.9"
-content-hash = "c05cb8f2b6319f15a42402a0ed3824c43a7f16acde1c791843d47c500eb7720c"
+content-hash = "52abb8ffb5ff11c96c976209551736746c263885ba76ffe263a524baefa07eed"
 
 [metadata.files]
 anyio = []
@@ -1554,6 +1584,7 @@ nbclient = []
 nbconvert = []
 nbformat = []
 nest-asyncio = []
+nltk = []
 notebook = []
 notebook-shim = []
 numba = []
@@ -1584,6 +1615,7 @@ pywin32 = []
 pywinpty = []
 pyyaml = []
 pyzmq = []
+regex = []
 requests = []
 scikit-learn = []
 scipy = []
