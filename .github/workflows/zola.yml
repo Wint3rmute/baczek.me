@@ -1,25 +1,11 @@
-name: zola
-on:
-  push:
-    branches:
-      - master 
-  pull_request:
-
+name: Build docker & test site generation
+on: push
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: 'Checkout'
         uses: actions/checkout@master
-      - name: Build and push Docker images
+      - name: Build docker image & Zola
         uses: docker/build-push-action@v3.1.0
-      # Zola build won't work now, need to finish
-      # the related posts generation scripts
-
-      # - name: 'Build only' 
-      #   uses: shalzz/zola-deploy-action@master
-      #   env:
-      #     BUILD_DIR: .
-      #     TOKEN: ${{ secrets.TOKEN }}
-      #     BUILD_ONLY: true
 
