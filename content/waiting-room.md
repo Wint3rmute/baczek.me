@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2022-07-29T13:46:50+02:00
+modified: 2022-08-05T23:33:15+02:00
 title: The Waiting room
 ---
 
@@ -8,6 +8,7 @@ title: The Waiting room
 
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
+- [Generative music in JS](https://teropa.info/blog/2016/07/28/javascript-systems-music.html#setting-up-musicforairports-js)
 - [Helix text editor](https://github.com/helix-editor/helix)
 - Mad God movie
 - [Bessel Function](https://en.m.wikipedia.org/wiki/Bessel_function) 
