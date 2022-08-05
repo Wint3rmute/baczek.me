@@ -1,6 +1,6 @@
 ---
 created: 2022-06-16T00:10:36+02:00
-modified: 2022-06-21T12:34:27+02:00
+modified: 2022-08-06T00:01:54+02:00
 title: The word *Bączek* in Polish
 ---
 
@@ -22,4 +22,6 @@ Here's a collection of cool Bączek pictures, following this interpretation:
 
 {{image (src="/bumblebees/pug.jpg" title="Pug bumblebee from @Amanda. The pug is a rolling joke at SatRev, but that's a story for another time :)") }}
 
+{{image (src="/bumblebees/amanda_idk.jpeg" title="Another one from @Amanda") }}
 
+{{image (src="/bumblebees/maja_drawing.jpg" title="A drawing done by me or some of my friends long time ago, backed up by @Maja (thanks a lot!)") }}
