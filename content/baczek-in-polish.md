@@ -1,6 +1,6 @@
 ---
 created: 2022-06-16T00:10:36+02:00
-modified: 2022-08-06T00:01:54+02:00
+modified: 2022-08-06T00:04:42+02:00
 title: The word *Bączek* in Polish
 ---
 
@@ -15,7 +15,7 @@ title: The word *Bączek* in Polish
 
 > A diminutive form of the word *Bąk* (Bumblebee)
 
-Here's a collection of cool Bączek pictures, following this interpretation:
+Here's a collection of hand-picked Bączek pictures, following this interpretation:
 
 
 {{image (src="/bumblebees/rabbit.jpg" title="Rabbit bumblebee from @Łukasz") }}
