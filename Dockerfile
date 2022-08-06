@@ -2,7 +2,7 @@ FROM fedora:36
 
 RUN dnf install --refresh -y pandoc git graphviz wget
 RUN dnf install --refresh -y blas-devel lapack-devel gcc-gfortran g++ poetry gcc
-RUN dnf install --refresh -y python39 python-devel
+RUN dnf install --refresh -y python39 python-devel cairo-devel
 RUN dnf install --refresh -y graphviz
 
 RUN wget -O - "https://github.com/getzola/zola/releases/download/v0.16.0/zola-v0.16.0-x86_64-unknown-linux-gnu.tar.gz" | \
