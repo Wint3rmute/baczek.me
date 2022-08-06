@@ -59,6 +59,16 @@ It's great for finding hand-crafted sites and old gems from before the FAANG age
 >I highly recommend searching for niche movies/music/art in those web engines,
 >as they will lead you to more in-depth articles than Google/Bing/etc.
 
+## Watching videos
+
+If you want to step away from YouTube (which is a good thing, if you want to fight online monopoly),
+use [Odysee](https://odysee.com/). It doesn't have any ads and website loads faster than Youtube.
+
+If you really need to watch something on YouTube, use [Invidious](https://invidious.io/) - an
+alternative frontend to YouTube, which, in my experience **works faster than YouTube itself**.
+The interface is also less bloated and you're not tracked in any way.
+
+
 ## VPN/Networking
 
 - Get a VPS and install [WireGuard](https://www.wireguard.com/). It's definitely more work than using something like Tailscale or ZerotierOne, but it will pay off in networking & server administration skills.
