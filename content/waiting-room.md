@@ -8,6 +8,7 @@ title: The Waiting room
 
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
+- [Audio file decoder in Rodio, Rust](https://docs.rs/rodio/latest/rodio/decoder/struct.Decoder.html)
 - [Generative music in JS](https://teropa.info/blog/2016/07/28/javascript-systems-music.html#setting-up-musicforairports-js)
 - [Helix text editor](https://github.com/helix-editor/helix)
 - Mad God movie
