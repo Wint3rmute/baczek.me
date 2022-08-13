@@ -33,6 +33,7 @@ small organisations, not companies/corporations.
 ## Searching for information on the internet
 
 Use [DuckDuckGo](duckduckgo.com/) or [SearX](https://searx.space/). They won't track you or suggest any targeted content.
+I am hosting my own SearX instance [here](https://searx.baczek.me).
 
 ## Creating a slideshow
 
