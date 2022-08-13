@@ -26,7 +26,8 @@ tools for checking website security. Try them out if you're hosting anything you
 
 End of the day update: the instance has been accepted by SearX maintainers and is now visible at [searx.space](https://searx.space).
 
->Taeko Onuki: 4:00A.M.
+>Music:<br>
+>Taeko Onuki: 4:00A.M.<br>
 >Beardyman: Shelter me from the rain
 
 
