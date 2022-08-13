@@ -22,9 +22,9 @@ tools for checking website security. Try them out if you're hosting anything you
 - [cryptcheck.fr](https://cryptcheck.fr/)
 - [observatory.mozilla.org](https://observatory.mozilla.org/)
 
-# 
+<hr>
 
-End of the day update: the instance has been accepted by SearX maintainers and is now visible at (searx.space)[https://searx.space).
+End of the day update: the instance has been accepted by SearX maintainers and is now visible at [searx.space](https://searx.space).
 
 ```
 04.08
