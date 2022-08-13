@@ -50,9 +50,10 @@ class Post:
 
         elif path.suffix == ".html":
             content_raw = path.read_text()
-            
+
             content = subprocess.check_output(
-                f"sed 's/<nav>.*<\/nav>//' {path} | pandoc -f html -t plain -", shell=True,
+                f"sed 's/<nav>.*<\/nav>//' {path} | pandoc -f html -t plain -",
+                shell=True,
             ).decode()
             title = path.name
 
@@ -78,9 +79,9 @@ if __name__ == "__main__":
     # Learn vocabulary and idf, return term-document matrix.
     tfidf = vectorizer.fit_transform([post.content for post in all_posts])
 
-    tsne_result = TSNE(
-        n_components=2, learning_rate="auto", init="random"
-    ).fit_transform(tfidf)
+    # tsne_result = TSNE(
+    #     n_components=2, learning_rate="auto", init="random"
+    # ).fit_transform(tfidf)
 
     # Array mapping from feature integer indices to feature name
     words = vectorizer.get_feature_names_out()
