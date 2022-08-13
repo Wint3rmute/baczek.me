@@ -1,19 +1,27 @@
 ---
 title: 2022's Devlog
-type: Journal
 ---
 
+
 ```
-DD.MM
+13.08
 ```
 
-Devlog format, first try.
+Started hosting a [SearXNG](https://searx.github.io/searx/) instance at [searx.baczek.me](https://searx.baczek.me).
+I encourage you to [host one yourself](https://github.com/searxng/searxng-docker) if you're interested
+in decentralisation of the internet.
 
-Description of things I'm working on
+I've learned a bit more about website security hardening when setting up the instance. If you're planning to proxy
+search queries through a self-hosted meta-search engine instance (lots of web security lingo here), you better
+make sure that you won't be leaking any information regarding the queries that the users are making.
+Otherwise, you're **no better than FAANG** :)
 
->Culture I've read/heard/experienced in other ways
+From reading the
+issues at [Searx-instance](https://github.com/searxng/searx-instances) I've learned about 2 new
+tools for checking website security. Try them out if you're hosting anything yourself:
 
-*TODOs and other comments*
+- [cryptcheck.fr](https://cryptcheck.fr/)
+- [observatory.mozilla.org](https://observatory.mozilla.org/)
 
 
 ```
