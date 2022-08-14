@@ -17,6 +17,12 @@ Found out about the [512kb.club](https://github.com/kevquirk/512kb.club), I'm co
 them when my website will look less like a portfolio and more like a exocortex/idea sharing space.
 First 512kb, then hopefully the [XXIIVV webring](https://webring.xxiivv.com) :)
 
+<hr>
+
+(At night) Redesigned the index page and updated the main website template.
+Happy to see that I'm getting along pretty well with CSS. Never saw much
+logic in it but I'm starting to understand it, at least for my simple needs.
+
 >Music:<br>
 >Orchestral Manoeuvres in the Dark - Souvenir<br>
 >Ben Bohmer - Beyond Beliefs<br>
