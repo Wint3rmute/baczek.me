@@ -2,6 +2,26 @@
 title: 2022's Devlog
 ---
 
+
+```
+14.08
+```
+
+Configured *Prometheus* and *Grafana* for VPS monitoring. Since it is facing the public site
+of the internet with my website and SearX instance (see yesterday's entry), I should be collecting
+performance & health metrics. I will probably host [Invidious](https://invidious.io/) in the future as well.
+
+{{image (src="vps_monitoring.png" title="Grafana dashboard used for monitoring my VPS. I like graphs, they're calming.")}}
+
+Found out about the [512kb.club](https://github.com/kevquirk/512kb.club), I'm considering joining
+them when my website will look less like a portfolio and more like a exocortex/idea sharing space.
+First 512kb, then hopefully the [XXIIVV webring](https://webring.xxiivv.com) :)
+
+>Music:<br>
+>Orchestral Manoeuvres in the Dark - Souvenir<br>
+>Ben Bohmer - Beyond Beliefs
+
+
 ```
 13.08
 ```
@@ -62,7 +82,7 @@ the `<nav>` blocks containing links to other pages, the algorithm works only wit
 Cleaned up the site deployment code, moved the docker image to Fedora + Python3.9 (3.10 does not yet have wheels for `sklearn` and there are some problems with numpy compatibility). I'm now ready to test UMAP for [site map](/website-map) generation :)
 
 >Music:<br>
->Harmonia & Eno '76 - Welcome
+>Harmonia & Eno '76 - Welcome<br>
 >Ben Bohmer - Fade to Blue
 
 ```
