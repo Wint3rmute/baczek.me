@@ -48,7 +48,8 @@ button {
 
 a.hidden {
   text-decoration: none;
-  color: var(--content_foreground);
+  /* color: var(--content_foreground); */
+  color: inherit;
 }
 
 a, button {
@@ -120,9 +121,8 @@ ul > li {
     margin-left: 0px;
 }
 
-
 .index-div {
-    margin-top: 10vh;
+    margin-top: 8vh;
     margin-left: auto;
     margin-right: auto;
     text-align: center;

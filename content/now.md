@@ -11,7 +11,7 @@ Configured *Prometheus* and *Grafana* for VPS monitoring. Since it is facing the
 of the internet with my website and SearX instance (see yesterday's entry), I should be collecting
 performance & health metrics. I will probably host [Invidious](https://invidious.io/) in the future as well.
 
-{{image (src="vps_monitoring.png" title="Grafana dashboard used for monitoring my VPS. I like graphs, they're calming.")}}
+{{image (src="/vps_monitoring.png" title="Grafana dashboard used for monitoring my VPS. I like graphs, they're calming.")}}
 
 Found out about the [512kb.club](https://github.com/kevquirk/512kb.club), I'm considering joining
 them when my website will look less like a portfolio and more like a exocortex/idea sharing space.

@@ -4,7 +4,7 @@ modified: 2022-08-06T00:07:09+02:00
 title: The word *Bączek* in Polish
 ---
 
-*Bączek* has multiple meanings, here I've collected my favourites:
+My last name, *Bączek*, has multiple meanings. Here I've collected my favourites:
 
 - Spinning top (the toy that spins)
 - Spins, barrel rolls and other similar aerial maneuvers (in Polish we call that *kręcić bączki*, which roughly translates to *spin a bączek*)
@@ -25,3 +25,4 @@ Here's a collection of hand-picked Bączek pictures, following this interpretati
 {{image (src="/bumblebees/amanda_idk.jpeg" title="Another one from @Amanda") }}
 
 {{image (src="/bumblebees/maja_drawing.jpg" title="A drawing done by me or some of my friends long time ago, backed up by @Maja (thanks a lot!)") }}
+
