@@ -38,16 +38,6 @@ header, h1, h2, h3, h4, h5 {
     color: var(--headers_foreground);
 }
 
-/* h2::before { */
-/*     content: "▎"; */
-/*     color: var(--accent); */
-/* } */
-
-/* h3::before { */
-/*     content: "▎"; */
-/*     color: var(--accent2); */
-/* } */
-
 button {
     background-color: var(--background-light);
     padding: 10px;
@@ -120,8 +110,21 @@ blockquote > p {
   font-style: italic;
 }
 
+.index-list-container {
+  text-align: left;
+  display: flex;
+  justify-content: center;
+}
+
+ul > li {
+    margin-left: 0px;
+}
+
+
 .index-div {
-    margin-top: 15vh;
+    margin-top: 10vh;
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
 }
 

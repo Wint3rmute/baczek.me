@@ -19,7 +19,8 @@ First 512kb, then hopefully the [XXIIVV webring](https://webring.xxiivv.com) :)
 
 >Music:<br>
 >Orchestral Manoeuvres in the Dark - Souvenir<br>
->Ben Bohmer - Beyond Beliefs
+>Ben Bohmer - Beyond Beliefs<br>
+>Strawberry Guy - F Song (slowed down to 80% in audacity)
 
 
 ```
