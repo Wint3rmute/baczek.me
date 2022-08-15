@@ -9,7 +9,7 @@ title: Exocortex
 The purpose of this website is to store the most valuable parts
 of knowledge I have gained over the years: technical, artistic, philosophical.
 
-It is not a notes dump nor a 
+In my case, it is not a notes dump nor a 
 *[Zettelkasten-like](https://en.wikipedia.org/wiki/Zettelkasten)* system.
 
 I'm experimenting on a custom idea visualisation system, utilising
