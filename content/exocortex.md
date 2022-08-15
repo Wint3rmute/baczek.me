@@ -7,7 +7,7 @@ title: Exocortex
 >~ [Transhumanism Wiki](https://transhumanism.fandom.com/wiki/Exocortex)
 
 The purpose of this website is to store the most valuable parts
-of knowledge I have: technical, artistic, philosophical.
+of knowledge I have gained over the years: technical, artistic, philosophical.
 
 It is not a notes dump nor a 
 *[Zettelkasten-like](https://en.wikipedia.org/wiki/Zettelkasten)* system.
@@ -26,4 +26,3 @@ Apart from the cool-sounding plans about mind map generation,
 I'm constantly trying to improve both the [website experience](/website-experience)
 and my [content creationg workflow](/content-creation-workflow) using all
 the FLOSS software I can find or write myself.
-
