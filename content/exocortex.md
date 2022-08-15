@@ -13,7 +13,7 @@ In my case, it is not a notes dump nor a
 *[Zettelkasten-like](https://en.wikipedia.org/wiki/Zettelkasten)* system.
 
 I'm experimenting on a custom idea visualisation system, utilising
-natural language processing and data exploration methods. You can
+natural language processing and high-dimensional data exploration/visualisation methods. You can
 take a look at the [map](/website-map) if you're interested.
 
 To put it shortly: I'm building a system which will automatically
