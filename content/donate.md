@@ -11,7 +11,7 @@ If you've enjoyed my content and would like to see more.
 
 ### Monero
 
-- *TODO: add address*
+`42FiwjqmVoBQKqhTP9iJW1evTf5Hfa4AdWwR3ma9VjVFEsLuYJpgqHT9PXhcYxnedFMbu4nmVtYGkLGy3XRm2vwJ8noNmvJ`
 
 
 *Thanks a lot!*
