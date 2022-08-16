@@ -18,6 +18,8 @@ If you're interested, you can read the
 
 ## How is this thing generated?
 
+*TODO: update once I'm finished with UMAP*
+
 1. All of the posts are fed through a stemming algorithm, which reduces them
    to their root form (think *"doing"* -> *"do"*, *"derivation"* -> *"deriv"*).
 2. All the posts are fed into a *TF-IDF vectorizer*, which assigns a unique

@@ -2,6 +2,23 @@
 title: 2022's Devlog
 ---
 
+```
+16.08
+```
+
+Experimenting on visualisations, pairing UMAP with GraphViz. 
+This is an in-between state of post visualisation, I've rewritten
+the similiarity calculation code but left the GraphViz visualisation part.
+
+The resulting graph is still very far from anything I'd call decent.
+I'm positive that the steps, while small, are leading in the right direction.
+
+Here's another not-so-bad-looking graph generated during development:
+![UMAP + Graphviz text visualisation example graph](/umap_plus_graphviz_my_page.jpg)
+
+>Music:<br>
+>Depeche Mode - But Not Tonight, Live
+
 
 ```
 14.08
