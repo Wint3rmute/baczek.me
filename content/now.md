@@ -16,6 +16,15 @@ I'm positive that the steps, while small, are leading in the right direction.
 Here's another not-so-bad-looking graph generated during development:
 ![UMAP + Graphviz text visualisation example graph](/umap_plus_graphviz_my_page.jpg)
 
+---
+
+**Late night update:** Took a while to read more of *Graphviz* documentation. Turns out that they have a special
+layout engine called *neato* for drawing non-directed graphs. I tried it and I'm
+amazed, it works wonderfully!
+
+![UMAP + Graphviz + Neato text visualisation example graph](/neato_visualisation.jpg)
+
+
 >Music:<br>
 >Depeche Mode - But Not Tonight, Live
 
