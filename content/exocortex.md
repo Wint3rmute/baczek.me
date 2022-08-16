@@ -20,7 +20,7 @@ To put it shortly: I'm building a system which will automatically
 group my thoughts and infer connections between them.
 
 
-<hr>
+---
 
 Apart from the cool-sounding plans about mind map generation,
 I'm constantly trying to improve both the [website experience](/website-experience)

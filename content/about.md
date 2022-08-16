@@ -88,5 +88,9 @@ My current self development plan is centered on Rust. I'm aiming to combine
 my Linux knowledge and aerial systems design experience,
 to develop reliable and high-performance embedded and server applications.
 
-[Here's some non-programming stuff about me, if you're still interested](/non-programming)
+## ☀️ Interests
+
+- [Sounds & melodies](/sounds)
+- [Reading](/reading)
+- [Watching](/watching)
 

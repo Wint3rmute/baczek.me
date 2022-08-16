@@ -17,7 +17,7 @@ Found out about the [512kb.club](https://github.com/kevquirk/512kb.club), I'm co
 them when my website will look less like a portfolio and more like a exocortex/idea sharing space.
 First 512kb, then hopefully the [XXIIVV webring](https://webring.xxiivv.com) :)
 
-<hr>
+---
 
 (At night) Redesigned the index page and updated the main website template.
 Happy to see that I'm getting along pretty well with CSS. Never saw much
@@ -49,7 +49,7 @@ tools for checking website security. Try them out if you're hosting anything you
 - [cryptcheck.fr](https://cryptcheck.fr/)
 - [observatory.mozilla.org](https://observatory.mozilla.org/)
 
-<hr>
+---
 
 End of the day update: the instance has been accepted by SearX maintainers and is now visible at [searx.space](https://searx.space).
 
