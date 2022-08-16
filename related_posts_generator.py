@@ -18,6 +18,14 @@ import matplotlib.pyplot as plt
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.manifold import TSNE
 from sklearn.metrics.pairwise import cosine_similarity
+import nltk
+from nltk.stem.snowball import SnowballStemmer
+from nltk.tokenize import word_tokenize
+import umap
+import math
+
+
+nltk.download("punkt")
 
 
 @dataclass
@@ -25,6 +33,10 @@ class Post:
     title: str
     content: str
     path: Path
+
+    # To be filled by map generation
+    x: float = 0.0
+    y: float = 0.0
 
     related_post_ids: list[int] = field(default_factory=list)
     posts_linking_to_this: int = 0
@@ -59,6 +71,9 @@ class Post:
 
         return cls(title, content, path)
 
+    def distance_to(self, post: "Post") -> float:
+        return math.sqrt((self.x - post.x) ** 2 + (self.y - post.y) ** 2)
+
 
 def get_all_posts() -> list[Post]:
     all_posts = []
@@ -70,46 +85,45 @@ def get_all_posts() -> list[Post]:
     return all_posts
 
 
+def tokenizer(text: str) -> list[str]:
+    stemmer = SnowballStemmer("english")
+    words = word_tokenize(text)
+
+    return [stemmer.stem(word) for word in words]
+
+
 if __name__ == "__main__":
     all_posts = get_all_posts()
 
     # Vectorizer to convert a collection of raw documents to a matrix of TF-IDF features
-    vectorizer = TfidfVectorizer()
+    vectorizer = TfidfVectorizer(tokenizer=tokenizer)
+    # vectorizer = TfidfVectorizer()
 
     # Learn vocabulary and idf, return term-document matrix.
     tfidf = vectorizer.fit_transform([post.content for post in all_posts])
 
-    # tsne_result = TSNE(
-    #     n_components=2, learning_rate="auto", init="random"
-    # ).fit_transform(tfidf)
-
     # Array mapping from feature integer indices to feature name
     words = vectorizer.get_feature_names_out()
 
-    # Compute cosine similarity between samples in X and Y.
-    similarity_matrix = cosine_similarity(tfidf, tfidf)
+    umap_result = umap.UMAP().fit_transform(tfidf)
+
+    for post, umap_result in zip(all_posts, umap_result):
+        post.x, post.y = umap_result
 
     print("Generating related posts...")
     for post_index, post in enumerate(all_posts):
         # We can check that using a new document text
         requested_index = post_index
-        query = all_posts[requested_index].content  # "software"
-        print("-", all_posts[requested_index].title)
 
-        # Instead of using fit_transform, you need to first fit
-        # the new document to the TFIDF matrix corpus like this:
-        queryTFIDF = TfidfVectorizer().fit([post.content for post in all_posts])
+        related_posts = sorted(
+            all_posts, key=lambda post_to_sort: post_to_sort.distance_to(post)
+        )
 
-        # Now we can 'transform' this vector into that matrix shape by using the transform function:
-        queryTFIDF = queryTFIDF.transform([query])
-
-        # As we transformed our query in a tfidf object
-        # we can calculate the cosine similarity in comparison with
-        # our pevious corpora
-        cosine_similarities = cosine_similarity(queryTFIDF, tfidf).flatten()
-
-        # Get most similar jobs based on next text
-        related_product_indices = cosine_similarities.argsort()[:-11:-1]
+        related_product_indices = []
+        for related_post in related_posts:
+            for post_index, post_ in enumerate(all_posts):
+                if related_post.title == post_.title:
+                    related_product_indices.append(post_index)
 
         related_product_indices = [
             i for i in related_product_indices if i != requested_index
