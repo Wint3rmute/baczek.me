@@ -140,11 +140,12 @@ if __name__ == "__main__":
     for post in all_posts:
         post.posts_linking_to_this /= max_num_of_links
 
-    relations_graph = graphviz.Digraph(
+    relations_graph = graphviz.Graph(
         comment="All Relations",
-        graph_attr={"bgcolor": "transparent"},
+        graph_attr={"bgcolor": "transparent", "overlap": "false"},
         format="svg",
         node_attr={"shape": "box"},
+        engine="neato"
     )
 
     for post in all_posts:
