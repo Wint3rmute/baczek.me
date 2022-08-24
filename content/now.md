@@ -3,6 +3,21 @@ title: 2022's Devlog
 ---
 
 ```
+24.08
+```
+
+My time gets eaten away by work as we're finishing a big project.
+Hopefully I'll rest in the upcoming month and prepare some materials
+to submit the idea for my master's thesis to the uni.
+
+>Music:<br>
+>Agnes Obel - Riverside<br>
+
+Went to Agnes Obel's concert in my hometown.
+I'm really starting to enjoy live music :)
+
+
+```
 16.08
 ```
 
