@@ -1,6 +1,6 @@
 ---
 created: 2022-07-29T12:33:09+02:00
-modified: 2022-08-23T16:34:06+02:00
+modified: 2022-08-24T19:55:43+02:00
 title: 'Synth Patch Generation - Evolutionary Approach'
 ---
 
@@ -10,5 +10,6 @@ title: 'Synth Patch Generation - Evolutionary Approach'
   - Learn what short term fourier transform is
 - [Similar papers](https://www.google.com/search?q=genetic%20synth%20patch%20&ie=utf-8&oe=utf-8&client=firefox-b-m)
 - Could be a good learning resource - works of [Curtis Roads](https://en.m.wikipedia.org/wiki/Curtis_Roads)
+- [neural nets generating FM patches](https://fcaspe.github.io/ddx7/) 
 
 Todo: Read the `now` entry and restructure it
