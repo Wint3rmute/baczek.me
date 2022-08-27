@@ -11,6 +11,12 @@ Started hosting an [Invidious](https://invidious.io/) instance at [invidious.bac
 It provides a way better experience than YouTube, especially when listening to podcasts. I am not interrupted every ~30 minutes with 
 ads that I have to manually skip for them to stop playing.
 
+Wrote a proof of concept [custom oscillator](https://github.com/Wint3rmute/minilogue-xd-karplus-strong)
+for my [Minilogue](https://www.korg.com/us/products/synthesizers/minilogue_xd/).
+
+>Music:<br>
+>Baasch - Brokat<br>
+
 
 ```
 24.08
