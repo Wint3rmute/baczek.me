@@ -2,6 +2,16 @@
 title: 2022's Devlog
 ---
 
+
+```
+27.08
+```
+
+Started hosting an [Invidious](https://invidious.io/) instance at [invidious.baczek.me](https://invidious.baczek.me/).
+It provides a way better experience than YouTube, especially when listening to podcasts. I am not interrupted every ~30 minutes with 
+ads that I have to manually skip for them to stop playing.
+
+
 ```
 24.08
 ```

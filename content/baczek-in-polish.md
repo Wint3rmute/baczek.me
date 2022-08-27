@@ -26,3 +26,5 @@ Here's a collection of hand-picked Bączek pictures, following this interpretati
 
 {{image (src="/bumblebees/maja_drawing.jpg" title="A drawing done by me or some of my friends long time ago, backed up by @Maja (thanks a lot!)") }}
 
+{{image (src="/bumblebees/olek.jpg" title="This monstrosity, from @Olek") }}
+
