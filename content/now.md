@@ -4,6 +4,17 @@ title: 2022's Devlog
 
 
 ```
+31.08
+```
+
+>Music:<br>
+>Ben Bohmer - Begin Again
+><br>
+>Watching:<br>
+>FLCL
+
+
+```
 27.08
 ```
 
