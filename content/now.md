@@ -4,6 +4,27 @@ title: 2022's Devlog
 
 
 ```
+05.09
+```
+
+Compiled a sample Rust application to Android using [Macroquad](https://macroquad.rs/).
+It all worked out of the box, without any problems. Makes me excited, as I'll
+probably be able to work on my portable groovebox, all in Rust. I just
+need to hack together some way to get custom audio sources into Macroquad
+or use some other library to do the low-level heavy-lifting for me.
+
+Exploring ideas related with [physical modeling](https://ccrma.stanford.edu/~jos/pasp/).
+
+>Music:<br>
+>Coldplay - Christmas Lights<br>
+><br>
+>Watching:<br>
+>Wes Anderson - Fantascic Mr Fox<br>
+>Ari Aster - Hereditary<br>
+>David Lynch - Mulholland Drive<br>
+
+
+```
 31.08
 ```
 

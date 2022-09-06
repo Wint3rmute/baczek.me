@@ -28,6 +28,6 @@ and my [content creationg workflow](/content-creation-workflow) using all
 the FLOSS software I can find or write myself.
 
 Notes on interesting subjects I'd like to learn more
-about in the future (always growing mixture of topics)
+about in the future (ever-growing mixture of topics)
 can be found in [the waiting room](/waiting-room).
 
