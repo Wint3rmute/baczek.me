@@ -8,6 +8,7 @@ nor comprehensive in any way, it's just a quick hack that is good enough for me.
 
 """
 import json
+import math
 import re
 import subprocess
 from dataclasses import dataclass, field
@@ -15,15 +16,13 @@ from pathlib import Path
 
 import graphviz
 import matplotlib.pyplot as plt
+import nltk
+import umap
+from nltk.stem.snowball import SnowballStemmer
+from nltk.tokenize import word_tokenize
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.manifold import TSNE
 from sklearn.metrics.pairwise import cosine_similarity
-import nltk
-from nltk.stem.snowball import SnowballStemmer
-from nltk.tokenize import word_tokenize
-import umap
-import math
-
 
 nltk.download("punkt")
 
@@ -145,7 +144,7 @@ if __name__ == "__main__":
         graph_attr={"bgcolor": "transparent", "overlap": "false"},
         format="svg",
         node_attr={"shape": "box"},
-        engine="neato"
+        engine="neato",
     )
 
     for post in all_posts:
