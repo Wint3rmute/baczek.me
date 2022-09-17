@@ -2,6 +2,14 @@
 title: 2022's Devlog
 ---
 
+```
+17.09
+```
+
+Learning Kafka! 
+
+>Brian Eno - There Were Bells<br>
+>Dredd (2012)<br>
 
 ```
 05.09
