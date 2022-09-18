@@ -2,13 +2,28 @@
 title: 2022's Devlog
 ---
 
+
+```
+18.08
+```
+
+{{image (src="/war_games.jpg" title="")}}
+
+>Watching:<br>
+>Paprika (2nd rewatch)<br>
+>WarGames
+
+
 ```
 17.09
 ```
 
 Learning Kafka! 
 
+
+>Music:<br>
 >Brian Eno - There Were Bells<br>
+>Watching:<br>
 >Dredd (2012)<br>
 
 ```
