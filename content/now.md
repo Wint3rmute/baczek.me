@@ -4,6 +4,23 @@ title: 2022's Devlog
 
 
 ```
+21.08
+```
+
+Listened to a part of [Lex Fridman Podcast](https://youtu.be/VguG_y05Xe8) about [Rule 30](https://en.wikipedia.org/wiki/Rule_30).
+I was familiar with cellular automatas, but only with ones that operate on 2D arrays. Using
+a single dimension for the automata and visualising changes over time was something new to me.
+
+After taking a quick dive into Wikipedia, I found [Rule 184](https://en.wikipedia.org/wiki/Rule_184). 
+I liked the generated shapes, so I've experimented a bit with `python` and `imagemagick`:
+
+{{image (src="/rule_184/rule184_1.jpg" title="The same pattern, rotated 4 times and overlayed")}}
+{{image (src="/rule_184/rule184_3.jpg" title="Randomly generating, rotating and overlaying patterns")}}
+
+That's one step closer to becoming a generative artist, I guess :)
+
+
+```
 18.08
 ```
 
