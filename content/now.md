@@ -6,7 +6,7 @@ title: 2022's Devlog
 24.08
 ```
 
-If someone had told me a year ago that there would be an anime made by Studio Trigger, in collaboration with a Polish game studio, featuring some of the most known Polish artists in its soundtrack, I wouldn't be able to stop myself from laughing at such an idea. And yet, here we are. 
+If someone had told me a year ago that there would be an anime made by Studio Trigger, in collaboration with a Polish game development company, featuring some of the most known Polish artists in its soundtrack, I wouldn't be able to stop myself from laughing at such an idea. And yet, here we are. 
 
 >Watching:<br>
 >Cyberpunk: Edgerunners
