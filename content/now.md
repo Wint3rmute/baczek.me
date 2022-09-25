@@ -6,7 +6,7 @@ title: 2022's Devlog
 25.08
 ```
 
-Experimenting with wavetable synthesis. I've managed to hack it into [nosna](https://github.com/Wint3rmute/nosna) and sampled my Minilogue to have some homemade wavetables. It's way more entertaining than coding an FM synthesiser, you can get a lot of interesting timbres without having to play around with operator ratios & envelopes. This "happy accidents" workflow is more funny and rewarding. On the other hand, it mostly boils down to the samples you're using to build the wavetables. 
+Experimenting with wavetable synthesis. I've managed to hack it into [nosna](https://github.com/Wint3rmute/nosna) and sampled my Minilogue, just to have some "homemade" wavetables. It's way more entertaining than coding an FM synthesiser, you can get a lot of interesting timbres without having to play around with operator ratios & envelopes. This "happy accidents" workflow is more funny and rewarding. On the other hand, it mostly boils down to the samples you're using to build the wavetables. 
 
 >Listening:<br>
 >Rosa Walton - I Really Want to Say at Your House
