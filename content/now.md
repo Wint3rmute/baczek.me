@@ -3,7 +3,14 @@ title: 2022's Devlog
 ---
 
 ```
-25.08
+28.09
+```
+
+My copy of [Spectres III: Ghosts in the Machine](https://shelter-press.com/spectres-3/) has arrived! Can't wait to dive into it.
+
+
+```
+25.09
 ```
 
 Experimenting with wavetable synthesis. I've managed to hack it into [nosna](https://github.com/Wint3rmute/nosna) and sampled my Minilogue, just to have some "homemade" wavetables. It's way more entertaining than coding an FM synthesiser, as you can get a lot of interesting timbres without having to play around with operator ratios & envelopes. This "happy accidents" workflow is more enjoyable and rewarding. On the other hand, it mostly boils down to the samples you're using to build the wavetables. 
@@ -13,7 +20,7 @@ Experimenting with wavetable synthesis. I've managed to hack it into [nosna](htt
 
 
 ```
-24.08
+24.09
 ```
 
 If someone had told me a year ago that there would be an anime made by Studio Trigger, in collaboration with a Polish game development company, featuring some of the most known Polish artists in its soundtrack, I wouldn't be able to stop myself from laughing at such an idea. And yet, here we are.
@@ -28,7 +35,7 @@ The feeling's magical. Thank you, CD Project Red!
 
 
 ```
-21.08
+21.09
 ```
 
 Listened to a part of [Lex Fridman Podcast](https://youtu.be/VguG_y05Xe8) about [Rule 30](https://en.wikipedia.org/wiki/Rule_30).
@@ -45,7 +52,7 @@ That's one step closer to becoming a generative artist, I guess :)
 
 
 ```
-18.08
+18.09
 ```
 
 {{image (src="/war_games.jpg" title="")}}
