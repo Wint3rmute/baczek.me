@@ -3,6 +3,14 @@ title: 2022's Devlog
 ---
 
 ```
+01.09
+```
+
+Clearing code and fixing the AUR package of my old project, [Telegram Notification Bot](https://github.com/Wint3rmute/tnb). Reading on de-bloating and improving build times of Rust programs.
+
+>Ben Bohmer - Lost in Mind
+
+```
 25.08
 ```
 
