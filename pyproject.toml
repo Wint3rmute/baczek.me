@@ -5,17 +5,17 @@ description = ""
 authors = ["wint3rmute <mateusz.baczek1998@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "~3.9"
-scikit-learn = "~1.1.1"
+python = "~3.10"
+# ipympl = "^0.9.1"  # Not for python3.10 :(
+scikit-learn = "^1.1.2"
 graphviz = "^0.20.1"
-matplotlib = "~3.5.2"
-umap-learn = "~0.5.3"
-fastapi = "^0.79.0"
-uvicorn = {extras = ["standard"], version = "^0.18.2"}
-jupyterlab = "^3.4.4"
-ipywidgets = "^7.7.1"
+matplotlib = "^3.6.0"
+umap-learn = "^0.5.3"
+fastapi = "^0.85.0"
+uvicorn = {extras = ["standard"], version = "^0.18.3"}
+jupyterlab = "^3.4.8"
+ipywidgets = "^8.0.2"
 pycairo = "^1.21.0"
-ipympl = "^0.9.1"
 nltk = "^3.7"
 
 [tool.poetry.dev-dependencies]
