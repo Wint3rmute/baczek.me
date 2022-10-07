@@ -3,11 +3,32 @@ title: 2022's Devlog
 ---
 
 ```
-01.09
+07.10
+```
+
+Updated the related pages generation system for Python 3.10 compatibility. The amount of dependencies required
+to run the generation script is staggering. 292 Fedora dependencies and 111 Python libraries!
+
+Idea: try writing a basic word vectorizer and a PCA algorithm, see how it performs as a minimal setup.
+
+---
+
+Going down the real-time video/audio streaming rabbit hole again, this time for
+a university project - real-time sound synthesis and streaming to an arbitrary
+number of connected devices, all collaborating together to create a track. Synthesizer as a service?
+
+>Listening:<br>
+>Punch Brothers - Familiarity<br>
+>Apollo - Brian Eno
+
+
+```
+01.10
 ```
 
 Clearing code and fixing the AUR package of my old project, [Telegram Notification Bot](https://github.com/Wint3rmute/tnb). Reading on de-bloating and improving build times of Rust programs.
 
+>Listening:<br>
 >Ben Bohmer - Lost in Mind
 
 ```
