@@ -12,7 +12,7 @@ graphviz = "^0.20.1"
 matplotlib = "^3.6.0"
 umap-learn = "^0.5.3"
 fastapi = "^0.85.0"
-uvicorn = {extras = ["standard"], version = "^0.18.3"}
+uvicorn = { extras = ["standard"], version = "^0.18.3" }
 jupyterlab = "^3.4.8"
 ipywidgets = "^8.0.2"
 pycairo = "^1.21.0"

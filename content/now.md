@@ -254,7 +254,7 @@ I am still testing on XXIIVV blog contents, as it has lots and lots of posts.") 
 03.08
 ```
 
-Experimenting with [UMAP](https://umap-learn.readthedocs.io/en/latest/) for [related posts exploration](/website-map).
+Experimenting with [UMAP](https://umap-learn.readthedocs.io/en/latest/) for [related posts exploration](/map).
 I'm testing it on [XXIIVV](http://xxiivv.com/) again, but this time **without cheating**, preprocessing removes
 the `<nav>` blocks containing links to other pages, the algorithm works only with each page's content. Results are promising:
 
@@ -268,7 +268,7 @@ the `<nav>` blocks containing links to other pages, the algorithm works only wit
 01.08
 ```
 
-Cleaned up the site deployment code, moved the docker image to Fedora + Python3.9 (3.10 does not yet have wheels for `sklearn` and there are some problems with numpy compatibility). I'm now ready to test UMAP for [site map](/website-map) generation :)
+Cleaned up the site deployment code, moved the docker image to Fedora + Python3.9 (3.10 does not yet have wheels for `sklearn` and there are some problems with numpy compatibility). I'm now ready to test UMAP for [site map](/map) generation :)
 
 >Music:<br>
 >Harmonia & Eno '76 - Welcome<br>
@@ -311,7 +311,7 @@ It looks promising when run on blogs with lots of entries:
 is writing all the links to related pages manually. Because of this, text vectorisation has
 no problems with connecting the dots :) On the other hand, this experiment made me more confident
 that semi-automatic generation of related blog entries in a graph form is not a bad idea,
-as the resulting graphs look promising. You can see them [here](/website-map).
+as the resulting graphs look promising. You can see them [here](/map).
 
 
 >Albums: <br>
