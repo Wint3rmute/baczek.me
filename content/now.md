@@ -10,7 +10,7 @@ I often find myself mistaking the command which launches [Orca screen reader](ht
 with the one launching the [Orca sequencer](https://github.com/hundredrabbits/Orca) (commands are `orca` and `orca-c` on my system, so it's easy to get them wrong).
 This gave me an opportunity to dig a little bit into the screen readers world.
 
-I was really impressed that every single UI element of Firefox is compatible with `orca`. This really adds a completely new layer to UI programming,
+I was really impressed that every single UI element of Firefox is compatible with `orca`. This adds a completely new layer to UI programming,
 I really feel ignorant for not realising this before.
 
 I've heard that the only way to actually make your websites accessible for people with vision disabilities is to use them
