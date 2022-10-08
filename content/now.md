@@ -3,6 +3,23 @@ title: 2022's Devlog
 ---
 
 ```
+08.10
+```
+
+I often find myself mistaking the command which launches [Orca screen reader](https://help.gnome.org/users/orca/stable/)
+with the one launching the [Orca sequencer](https://github.com/hundredrabbits/Orca) (commands are `orca` and `orca-c` on my system, so it's easy to get them wrong).
+This gave me an opportunity to dig a little bit into the screen readers world.
+
+I was really impressed that every single UI element of Firefox is compatible with `orca`. This really adds another layer to UI programming,
+I really feel ignorant for not realising this before.
+
+I've heard that the only way to actually make your websites accessible for people with vision disabilities is to use them
+the same way they do, so I gave my website a try while blinded, using some basic keyboard shortcuts i found via `man orca`.
+I was able to get around the page without any issues, so I guess that's another reason to stay minimal with your site :)
+
+TODO: On the other hand, thinking about my interest in data visualisation
+
+```
 07.10
 ```
 
