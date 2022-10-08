@@ -15,7 +15,8 @@ I really feel ignorant for not realising this before.
 
 I've heard that the only way to actually make your websites accessible for people with vision disabilities is to use them
 the same way they do, so I gave my website a try while blinded, using some basic keyboard shortcuts i found via `man orca`.
-I was able to get around the page without any issues, so I guess that's another reason to stay minimal with your site :)
+I was able to get around the page without any issues, so I guess that's another reason to stay minimal with your site. Also, using proper semantic tags (nav, section, etc) is always a good idea!
+
 
 TODO: On the other hand, thinking about my interest in data visualisation
 
