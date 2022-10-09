@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2022-10-03T09:42:08+02:00
+modified: 2022-10-10T01:16:44+02:00
 title: The Waiting room
 ---
 
@@ -8,9 +8,9 @@ title: The Waiting room
 
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
+- [Jonathan Haidt on social media](https://jonathanhaidt.com/social-media/)
 - The Sublime Object of Ideology
 - [Escape From Freedom](https://en.m.wikipedia.org/wiki/Escape_from_Freedom)
-- [Audio file decoder in Rodio, Rust](https://docs.rs/rodio/latest/rodio/decoder/struct.Decoder.html)
 - [Generative music in JS](https://teropa.info/blog/2016/07/28/javascript-systems-music.html#setting-up-musicforairports-js)
 - [Helix text editor](https://github.com/helix-editor/helix)
 - Mad God movie
@@ -32,8 +32,6 @@ This is where I keep ideas, movies, music, interesting words and other things th
 - Another interesting lines forum post:
   - https://flashcrash.net/
   - https://llllllll.co/t/flash-crash-monthly-livecoding-stream-archive/45273/3
-- Reverb algorithms
-
 - https://llllllll.co/t/generative-visuals-video-graphics-art-etc/2658/8
 - Aion Carl Jung
 - https://media.libreplanet.org/u/libreplanet/m/software-doldrums/
@@ -64,7 +62,6 @@ This is where I keep ideas, movies, music, interesting words and other things th
 - Kocia kołyska vonnegut
 - Dukajowi: Julio Cortazar, Gene Wolfe, Friedrich Durrenmatt
 - Disturbing the universe dyson
-- Eraserhead 77
 - Brazil 85
 - http://justiceharvard.org/justicecourse/
 - https://github.com/adaltas/ece-devops-2020-fall
@@ -74,7 +71,6 @@ This is where I keep ideas, movies, music, interesting words and other things th
 - Willard Van Orman Quine 
 - Richard Rorty
 - Irlandczyk 2019
-- Bakemonogatari 
 - Budapest Grand Hotel
 - Megazone23
 - On Contingency - Liebniz
@@ -82,8 +78,7 @@ This is where I keep ideas, movies, music, interesting words and other things th
 - Castlevania
 - Pale Cocoon
 - Berserk
-- Dom, który zbudował Jack 
-- The Bird Box
+- Dom, który zbudował Jack
 - Lost Highway 97
 - Blame from Netflix
 - Angel's Egg
