@@ -3,6 +3,13 @@ title: 2022's Devlog
 ---
 
 ```
+10.10
+```
+
+I should write a post on cosmic horror movies/books/etc
+
+
+```
 08.10
 ```
 
