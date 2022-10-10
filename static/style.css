@@ -44,11 +44,11 @@ button {
     border-radius: 5px;
     border: none;
     cursor: pointer;
+    box-shadow: 0px 0px 25px -10px black;
 }
 
 a.hidden {
   text-decoration: none;
-  /* color: var(--content_foreground); */
   color: inherit;
 }
 
