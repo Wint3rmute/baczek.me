@@ -65,6 +65,10 @@ a:hover {
     color: var(--accent)
 }
 
+footer > p > a {
+    text-decoration: none;
+}
+
 nav > ul {
     padding-left: 0px;
 }
