@@ -7,6 +7,8 @@
 {% set related_file_name = [ filename_no_slashes, ".json" ] | join() %}
 {% set related_file_path = ["generated", related_file_name ] | join(sep="/") -%}
 {% set related_posts = load_data(path=related_file_path, required=false) -%}
+
+<article>
 <h1>
 {{ page.title }}
 
@@ -15,9 +17,10 @@
 {{ page.content | safe }}
 
 <hr>
+</article>
 
 {% if related_posts %}
-
+<aside>
 
 <p><a class="hidden" href="/map">Related</a> posts:</p>
 
@@ -26,6 +29,7 @@
 <a href="{{ post.url }}">{{ post.title }}</a> ~
 {%endfor%}
 
+</aside>
 {% else %}{% endif %}
 
 {% endblock content %}
