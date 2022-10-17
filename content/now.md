@@ -3,6 +3,16 @@ title: 2022's Devlog
 ---
 
 ```
+17.10
+```
+Finished watching [this brilliant talk](https://www.youtube.com/watch?v=vn7563IAQ_E) by [timur.audio](https://timur.audio/). An eye opener for me, as I was mostly ignorant of the inner workings of the C++ standard regarding real-time guarantees. 
+
+Rewriting [Libretakt's](https://github.com/Wint3rmute/Libretakt) cross-thread data synchronisation mechanism to `
+[mpsc](https://doc.rust-lang.org/std/sync/mpsc/) (or some other lock-free communication primitive, only time will tell). 
+
+>The Chemical Brothers - No Geography
+
+```
 10.10
 ```
 
