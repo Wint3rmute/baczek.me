@@ -9,7 +9,10 @@ Finished watching [this brilliant talk](https://www.youtube.com/watch?v=vn7563IA
 
 Rewriting [Libretakt's](https://github.com/Wint3rmute/Libretakt) cross-thread data synchronisation mechanism to [mpsc](https://doc.rust-lang.org/std/sync/mpsc/) (or some other lock-free communication primitive, only time will tell). 
 
->The Chemical Brothers - No Geography
+>Listening:<br>
+>The Chemical Brothers - No Geography<br>
+>The Killers - When You Were Young<br>
+>Panic! At the Disco - New Perspective
 
 ```
 10.10
