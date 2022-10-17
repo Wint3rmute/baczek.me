@@ -7,8 +7,7 @@ title: 2022's Devlog
 ```
 Finished watching [this brilliant talk](https://www.youtube.com/watch?v=vn7563IAQ_E) by [timur.audio](https://timur.audio/). A true eye opener, as I was mostly ignorant of C++ standard's the inner workings regarding real-time guarantees. 
 
-Rewriting [Libretakt's](https://github.com/Wint3rmute/Libretakt) cross-thread data synchronisation mechanism to `
-[mpsc](https://doc.rust-lang.org/std/sync/mpsc/) (or some other lock-free communication primitive, only time will tell). 
+Rewriting [Libretakt's](https://github.com/Wint3rmute/Libretakt) cross-thread data synchronisation mechanism to [mpsc](https://doc.rust-lang.org/std/sync/mpsc/) (or some other lock-free communication primitive, only time will tell). 
 
 >The Chemical Brothers - No Geography
 
