@@ -11,20 +11,18 @@ scikit-learn = "^1.1.2"
 graphviz = "^0.20.1"
 matplotlib = "^3.6.0"
 umap-learn = "^0.5.3"
-fastapi = "^0.85.0"
 uvicorn = { extras = ["standard"], version = "^0.18.3" }
-jupyterlab = "^3.4.8"
-ipywidgets = "^8.0.2"
 pycairo = "^1.21.0"
 nltk = "^3.7"
 beautifulsoup4 = "^4.11.1"
 markdown = "^3.4.1"
-
-[tool.poetry.dev-dependencies]
+fastapi = "^0.85.0"
 
 [tool.poetry.group.dev.dependencies]
 black = "^22.10.0"
 isort = "^5.10.1"
+jupyterlab = "^3.4.8"
+ipywidgets = "^8.0.2"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
