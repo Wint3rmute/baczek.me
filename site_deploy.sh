@@ -7,7 +7,7 @@ rm -rf "$CLONE_LOCATION"
 git clone "$REPO_URL" "$CLONE_LOCATION" --depth=1
 cd "$CLONE_LOCATION"
 
-python related_posts_generator.py
+python -m related_generator
 zola build
 
 mv public html

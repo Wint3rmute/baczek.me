@@ -24,64 +24,9 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.manifold import TSNE
 from sklearn.metrics.pairwise import cosine_similarity
 
+from .post import Post, get_all_posts
+
 nltk.download("punkt")
-
-
-@dataclass
-class Post:
-    title: str
-    content: str
-    path: Path
-
-    # To be filled by map generation
-    x: float = 0.0
-    y: float = 0.0
-
-    related_post_ids: list[int] = field(default_factory=list)
-    posts_linking_to_this: int = 0
-
-    @classmethod
-    def from_path(cls, path: Path):
-
-        if path.suffix == ".md":
-
-            content = subprocess.check_output(
-                ["pandoc", "-f", "markdown", "-t", "plain", path.absolute()]
-            ).decode()
-
-            content_raw = path.read_text()
-            title = None
-
-            for line in content_raw.split("\n"):
-                if "title: " in line:
-                    title = line.replace("title: ", "").strip()
-
-            if not title:
-                raise ValueError(f"Title not found in {path}")
-
-        elif path.suffix == ".html":
-            content_raw = path.read_text()
-
-            content = subprocess.check_output(
-                f"sed 's/<nav>.*<\/nav>//' {path} | pandoc -f html -t plain -",
-                shell=True,
-            ).decode()
-            title = path.name
-
-        return cls(title, content, path)
-
-    def distance_to(self, post: "Post") -> float:
-        return math.sqrt((self.x - post.x) ** 2 + (self.y - post.y) ** 2)
-
-
-def get_all_posts() -> list[Post]:
-    all_posts = []
-    all_posts_paths = Path.glob(Path("./content/"), "**/*.md")
-
-    for post_path in all_posts_paths:
-        all_posts.append(Post.from_path(post_path))
-
-    return all_posts
 
 
 def tokenizer(text: str) -> list[str]:

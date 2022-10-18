@@ -1,30 +1,25 @@
-FROM fedora:36
+FROM archlinux:latest
 
-RUN dnf install --refresh -y pandoc git graphviz wget \
-                             blas-devel lapack-devel gcc-gfortran g++ poetry gcc \
-                             python-devel cairo-devel graphviz \
-			     && dnf clean all
-
-RUN wget -O - "https://github.com/getzola/zola/releases/download/v0.16.0/zola-v0.16.0-x86_64-unknown-linux-gnu.tar.gz" | \
-  tar -xvzf - && \
-  mv zola /usr/bin/zola && \
-  zola --version
+RUN pacman -Sy --noconfirm git graphviz wget \
+                             blas gcc poetry pkgconf \
+                             python python-cairo graphviz zola \
+			     && pacman -Sc --noconfirm
 
 WORKDIR /website
 
 COPY pyproject.toml .
 COPY poetry.lock .
 
-RUN poetry install
+RUN poetry install --only main
 
 # Run a test website build
-COPY related_posts_generator.py .
+COPY related_generator related_generator
 COPY content content
 COPY static static
 COPY templates templates
 COPY config.toml .
 
-RUN poetry run python related_posts_generator.py
+RUN poetry run python -m related_generator
 RUN zola build
 
 # Site autodeploy
