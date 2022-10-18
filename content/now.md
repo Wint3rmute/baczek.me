@@ -2,6 +2,14 @@
 title: 2022's Devlog
 ---
 
+
+```
+18.10
+```
+
+Slimming down the related posts generating docker image.
+
+
 ```
 17.10
 ```
