@@ -27,7 +27,7 @@ class Post:
             content_raw = path.read_text()
             # No easy markdown to text convertsion available at the moment :/
             html = markdown.markdown(content_raw)
-            html_tree = BeautifulSoup(html)
+            html_tree = BeautifulSoup(html, features="html.parser")
             content = html_tree.text
 
             title = None
@@ -41,7 +41,7 @@ class Post:
 
         elif path.suffix == ".html":
             content_raw = path.read_text()
-            html_tree = BeautifulSoup(content_raw)
+            html_tree = BeautifulSoup(content_raw, features="html.parser")
             html_tree.nav.decompose()
             content = html_tree.text.replace("\n", "")
 
