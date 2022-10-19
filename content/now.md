@@ -2,13 +2,13 @@
 title: 2022's Devlog
 ---
 
-
 ```
 18.10
 ```
 
-Slimming down the related posts generating docker image.
+Slimming down the docker image I'm using to generate the related posts [map](/map).
 
+Again, thinking about rewriting the whole thing manually, just to learn some low level NLP, as the image is still way over 1GB. 
 
 ```
 17.10
