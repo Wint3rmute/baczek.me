@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2022-10-10T01:16:44+02:00
+modified: 2022-10-22T11:02:08+02:00
 title: The Waiting room
 ---
 
@@ -8,6 +8,7 @@ title: The Waiting room
 
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
+- Parasite Dolls (2003)
 - [Jonathan Haidt on social media](https://jonathanhaidt.com/social-media/)
 - The Sublime Object of Ideology
 - [Escape From Freedom](https://en.m.wikipedia.org/wiki/Escape_from_Freedom)
