@@ -3,6 +3,17 @@ title: 2022's Devlog
 ---
 
 ```
+22.10
+```
+
+Found out about [dragon](https://github.com/mwh/dragon)
+while searching for possible improvements to my terminal workflow.
+
+*TODO*: a summary of my favourite terminal utilities, especially
+the less popular ones.
+
+
+```
 18.10
 ```
 
@@ -15,7 +26,12 @@ Again, thinking about rewriting the whole thing completely from scratch, just to
 ```
 Finished watching [this brilliant talk](https://www.youtube.com/watch?v=vn7563IAQ_E) by [timur.audio](https://timur.audio/). A true eye opener, as I was mostly ignorant of C++ standard's inner workings regarding real-time guarantees. 
 
-Rewriting [Libretakt's](https://github.com/Wint3rmute/Libretakt) cross-thread data synchronisation mechanism to [mpsc](https://doc.rust-lang.org/std/sync/mpsc/) (or some other lock-free communication primitive, only time will tell). 
+Rewriting [Libretakt's](https://github.com/Wint3rmute/Libretakt) cross-thread data synchronisation mechanism to [mpsc](https://doc.rust-lang.org/std/sync/mpsc/) (or some other lock-free communication primitive, only time will tell).
+
+---
+
+Update: settled down on [Flume](https://github.com/zesterer/flume) for
+lock-free communication.
 
 >Listening:<br>
 >The Chemical Brothers - No Geography<br>
