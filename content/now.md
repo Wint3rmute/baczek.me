@@ -3,6 +3,16 @@ title: 2022's Devlog
 ---
 
 ```
+27.10
+```
+
+Found out about [Hania Rani](https://haniarani.com/) today. Glad to see more talented Polish artists doing experimental music :) 
+
+>Listening:<br>
+>Hania Rani - Eden
+
+
+```
 22.10
 ```
 
