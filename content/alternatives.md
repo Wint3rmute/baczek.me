@@ -1,6 +1,6 @@
 ---
 created: 2022-10-27T23:13:55+02:00
-modified: 2022-10-27T23:33:00+02:00
+modified: 2022-10-27T23:35:18+02:00
 title: Curated list if alternatives to C/C++ software
 ---
 
@@ -12,6 +12,7 @@ title: Curated list if alternatives to C/C++ software
 - [Bottom](https://caddyserver.com/)
 - [Paru](https://github.com/Morganamilo/paru)
 - [Neovide](https://neovide.dev)
+- [Alacritty](https://alacritty.org/)
 - [fd](https://github.com/sharkdp/fd)
 
 ---
