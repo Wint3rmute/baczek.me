@@ -1,6 +1,6 @@
 ---
 created: 2022-10-27T23:13:55+02:00
-modified: 2022-10-27T23:22:04+02:00
+modified: 2022-10-27T23:23:59+02:00
 title: Alternatives to C/C++ software
 ---
 
@@ -15,6 +15,9 @@ Most of the software, that powers this world runs on C and C++. I do not mean to
 
 # List of alternatives to classic software written in C/C++
 
-*Less-known first to keep the list interesting*
+*Lesser-known first to keep the list interesting*
 
 - [LeftWm](https://leftwm.org)
+- [Caddy](https://caddyserver.com/)
+- [bottom](https://caddyserver.com/)
+- [fd](https://github.com/sharkdp/fd)
