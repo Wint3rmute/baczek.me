@@ -1,6 +1,6 @@
 ---
 created: 2022-10-27T23:02:37+02:00
-modified: 2022-10-27T23:13:52+02:00
+modified: 2022-10-27T23:36:11+02:00
 title: My system configuration
 ---
 
@@ -14,6 +14,7 @@ title: My system configuration
 - Arch Linux + [NixOS](/nixos) (transition on hold)
 - [LeftWm](http://leftwm.org/) - part of [better alternatives to C software](/alternatives)
 - My semi-custom [color theme](/theme)
+- [Kitty](https://sw.kovidgoyal.net/kitty/) as a terminal - I love the performance and the ligatures
 
 # Development
 
