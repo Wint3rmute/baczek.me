@@ -1,6 +1,6 @@
 ---
 created: 2022-10-27T23:02:37+02:00
-modified: 2022-10-27T23:13:32+02:00
+modified: 2022-10-27T23:13:52+02:00
 title: My system configuration
 ---
 
@@ -12,7 +12,7 @@ title: My system configuration
 # Distro + Essentials
 
 - Arch Linux + [NixOS](/nixos) (transition on hold)
-- [LeftWm](http://leftwm.org/) - part of [better rust alternatives](/alternatives)
+- [LeftWm](http://leftwm.org/) - part of [better alternatives to C software](/alternatives)
 - My semi-custom [color theme](/theme)
 
 # Development
