@@ -1,6 +1,6 @@
 ---
 created: 2022-10-27T23:13:55+02:00
-modified: 2022-10-27T23:25:43+02:00
+modified: 2022-10-27T23:27:41+02:00
 title: Alternatives to C/C++ software
 ---
 
@@ -13,7 +13,9 @@ Most of the software, that powers this world runs on C and C++. I do not mean to
 - Improved approach to macros and other metaprogramming-related aspects
 - Integrated documentation builders
 
-# List of alternatives to classic software written in C/C++
+# Curated list of alternatives to classic software written in C/C++
+
+I encourage you to compare the documentation of the software from this list with their *classic* alternatives, just to see how important good documentation is.
 
 *Lesser-known first to keep the list interesting*
 
