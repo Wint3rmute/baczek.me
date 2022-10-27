@@ -9,7 +9,8 @@ title: 2022's Devlog
 Found out about [Hania Rani](https://haniarani.com/) today. Glad to see more talented Polish artists doing experimental music :) 
 
 >Listening:<br>
->Hania Rani - Eden
+>Hania Rani - Eden<br>
+>Thievery Corporation - Love Has No Heart
 
 
 ```
