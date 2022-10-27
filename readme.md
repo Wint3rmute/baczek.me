@@ -1,7 +1,3 @@
----
-title: Personal website
----
-
 Currently hosted on [baczek.me](https://baczek.me).
 [Wint3rmute.github.io](https://wint3rmute.github.io) serves as a redirect now.
 
