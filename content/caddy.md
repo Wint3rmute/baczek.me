@@ -1,6 +1,6 @@
 ---
 created: 2022-06-16T00:10:36+02:00
-modified: 2022-08-17T21:40:45+02:00
+modified: 2022-10-27T23:34:42+02:00
 title: Caddy web server
 ---
 
@@ -9,9 +9,6 @@ Caddy is written in Go and uses a far more intuitive configuration file (this is
 
 This site runs on Caddy :)
 
-*TODO*: write more on modern replacements of classic C programs:
-- leftwm
-- nix
-- paru
-- neovide
-- alacritty
+---
+
+See more [alternatives to popular software](/alternatives).
