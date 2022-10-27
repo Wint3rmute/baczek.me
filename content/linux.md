@@ -1,12 +1,12 @@
 ---
 created: 2022-10-27T23:02:37+02:00
-modified: 2022-10-27T23:36:11+02:00
+modified: 2022-10-27T23:37:08+02:00
 title: My system configuration
 ---
 
 # Hardware
 
-- ThinkPad x260
+- ThinkPad x260 + Asus GL553VE
 - *TODO*: update when the keyboard ships
 
 # Distro + Essentials
