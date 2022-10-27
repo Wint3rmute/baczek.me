@@ -1,5 +1,5 @@
 ---
-title: 🎹 Sounds
+title: Sounds
 ---
 
 I've been through a music school, learning piano for 6 years (also boosting my typing speed, which came in handy later).
@@ -30,6 +30,3 @@ those two domains and maybe write a custom sequencer or something similiar to ja
 
 I've written a simple FM/PM synthesizer in Rust, you can check
 it out [here](git@github.com:Wint3rmute/nosna.git).
-
-
-
