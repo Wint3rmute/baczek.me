@@ -1,6 +1,6 @@
 ---
 created: 2022-10-27T23:13:55+02:00
-modified: 2022-10-27T23:23:59+02:00
+modified: 2022-10-27T23:25:43+02:00
 title: Alternatives to C/C++ software
 ---
 
@@ -17,7 +17,9 @@ Most of the software, that powers this world runs on C and C++. I do not mean to
 
 *Lesser-known first to keep the list interesting*
 
-- [LeftWm](https://leftwm.org)
+- [LeftWM](https://leftwm.org)
 - [Caddy](https://caddyserver.com/)
+- [Helix](https://helix-editor.com/)
 - [bottom](https://caddyserver.com/)
+- [Neovide](https://neovide.dev)
 - [fd](https://github.com/sharkdp/fd)
