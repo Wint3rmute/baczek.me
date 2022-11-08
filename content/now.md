@@ -18,7 +18,7 @@ Somewhere in the process of improving the education system, we fell victim to th
 
 {{image (src="/computer_poster.jpg" title="")}}
 
-*Todo*: trim the right side of this poster
+*Todo*: trim the right side of this poster. 
 
 ```
 27.10
