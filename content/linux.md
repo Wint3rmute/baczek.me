@@ -1,6 +1,6 @@
 ---
 created: 2022-10-27T23:02:37+02:00
-modified: 2022-11-08T21:35:34+01:00
+modified: 2022-11-08T21:36:18+01:00
 title: My system configuration
 ---
 
@@ -15,6 +15,7 @@ title: My system configuration
 - [LeftWm](http://leftwm.org/) - part of [better alternatives to C software](/alternatives)
 - My semi-custom [color theme](/theme)
 - [Kitty](https://sw.kovidgoyal.net/kitty/) as a terminal - I love the performance and the ligatures
+- Firefox (yes, you should be using it instead of anything Chromium-based) 
 
 # Development
 
