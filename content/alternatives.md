@@ -1,20 +1,20 @@
 ---
 created: 2022-10-27T23:13:55+02:00
-modified: 2022-11-08T21:39:50+01:00
+modified: 2022-11-08T21:42:47+01:00
 title: Curated list of alternatives to C/C++/Java software
 ---
 
 *Lesser-known first to keep the list interesting*
 
-- [LeftWM](https://leftwm.org)
-- [Caddy](https://caddyserver.com/)
-- [Helix](https://helix-editor.com/)
-- [Bottom](https://github.com/ClementTsang/bottom/)
+- [LeftWM](https://leftwm.org) - a window manager
+- [Caddy](https://caddyserver.com/) - a web server with automatic HTTPs and refreshingly simple configuration
+- [Helix](https://helix-editor.com/) - a text editor
+- [Bottom](https://github.com/ClementTsang/bottom/) - your new `top`/`htop`
 - [Zola](https://www.getzola.org/documentation/getting-started/overview/) - a static site generator, which powers this website
-- [Paru](https://github.com/Morganamilo/paru)
-- [Neovide](https://neovide.dev)
-- [Alacritty](https://alacritty.org/)
-- [fd](https://github.com/sharkdp/fd)
+- [Paru](https://github.com/Morganamilo/paru) - AUR helper for all Arch folks
+- [Neovide](https://neovide.dev) - `neovim` client with eye-candy animations
+- [Alacritty](https://alacritty.org/) - a terminal emulator
+- [fd](https://github.com/sharkdp/fd) - unix `find` but actually usable without having to read `man` each time
 
 ---
 
