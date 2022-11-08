@@ -1,6 +1,6 @@
 ---
 created: 2022-10-27T23:13:55+02:00
-modified: 2022-11-08T21:38:51+01:00
+modified: 2022-11-08T21:39:50+01:00
 title: Curated list of alternatives to C/C++/Java software
 ---
 
@@ -10,6 +10,7 @@ title: Curated list of alternatives to C/C++/Java software
 - [Caddy](https://caddyserver.com/)
 - [Helix](https://helix-editor.com/)
 - [Bottom](https://github.com/ClementTsang/bottom/)
+- [Zola](https://www.getzola.org/documentation/getting-started/overview/) - a static site generator, which powers this website
 - [Paru](https://github.com/Morganamilo/paru)
 - [Neovide](https://neovide.dev)
 - [Alacritty](https://alacritty.org/)
