@@ -16,6 +16,8 @@ It's in my nature to dig deeper into the subjects I'm learning. Unfortunately, t
 
 Somewhere in the process of improving the education system, we fell victim to the [Goodheart's Law](https://en.m.wikipedia.org/wiki/Goodhart%27s_law). Blindly increasing the amount of information  learned by students just for the sake of ECTS or some other university-related metric does not actually increase the amount of knowledge that the students are gaining. 
 
+{{image (src="/computer_poster.jpg" title="")}}
+
 ```
 27.10
 ```
