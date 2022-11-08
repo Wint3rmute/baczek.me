@@ -20,7 +20,7 @@ Somewhere in the process of improving the education system, we fell victim to th
 
 *Todo*: trim the right side of this poster. 
 
->Listening<br>
+>Listening:<br>
 >Cory Wong & Dirty Loops - Follow The Light<br>
 >Dawid Podsiadło - Project 19<br>
 >Oliver Koletzki I am OK
