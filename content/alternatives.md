@@ -1,6 +1,6 @@
 ---
 created: 2022-10-27T23:13:55+02:00
-modified: 2022-11-08T21:32:49+01:00
+modified: 2022-11-08T21:33:23+01:00
 title: Curated list if alternatives to C/C++ software
 ---
 
@@ -9,7 +9,7 @@ title: Curated list if alternatives to C/C++ software
 - [LeftWM](https://leftwm.org)
 - [Caddy](https://caddyserver.com/)
 - [Helix](https://helix-editor.com/)
-- [Bottom](https://caddyserver.com/)
+- [Bottom](https://github.com/ClementTsang/bottom/)
 - [Paru](https://github.com/Morganamilo/paru)
 - [Neovide](https://neovide.dev)
 - [Alacritty](https://alacritty.org/)
