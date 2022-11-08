@@ -1,6 +1,6 @@
 ---
 created: 2022-10-27T23:13:55+02:00
-modified: 2022-10-27T23:35:18+02:00
+modified: 2022-11-08T21:32:49+01:00
 title: Curated list if alternatives to C/C++ software
 ---
 
@@ -23,8 +23,7 @@ I encourage you to compare the documentation of the software from this list with
 
 Most of the software, that powers this world runs on C and C++. I do not mean to criticise those languages, as they were both a great improvement for the programming community, opening new and exciting paths to better software. However, during the last 2 decades, new languages have emerged, fulfilling the need for:
 
-
-- Better library/package management
+- Built-in tools for easy code reuse (package/library management)
 - Memory safety
 - Improved approach to macros and other metaprogramming-related aspects
-- Integrated documentation builders
+- Integrated documentation builders (`cargo doc` as a prime example)
