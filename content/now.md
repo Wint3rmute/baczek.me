@@ -191,6 +191,8 @@ Learning Kafka!
 >Watching:<br>
 >Dredd (2012)<br>
 
+Dredd was surprisingly fun to watch, if you enjoy cliche sci-fi movies or action movies in general, you're going to have a good time.
+
 ```
 05.09
 ```
@@ -279,6 +281,7 @@ amazed, it works wonderfully!
 >Music:<br>
 >Depeche Mode - But Not Tonight, Live
 
+It's amazing how the voices of the audience synchronise together at the end when the music stops, it was almost a spiritual moment for me while listening.
 
 ```
 14.08
@@ -332,7 +335,7 @@ End of the day update: the instance has been accepted by SearX maintainers and i
 
 >Music:<br>
 >Taeko Onuki: 4:00A.M.<br>
->Beardyman: Shelter me from the rain
+>Beardyman & MC Hyperscott: Shelter me from the rain
 
 
 ```
