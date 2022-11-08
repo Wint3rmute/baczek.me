@@ -23,7 +23,7 @@ Somewhere in the process of improving the education system, we fell victim to th
 >Listening:<br>
 >Cory Wong & Dirty Loops - Follow The Light<br>
 >Dawid Podsiadło - Project 19<br>
->Oliver Koletzki I am OK
+>Oliver Koletzki - I am OK
 
 ```
 27.10
