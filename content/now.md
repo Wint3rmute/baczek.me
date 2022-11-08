@@ -3,6 +3,20 @@ title: 2022's Devlog
 ---
 
 ```
+08.11
+```
+
+Since the start of this semester, I'm feeling like my country's education system is constantly overwhelming the students with the amount of things to learn and projects to finish. Similar thoughts have been circulating in my head long before, but I feel like I need to vent them out asap. 
+
+Dues to the information/work overload, students no longer actually **learn** anything on a deeper level, they just skim over the bare minimum required to finish a project. There's just no other way to keep up with all work.
+
+It's in my nature to dig deeper into the subjects I'm learning. Unfortunately, this approach backfires at me each and every semester since the second half of bachelor degree.
+
+---
+
+Somewhere in the process of improving the education system, we fell victim to the [Goodheart's Law](https://en.m.wikipedia.org/wiki/Goodhart%27s_law). Blindly increasing the amount of information  learned by students just for the sake of ECTS or some other university-related metric does not actually increase the amount of knowledge that the students are gaining. 
+
+```
 27.10
 ```
 
