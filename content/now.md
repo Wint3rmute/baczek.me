@@ -14,7 +14,7 @@ TIL: Urs Heckmann, creator of the [Diva Synth](https://u-he.com/products/diva/) 
 
 Deployed [watchtower](https://github.com/containrrr/watchtower) on my server to automatically update the [public services](https://baczek.me/decentralisation/) I'm hosting.
 
->Listening<br>
+>Listening:<br>
 >Dawid Podsiadło - Szarość i Róż<br>
 >Ghost in the Shell OST - Floating Museum
 
