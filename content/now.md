@@ -20,7 +20,7 @@ Deployed [watchtower](https://github.com/containrrr/watchtower) on my server to 
 
 Since the start of this semester, I'm feeling like my country's education system is constantly overwhelming the students with the amount of things to learn and projects to finish. Similar thoughts have been circulating in my head long before, but I feel like I need to vent them out. 
 
-Dues to the information/work overload, students no longer actually *learn* anything on a deeper level, they just skim over the bare minimum required to finish a project. There's just no other way to keep up with all work.
+Due to the information/work overload, students no longer actually *learn* anything on a deeper level, they just skim over the bare minimum required to finish a project. There's just no other way to keep up with all work.
 
 It's in my nature to dig deeper into the subjects I'm learning. Unfortunately, this approach backfires at me each and every semester since the second half of my bachelor's degree.
 
