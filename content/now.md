@@ -22,10 +22,6 @@ Since the start of this semester, I'm feeling like my country's education system
 
 Due to the information/work overload, students no longer actually *learn* anything on a deeper level, they just skim over the bare minimum required to finish a project. There's just no other way to keep up with all work.
 
-It's in my nature to dig deeper into the subjects I'm learning. Unfortunately, this approach backfires at me each and every semester since the second half of my bachelor's degree.
-
----
-
 Somewhere in the process of improving the education system, we fell victim to the [Goodheart's Law](https://en.m.wikipedia.org/wiki/Goodhart%27s_law). Blindly increasing the amount of information  learned by students just for the sake of ECTS or some other university-related metric does not actually increase the amount of knowledge that the students are gaining. 
 
 {{image (src="/computer_poster.jpg" title="How it should feel like to use the Internet")}}
