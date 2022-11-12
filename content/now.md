@@ -6,11 +6,11 @@ title: 2022's Devlog
 12.11
 ```
 
-Deployed [watchtower](https://github.com/containrrr/watchtower) on my server to automatically update the [public services](https://baczek.me/decentralisation/) I'm hosting.
+Finally learning about digital filters, as I don't want to rely only on off-the-shelf filter implementations while working on [Libretakt](https://github.com/Wint3rmute/Libretakt).
 
 ---
 
-Finally learning about digital filters, as I don't want to rely only on off-the-shelf filter implementations while working on [Libretakt](https://github.com/Wint3rmute/Libretakt).
+Deployed [watchtower](https://github.com/containrrr/watchtower) on my server to automatically update the [public services](https://baczek.me/decentralisation/) I'm hosting.
 
 ```
 08.11
