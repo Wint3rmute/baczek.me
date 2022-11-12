@@ -8,7 +8,7 @@ title: 2022's Devlog
 
 Finally learning about digital filters, as I don't want to rely only on off-the-shelf filter implementations while working on [Libretakt](https://github.com/Wint3rmute/Libretakt).
 
-TIL: Urs Heckmann, creator of the [Diva Synth](https://u-he.com/products/diva/) (Ben Bohmer's main synth) runs a [blog](https://urs.silvrback.com/)!
+TIL: Urs Heckmann, creator of the [Diva Synth](https://u-he.com/products/diva/) (Ben Bohmer's main VST of choice) runs a [blog](https://urs.silvrback.com/)!
 
 ---
 
