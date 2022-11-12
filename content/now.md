@@ -10,7 +10,7 @@ Deployed [watchtower](https://github.com/containrrr/watchtower) on my server to 
 
 ---
 
-Finally learning about digital filters, as I'm **todo**
+Finally learning about digital filters, as I don't want to rely only on off-the-shelf filter implementations while working on [Libretakt](https://github.com/Wint3rmute/Libretakt).
 
 ```
 08.11
