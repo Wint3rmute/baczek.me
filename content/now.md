@@ -3,6 +3,16 @@ title: 2022's Devlog
 ---
 
 ```
+12.11
+```
+
+Deployed [watchtower](https://github.com/containrrr/watchtower) on my server to automatically update the [public services](https://baczek.me/decentralisation/) I'm hosting.
+
+---
+
+Finally learning about digital filters, as I'm **todo**
+
+```
 08.11
 ```
 
