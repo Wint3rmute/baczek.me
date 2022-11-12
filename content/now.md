@@ -8,6 +8,8 @@ title: 2022's Devlog
 
 Finally learning about digital filters, as I don't want to rely only on off-the-shelf filter implementations while working on [Libretakt](https://github.com/Wint3rmute/Libretakt).
 
+TIL: Urs Heckmann, creator of the [Diva Synth](https://u-he.com/products/diva/) (Ben Bohmer's main synth) runs a [blog](https://urs.silvrback.com/)!
+
 ---
 
 Deployed [watchtower](https://github.com/containrrr/watchtower) on my server to automatically update the [public services](https://baczek.me/decentralisation/) I'm hosting.
