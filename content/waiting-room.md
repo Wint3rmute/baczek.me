@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2022-10-22T11:02:08+02:00
+modified: 2022-11-15T20:22:32+01:00
 title: The Waiting room
 ---
 
@@ -8,6 +8,7 @@ title: The Waiting room
 
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
+- [Lessons learned from a decade of audio programming](https://invidious.baczek.me/watch?v=Vjm--AqG04Y)
 - Parasite Dolls (2003)
 - [Jonathan Haidt on social media](https://jonathanhaidt.com/social-media/)
 - The Sublime Object of Ideology
