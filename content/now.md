@@ -3,6 +3,17 @@ title: 2022's Devlog
 ---
 
 ```
+15.11
+```
+
+Ported `mverb` to Rust! I'm still fixing some bugs, but it's usable overall. The code is currently embedded inside [Libretakt](https://github.com/Wint3rmute/Libretakt), but I'm planning to release it as a standalone crate when I'm done with this semester.
+
+---
+
+[This project is very cool](https://github.com/csteinmetz1/NeuralReverberator). Also, the author's github is a goldmine of interesting audio programming resources. 
+
+
+```
 12.11
 ```
 
