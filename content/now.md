@@ -10,14 +10,18 @@ Ported `mverb` to Rust! I'm still fixing some bugs, but it's usable overall. The
 
 ---
 
-[This project is very cool](https://github.com/csteinmetz1/NeuralReverberator). Also, the author's github is a goldmine of interesting audio programming resources. 
+Watched a talk on [neural audio effects](https://github.com/csteinmetz1/NeuralReverberator). The project is insanely cool and the author's github is a goldmine of interesting audio programming resources. 
 
 
 ```
 12.11
 ```
 
-Finally learning about digital filters, as I don't want to rely only on off-the-shelf filter implementations while working on [Libretakt](https://github.com/Wint3rmute/Libretakt).
+Finally learning about digital filters, as I don't want to rely only on off-the-shelf filter implementations while working on [Libretakt](https://github.com/Wint3rmute/Libretakt). 
+
+[Youngmoo Kim's](https://m.youtube.com/channel/UC4Emb8dzcIBEMQG2UfDoD8w) DSP videos are a great learning resource if you're starting from scratch and want to learn some theory. 
+
+---
 
 TIL: Urs Heckmann, creator of the [Diva Synth](https://u-he.com/products/diva/) (Ben Bohmer's main VST of choice) runs a [blog](https://urs.silvrback.com/)! 
 
