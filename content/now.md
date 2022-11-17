@@ -154,7 +154,7 @@ number of connected devices, all collaborating together to create a track. Synth
 
 >Listening:<br>
 >Punch Brothers - Familiarity<br>
->Apollo - Brian Eno
+>Brian Eno - Apollo
 
 
 ```
@@ -452,13 +452,13 @@ that semi-automatic generation of related blog entries in a graph form is not a 
 as the resulting graphs look promising. You can see them [here](/map).
 
 
->Albums: <br>
+>Listening: <br>
 >Dawid Podsiadło - Leśna Muzyka<br>
 >Cory Wong - Wong's Cafe<br>
->Books:<br>
->Busy Doing Nothing - 100 Rabbits<br>
+>Reading:<br>
+>100 Rabbits - Busy Doing Nothing<br>
 >Imperium Chmur - Jacek Dukaj<br>
->The Hitchhiker's Guide to the Galaxy - Douglas Adams<br>
+>Douglas Adams - The Hitchhiker's Guide to the Galaxy<br>
 
 ```
 17.07 
