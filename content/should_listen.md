@@ -2,12 +2,14 @@
 title: Listening recommendations
 ---
 
-
 ## No matter what music taste you have, try those:
 
 - Leonard Cohen - You Want it Darker
+
 - Kate Bush - Hounds of Love
+
 - Brian Eno - Ambient 2: The Plateaux of Mirror
+
 - Son Lux - Brighter Wounds
 
 
@@ -22,4 +24,3 @@ title: Listening recommendations
 - Rysy
 - Baasch
 - Son Lux
-
