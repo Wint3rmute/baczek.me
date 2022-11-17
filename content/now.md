@@ -12,6 +12,16 @@ Ported `mverb` to Rust! I'm still fixing some bugs, but it's usable overall. The
 
 Watched a talk on [neural audio effects](https://github.com/csteinmetz1/NeuralReverberator). The project is insanely cool and the author's github is a goldmine of interesting audio programming resources. 
 
+>Reading:<br>
+>Douglas Adams - The Restaurant at the End of the Universe<br>
+>Douglas Adams - Life, the Universe and Everything<br>
+><br>
+>Listening:<br>
+>Vulf - Ace of Aces<br>
+>Son Lux - This is a Life<br>
+>the small town kids - Pomocy!
+
+
 
 ```
 12.11
@@ -74,6 +84,8 @@ while searching for possible improvements to my terminal workflow.
 *TODO*: a summary of my favourite terminal utilities, especially
 the less popular ones.
 
+>Reading:<br>
+>Olga Tokarczuk - Empuzjon
 
 ```
 18.10
