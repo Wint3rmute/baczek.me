@@ -3,6 +3,13 @@ title: 2022's Devlog
 ---
 
 ```
+17.11
+```
+
+Working on the [sounds & melodies](/sounds) webpage section.
+
+
+```
 15.11
 ```
 
@@ -20,7 +27,6 @@ Watched a talk on [neural audio effects](https://github.com/csteinmetz1/NeuralRe
 >Vulf - Ace of Aces<br>
 >Son Lux - This is a Life<br>
 >the small town kids - Pomocy!
-
 
 
 ```
