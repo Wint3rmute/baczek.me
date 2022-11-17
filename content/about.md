@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T23:29:23+02:00
-modified: 2022-05-31T17:45:03+02:00
+modified: 2022-11-17T22:44:44+01:00
 title: About
 ---
 
@@ -8,7 +8,7 @@ title: About
 
 ### Work-related interests:
 
-- Currently designing & operating commercial CubeSat constellation [@SatRevolution](https://satrevolution.com/)
+- Currently designing & operating commercial CubeSat constellation [@SatRev](https://satrevolution.com/)
 - Playing around with UAVs - ArduPilot, computer vision, telemetry systems
 - Tech lead of the [Academic Aviation Club](http://akl.pwr.edu.pl) (2nd place [Sae Aero Design Advanced](https://www.saeaerodesign.com/) winner)
 - Extensive Linux knowledge (long time power user, ricing enthusiast)
@@ -30,7 +30,7 @@ title: About
 
 ## 🛰️ Satellites
 
-During the summer of 2020 I've started working at [SatRevolution](https://satrevolution.com/) - company
+During the summer of 2020 I've started working at [SatRev](https://satrev.space/) - company
 designing a CubeSat satellite fleet for commercial and research usage.
 
 I currently lead the mission operations software team -- that's where we design
@@ -93,4 +93,3 @@ to develop reliable and high-performance embedded and server applications.
 - [Sounds & melodies](/sounds)
 - [Reading](/reading)
 - [Watching](/watching)
-
