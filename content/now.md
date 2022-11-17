@@ -461,6 +461,7 @@ as the resulting graphs look promising. You can see them [here](/map).
 >Listening: <br>
 >Dawid Podsiadło - Leśna Muzyka<br>
 >Cory Wong - Wong's Cafe<br>
+><br>
 >Reading:<br>
 >100 Rabbits - Busy Doing Nothing<br>
 >Imperium Chmur - Jacek Dukaj<br>
