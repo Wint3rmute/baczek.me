@@ -29,6 +29,11 @@ title: Resources on audio & DSP
 
 # DSP resources
 
+- https://invidious.baczek.me/watch?v=boPEO2auJj4&listen=false
+- https://invidious.baczek.me/watch?v=SJXGSJ6Zoro&listen=false
+- https://invidious.baczek.me/watch?v=GtRo-eF8-TE&listen=false
+- https://invidious.baczek.me/watch?v=jVac5IFXpFo&listen=false
+
 - [Lock-free rust structures](https://morestina.net/blog/742/exploring-lock-free-rust-1-locks) - useful for synchronisation for real-time processes, such as audio generating threads
 - [Faust - functional audio stream](https://faust.grame.fr/) 
 - [Daisy seed, synth microcontroller](https://www.electro-smith.com/daisy/daisy) 
