@@ -22,8 +22,8 @@ title: Resources on audio & DSP
 
 # My projects in the audio programming field
 
-- [Nosna](git@github.com:Wint3rmute/nosna.git)
-- [LibreTakt](git@github.com:Wint3rmute/libretakt.git)
+- [Nosna](https://github.com/Wint3rmute/Nosna)
+- [LibreTakt](https://github.com/Wint3rmute/Libretakt)
 - *todo*: add link to mverb rust crate once finished
 
 
@@ -41,4 +41,3 @@ title: Resources on audio & DSP
   - https://llllllll.co/t/mangling-manipulating-digital-physical-media-like-analog/54876 
   - https://en.m.wikipedia.org/wiki/Musique_concr%C3%A8te
 - [Lessons learned from a decade of audio programming](https://invidious.baczek.me/watch?v=Vjm--AqG04Y)
-
