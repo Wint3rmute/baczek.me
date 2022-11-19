@@ -3,7 +3,7 @@ created: 2022-08-14T12:37:23+02:00
 title: Support
 ---
 
-If you're using the [public-facing services I'm hosting](http://localhost:1111/decentralisation)
+If you're using the [public-facing services I'm hosting](/decentralisation)
 or you enjoy the content I'm creating, consider buying me a coffee :)
 
 

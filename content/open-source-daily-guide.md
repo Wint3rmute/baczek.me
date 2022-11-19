@@ -38,7 +38,7 @@ I am hosting my own SearX instance [here](https://searx.baczek.me).
 ## Creating a slideshow
 
 - The quick way: write them in markdown and use [pandoc](https://pandoc.org/demos.html) to convert them into a presentation (I recommend using the revealJS slide show)
-- The longer but more customizable way: use beamer (try [Metropolis Theme](https://www.overleaf.com/latex/templates/metropolis-beamer-theme/qzyvdhrntfmrfor) for a sleek, minimal look)
+- The longer but more customizable way: use beamer (try the *Metropolis Theme* for a sleek, minimal look)
 
 ## A need for something Excel-like (and spreadsheets in general) 
 
