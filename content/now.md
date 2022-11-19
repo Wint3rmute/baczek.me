@@ -3,6 +3,14 @@ title: 2022's Devlog
 ---
 
 ```
+19.11
+```
+
+>Reading:
+>Spectres III: Ghosts in the Machine
+
+
+```
 17.11
 ```
 
