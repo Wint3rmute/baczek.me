@@ -13,7 +13,7 @@ pages on my websites, along with the connections
 chosen by a text vectorisation algorithm.
 
 If you're interested, you can read the
-[source code](https://github.com/Wint3rmute/Wint3rmute.github.io/blob/master/related_posts_generator.py).
+[source code](https://github.com/Wint3rmute/Wint3rmute.github.io/blob/master/related_generator//).
 
 
 ## How is this thing generated?

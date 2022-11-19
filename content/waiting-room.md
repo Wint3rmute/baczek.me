@@ -9,7 +9,7 @@ title: The Waiting room
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
 - Parasite Dolls (2003)
-- [Jonathan Haidt on social media](https://jonathanhaidt.com/social-media/)
+- [Jonathan Haidt on social media](https://jonathanhaidt.com/social-media)
 - The Sublime Object of Ideology
 - [Escape From Freedom](https://en.m.wikipedia.org/wiki/Escape_from_Freedom)
 - Mad God movie
