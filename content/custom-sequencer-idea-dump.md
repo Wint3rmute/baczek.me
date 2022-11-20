@@ -1,6 +1,6 @@
 ---
 created: 2022-06-21T12:37:23+02:00
-modified: 2022-11-20T21:55:59+01:00
+modified: 2022-11-20T21:57:52+01:00
 title: Custom sequencer idea dump
 ---
 
@@ -12,6 +12,7 @@ title: Custom sequencer idea dump
 - It should be possible to "carry" packets of data around the program (like a packet of information containing a sound trigger info)
 - How should if statements work?
 - Song transitions, pattern muting?
+- Does a minimal (opcode-centered) system allows for more better rhytmic expression than a typical programming language?
 
 ## Basic assumptions about the language
 
