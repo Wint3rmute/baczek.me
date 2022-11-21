@@ -6,7 +6,6 @@ authors = ["wint3rmute <mateusz.baczek1998@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "~3.10"
-# ipympl = "^0.9.1"  # Not for python3.10 :(
 scikit-learn = "^1.1.2"
 graphviz = "^0.20.1"
 matplotlib = "^3.6.0"
@@ -17,6 +16,7 @@ nltk = "^3.7"
 beautifulsoup4 = "^4.11.1"
 markdown = "^3.4.1"
 fastapi = "^0.85.0"
+ipympl = "^0.9.2"
 
 [tool.poetry.group.dev.dependencies]
 black = "^22.10.0"
