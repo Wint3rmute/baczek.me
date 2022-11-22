@@ -7,7 +7,10 @@ title: 2022's Devlog
 ```
 
 >Reading:<br>
->Spectres III: Ghosts in the Machine
+>Spectres III: Ghosts in the Machine<br>
+><br>
+>Listening:<br>
+>Oliver Koletzki - Lovestoned
 
 I highly recommend this book for anyone who's interested in generative music. Opens numerous new paths, both in thinking and to other books. *Todo*: add them to [the waiting room](/waiting-room).
 
