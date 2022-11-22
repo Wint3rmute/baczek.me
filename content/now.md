@@ -9,6 +9,7 @@ title: 2022's Devlog
 >Reading:<br>
 >Spectres III: Ghosts in the Machine
 
+I highly recommend this book for anyone who's interested in generative music. Opens numerous new paths, both in thinking and to other books. *Todo*: add them to [the waiting room](/waiting-room)
 
 ```
 17.11
