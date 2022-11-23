@@ -2,6 +2,8 @@
 title: Resources on audio & DSP
 ---
 
+{{image (src="/spectres_patch.jpg" title="*todo*: add description")}}
+
 # So you want to write your own synthesizer
 
 1. Check out how FM synthesis works, it's really simple to implement
