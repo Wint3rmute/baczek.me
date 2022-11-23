@@ -73,7 +73,7 @@ Due to the information/work overload, students no longer actually *learn* anythi
 
 Somewhere in the process of improving the education system, we fell victim to the [Goodheart's Law](https://en.m.wikipedia.org/wiki/Goodhart%27s_law). Blindly increasing the amount of information  learned by students just for the sake of ECTS or some other university-related metric does not actually increase the amount of knowledge that the students are gaining. 
 
-{{image (src="/computer_poster.jpg" title="Computer science propaganda that I will feed to my kids someday. Irony aside, that's a really nice poster")}}
+{{image (src="/computer_poster.jpg" small=true title="Computer science propaganda that I will feed to my kids someday. Irony aside, that's a really nice poster")}}
 
 *Todo*: trim the right side of this poster. 
 
