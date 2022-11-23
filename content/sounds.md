@@ -5,7 +5,7 @@ title: Sounds & Melodies
 
 - [Transcribing music](/music-transcribing) with open-source tools
 
-- [Listening recommendations](/should-listen)
+- [Listening recommendations](/listening)
 
 - [Resources on audio programming & DSP](/audio-dsp)
 
