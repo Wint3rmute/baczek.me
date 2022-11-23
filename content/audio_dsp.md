@@ -2,7 +2,7 @@
 title: Resources on audio & DSP
 ---
 
-{{image (src="/spectres_patch.jpg" title="My Minilogue synthesiser")}}
+{{image (src="/fm_harmonic_amplitudes.png" title="Frequency modulation harmonic amplitudes, taken from <a href='https://ccrma.stanford.edu/~jos/sasp/FM_Harmonic_Amplitudes_Bessel.html'>Smith, J.O. Spectral Audio Signal Processing</a>." noshadow=true)}}
 
 # So you want to write your own synthesizer
 

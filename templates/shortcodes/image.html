@@ -1,4 +1,10 @@
 <figure>
-  <img class="image" src="{{src}}" alt="">
-  <figcaption>{{title}}</figcaption>
+  {% if noshadow %}
+  <img class="image" src="{{src}}">
+  {% elif small %}
+  <img class="image shadow small" src="{{src}}">
+  {% else %}
+  <img class="image shadow" src="{{src}}">
+  {% endif %}
+  <figcaption>{{title | safe}}</figcaption>
 </figure>
