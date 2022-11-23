@@ -1,10 +1,14 @@
+{% set classes = [ "image" ] %}
+{% if not noshadow %}
+{% set classes = classes | concat(with="shadow") %}
+{% endif %}
+
+{% if small %}
+{% set classes = classes | concat(with="small") %}
+{% endif %}
+
+
 <figure>
-  {% if noshadow %}
-  <img class="image" src="{{src}}">
-  {% elif small %}
-  <img class="image shadow small" src="{{src}}">
-  {% else %}
-  <img class="image shadow" src="{{src}}">
-  {% endif %}
+  <img class="{{classes | join(sep=' ')}}" src="{{src}}">
   <figcaption>{{title | safe}}</figcaption>
 </figure>
