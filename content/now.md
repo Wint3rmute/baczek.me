@@ -334,8 +334,7 @@ Here's another not-so-bad-looking graph generated during development:
 layout engine called *neato* for drawing non-directed graphs. I tried it and I'm
 amazed, it works wonderfully!
 
-![UMAP + Graphviz + Neato text visualisation example graph](/neato_visualisation.jpg)
-
+{{image (src="/neato_visualisation.jpg" title="UMAP + Graphviz + Neato text visualisation example graph" noshadow=true)}}
 
 >Music:<br>
 >Depeche Mode - But Not Tonight, Live
@@ -461,8 +460,7 @@ for this feature to become useful.
 
 It looks promising when run on blogs with lots of entries:
 
-![text vectorisation example graph](/xxiivv_text_vectorisation_example.jpg)
-*Posts on [XXIIVV](http://xxiivv.com/), plugged into the visualisation script*
+{{image (src="/xxiivv_text_vectorisation_example.jpg" title="Posts from <a href='http://xxiivv.com/'>XXIIVV</a> plugged into the visualisation script" noshadow=true)}}
 
 *Note:* honestly, I'm cheating in this example. Blog's author, [Devine](https://wiki.xxiivv.com/site/devine_lu_linvega.html),
 is writing all the links to related pages manually. Because of this, text vectorisation has
