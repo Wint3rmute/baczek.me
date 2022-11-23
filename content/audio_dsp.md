@@ -2,7 +2,7 @@
 title: Resources on audio & DSP
 ---
 
-{{image (src="/spectres_patch.jpg" title="Minilogue and a patch I've made, inspired by Spectres III")}}
+{{image (src="/spectres_patch.jpg" title="My Minilogue synthesiser")}}
 
 # So you want to write your own synthesizer
 
