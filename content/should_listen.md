@@ -23,4 +23,3 @@ title: Listening recommendations
 - Bryan Ferry
 - Rysy
 - Baasch
-- Son Lux

@@ -1,11 +1,8 @@
 ---
-title: 📚 Books (mostly)
+title: Reading
 ---
 
-*TODO: should I keep a reading list here? I'm already
-doing that in the [devlog](/now).*
-
-## My recommendations on reading
+## My recommendations on books, graphic novels and manga
 
 - Anything by [Jacek Dukaj](https://en.wikipedia.org/wiki/Jacek_Dukaj) or [Stanisław Lem](https://en.wikipedia.org/wiki/Stanis%C5%82aw_Lem)
 - Brave New World
@@ -14,5 +11,4 @@ doing that in the [devlog](/now).*
 - His Master's Voice
 - The Screwtape Letters
 - Blame!
-
 
