@@ -1,5 +1,5 @@
 ---
-title: 🎬 Movies/shows
+title: Movies/shows
 ---
 
 ## My recommendations
