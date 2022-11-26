@@ -1,6 +1,6 @@
 ---
 created: 2022-10-27T23:13:55+02:00
-modified: 2022-11-08T21:42:47+01:00
+modified: 2022-11-26T10:54:32+01:00
 title: Curated list of alternatives to C/C++/Java software
 ---
 
@@ -22,7 +22,7 @@ I encourage you to compare the documentation of the software from this list with
 
 # Justification/Philosophy
 
-Most of the software, that powers this world runs on C, C++ and Java. I do not mean to criticise those languages, as they were both a great improvement for the programming community, opening new and exciting paths to better software. However, during the last 2 decades, new languages have emerged, fulfilling the need for:
+Most of the software that powers our devices runs on C, C++ and Java. I do not mean to criticise those languages, as they were a great improvement for the programming community, opening new and exciting paths to better software. However, during the last 2 decades, new languages have emerged, fulfilling the need for:
 
 - Built-in tools for easy code reuse (package/library management)
 - Memory safety
