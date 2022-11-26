@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2022-11-26T10:44:46+01:00
+modified: 2022-11-26T10:45:52+01:00
 title: The Waiting room
 ---
 
@@ -12,6 +12,8 @@ This is where I keep ideas, movies, music, interesting words and other things th
 
 - [Audio/DSP](/audio-dsp) 
 - [Software alternatives](/alternatives)
+- [Reading](/reading)
+- [Watching](/watching)
 
 ---
 
