@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2022-11-26T10:28:10+01:00
+modified: 2022-11-26T10:30:33+01:00
 title: The Waiting room
 ---
 
@@ -19,11 +19,10 @@ This is where I keep ideas, movies, music, interesting words and other things th
 - The Sublime Object of Ideology
 - [Escape From Freedom](https://en.m.wikipedia.org/wiki/Escape_from_Freedom)
 - Mad God movie
-- [Bessel Function](https://en.m.wikipedia.org/wiki/Bessel_function) 
 - Another great list from [Devine](https://wiki.xxiivv.com/site/directory.html) 
 - Possessor 2022
 - Baasch - neurotransmisja
-- Aion Carl Jung
+- Carl Jung - Aion
 - https://media.libreplanet.org/u/libreplanet/m/software-doldrums/
 - Miasto Światłości, Mieczysław Smolarski
 - Neo Tokyo
@@ -66,12 +65,5 @@ This is where I keep ideas, movies, music, interesting words and other things th
 - On Contingency - Liebniz
 - The Affair, serial od Dukaja 
 - Castlevania
-- Berserk
-- Dom, który zbudował Jack
-- Lost Highway 97
 - Angel's Egg
-- Dark
-- Simulacra and simulation
-- Island, Huxley
-- Righteous Mind, Haidt
 - Made in abyss
