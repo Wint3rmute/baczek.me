@@ -6,8 +6,16 @@ title: 2022's Devlog
 25.11
 ```
 
->Watching<br>:
+>Watching:<br>
 >Gaslight (1944)
+
+
+```
+23.11
+```
+
+>Watching:<br>
+>Arrival
 
 
 ```
