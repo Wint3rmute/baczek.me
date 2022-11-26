@@ -3,6 +3,14 @@ title: 2022's Devlog
 ---
 
 ```
+25.11
+```
+
+>Watching<br>:
+>Gaslight (1944)
+
+
+```
 19.11
 ```
 
