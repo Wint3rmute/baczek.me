@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2022-11-26T10:26:49+01:00
+modified: 2022-11-26T10:27:57+01:00
 title: The Waiting room
 ---
 
@@ -11,7 +11,9 @@ This is where I keep ideas, movies, music, interesting words and other things th
 - https://ccrma.stanford.edu/~dattorro/EffectDesignPart1.pdf
 - Richard Penrose - The Road to Reality
 
->I don't like the word materialist because it suggests we know what material is
+>I don't like the word materialist
+>because it suggests we know
+>what material is ~ Richard Penrose
 
 - Parasite Dolls (2003)
 - [Jonathan Haidt on social media](https://jonathanhaidt.com/social-media)
