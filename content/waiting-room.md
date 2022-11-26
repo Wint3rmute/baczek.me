@@ -1,12 +1,19 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2022-11-26T10:30:33+01:00
+modified: 2022-11-26T10:44:46+01:00
 title: The Waiting room
 ---
 
 {{image (src="/waiting_room.jpg" title="") }}
 
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
+
+# Other, more organised lists
+
+- [Audio/DSP](/audio-dsp) 
+- [Software alternatives](/alternatives)
+
+---
 
 - Richard Penrose - The Road to Reality
 
