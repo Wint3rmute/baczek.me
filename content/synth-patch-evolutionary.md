@@ -1,7 +1,7 @@
 ---
 created: 2022-07-29T12:33:09+02:00
 modified: 2022-08-24T19:55:43+02:00
-title: 'Synth Patch Generation - Evolutionary Approach'
+title: Synth Patch Generation - Evolutionary Approach
 ---
 
 
