@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2022-11-26T10:27:57+01:00
+modified: 2022-11-26T10:28:10+01:00
 title: The Waiting room
 ---
 
@@ -8,7 +8,6 @@ title: The Waiting room
 
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
-- https://ccrma.stanford.edu/~dattorro/EffectDesignPart1.pdf
 - Richard Penrose - The Road to Reality
 
 >I don't like the word materialist
