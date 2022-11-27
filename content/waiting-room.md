@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2022-11-27T19:41:29+01:00
+modified: 2022-11-27T22:40:33+01:00
 title: The Waiting room
 ---
 
@@ -44,10 +44,9 @@ This is where I keep ideas, movies, music, interesting words and other things th
 - Józef Kosecki, kybernetyka
 - ID invaded
 - Hitchcock Psychoza
-- Deleuze (body without organs)
-- Max Stirner (ten dziwny ziomek z obrazka w okularach) 
+- Deleuze
+- Max Stirner
 - Virginia Woolf
-- Hegel
 - Wittgenstein
 - Euphoria (skąd to mam?) 
 - Kocia kołyska vonnegut
