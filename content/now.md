@@ -3,6 +3,16 @@ title: 2022's Devlog
 ---
 
 ```
+26.11
+```
+
+>Watching:<br>
+>The Grand Budapest Hotel
+
+{{image (src="/grand_budapest.jpg" title="" small=true)}}
+
+
+```
 25.11
 ```
 
