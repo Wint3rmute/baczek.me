@@ -8,7 +8,6 @@ title: Custom sequencer idea dump
 
 - Think tracker but scriptable in a repl-like manner
 - Runes/Opcodes for sound modification
-- Do I need math operators like in orca?
 - It should be possible to "carry" packets of data around the program (like a packet of information containing a sound trigger info)
 - How should if statements work?
 - Song transitions, pattern muting?
@@ -16,7 +15,28 @@ title: Custom sequencer idea dump
 
 ## Basic assumptions about the language
 
-A language which can move arbitrary lists around..? 
+A language which can move arbitrary lists around..?
+
+## Embedded scripting language?
+
+Rust has Rhai, I'm kinda eager to try it :)
+
+Figuring a custom langauge could be a funny adventure,
+I could start from some very limited Lisp implementation.
+
+### On working with scripting languages
+
+Idea: All "song code" should share a common variable namespace, which could be mutated
+at any point (in a synchronous manner).
+
+The code defines when to tick (with something like a generator or an async/await syntax)
+and a runtime makes sure that it will tick at the right time.
+
+Each function can be hot-swapped without having to reinitialise variables, as variables 
+are global. Sounds kinda crazy but this could actually be done very easily with
+an embedded python interpreter.
+
+I'll need to figure out some way to do smooth parameter automation though.
 
 ## Crazy ideas dump
 
