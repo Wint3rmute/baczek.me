@@ -3,6 +3,15 @@ title: 2022's Devlog
 ---
 
 ```
+01.12
+```
+
+Scorn + H.R. Ginger + Wayne Barlowe
+
+>Listening:<br>
+>Son Lux - Enough Of Our Machines
+
+```
 26.11
 ```
 
@@ -11,6 +20,8 @@ title: 2022's Devlog
 
 {{image (src="/grand_budapest.jpg" title="" small=true)}}
 
+>Listening:<br>
+>Jacob Collier - Fix You, Piano Ballads
 
 ```
 25.11
