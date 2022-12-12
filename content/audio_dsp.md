@@ -31,6 +31,7 @@ title: Resources on audio & DSP
 
 # DSP resources
 
+- https://dmpdoc.neocities.org/
 - https://invidious.baczek.me/watch?v=boPEO2auJj4&listen=false
 - https://invidious.baczek.me/watch?v=SJXGSJ6Zoro&listen=false
 - https://invidious.baczek.me/watch?v=GtRo-eF8-TE&listen=false
