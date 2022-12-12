@@ -3,6 +3,22 @@ title: 2022's Devlog
 ---
 
 ```
+12.12
+```
+
+Working on the synchronisation server for [Libretakt](https://github.com/Wint3rmute/Libretakt),
+slammed with work required to get to the end of the semester.
+
+{{image (src="/gdansk.jpg" title="A weekend break in Gdansk. Hey, that late night molo trip was great ;)")}}
+
+>Reading:<br>
+>Terry Pratchett - Guards! Guards!
+><br>
+>Listening:<br>
+>Ben Bohmer - Live At The Roundhouse, London
+
+
+```
 01.12
 ```
 
