@@ -15,7 +15,13 @@ slammed with work required to get to the end of the semester.
 >Terry Pratchett - Guards! Guards!
 ><br>
 >Listening:<br>
->Ben Bohmer - Live At The Roundhouse, London
+>Ben Bohmer - Live At The Roundhouse, London<br>
+>Brian Eno - 2/2 
+
+---
+
+The beauty of Eno's *2/2* always catches me off guard,
+Especially when listening on the speakers.
 
 
 ```
