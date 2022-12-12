@@ -1,9 +1,11 @@
 FROM archlinux:latest
 
+# python-tomli can be removed when arch fixes poetry packaging
 RUN pacman -Sy --noconfirm git graphviz wget \
-                             blas gcc poetry pkgconf \
-                             python python-cairo graphviz zola \
-			     && pacman -Sc --noconfirm
+  blas gcc poetry pkgconf \
+  python python-cairo graphviz zola \
+  python-tomli \
+  && pacman -Sc --noconfirm
 
 WORKDIR /website
 
