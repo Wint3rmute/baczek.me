@@ -2,6 +2,7 @@ version: '3'
 
 services:
   deploy:
+    container_name: website_builder
     restart: always
     build: .
     env_file:
