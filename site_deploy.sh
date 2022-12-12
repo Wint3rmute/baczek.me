@@ -7,7 +7,7 @@ rm -rf "$CLONE_LOCATION"
 git clone "$REPO_URL" "$CLONE_LOCATION" --depth=1
 cd "$CLONE_LOCATION"
 echo "Last activity:"
-git log --oneline | head -n 5
+git show --summary
 
 python -m related_generator
 zola build
