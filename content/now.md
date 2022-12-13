@@ -3,6 +3,16 @@ title: 2022's Devlog
 ---
 
 ```
+14.12
+```
+
+If you're reading this, get more sleep. 
+
+>Watching:
+>Color Out Of Space
+
+
+```
 12.12
 ```
 
