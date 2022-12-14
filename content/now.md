@@ -14,7 +14,8 @@ Also, if you're reading this, get more sleep.
 >Color Out of Space<br>
 ><br>
 >Listening:<br>
->Adoring Fan - STAR (this slaps so good I can't believe it)
+>Adoring Fan - STAR (this slaps so good I can't believe it)<br>
+>Louis Cole - Quality Over Opinion
 
 
 ```
