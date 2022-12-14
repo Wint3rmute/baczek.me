@@ -6,7 +6,9 @@ title: 2022's Devlog
 14.12
 ```
 
-If you're reading this, get more sleep. 
+Learning about `async` in Rust. The ideas from Python map really well to Rust and its great to see how performant and easy to use it is. The synchronisation primitives and queues are even easier to use than in Python!
+
+Also, if you're reading this, get more sleep. 
 
 >Watching:<br>
 >Color Out of Space<br>
