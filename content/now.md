@@ -25,7 +25,7 @@ slammed with work required to get to the end of the semester.
 {{image (src="/gdansk.jpg" title="A weekend break in Gdansk. Hey, that late night molo trip was great ;)")}}
 
 >Reading:<br>
->Terry Pratchett - Guards! Guards!
+>Terry Pratchett - Guards! Guards!<br>
 ><br>
 >Listening:<br>
 >Ben Bohmer - Live At The Roundhouse, London<br>
