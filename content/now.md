@@ -9,7 +9,10 @@ title: 2022's Devlog
 If you're reading this, get more sleep. 
 
 >Watching:
->Color Out Of Space
+>Color Out of Space<br>
+><br>
+>Listening:<br>
+>Adoring Fan - STAR (this slaps so good I can't believe it)
 
 
 ```
