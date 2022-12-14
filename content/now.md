@@ -8,7 +8,7 @@ title: 2022's Devlog
 
 If you're reading this, get more sleep. 
 
->Watching:
+>Watching:<br>
 >Color Out of Space<br>
 ><br>
 >Listening:<br>
