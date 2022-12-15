@@ -13,7 +13,7 @@ Learning about fuzzy testing: [american fuzzy lop](https://lcamtuf.coredump.cx/a
 and [cargo-fuzz](https://github.com/rust-fuzz/cargo-fuzz). Using it to test
 my DSP code for possible unhandled edge cases.
 
->Listening<br>:
+>Listening:<br>
 >Labyrinth Ear - Navy Light<br>
 >Sting - Fields Of Gold<br>
 >Angelo Badalamenti - Twin Peaks Soundtrack

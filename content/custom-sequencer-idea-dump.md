@@ -17,17 +17,9 @@ title: Custom sequencer idea dump
 
 A language which can move arbitrary lists around..?
 
-## Embedded scripting language?
-
-Rust has Rhai, I'm kinda eager to try it :)
-
-Figuring a custom langauge could be a funny adventure,
-I could start from some very limited Lisp implementation.
-
-### On working with scripting languages
-
 Idea: All "song code" should share a common variable namespace, which could be mutated
-at any point (in a synchronous manner).
+at any point (in a synchronous manner). *Edit:* this is cool but what if I want
+to reuse a function? Maybe there should be a stack-based scope for the namespace?
 
 The code defines when to tick (with something like a generator or an async/await syntax)
 and a runtime makes sure that it will tick at the right time.
@@ -36,7 +28,17 @@ Each function can be hot-swapped without having to reinitialise variables, as va
 are global. Sounds kinda crazy but this could actually be done very easily with
 an embedded python interpreter.
 
+Define short operators for doing basic sound manipulation such as
+shifting by an octave, doubling in length (LilyPond syntax to the rescue?).
+
 I'll need to figure out some way to do smooth parameter automation though.
+
+## Embedded scripting language?
+
+Rust has Rhai, I'm kinda eager to try it :)
+
+Figuring a custom langauge could be a funny adventure,
+I could start from some very limited Lisp implementation.
 
 ## Crazy ideas dump
 
