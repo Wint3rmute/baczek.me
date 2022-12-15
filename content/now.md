@@ -3,6 +3,23 @@ title: 2022's Devlog
 ---
 
 ```
+15.12
+```
+
+Another evening spent thinking about a custom domain-specific language
+for a [generative music sequencer](/custom-sequencer-idea-dump).
+
+Learning about fuzzy testing: [american fuzzy lop](https://lcamtuf.coredump.cx/afl/)
+and [cargo-fuzz](https://github.com/rust-fuzz/cargo-fuzz). Using it to test
+my DSP code for possible unhandled edge cases.
+
+>Listening<br>:
+>Labyrinth Ear - Navy Light<br>
+>Sting - Fields Of Gold<br>
+>Angelo Badalamenti - Twin Peaks Soundtrack
+
+
+```
 14.12
 ```
 
