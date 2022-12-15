@@ -31,7 +31,7 @@ an embedded python interpreter.
 Define short operators for doing basic sound manipulation such as
 shifting by an octave, doubling in length (LilyPond syntax to the rescue?).
 
-I'll need to figure out some way to do smooth parameter automation though.
+**I'll need to figure out some way to do smooth parameter automation though.**
 
 ## Embedded scripting language?
 
