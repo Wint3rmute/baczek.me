@@ -3,4 +3,6 @@ generated
 __pycache__
 .env
 .ipynb_checkpoints
+.venv
+venv
 
