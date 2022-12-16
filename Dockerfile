@@ -1,5 +1,4 @@
 FROM archlinux:latest as builder
-
 # python-tomli can be removed when arch fixes poetry packaging
 RUN pacman -Sy --noconfirm git graphviz wget \
   blas gcc poetry pkgconf \
@@ -8,9 +7,7 @@ RUN pacman -Sy --noconfirm git graphviz wget \
   && pacman -Sc --noconfirm
 
 WORKDIR /website
-
 COPY pyproject.toml poetry.lock poetry.toml /website/
-
 RUN poetry install --only main
 
 # Run a test website build
@@ -25,18 +22,15 @@ RUN zola build
 RUN du -sh /website
 
 FROM archlinux:latest
-
-COPY --from=builder /website /
-
-# Site autodeploy
-COPY site_deploy.sh .
-COPY webhook_handler.py .
-
 RUN pacman -Sy --noconfirm git graphviz wget \
   blas poetry \
   python python-cairo graphviz zola \
   python-tomli \
   && pacman -Sc --noconfirm
+
+COPY --from=builder /website /
+COPY site_deploy.sh .
+COPY webhook_handler.py .
 
 CMD [ "poetry", "run", "python", "-m", "uvicorn", "webhook_handler:app", "--port", "5555", "--host", "0.0.0.0" ]
 
