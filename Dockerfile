@@ -27,7 +27,6 @@ RUN du -sh /website
 FROM archlinux:latest
 
 COPY --from=builder /website /
-COPY --from=builder /root/nltk_data /root
 
 # Site autodeploy
 COPY site_deploy.sh .
