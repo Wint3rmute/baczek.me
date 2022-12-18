@@ -1,6 +1,6 @@
 ---
 created: 2022-06-21T12:37:23+02:00
-modified: 2022-12-18T17:44:09+01:00
+modified: 2022-12-18T17:49:09+01:00
 title: Custom sequencer idea dump
 ---
 
@@ -13,7 +13,9 @@ title: Custom sequencer idea dump
 - Song transitions, pattern muting?
 - Does a minimal (opcode-centered) system allows for more better rhytmic expression than a typical programming language?
 - Handling of external midi events, I want to trigger functions with the pads of my midi controller
-- cursor going from top to bottom, showing some metadata on the left, while the code is on the right
+- cursor going from top to bottom, showing some metadata on the left, while the executed code is on the right
+- Loading functions from a normal text file, the sequencer runtime will listen to file changes and hot reload functions on the fly
+- Labels in "pauses" so that the runtime knows where to pick up a specific function after code update? 
 
 ## Basic assumptions about the language
 
