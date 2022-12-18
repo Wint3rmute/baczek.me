@@ -1,6 +1,6 @@
 ---
 created: 2022-06-21T12:37:23+02:00
-modified: 2022-11-20T21:57:52+01:00
+modified: 2022-12-18T17:44:09+01:00
 title: Custom sequencer idea dump
 ---
 
@@ -12,6 +12,8 @@ title: Custom sequencer idea dump
 - How should if statements work?
 - Song transitions, pattern muting?
 - Does a minimal (opcode-centered) system allows for more better rhytmic expression than a typical programming language?
+- Handling of external midi events, I want to trigger functions with the pads of my midi controller
+- cursor going from top to bottom, showing some metadata on the left, while the code is on the right
 
 ## Basic assumptions about the language
 
