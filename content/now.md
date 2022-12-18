@@ -2,6 +2,17 @@
 title: 2022's Devlog
 ---
 
+```
+17.12
+```
+
+>Reading:<br>
+>Robert Nystrom - Crafting Interpreters<br>
+>Adam Hochschild - Orwell on Truth
+
+>Listening:<br>
+>Half Moon Run - Full Circle
+
 
 ```
 16.12
