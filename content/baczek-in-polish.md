@@ -1,6 +1,6 @@
 ---
 created: 2022-06-16T00:10:36+02:00
-modified: 2022-08-06T00:07:09+02:00
+modified: 2022-12-19T14:20:47+01:00
 title: The word *Bączek* in Polish
 ---
 
@@ -28,3 +28,4 @@ Here's a collection of hand-picked Bączek pictures, following this interpretati
 
 {{image (src="/bumblebees/olek.jpg" title="This monstrosity, from @Olek") }}
 
+{{image (src="/bumblebees/christmas.jpg" title="Christmas Bączek, thank you @Roksana!") }}
