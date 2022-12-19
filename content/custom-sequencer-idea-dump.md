@@ -39,10 +39,27 @@ shifting by an octave, doubling in length (LilyPond syntax to the rescue?).
 
 ## Embedded scripting language?
 
+[Crafting Interpreters](https://craftinginterpreters.com/introduction.html)
+
 Rust has Rhai, I'm kinda eager to try it :)
 
 Figuring a custom langauge could be a funny adventure,
 I could start from some very limited Lisp implementation.
+
+## Prototyping with snippets
+
+### Cool ligatures
+
+```
+|> -> => \/ ->> =>> ~> 
+
+```
+
+```
+seq kick
+pattern_select -> @2.73 # Define a midi listener. Channel 2 message 73
+pattern = [ 'C3! C3! C? C G G! ]  # Define a seq-scoped variable
+```
 
 ## Crazy ideas dump
 
