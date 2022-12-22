@@ -40,9 +40,9 @@ title: Resources on audio & DSP
 - [Faust - functional audio stream](https://faust.grame.fr/) 
 - [Daisy seed, synth microcontroller](https://www.electro-smith.com/daisy/daisy) 
 - [Physical string modeling](https://ccrma.stanford.edu/software/clm/compmus/clm-tutorials/pm.html#k-s)
-- Digital filter design https://ccrma.stanford.edu/~jos/filters/Why_learn_about_filters.html
+- [Digital filter design](https://ccrma.stanford.edu/~jos/filters/Why_learn_about_filters.html) 
 - [llllllll.co](https://llllllll.co) and some interesting things found in there:
-  - https://flashcrash.net/
+  - [flashcrash.net](https://flashcrash.net/)
   - https://llllllll.co/t/flash-crash-monthly-livecoding-stream-archive/45273/3
   - https://llllllll.co/t/generative-visuals-video-graphics-art-etc/2658/8
   - https://llllllll.co/t/mangling-manipulating-digital-physical-media-like-analog/54876 
