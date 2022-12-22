@@ -10,7 +10,7 @@ title: Resources on audio & DSP
 
      I've written a simple FM/PM synthesizer in Rust, you can check 
      it out [here](https://github.com/Wint3rmute/Nosna).
-2. Of all libraries for real-time audio generation, I recommend Rust's [Rodio](https://docs.rs/rodio/latest/rodio/) the most.
+2. If you're using Rust, I recommend [Rodio](https://docs.rs/rodio/latest/rodio/) for taking care of sound card interaction.
 3. Check out [The Audio Programmer](https://www.theaudioprogrammer.com/), especially their YouTube channel.
 
 
