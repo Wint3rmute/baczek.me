@@ -33,8 +33,6 @@ title: Resources on audio & DSP
 
 - [Digital music production documentation @ NeoCities](https://dmpdoc.neocities.org/)
 - [Timur Doumler: C++ in the Audio Industry](https://invidious.baczek.me/watch?v=boPEO2auJj4&listen=false). Recommended as a first-time video introduction to audio application architecture.
-- https://invidious.baczek.me/watch?v=SJXGSJ6Zoro&listen=false
-- https://invidious.baczek.me/watch?v=GtRo-eF8-TE&listen=false
 - https://invidious.baczek.me/watch?v=jVac5IFXpFo&listen=false
 
 - [Jon Dattorro's Effect Design](
