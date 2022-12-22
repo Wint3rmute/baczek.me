@@ -34,13 +34,15 @@ title: Resources on audio & DSP
 - [/dmc/ wiki @ NeoCities](https://dmpdoc.neocities.org/)
 - [Timur Doumler: C++ in the Audio Industry](https://invidious.baczek.me/watch?v=boPEO2auJj4&listen=false). Recommended as a first-time video introduction to audio application architecture.
 - [Signal processing for sound design](https://invidious.baczek.me/watch?v=jVac5IFXpFo). Todo: watch! 
-
-- [Jon Dattorro's Effect Design](https://ccrma.stanford.edu/~dattorro/EffectDesignPart1.pdf) 
-- [Lock-free rust structures](https://morestina.net/blog/742/exploring-lock-free-rust-1-locks) - useful for synchronisation for real-time processes, such as audio generating threads
-- [Faust - functional audio stream](https://faust.grame.fr/) 
-- [Daisy seed, synth microcontroller](https://www.electro-smith.com/daisy/daisy) 
 - [Physical string modeling](https://ccrma.stanford.edu/software/clm/compmus/clm-tutorials/pm.html#k-s)
 - [Digital filter design](https://ccrma.stanford.edu/~jos/filters/Why_learn_about_filters.html) 
+- [Jon Dattorro's Effect Design](https://ccrma.stanford.edu/~dattorro/EffectDesignPart1.pdf) 
+- [Lock-free rust structures](https://morestina.net/blog/742/exploring-lock-free-rust-1-locks) - useful for synchronisation for real-time processes, such as audio generating threads
+
+# Interesting DSP projects
+
+- [Faust - functional audio stream](https://faust.grame.fr/) 
+- [Daisy seed, synth microcontroller](https://www.electro-smith.com/daisy/daisy)
 - [llllllll.co](https://llllllll.co) and some interesting things found in there:
   - [flashcrash.net](https://flashcrash.net/)
   - https://llllllll.co/t/flash-crash-monthly-livecoding-stream-archive/45273/3
