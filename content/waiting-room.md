@@ -75,7 +75,7 @@ This is where I keep ideas, movies, music, interesting words and other things th
 
 ## Other, more organised lists
 
-- [Audio/DSP](/audio-dsp) 
+- [Audio/DSP](/dsp) 
 - [Software alternatives](/alternatives)
 - [Reading](/reading)
 - [Watching](/watching)
