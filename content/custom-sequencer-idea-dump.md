@@ -52,13 +52,20 @@ I could start from some very limited Lisp implementation.
 
 ```
 |> -> => \/ ->> =>> ~> 
+```
+PRINT
 
 ```
-
-```
-seq kick
+seq kick 1 # Optional: set a default MIDI channel
 pattern_select -> @2.73 # Define a midi listener. Channel 2 message 73
 pattern = [ 'C3! C3! C? C G G! ]  # Define a seq-scoped variable
+step = 0
+
+rhytm:
+pattern [step]  # Expression returning a value sends it via midi
+step += 1
+step %= 1
+> 1 rhytm  # Await a single step and jump to rhytm:
 ```
 
 ## Crazy ideas dump
