@@ -31,12 +31,11 @@ title: Resources on audio & DSP
 
 # DSP resources
 
-- [Digital music production documentation @ NeoCities](https://dmpdoc.neocities.org/)
+- [/dmc/ wiki @ NeoCities](https://dmpdoc.neocities.org/)
 - [Timur Doumler: C++ in the Audio Industry](https://invidious.baczek.me/watch?v=boPEO2auJj4&listen=false). Recommended as a first-time video introduction to audio application architecture.
-- https://invidious.baczek.me/watch?v=jVac5IFXpFo&listen=false
+- [Signal processing for sound design](https://invidious.baczek.me/watch?v=jVac5IFXpFo). Todo: watch! 
 
-- [Jon Dattorro's Effect Design](
-- https://ccrma.stanford.edu/~dattorro/EffectDesignPart1.pdf) 
+- [Jon Dattorro's Effect Design](https://ccrma.stanford.edu/~dattorro/EffectDesignPart1.pdf) 
 - [Lock-free rust structures](https://morestina.net/blog/742/exploring-lock-free-rust-1-locks) - useful for synchronisation for real-time processes, such as audio generating threads
 - [Faust - functional audio stream](https://faust.grame.fr/) 
 - [Daisy seed, synth microcontroller](https://www.electro-smith.com/daisy/daisy) 
