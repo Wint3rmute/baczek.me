@@ -3,6 +3,18 @@ title: 2022's Devlog
 ---
 
 ```
+23.12
+```
+
+[Another great case for open hardware](https://pluralistic.net/2022/12/12/unsafe-at-any-speed/#this-is-literally-your-brain-on-capitalism) 
+
+>Listening:<br>
+>Panic! At the Disco - Vices & Virtues<br>
+>MARINA - The Family Jewels<br>
+>Moby - LA1
+
+
+```
 17.12
 ```
 
