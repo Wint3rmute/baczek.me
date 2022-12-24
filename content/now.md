@@ -3,6 +3,18 @@ title: 2022's Devlog
 ---
 
 ```
+24.12
+```
+
+[https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/](Deconstructing Brian Eno: Music For Airports). 
+
+>Listening<br>:
+>Jacob Collier - In My Room
+
+The sound quality of this album has brought me down to my knees.
+
+
+```
 23.12
 ```
 
