@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2022-12-22T11:59:14+01:00
+modified: 2022-12-24T01:34:06+01:00
 title: The Waiting room
 ---
 
@@ -8,6 +8,10 @@ title: The Waiting room
 
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
+- [Max](https://cycling74.com/products/max)
+- [DirtyWave tracker firmware](https://github.com/Dirtywave/M8HeadlessFirmware)
+- [TextBeat](https://github.com/flipcoder/textbeat)
+- [Glicol language](https://glicol.org/)
 - [Google's 4-day Rust intro curse](https://google.github.io/comprehensive-rust/)
 - [Rust for game tooling](https://invidious.baczek.me/watch?v=GtRo-eF8-TE)
 - [Writing, Editing and World-Building at the speed of thought with Vim](https://m.youtube.com/watch?v=2ORWaIqyj7k&ab_channel=Theena)
