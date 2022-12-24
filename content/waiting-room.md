@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2022-12-24T01:34:06+01:00
+modified: 2022-12-24T01:34:53+01:00
 title: The Waiting room
 ---
 
@@ -8,6 +8,7 @@ title: The Waiting room
 
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
+- [extract all interesting synth software links from this thread](https://news.ycombinator.com/item?id=34097936)
 - [Max](https://cycling74.com/products/max)
 - [DirtyWave tracker firmware](https://github.com/Dirtywave/M8HeadlessFirmware)
 - [TextBeat](https://github.com/flipcoder/textbeat)
