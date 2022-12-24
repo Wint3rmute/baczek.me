@@ -6,7 +6,7 @@ title: 2022's Devlog
 24.12
 ```
 
-(https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/) [Deconstructing Brian Eno: Music For Airports].
+[Deconstructing Brian Eno: Music For Airports](https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/).
 
 *todo*: add the patterns from the back of Music For Airports cd, write ending thoughts for 2022.
 
