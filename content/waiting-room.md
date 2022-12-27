@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2022-12-24T14:35:26+01:00
+modified: 2022-12-27T16:35:09+01:00
 title: The Waiting room
 ---
 
@@ -8,6 +8,7 @@ title: The Waiting room
 
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
+- Tarai function for generative music
 - [Hydra - livecoding visuals](https://github.com/hydra-synth/hydra)
 - [extract all interesting synth software links from this thread](https://news.ycombinator.com/item?id=34097936)
 - [Max](https://cycling74.com/products/max)
