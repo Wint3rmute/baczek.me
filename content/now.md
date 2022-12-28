@@ -16,7 +16,7 @@ Closing thoughts
    - Everything loads faster and is more responsive
    - No trackers or other malicious scripts running in your browser
 4. Moving from popular websites to [smaller communities](https://merveilles.town/)
-   run by [real people](https://webring.xxiivv.com/) was even a better idea!
+   run by [real people](https://webring.xxiivv.com/) was an even better idea!
 5. Learned a lot by making the [knowledge visualisation system](/map).
    It is not yet clear to me whether this idea is worth pursuing.
    Will continue the project through 2023.
