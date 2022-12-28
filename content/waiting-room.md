@@ -8,6 +8,7 @@ title: The Waiting room
 
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
+- http://www.spinsemi.com/knowledge_base/effects.html
 - https://invidious.baczek.me/watch?v=utMx48aGndI
 - Tarai function for generative music
 - [Hydra - livecoding visuals](https://github.com/hydra-synth/hydra)

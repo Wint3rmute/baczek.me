@@ -3,6 +3,46 @@ title: 2022's Devlog
 ---
 
 ```
+Closing thoughts
+```
+
+{{image (src="/eno.jpg" title="Brian Eno, Music for Airports, 1/1")}}
+
+
+1. Running one's website + [a few services](/decentralisation) + monitoring was easier than I thought.
+2. Writing [custom synthesizers](/dsp) and audio code in general was the most fun I've had this year :)
+3. Moving to [privacy respecting frontends](https://libredirect.github.io/) for popular websites was a good idea:
+   - Less time spent mindlessly scrolling, more time spent learning
+   - Everything loads faster and is more responsive
+   - No trackers or other malicious scripts running in your browser
+4. Moving from popular websites to [smaller communities](https://merveilles.town/)
+   run by [real people](https://webring.xxiivv.com/) was even a better idea!
+5. Learned a lot by making the [knowledge visualisation system](/map).
+   It is not yet clear to me whether this idea is worth pursuing.
+   Will continue the project through 2023.
+6. Gathered a lot of knowledge about generative music ([waiting room](/waiting-room), [dsp](/dsp)).
+   It's time to start working on a [custom sequencer](/custom-sequencer-idea-dump).
+7. Gotten comfortable with my Korg Minilogue. It's a beautiful machine.
+8. The [Rust language](/rust) has clicked for me. I'm definitely no expert yet, but I can get things done.
+9. Still not understanding digital filters well enough :)
+
+`...`
+
+Master's thesis is coming!
+
+
+
+```
+28.12
+```
+
+>Watching:<br>
+>Love, Death & Robots
+>Reading:<br>
+>Terry Pratchett: Men at Arms
+
+
+```
 24.12
 ```
 
