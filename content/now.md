@@ -39,7 +39,7 @@ Master's thesis is coming!
 >Watching:<br>
 >Love, Death & Robots<br>
 >Reading:<br>
->Terry Pratchett: Men at Arms
+>Terry Pratchett - Men at Arms
 
 
 ```
