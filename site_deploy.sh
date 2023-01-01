@@ -4,7 +4,7 @@ set -Eeuo pipefail
 CLONE_LOCATION="website"
 
 rm -rf "$CLONE_LOCATION"
-git clone "$REPO_URL" "$CLONE_LOCATION" --depth=1
+git clone "$REPO_URL" "$CLONE_LOCATION" --depth=100
 cd "$CLONE_LOCATION"
 echo "Last activity:"
 git show --summary
