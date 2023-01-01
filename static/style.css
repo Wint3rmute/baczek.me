@@ -38,6 +38,11 @@ header, h1, h2, h3, h4, h5 {
     color: var(--headers_foreground);
 }
 
+article h1 {
+  color: white;
+  font-size: 200%;
+}
+
 button {
     background-color: var(--background-light);
     padding: 10px;
