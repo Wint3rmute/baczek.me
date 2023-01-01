@@ -1,10 +1,40 @@
 import math
-import markdown
 import subprocess
+import warnings
 from dataclasses import dataclass, field
 from pathlib import Path
 
+import markdown
 from bs4 import BeautifulSoup
+
+
+def extract_title(file_path: Path, content: str) -> str:
+    title = None
+
+    for line in content.split("\n"):
+        if "title: " in line:
+            title = line.replace("title: ", "").strip()
+
+    if not title:
+        raise ValueError(f"Title not found in {file_path}")
+
+    return title
+
+
+def extract_tags(file_path: Path, content: str) -> list[str]:
+    tags = []
+
+    for line in content.split("\n"):
+        if line.startswith("tags: "):
+            tags = line.replace("tags: ", "").split(",")
+            tags = [tag.strip() for tag in tags]
+
+    if len(tags) == 0:
+        warnings.warn(f"No tags defined for {file_path}")
+    else:
+        print("Tags:", tags)
+
+    return tags
 
 
 @dataclass
@@ -12,6 +42,7 @@ class Post:
     title: str
     content: str
     path: Path
+    tags: list[str] = field(default_factory=list)
 
     # To be filled by map generation
     x: float = 0.0
@@ -30,20 +61,15 @@ class Post:
             html_tree = BeautifulSoup(html, features="html.parser")
             content = html_tree.text
 
-            title = None
-
-            for line in content_raw.split("\n"):
-                if "title: " in line:
-                    title = line.replace("title: ", "").strip()
-
-            if not title:
-                raise ValueError(f"Title not found in {path}")
+            title = extract_title(path, content_raw)
+            tags = extract_tags(path, content_raw)
 
         elif path.suffix == ".html":
             content_raw = path.read_text()
             html_tree = BeautifulSoup(content_raw, features="html.parser")
             html_tree.nav.decompose()
             content = html_tree.text.replace("\n", "")
+            tags = []
 
             title = path.name
 
@@ -54,7 +80,7 @@ class Post:
             #     print("No Incoming")
             #     print(content)
 
-        return cls(title, content, path)
+        return cls(title, content, path, tags)
 
     def distance_to(self, post: "Post") -> float:
         return math.sqrt((self.x - post.x) ** 2 + (self.y - post.y) ** 2)
