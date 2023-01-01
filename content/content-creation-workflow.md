@@ -2,6 +2,7 @@
 created: 2022-05-01T23:43:57+02:00
 modified: 2022-08-15T22:15:22+02:00
 title: Content creation workflow
+tags: journal, meta
 ---
 
 # A starting point

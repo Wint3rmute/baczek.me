@@ -1,6 +1,6 @@
 ---
 title: Website map
-type: Journal
+tags: journal, generative, programming
 ---
 
 {{svg (src="generated/connections.svg")}}

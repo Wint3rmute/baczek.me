@@ -2,6 +2,7 @@
 created: 2022-05-28T13:55:05+02:00
 modified: 2022-05-28T14:00:58+02:00
 title: Custom synth design idea dump
+tags: culture
 ---
 
 I've zero experience when it comes to making any kind of hardware,

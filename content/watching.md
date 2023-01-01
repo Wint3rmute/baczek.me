@@ -1,5 +1,6 @@
 ---
 title: Movies/shows
+tags: culture, collection
 ---
 
 ## My recommendations

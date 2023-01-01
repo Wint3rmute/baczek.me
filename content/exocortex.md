@@ -1,5 +1,6 @@
 ---
 title: Exocortex
+tags: journal, programming, generative
 ---
 
 >An exocortex is an external information processing system

@@ -2,6 +2,7 @@
 created: 2022-10-27T23:13:55+02:00
 modified: 2022-11-26T10:54:32+01:00
 title: Curated list of alternatives to C/C++/Java software
+tags: programming, collection
 ---
 
 *Lesser-known first to keep the list interesting*

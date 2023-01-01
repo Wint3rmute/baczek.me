@@ -2,6 +2,7 @@
 created: 2022-06-16T00:10:36+02:00
 modified: 2022-07-30T18:59:48+02:00
 title: GPU Synth
+tags: generative, programming, culture
 ---
 
 - [Nime conference](https://nime2022.org/program.html)

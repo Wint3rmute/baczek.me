@@ -109,6 +109,10 @@ if __name__ == "__main__":
 
         related_posts_json = []
 
+        # for post_ in all_posts:
+        #     if len(set(post.tags) & set(post_.tags)) != 0:
+        #         relations_graph.edge(post.title, post_.title, color="transparent")
+
         for post_id in post.related_post_ids:
             related_post = all_posts[post_id]
             relations_graph.edge(post.title, related_post.title, color="white")
