@@ -38,4 +38,9 @@ I'm also generating a cool looking connections graph using `graphviz`:
 
 {{svg (src="generated/connections.svg")}}
 
+See the [map](/map) for details.
+
+## Responsibility
+
+Every image is compressed by [Compress or die](https://compress-or-die.com). I highly recommend this site for slimming down images!
 
