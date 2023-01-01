@@ -41,6 +41,8 @@ header, h1, h2, h3, h4, h5 {
 article h1 {
   color: white;
   font-size: 200%;
+  text-decoration: underline var(--background-light) 1px;
+  text-underline-offset: 10px;
 }
 
 button {
