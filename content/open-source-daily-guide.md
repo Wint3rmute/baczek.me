@@ -2,6 +2,7 @@
 created: 2022-06-26T22:51:04+02:00
 modified: 2022-07-27T17:48:13+02:00
 title: Daily open-source software guide
+tags: programming, collection
 ---
 
 I've found that lots of people are writing extensive lists of tools they use to get things done, whether open source or not. I've decided to do it in a slightly different way - by imagining a day of my life, when I'm using various open source tools to do things that most of the people use proprietary software for.

@@ -2,6 +2,7 @@
 created: 2022-05-01T23:29:23+02:00
 modified: 2022-11-17T22:44:44+01:00
 title: About
+tags: journal, meta
 ---
 
 ## 📖 TL;DR

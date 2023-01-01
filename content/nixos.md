@@ -2,6 +2,7 @@
 created: 2022-06-13T23:48:37+02:00
 modified: 2022-10-27T22:56:27+02:00
 title: NixOs
+tags: programming
 ---
 
 NixOs is a Linux distro based on a fully declarative package manager, Nix.

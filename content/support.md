@@ -1,6 +1,7 @@
 ---
 created: 2022-08-14T12:37:23+02:00
 title: Support
+tags: meta
 ---
 
 If you're using the [public-facing services I'm hosting](/decentralisation)

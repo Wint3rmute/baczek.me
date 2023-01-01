@@ -1,5 +1,6 @@
 ---
 title: Website experience
+tags: meta, journal
 ---
 
 # Notes on the browsing experience i strive for

@@ -1,5 +1,6 @@
 ---
 title: 2023's Devlog
+tags: journal, programming, culture
 ---
 
 ```

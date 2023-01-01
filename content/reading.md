@@ -1,5 +1,6 @@
 ---
 title: Reading
+tags: culture, collection
 ---
 
 ## My recommendations on books, graphic novels and manga

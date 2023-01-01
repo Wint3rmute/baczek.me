@@ -2,6 +2,7 @@
 created: 2022-10-27T23:02:37+02:00
 modified: 2022-11-08T21:36:18+01:00
 title: My system configuration
+tags: programming
 ---
 
 {{image (src="/color_theme.jpg" title="A screenshot of my desktop, circa 2021" noshadow=true)}}

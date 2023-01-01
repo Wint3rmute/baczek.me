@@ -2,6 +2,7 @@
 created: 2022-07-29T12:33:09+02:00
 modified: 2023-01-01T17:56:46+01:00
 title: 'Synth Patch Generation - Evolutionary Approach'
+tags: culture, programming, generative
 ---
 
 - [Neuroevolution of augmenting topologies](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies),

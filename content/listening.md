@@ -1,5 +1,6 @@
 ---
 title: Listening recommendations
+tags: culture, collection
 ---
 
 ## No matter what music taste you have, try those:

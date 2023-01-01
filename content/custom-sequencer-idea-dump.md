@@ -2,6 +2,7 @@
 created: 2022-06-21T12:37:23+02:00
 modified: 2022-12-18T17:49:09+01:00
 title: Custom sequencer idea dump
+tags: generative, culture, programming
 ---
 
 ## Unordered dump
