@@ -40,7 +40,7 @@ I'm also generating a cool looking connections graph using `graphviz`:
 
 See the [map](/map) for details.
 
-## Responsibility
+## Gotta go fast!
 
 Every image is compressed by [Compress or die](https://compress-or-die.com). I highly recommend this site for slimming down images!
 
