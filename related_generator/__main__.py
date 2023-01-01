@@ -101,6 +101,8 @@ if __name__ == "__main__":
             URL="/" + post.path.with_suffix("").name,
         )
 
+    linked_with = {post.path: [] for post in all_posts}
+
     for post in all_posts:
         related_posts_json_path = Path("./generated") / post.path.relative_to(
             "content"
@@ -115,7 +117,14 @@ if __name__ == "__main__":
 
         for post_id in post.related_post_ids:
             related_post = all_posts[post_id]
-            relations_graph.edge(post.title, related_post.title, color="white")
+
+            if (
+                related_post.path not in linked_with[post.path]
+                and post.path not in linked_with[related_post.path]
+            ):
+                relations_graph.edge(post.title, related_post.title, color="white")
+                linked_with[post.path].append(related_post.path)
+                linked_with[related_post.path].append(post.path)
 
             post_link = "/" + str(
                 related_post.path.relative_to("content").parent

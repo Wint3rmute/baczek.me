@@ -14,6 +14,10 @@ The clusters represented below have no real meaning, I've added them just to see
 
 ---
 
+Added a simple tags system to post metadata, will help with map generation.
+
+---
+
 <br>
 
 Go back to [2022](/2022).
