@@ -81,8 +81,8 @@ nav > ul > li {
 }
 
 svg {
-  max-width: 100%;
   height: auto;
+  max-width: 100%;
 }
 
 .svg-icon {
@@ -201,6 +201,13 @@ hr {
 
   .small {
     max-width: 60%;
+  }
+
+  article svg {
+    position: relative;
+    max-width: 140%;
+    margin-left: -20%;
+    margin-right: auto;
   }
 }
 
