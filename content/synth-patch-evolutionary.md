@@ -1,9 +1,8 @@
 ---
 created: 2022-07-29T12:33:09+02:00
-modified: 2022-08-24T19:55:43+02:00
-title: Synth Patch Generation - Evolutionary Approach
+modified: 2023-01-01T17:56:46+01:00
+title: 'Synth Patch Generation - Evolutionary Approach'
 ---
-
 
 - [Neuroevolution of augmenting topologies](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies),
   could be interesting for keeping the graph population diverse
@@ -16,6 +15,8 @@ title: Synth Patch Generation - Evolutionary Approach
 - [neural nets generating FM patches](https://fcaspe.github.io/ddx7/) 
 - [Physical modeling using digital waveguides](https://ccrma.stanford.edu/~jos/pmudw/)
 - [Mutable Instruments' Elements DSP folder in their GitHub repo](https://github.com/pichenettes/eurorack/tree/master/elements/dsp)
+- https://sweetcocoa.github.io/pop2piano_samples/
+- Stable Riffusion
 
 Todo: Read the `now` entry and restructure it
 
@@ -71,4 +72,3 @@ Yada yada następujące zagadnienia:
 3. Interfejs użytkownika:
   - Ustawianie parametrów silnika DSP
   - Podgląd i edycja rytmów/melodii w sequencerze
-
