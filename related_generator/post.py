@@ -8,6 +8,19 @@ import markdown
 from bs4 import BeautifulSoup
 
 
+def was_recently_modified(file_path: Path) -> bool:
+    recently_modified_files = subprocess.check_output(
+        "git log --pretty=format: --name-only | grep '.md' | awk '!seen[$0]++' | head -n 5",
+        shell=True,
+    ).decode()
+
+    for file in recently_modified_files.split("\n"):
+        if str(file_path) in file:
+            return True
+
+    return False
+
+
 def extract_title(file_path: Path, content: str) -> str:
     title = None
 
@@ -40,6 +53,7 @@ class Post:
     title: str
     content: str
     path: Path
+    recently_modified: bool
     tags: list[str] = field(default_factory=list)
 
     # To be filled by map generation
@@ -78,7 +92,7 @@ class Post:
             #     print("No Incoming")
             #     print(content)
 
-        return cls(title, content, path, tags)
+        return cls(title, content, path, was_recently_modified(path), tags)
 
     def distance_to(self, post: "Post") -> float:
         return math.sqrt((self.x - post.x) ** 2 + (self.y - post.y) ** 2)

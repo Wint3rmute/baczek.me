@@ -26,8 +26,6 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 from .post import Post, get_all_posts
 
-nltk.download("punkt")
-
 
 def tokenizer(text: str) -> list[str]:
     stemmer = SnowballStemmer("english")
@@ -37,6 +35,7 @@ def tokenizer(text: str) -> list[str]:
 
 
 if __name__ == "__main__":
+    nltk.download("punkt")
     all_posts = get_all_posts()
 
     # Vectorizer to convert a collection of raw documents to a matrix of TF-IDF features
@@ -93,11 +92,15 @@ if __name__ == "__main__":
     )
 
     for post in all_posts:
-        color = f"#ffffff{int(255 * post.posts_linking_to_this):02x}"
+        transparency = f"{int(255 * post.posts_linking_to_this):02x}"
+        color = "#ffffff"
+        color += transparency
+
         relations_graph.node(
             post.title,
             color=color,
             fontcolor="white",
+            xlabel="🆕" if post.recently_modified else "",
             URL="/" + post.path.with_suffix("").name,
         )
 
