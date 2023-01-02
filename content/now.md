@@ -4,6 +4,15 @@ tags: journal, programming, culture
 ---
 
 ```
+02.01
+```
+
+Mood: reverb diagrams aesthetic. 
+
+{{image (src="/simple_reverb_loop.jpg" small=true noshadow=true title="Simple reverb loop. Taken from http://www.spinsemi.com/knowledge_base/effects.html")}}
+
+
+```
 01.01
 ```
 
@@ -34,4 +43,3 @@ The clusters represented below have no real meaning, I've added them just to see
 Go back to [2022](/2022).
 
 <br>
-
