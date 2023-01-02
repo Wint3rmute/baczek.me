@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2023-01-02T09:12:19+01:00
+modified: 2023-01-02T23:05:10+01:00
 title: The Waiting room
 tags: journal, meta, culture, programming
 ---
@@ -11,7 +11,6 @@ This is where I keep ideas, movies, music, interesting words and other things th
 
 - [Interesting notes on memexes and related topics](https://metasyn.pw/memex)
 - [Cellular automata synth kit](https://vtol.cc/#Cellular-Automata)
-- [Audio effects tutorial page](http://www.spinsemi.com/knowledge_base/effects.html)
 - [Video on geometry, from @Maciej](https://invidious.baczek.me/watch?v=utMx48aGndI)
 - Tarai function for generative music
 - [Hydra - livecoding visuals](https://github.com/hydra-synth/hydra)
