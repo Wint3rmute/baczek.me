@@ -32,13 +32,26 @@ tags: generative, culture, programming
 
 # DSP resources
 
-- [/dmc/ wiki @ NeoCities](https://dmpdoc.neocities.org/)
+## Architecture
+
 - [Timur Doumler: C++ in the Audio Industry](https://invidious.baczek.me/watch?v=boPEO2auJj4&listen=false). Recommended as a first-time video introduction to audio application architecture.
-- [Signal processing for sound design](https://invidious.baczek.me/watch?v=jVac5IFXpFo). Todo: watch! 
+- [Lock-free rust structures](https://morestina.net/blog/742/exploring-lock-free-rust-1-locks) - useful for synchronisation for real-time processes, such as audio generating threads
+
+## Synthesis
+
 - [Physical string modeling](https://ccrma.stanford.edu/software/clm/compmus/clm-tutorials/pm.html#k-s)
+
+## Processing & Effects
+
+- [Audio effects tutorial page](http://www.spinsemi.com/knowledge_base/effects.html)
 - [Digital filter design](https://ccrma.stanford.edu/~jos/filters/Why_learn_about_filters.html) 
 - [Jon Dattorro's Effect Design](https://ccrma.stanford.edu/~dattorro/EffectDesignPart1.pdf) 
-- [Lock-free rust structures](https://morestina.net/blog/742/exploring-lock-free-rust-1-locks) - useful for synchronisation for real-time processes, such as audio generating threads
+
+## Misc/Other
+
+- [/dmc/ wiki @ NeoCities](https://dmpdoc.neocities.org/)
+- [Signal processing for sound design](https://invidious.baczek.me/watch?v=jVac5IFXpFo). Todo: watch! 
+
 
 # Interesting DSP projects
 
