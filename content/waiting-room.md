@@ -9,10 +9,10 @@ tags: journal, meta, culture, programming
 
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
-- https://metasyn.pw/memex
-- https://vtol.cc/#Cellular-Automata
-- http://www.spinsemi.com/knowledge_base/effects.html
-- https://invidious.baczek.me/watch?v=utMx48aGndI
+- [Interesting notes on memexes and related topics](https://metasyn.pw/memex)
+- [Cellular automata synth kit](https://vtol.cc/#Cellular-Automata)
+- [Audio effects tutorial page](http://www.spinsemi.com/knowledge_base/effects.html)
+- [Video on geometry, from @Maciej](https://invidious.baczek.me/watch?v=utMx48aGndI)
 - Tarai function for generative music
 - [Hydra - livecoding visuals](https://github.com/hydra-synth/hydra)
 - [extract all interesting synth software links from this thread](https://news.ycombinator.com/item?id=34097936)
