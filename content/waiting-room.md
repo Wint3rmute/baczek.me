@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2022-12-28T12:39:33+01:00
+modified: 2023-01-02T09:11:50+01:00
 title: The Waiting room
 tags: journal, meta, culture, programming
 ---
@@ -9,6 +9,7 @@ tags: journal, meta, culture, programming
 
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
+- https://vtol.cc/#Cellular-Automata
 - http://www.spinsemi.com/knowledge_base/effects.html
 - https://invidious.baczek.me/watch?v=utMx48aGndI
 - Tarai function for generative music
