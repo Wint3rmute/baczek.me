@@ -17,7 +17,7 @@ tags: journal, programming, culture
 
 Mood: reverb diagrams aesthetic. 
 
-{{image (src="/simple_reverb_loop.jpg" small=true noshadow=true title="Simple reverb loop. Taken from http://www.spinsemi.com/knowledge_base/effects.html")}}
+{{image (src="/simple_reverb_loop.jpg" small=true noshadow=true title="Simple reverb loop. Taken from <a href='http://www.spinsemi.com/knowledge_base/effects.html'>spinsemi.com</i>")}}
 
 
 ```
