@@ -4,6 +4,14 @@ tags: journal, programming, culture
 ---
 
 ```
+05.01
+```
+
+>Reading:<br>
+>Sean Luke - Computational Music Synthesis
+
+
+```
 02.01
 ```
 
