@@ -32,9 +32,10 @@ tags: generative, culture, programming
 
 # DSP resources
 
-## Architecture
+## General
 
 - [Timur Doumler: C++ in the Audio Industry](https://invidious.baczek.me/watch?v=boPEO2auJj4&listen=false). Recommended as a first-time video introduction to audio application architecture.
+- [Computational Music Synthesis](https://cs.gmu.edu/~sean/book/synthesis/) - theory & algorithms behind most popular synthesis methods
 - [Lock-free rust structures](https://morestina.net/blog/742/exploring-lock-free-rust-1-locks) - useful for synchronisation for real-time processes, such as audio generating threads
 
 ## Synthesis
