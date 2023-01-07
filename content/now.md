@@ -9,6 +9,8 @@ tags: journal, programming, culture
 
 >Reading:<br>
 >Sean Luke - Computational Music Synthesis
+>Watching:<br>
+>Warner Herzog - The Enigma of Kaspar Hauser
 
 
 ```
