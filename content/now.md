@@ -4,6 +4,19 @@ tags: journal, programming, culture
 ---
 
 ```
+09.01
+```
+
+{{image (src="/website_footprint.jpg" title="Getting there!")}}
+
+>Watching:<br>
+>Guillermo del Toro's Cabinet of Curiosities<br>
+>Listening:<br>
+>Vulfpeck - Schvitz<br>
+>T.Rex - Get It On (Virgin Magnetic Material remix)<br>
+>Virgin Magnetic Material - LBDs mixtape
+
+```
 05.01
 ```
 
