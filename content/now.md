@@ -3,6 +3,16 @@ title: 2023's Devlog
 tags: journal, programming, culture
 ---
 
+
+```
+10.01
+```
+
+{{image (src="/virgin_fail.jpg" title="Sad news from Virgin Orbit")}}
+
+Not a good day. Those cubesats really had potential :(
+
+
 ```
 09.01
 ```
