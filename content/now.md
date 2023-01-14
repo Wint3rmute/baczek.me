@@ -3,6 +3,13 @@ title: 2023's Devlog
 tags: journal, programming, culture
 ---
 
+```
+14.01
+```
+
+>Listening:<br>
+>Carbon Based Lifeforms - Live at Ozora Festival 2017
+
 
 ```
 10.01
