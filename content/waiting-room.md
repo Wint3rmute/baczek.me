@@ -9,6 +9,7 @@ tags: journal, meta, culture, programming
 
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
+- [Interview with Emillie Gillet from Mutable Instruments](https://www.synthtopia.com/content/2014/03/31/interview-with-emilie-gillet-mutable-instruments/)
 - [editionsmego.com](https://editionsmego.com)
 - [Interesting notes on memexes and related topics](https://metasyn.pw/memex)
 - [Cellular automata synth kit](https://vtol.cc/#Cellular-Automata)

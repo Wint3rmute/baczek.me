@@ -4,6 +4,23 @@ tags: journal, programming, culture
 ---
 
 ```
+17.01
+```
+
+Did a minor contribution to 
+[Mutable Instruments' documentation repo](https://github.com/pichenettes/mutable-instruments-documentation).
+Glad to see that I'm getting more comfortable with suggesting patches
+to various open-source projects :)
+
+>Listening:<br>
+>Boa - Duvet<br>
+>Vulfmon - Boogie Man<br>
+>Jeanette - El Muchacho de los Ojos Tristes<br>
+>Wyspa - Rysy<br>
+>Przyjmij Brak - Rysy
+
+
+```
 14.01
 ```
 
