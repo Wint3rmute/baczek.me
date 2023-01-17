@@ -9,6 +9,7 @@ tags: journal, meta, culture, programming
 
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
+- [editionsmego.com](https://editionsmego.com)
 - [Interesting notes on memexes and related topics](https://metasyn.pw/memex)
 - [Cellular automata synth kit](https://vtol.cc/#Cellular-Automata)
 - [Video on geometry, from @Maciej](https://invidious.baczek.me/watch?v=utMx48aGndI)
