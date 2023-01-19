@@ -1,14 +1,12 @@
 FROM archlinux:latest as builder
-# python-tomli can be removed when arch fixes poetry packaging
 RUN pacman -Sy --noconfirm git graphviz wget \
   blas gcc poetry pkgconf \
   python python-cairo graphviz zola \
-  python-tomli \
   && pacman -Sc --noconfirm
 
 WORKDIR /website
 COPY pyproject.toml poetry.lock poetry.toml /website/
-RUN poetry install --only main
+RUN poetry install --only main && rm -rf ~/.cache/pypoetry
 
 # Run a test website build
 COPY related_generator related_generator
@@ -17,15 +15,12 @@ COPY static static
 COPY templates templates
 COPY config.toml .
 
-RUN poetry run python -m related_generator
-RUN zola build
-RUN du -sh /website
+RUN poetry run python -m related_generator && zola build && du -sh /website/public && rm -rf /website/public
 
 FROM archlinux:latest
 RUN pacman -Sy --noconfirm git graphviz wget \
   blas poetry \
   python python-cairo graphviz zola \
-  python-tomli \
   && pacman -Sc --noconfirm
 
 COPY --from=builder /website /
