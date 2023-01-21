@@ -212,8 +212,8 @@ hr {
 
   article svg {
     position: relative;
-    max-width: 140%;
-    margin-left: -20%;
+    max-width: 180%;
+    margin-left: -40%;
     margin-right: auto;
   }
 }
