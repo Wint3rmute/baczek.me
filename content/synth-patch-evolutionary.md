@@ -50,6 +50,7 @@ Prace o podobnej tematyce:
 
 - [Automatic design of sound synthesizers as pure data patches using coevolutionary mixed-typed cartesian genetic programming](https://dl.acm.org/doi/10.1145/2576768.2598303)
 - [Differentiable FM Synthesis of Musical Instrument Sounds](https://fcaspe.github.io/ddx7/)
+- [ml-synth-preset-generator](https://github.com/jakespracher/ml-synth-preset-generator)
 
 
 ---

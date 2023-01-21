@@ -4,20 +4,38 @@ tags: journal, programming, culture
 ---
 
 ```
+21.10
+```
+
+Starting to work on [generating synth pathes](/synth-patch-evolutionary) from audio samples!
+
+>Listening:<br>
+>Rysy - Traveler<br>
+>Son Lux - Plans We Made<br>
+>Fiora - Let It Go By<br>
+>LCD Soundsystem - Home<br>
+>MC Virgins - Sundress
+>(guilty pleasure, obviosly. Helps getting through the semester though)<br>
+
+
+```
 17.01
 ```
 
 Did a minor contribution to 
 [Mutable Instruments' documentation repo](https://github.com/pichenettes/mutable-instruments-documentation).
 Glad to see that I'm getting more comfortable with suggesting patches
-to various open-source projects :)
+to various open-source projects!
+Also glad that it's possible to "just submit" a suggestion to
+software written by a prominent artist. Despite all the negativity
+coming from the media and politics, we live in a great age :)
 
 >Listening:<br>
 >Boa - Duvet<br>
 >Vulfmon - Boogie Man<br>
 >Jeanette - El Muchacho de los Ojos Tristes<br>
->Wyspa - Rysy<br>
->Przyjmij Brak - Rysy
+>Rysy - Wyspa<br>
+>Rysy - Przyjmij Brak
 
 
 ```
