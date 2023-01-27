@@ -101,3 +101,10 @@ github.com
 ### And most importantly
 
 >**You, the end user, are free to pick your own set of registries.**
+
+
+---
+
+Useful links:
+
+- [build your own search engine](http://wiby.me/about/guide.html)
