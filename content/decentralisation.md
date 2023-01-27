@@ -10,7 +10,7 @@ My recommendations on [open source software](/open-source-daily-guide).
 
 ## Decentralised/self-hosted online services
 
--
+- new idea, work in progress - [registry-based search engine manifesto](/search-registry-manifesto) 
 
 I'm running self-hosted online services. They are public, you can use them too :)
 
