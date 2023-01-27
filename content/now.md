@@ -4,7 +4,20 @@ tags: journal, programming, culture
 ---
 
 ```
-21.10
+27.01
+```
+
+Exploring ideas related with decentralised search engine. Wrote a small manifesto on [new paradigm for search engines](/search-registry-manifesto). 
+
+>Watching:<br>
+>The Call Of Cthulhu (2005)<br>
+>Listening:<br>
+>Aphex Twin - #3<br>
+>Cory Wong - Power Station Tour
+
+
+```
+21.01
 ```
 
 Starting to work on [generating synth pathes](/synth-patch-evolutionary) from audio samples!
