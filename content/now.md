@@ -7,7 +7,7 @@ tags: journal, programming, culture
 27.01
 ```
 
-Exploring ideas related with decentralised search engine. Wrote a small manifesto on [new paradigm for search engines](/search-registry-manifesto). 
+Exploring ideas related with [decentralised](/decentralisation) search engines. Wrote a small manifesto on a [new paradigm for how we search the web](/search-registry-manifesto). 
 
 >Watching:<br>
 >The Call Of Cthulhu (2005)<br>
