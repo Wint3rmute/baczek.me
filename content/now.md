@@ -4,6 +4,17 @@ tags: journal, programming, culture
 ---
 
 ```
+28.01
+```
+
+Recorded a small [demo](https://odysee.com/@Wint3rmute:c/libretakt_demo:2) of 
+[libretakt](https://github.com/Wint3rmute/libretakt/) - a sampler I've worked on during a university course.
+
+>Reading:<br>
+>H.P. Lovecraft - At the Mountains of Madness
+
+
+```
 27.01
 ```
 
