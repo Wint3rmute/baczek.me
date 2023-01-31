@@ -9,7 +9,7 @@ tags: journal, meta, culture, programming
 
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
-- The Call of Cthulhu (2005)
+- [SICP, Lecture 6A: Streams, Part 1](https://invidious.baczek.me/watch?v=JkGKLILLy0I&list=PLE18841CABEA24090&index=11)
 - [Interview with Emillie Gillet from Mutable Instruments](https://www.synthtopia.com/content/2014/03/31/interview-with-emilie-gillet-mutable-instruments/)
 - [editionsmego.com](https://editionsmego.com)
 - [Interesting notes on memexes and related topics](https://metasyn.pw/memex)
