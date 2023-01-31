@@ -12,6 +12,8 @@ Recorded a small [demo](https://odysee.com/@Wint3rmute:c/libretakt_demo:2) of
 
 >Reading:<br>
 >H.P. Lovecraft - At the Mountains of Madness
+>Watching:<br>
+>Ghos in the Shell 2: Innocence
 
 
 ```
