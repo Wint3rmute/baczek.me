@@ -4,6 +4,25 @@ tags: journal, programming, culture
 ---
 
 ```
+04.02
+```
+
+>Watching:<br>
+>Code Lyoko
+
+Reliving the cartoons from my childhood. Amazed to see that their 
+[website](https://en.codelyoko.fr) is still alive and active!
+
+>Listening:<br>
+>Aphex Twin - Selected Ambient Works<br>
+>Passenger - Things That Stop You Dreaming<br>
+>Kishi Bashi - 151a<br>
+>Sleeping At Last - You're Enough<br>
+>Depeche Mode - The Love Thieves<br>
+>Brian Eno - LUX 1<br>
+
+
+```
 28.01
 ```
 
