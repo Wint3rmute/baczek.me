@@ -21,6 +21,7 @@ I'm running self-hosted online services. They are public, you can use them too :
 I also recommend the following services for private use:
 
 - [NextCloud](https://nextcloud.com/)
+- [Matrix](https://github.com/matrix-org/synapse/) 
 
 
 ## Notes on self-hosting
