@@ -4,6 +4,19 @@ tags: journal, programming, culture
 ---
 
 ```
+18.02
+```
+
+Learning Ansible, taking care of servers at work. 
+
+>Listening:<br>
+>Depeche Mode - Ghosts Again<br>
+>Cautious Clay - Cheesin'<br>
+>Jacob Collier - Hajanga<br>
+>Junk Reactor - Guardian Angel
+
+
+```
 04.02
 ```
 
