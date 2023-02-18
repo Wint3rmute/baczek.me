@@ -29,4 +29,5 @@ I also recommend the following services for private use:
 2. Plot the monitoring results (Grafana)
 3. Ping everything from time to time
 4. Setup notifications when a service goes down
-5. As your infrastructure (and knowledge) grows, you will eventually need *infrastructure as code*
+5. Automate everything from the start
+6. As your infrastructure (and knowledge) grows, you will eventually need *infrastructure as code*
