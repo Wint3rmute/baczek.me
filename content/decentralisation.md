@@ -21,3 +21,12 @@ I'm running self-hosted online services. They are public, you can use them too :
 I also recommend the following services for private use:
 
 - [NextCloud](https://nextcloud.com/)
+
+
+## Notes on self-hosting
+
+1. Monitor the metrics of every service you've hosting
+2. Plot the monitoring results (Grafana)
+3. Ping everything from time to time
+4. Setup notifications when a service goes down
+5. As your infrastructure (and knowledge) grows, you will eventually need *infrastructure as code*
