@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2023-01-24T10:05:30+01:00
+modified: 2023-02-18T13:14:58+01:00
 title: The Waiting room
 tags: journal, meta, culture, programming
 ---
@@ -9,6 +9,7 @@ tags: journal, meta, culture, programming
 
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
+- [AMY Synth library](https://notes.variogram.com/amy/)
 - [SICP, Lecture 6A: Streams, Part 1](https://invidious.baczek.me/watch?v=JkGKLILLy0I&list=PLE18841CABEA24090&index=11)
 - [Interview with Emillie Gillet from Mutable Instruments](https://www.synthtopia.com/content/2014/03/31/interview-with-emilie-gillet-mutable-instruments/)
 - [editionsmego.com](https://editionsmego.com)
