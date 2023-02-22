@@ -1,10 +1,11 @@
 ---
 created: 2022-07-29T12:33:09+02:00
-modified: 2023-01-01T17:56:46+01:00
+modified: 2023-02-22T17:00:10+01:00
 title: 'Synth Patch Generation - Evolutionary Approach'
 tags: culture, programming, generative
 ---
 
+- [Riven@XXIIV](https://wiki.xxiivv.com/site/riven.html) - UI design inspiration
 - [Neuroevolution of augmenting topologies](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies),
   could be interesting for keeping the graph population diverse
 - [Sound comparison with MFCC](https://github.com/d4r3topk/comparing-audio-files-python)
