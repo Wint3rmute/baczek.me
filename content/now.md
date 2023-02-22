@@ -4,6 +4,13 @@ tags: journal, programming, culture
 ---
 
 ```
+22.02
+```
+
+Starting to think about the visual representation of the graph I'm gonna be evolving for my [master's thesis](/synth-patch-evolutionary)
+
+
+```
 18.02
 ```
 
@@ -13,7 +20,7 @@ Learning Ansible, taking care of servers at work.
 >Depeche Mode - Ghosts Again<br>
 >Cautious Clay - Cheesin'<br>
 >Jacob Collier - Hajanga<br>
->Junk Reactor - Guardian Angel
+>Juno Reactor - Guardian Angel
 
 
 ```
