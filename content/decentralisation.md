@@ -3,6 +3,10 @@ title: Decentralisation
 tags: programming
 ---
 
+## Making the internet interesting again
+
+[Bookmarks](/bookmarks)!
+
 ## FLOSS software
 
 My recommendations on [open source software](/open-source-daily-guide).
