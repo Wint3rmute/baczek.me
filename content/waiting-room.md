@@ -9,6 +9,7 @@ tags: journal, meta, culture, programming
 
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
+- [Sounding secrets of AudioLM](https://www.shaped.ai/blog/sounding-the-secrets-of-audiolm)
 - [AMY Synth library](https://notes.variogram.com/amy/)
 - [SICP, Lecture 6A: Streams, Part 1](https://invidious.baczek.me/watch?v=JkGKLILLy0I&list=PLE18841CABEA24090&index=11)
 - [Interview with Emillie Gillet from Mutable Instruments](https://www.synthtopia.com/content/2014/03/31/interview-with-emilie-gillet-mutable-instruments/)
