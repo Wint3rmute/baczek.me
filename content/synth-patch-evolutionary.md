@@ -1,6 +1,6 @@
 ---
 created: 2022-07-29T12:33:09+02:00
-modified: 2023-02-26T22:43:44+01:00
+modified: 2023-02-26T22:46:22+01:00
 title: 'Synth Patch Generation - Evolutionary Approach'
 tags: culture, programming, generative
 ---
@@ -8,6 +8,7 @@ tags: culture, programming, generative
 | Week & month | Goal |
 | :-- | :-- |
 | w1/02 | Test FFT algos in rust, try plotting them in real time in UI |
+| w2/02 | Prepare **any** prototype of synth graph building UI |
 
 
 ## Useful links
