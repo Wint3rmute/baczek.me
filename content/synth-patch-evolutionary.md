@@ -1,9 +1,16 @@
 ---
 created: 2022-07-29T12:33:09+02:00
-modified: 2023-02-22T17:00:10+01:00
+modified: 2023-02-26T22:43:44+01:00
 title: 'Synth Patch Generation - Evolutionary Approach'
 tags: culture, programming, generative
 ---
+
+| Week & month | Goal |
+| :-- | :-- |
+| w1/02 | Test FFT algos in rust, try plotting them in real time in UI |
+
+
+## Useful links
 
 - [Riven@XXIIV](https://wiki.xxiivv.com/site/riven.html) - UI design inspiration
 - [Neuroevolution of augmenting topologies](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies),
@@ -52,26 +59,3 @@ Prace o podobnej tematyce:
 - [Automatic design of sound synthesizers as pure data patches using coevolutionary mixed-typed cartesian genetic programming](https://dl.acm.org/doi/10.1145/2576768.2598303)
 - [Differentiable FM Synthesis of Musical Instrument Sounds](https://fcaspe.github.io/ddx7/)
 - [ml-synth-preset-generator](https://github.com/jakespracher/ml-synth-preset-generator)
-
-
----
-
-Yada yada następujące zagadnienia:
-
-1. Silnik DSP:
-  - Synteza dźwięku - algorytmy [syntezy FM](https://ccrma.stanford.edu/~jos/sasp/Frequency_Modulation_FM_Synthesis.html) oraz [physical modeling](https://ccrma.stanford.edu/software/clm/compmus/clm-tutorials/pm.html)
-  - Filtracja dźwięku - [algorytmy emulujące klasyczny filtr analogowy](https://ccrma.stanford.edu/~jos/filters/Elementary_Audio_Digital_Filters.html) - rezonansowe high-pass, low-pass, emulacja klasycznego *moog ladder filter*
-  - Przetwarzanie gotowych sampli:
-    - Zmiana wysokości dźwięku
-    - [Bit crush sampli](https://en.wikipedia.org/wiki/Bitcrusher)
-    - [Distortion/overdrive](https://en.wikipedia.org/wiki/Distortion_(music))
-  - Efekty audio, nakładane na sample i syntezowane sygnały dźwiękowe:
-    - Reverb - przykładowo [Dattorro’s figure-of-eight reverb](https://ccrma.stanford.edu/~dattorro/EffectDesignPart1.pdf) lub [freeverb](https://ccrma.stanford.edu/~jos/pasp/Freeverb.html)
-    - [Delay](https://en.wikipedia.org/wiki/Delay_(audio_effect)), emulacja efektu tape delay
-2. [Sequencer](https://en.wikipedia.org/wiki/Music_sequencer) - komponent pozwalający na zaprogramowanie przez użytkownika:
-  - Rytmu/melodii odgrywanej przez silnik DSP
-  - dynamiczne zmiany wartości parametrów syntezy oraz przetwarzania dźwięku opisanych wyżej
-  - Rytmu/melodii odgrywanej na zawnętrznym kanale MIDI (w celu integracji z instrumentami zewnętrznymi: pianino elektroniczne/syntezator/itd)
-3. Interfejs użytkownika:
-  - Ustawianie parametrów silnika DSP
-  - Podgląd i edycja rytmów/melodii w sequencerze
