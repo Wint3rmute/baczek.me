@@ -4,6 +4,17 @@ tags: journal, programming, culture
 ---
 
 ```
+2.03
+```
+
+>Reading:<br>
+>Terry Pratchett - Making Money<br>
+>Listening:<br>
+>Nation of Language - On Division St<br>
+>Ásgeir - Snowblind
+
+
+```
 22.02
 ```
 
