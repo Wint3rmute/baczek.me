@@ -4,7 +4,13 @@ tags: journal, programming, culture
 ---
 
 ```
-2.03
+05.03
+```
+Moving website generation to GitHub actions only.
+Considering migrating my VPS to ansible-managed.
+
+```
+02.03
 ```
 
 >Reading:<br>
