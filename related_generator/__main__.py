@@ -27,6 +27,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 from .embeddings import model
 from .post import Post, get_all_posts
+from .use import embed
 
 
 def tokenizer(text: str) -> list[str]:
