@@ -6,6 +6,7 @@ from pathlib import Path
 
 import markdown
 from bs4 import BeautifulSoup
+from scipy import spatial
 
 
 def was_recently_modified(file_path: Path) -> bool:
@@ -94,8 +95,13 @@ class Post:
 
         return cls(title, content, path, was_recently_modified(path), tags)
 
-    def distance_to(self, post: "Post") -> float:
-        return math.sqrt((self.x - post.x) ** 2 + (self.y - post.y) ** 2)
+    def distance_to(self, post: "Post", model) -> float:
+        from .embeddings import get_vector
+
+        return 1 - spatial.distance.cosine(
+            get_vector(self.content), get_vector(post.content)
+        )
+        # return math.sqrt((self.x - post.x) ** 2 + (self.y - post.y) ** 2)
 
 
 def get_all_posts() -> list[Post]:

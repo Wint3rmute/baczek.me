@@ -17,6 +17,7 @@ from pathlib import Path
 import graphviz
 import matplotlib.pyplot as plt
 import nltk
+import numpy as np
 import umap
 from nltk.stem.snowball import SnowballStemmer
 from nltk.tokenize import word_tokenize
@@ -24,6 +25,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.manifold import TSNE
 from sklearn.metrics.pairwise import cosine_similarity
 
+from .embeddings import model
 from .post import Post, get_all_posts
 
 
@@ -43,12 +45,20 @@ if __name__ == "__main__":
     # vectorizer = TfidfVectorizer()
 
     # Learn vocabulary and idf, return term-document matrix.
-    tfidf = vectorizer.fit_transform([post.content for post in all_posts])
+    # tfidf = vectorizer.fit_transform([post.content for post in all_posts])
+    vectors = [
+        np.sum(
+            np.array([model[i] for i in tokenizer(post.content) if i in model]), axis=0
+        )
+        for post in all_posts
+    ]
+    # __import__("pdb").set_trace()
 
     # Array mapping from feature integer indices to feature name
-    words = vectorizer.get_feature_names_out()
+    # words = vectorizer.get_feature_names_out()
 
-    umap_result = umap.UMAP().fit_transform(tfidf)
+    # umap_result = umap.UMAP().fit_transform(tfidf)
+    umap_result = umap.UMAP().fit_transform(vectors)
 
     for post, umap_result in zip(all_posts, umap_result):
         post.x, post.y = umap_result
@@ -59,7 +69,7 @@ if __name__ == "__main__":
         requested_index = post_index
 
         related_posts = sorted(
-            all_posts, key=lambda post_to_sort: post_to_sort.distance_to(post)
+            all_posts, key=lambda post_to_sort: post_to_sort.distance_to(post, model)
         )
 
         related_product_indices = []
