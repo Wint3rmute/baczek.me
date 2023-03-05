@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2023-02-18T13:14:58+01:00
+modified: 2023-03-05T17:09:39+01:00
 title: The Waiting room
 tags: journal, meta, culture, programming
 ---
@@ -9,6 +9,7 @@ tags: journal, meta, culture, programming
 
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
+- [Nannou - an open-source creative-coding framework for Rust](https://nannou.cc/)
 - [Sounding secrets of AudioLM](https://www.shaped.ai/blog/sounding-the-secrets-of-audiolm)
 - [AMY Synth library](https://notes.variogram.com/amy/)
 - [SICP, Lecture 6A: Streams, Part 1](https://invidious.baczek.me/watch?v=JkGKLILLy0I&list=PLE18841CABEA24090&index=11)
