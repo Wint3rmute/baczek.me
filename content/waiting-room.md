@@ -9,6 +9,7 @@ tags: journal, meta, culture, programming
 
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
+- [Anju Singh](https://www.anjusingh.com/)
 - [Nannou - an open-source creative-coding framework for Rust](https://nannou.cc/)
 - [Sounding secrets of AudioLM](https://www.shaped.ai/blog/sounding-the-secrets-of-audiolm)
 - [AMY Synth library](https://notes.variogram.com/amy/)
