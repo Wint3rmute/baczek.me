@@ -6,7 +6,7 @@ tags: journal, programming, culture
 ```
 05.03
 ```
-Moving website generation to GitHub actions only.
+Moving website generation to GitHub actions.
 Considering migrating my VPS to ansible-managed.
 
 

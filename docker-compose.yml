@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  deploy:
+    container_name: website_builder
+    restart: always
+    build: .
+    env_file:
+      - .env
+    volumes:
+      - /usr/share/nginx:/usr/share/nginx
+    ports:
+      - 127.0.0.1:5555:5555
+
