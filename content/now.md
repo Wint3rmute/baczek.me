@@ -25,7 +25,7 @@ Considering migrating my VPS to ansible-managed.
 22.02
 ```
 
-Starting to think about the visual representation of the graph I'm gonna be evolving for my [master's thesis](/synth-patch-evolutionary)
+Starting to think about the visual representation of the graph I'm gonna be evolving for my [master's thesis](/luthier)
 
 
 ```
@@ -90,7 +90,7 @@ Exploring ideas related with [decentralised](/decentralisation) search engines. 
 21.01
 ```
 
-Starting to work on [generating synth pathes](/synth-patch-evolutionary) from audio samples!
+Starting to work on [generating synth pathes](/luthier) from audio samples!
 
 >Listening:<br>
 >Rysy - Traveler<br>
