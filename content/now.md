@@ -4,6 +4,21 @@ tags: journal, programming, culture
 ---
 
 ```
+13.03
+```
+
+Re-learning `egui`, works wonderfully for making interactive node graphs! 
+
+>Reading:<br>
+>Terry Pratchett - Sourcery<br>
+>Watching:<br>
+>David Lynch - Blue Velvet<br>
+>Listening:<br>
+>Roy Orbison - In Dreams<br>
+>Jack Stauber - Cheeseburger Family
+
+
+```
 05.03
 ```
 Moving website generation to GitHub actions.
