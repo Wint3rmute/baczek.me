@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2023-03-13T23:52:15+01:00
+modified: 2023-03-13T23:56:29+01:00
 title: The Waiting room
 tags: journal, meta, culture, programming
 ---
@@ -25,7 +25,6 @@ This is where I keep ideas, movies, music, interesting words and other things th
 - [DirtyWave tracker firmware](https://github.com/Dirtywave/M8HeadlessFirmware)
 - [TextBeat](https://github.com/flipcoder/textbeat)
 - [Glicol language](https://glicol.org/)
-- [Google's 4-day Rust intro curse](https://google.github.io/comprehensive-rust/)
 - [Rust for game tooling](https://invidious.baczek.me/watch?v=GtRo-eF8-TE)
 - Brian Eno - A Year with Swollen Appendices
 - Gothic flatline
@@ -40,7 +39,6 @@ This is where I keep ideas, movies, music, interesting words and other things th
 - The Sublime Object of Ideology
 - [Escape From Freedom](https://en.m.wikipedia.org/wiki/Escape_from_Freedom)
 - Mad God movie
-- Another great list from [Devine](https://wiki.xxiivv.com/site/directory.html) 
 - Possessor 2022
 - Baasch - neurotransmisja
 - Carl Jung - Aion
@@ -80,7 +78,6 @@ This is where I keep ideas, movies, music, interesting words and other things th
 - Willard Van Orman Quine 
 - Richard Rorty
 - Irlandczyk 2019
-- Budapest Grand Hotel
 - Megazone23
 - On Contingency - Liebniz
 - The Affair, serial od Dukaja 
