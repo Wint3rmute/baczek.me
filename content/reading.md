@@ -3,7 +3,7 @@ title: Reading
 tags: culture, collection
 ---
 
-## My recommendations on books, graphic novels and manga
+## My recommendations on books, graphic novels, etc
 
 - Anything by [Jacek Dukaj](https://en.wikipedia.org/wiki/Jacek_Dukaj) or [Stanisław Lem](https://en.wikipedia.org/wiki/Stanis%C5%82aw_Lem)
 - Brave New World
