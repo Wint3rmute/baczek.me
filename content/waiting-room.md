@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2023-03-13T23:51:48+01:00
+modified: 2023-03-13T23:52:15+01:00
 title: The Waiting room
 tags: journal, meta, culture, programming
 ---
@@ -27,7 +27,6 @@ This is where I keep ideas, movies, music, interesting words and other things th
 - [Glicol language](https://glicol.org/)
 - [Google's 4-day Rust intro curse](https://google.github.io/comprehensive-rust/)
 - [Rust for game tooling](https://invidious.baczek.me/watch?v=GtRo-eF8-TE)
-- [Writing, Editing and World-Building at the speed of thought with Vim](https://m.youtube.com/watch?v=2ORWaIqyj7k&ab_channel=Theena)
 - Brian Eno - A Year with Swollen Appendices
 - Gothic flatline
 - Richard Penrose - The Road to Reality
