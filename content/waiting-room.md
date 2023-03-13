@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2023-03-05T17:09:39+01:00
+modified: 2023-03-13T23:51:48+01:00
 title: The Waiting room
 tags: journal, meta, culture, programming
 ---
@@ -22,7 +22,6 @@ This is where I keep ideas, movies, music, interesting words and other things th
 - Tarai function for generative music
 - [Hydra - livecoding visuals](https://github.com/hydra-synth/hydra)
 - [extract all interesting synth software links from this thread](https://news.ycombinator.com/item?id=34097936)
-- [Max](https://cycling74.com/products/max)
 - [DirtyWave tracker firmware](https://github.com/Dirtywave/M8HeadlessFirmware)
 - [TextBeat](https://github.com/flipcoder/textbeat)
 - [Glicol language](https://glicol.org/)
