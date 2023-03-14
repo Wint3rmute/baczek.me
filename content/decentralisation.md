@@ -20,6 +20,7 @@ I'm running self-hosted online services. They are public, you can use them too :
 
 - [Invidious](https://invidious.baczek.me), an alternate YouTube frontend
 - [SearX](https://searx.baczek.me), a meta-search engine
+- [Librex](https://librex.baczek.me), another meta-search engine
 
 
 I also recommend the following services for private use:
