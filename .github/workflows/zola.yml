@@ -15,9 +15,9 @@ jobs:
       - name: Build docker image & Zola
         uses: docker/build-push-action@v4.0.0
       - name: Build the website
-        run: docker run -v $(pwd):/build $(docker images --quiet | head -n 1) bash -c "cd build && /website/.venv/bin/python -m related_generator && zola build"
+        run: docker run -v $(pwd):/build $(docker images --quiet | head -n 1) bash -c "git config --global --add safe.directory /build && cd /build && /website/.venv/bin/python -m related_generator && zola build"
       - name: Zip the website
-        run: zip -r docs/site.zip public
+        run: mkdir docs && zip -r docs/site.zip public
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
