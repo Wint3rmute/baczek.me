@@ -13,6 +13,7 @@ tags: culture, programming, generative
 
 ## Useful links
 
+- [AudioFlux](https://github.com/libAudioFlux/audioFlux) - audio analysis toolkit
 - [Riven@XXIIV](https://wiki.xxiivv.com/site/riven.html) - UI design inspiration
 - [Neuroevolution of augmenting topologies](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies),
   could be interesting for keeping the graph population diverse
