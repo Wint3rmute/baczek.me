@@ -65,7 +65,6 @@ class Post:
 
     @classmethod
     def from_path(cls, path: Path):
-
         if path.suffix == ".md":
             content_raw = path.read_text()
             # No easy markdown to text convertsion available at the moment :/
