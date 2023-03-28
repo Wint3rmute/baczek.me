@@ -3,6 +3,29 @@ title: 2023's Devlog
 tags: journal, programming, culture
 ---
 
+
+```
+28.03
+```
+
+>Reading:<br>
+>Terry Pratchett - Mort<br>
+>Listening:<br>
+>RY X - Bound (Live from the Royal Albert Hall)<br>
+>KARAŚ/ROGUCKI - Jutro Spróbujemy Jeszcze Raz<br>
+>sanah - wars<br>
+>Watching:<br>
+>Avatar - The Way of Water<br>
+
+
+```
+20.03
+```
+
+>Reading:<br>
+>Terry Pratchett - Eric
+
+
 ```
 13.03
 ```
