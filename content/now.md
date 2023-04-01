@@ -16,6 +16,9 @@ to building web applications, especially:
 
 Learning how to minimize writing glue code and focusing on delivering value.
 
+>Listening:<br>
+>KARAŚ/ROGUCKI - Czułe Kontyngenty
+
 
 ```
 28.03
