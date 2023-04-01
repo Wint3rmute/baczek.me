@@ -3,6 +3,19 @@ title: 2023's Devlog
 tags: journal, programming, culture
 ---
 
+```
+31.03
+```
+
+Trying to wrap my head around the database-centered
+(Postgres-centered in my case) approach
+to building web applications, especially:
+
+- Declarative APIs, taken from the DB model (think [Hasura](https://hasura.io/))
+- Storing business logic in the DB instead of relying on application-level validation
+
+Learning how to minimize writing glue code and focusing on delivering value.
+
 
 ```
 28.03
