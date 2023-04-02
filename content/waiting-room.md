@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2023-04-02T10:50:47+02:00
+modified: 2023-04-02T10:51:53+02:00
 title: The Waiting room
 tags: journal, meta, culture, programming
 ---
@@ -10,6 +10,7 @@ tags: journal, meta, culture, programming
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
 - Late 20xx Eastern-European cinema:
+  - Mikhail Titov's movies
   - Budet laskovyy dozhd (1984)
   - Vladimir Tarasov's movies
   - Snezhnaya Koroleva (1957)
