@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2023-04-02T10:43:32+02:00
+modified: 2023-04-02T10:50:47+02:00
 title: The Waiting room
 tags: journal, meta, culture, programming
 ---
@@ -9,7 +9,10 @@ tags: journal, meta, culture, programming
 
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
-- Vladimir Tarasov's movies
+- Late 20xx Eastern-European cinema:
+  - Budet laskovyy dozhd (1984)
+  - Vladimir Tarasov's movies
+  - Snezhnaya Koroleva (1957)
 - The Green Knight (2021)
 - [Anju Singh](https://www.anjusingh.com/)
 - [Nannou - an open-source creative-coding framework for Rust](https://nannou.cc/)
