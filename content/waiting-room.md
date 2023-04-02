@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2023-03-13T23:56:29+01:00
+modified: 2023-04-02T10:43:32+02:00
 title: The Waiting room
 tags: journal, meta, culture, programming
 ---
@@ -9,6 +9,7 @@ tags: journal, meta, culture, programming
 
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
+- Vladimir Tarasov's movies
 - The Green Knight (2021)
 - [Anju Singh](https://www.anjusingh.com/)
 - [Nannou - an open-source creative-coding framework for Rust](https://nannou.cc/)
