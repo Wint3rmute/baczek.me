@@ -9,6 +9,9 @@ tags: journal, programming, culture
 
 Played a first jam session in my life :)
 
+>Listening:<br>
+>The Doors - Riders on the Storm
+
 
 ```
 31.03
