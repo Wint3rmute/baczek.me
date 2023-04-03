@@ -4,6 +4,13 @@ tags: journal, programming, culture
 ---
 
 ```
+03.04
+```
+
+Played a first jam session in my life :)
+
+
+```
 31.03
 ```
 
