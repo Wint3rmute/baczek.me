@@ -4,6 +4,18 @@ tags: journal, programming, culture
 ---
 
 ```
+07.04
+```
+
+Had a breakthrough moment with Lisp, finally understanding the idea behind "code is data". Rethinking my approach to type systems and programming language architecture. All things Lisp-related are food for thought :)
+
+>Watching:<br>
+>MIT 6.001 - Structure and Interpretation
+>Reading:<br>
+>Peter Watts - Blindsight
+
+
+```
 03.04
 ```
 
