@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2023-04-08T19:52:45+02:00
+modified: 2023-04-11T20:16:21+02:00
 title: The Waiting room
 tags: journal, meta, culture, programming
 ---
@@ -10,9 +10,7 @@ tags: journal, meta, culture, programming
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
 
-- Closure:
-  - [Official editors guide](https://clojure.org/guides/editors)
-  - [Awesome-Closure](https://github.com/razum2um/awesome-clojure)
+- [Neovim + Rust + Debugging @HN](https://news.ycombinator.com/item?id=35522642)
 - Late 20xx Eastern-European cinema:
   - Mikhail Titov's movies
   - Budet laskovyy dozhd (1984)
