@@ -5,12 +5,13 @@ tags: journal, programming, generative
 
 >An exocortex is an external information processing system
 >that augments the brain's biological high-level cognitive processes. 
+>
 >~ [Transhumanism Wiki](https://transhumanism.fandom.com/wiki/Exocortex)
 
-The purpose of this website is to store the most valuable parts
+The purpose of this website is to store most valuable and interesting parts
 of knowledge I have gained over the years: technical, artistic, philosophical.
 
-In my case, it is not a notes dump nor a 
+In my case, it is not a notes dump nor a
 *[Zettelkasten-like](https://en.wikipedia.org/wiki/Zettelkasten)* system.
 
 I'm experimenting on a custom idea visualisation system, utilising
@@ -21,7 +22,9 @@ To put it shortly: I'm building a system which will automatically
 group my thoughts and infer connections between them.
 
 
----
+{{image (src="/graphviz_happy_accident.jpg" small=true noshadow=true
+title="Ideas & links")}}
+
 
 Apart from the cool-sounding plans about mind map generation,
 I'm constantly trying to improve both the [website experience](/website-experience)
