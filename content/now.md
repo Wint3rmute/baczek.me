@@ -19,7 +19,11 @@ tags: journal, programming, culture
 07.04
 ```
 
-Had a breakthrough moment with Lisp, finally understanding the idea behind "code is data". Rethinking my approach to type systems and programming language architecture. All things Lisp-related are food for thought :)
+Had a breakthrough moment with Lisp, finally
+understanding the idea behind "code is data".
+Rethinking my approach to type systems and
+programming language architecture. All things
+Lisp-related are food for thought :)
 
 >Watching:
 >- [MIT 6.001 - Structure and Interpretation](https://www.youtube.com/playlist?list=PLE18841CABEA24090)
@@ -43,8 +47,8 @@ Played a first jam session in my life :)
 ```
 
 Trying to wrap my head around the database-centered
-(Postgres-centered in my case) approach
-to building web applications, especially:
+(Postgres-centered in my case) approach to building web
+applications, especially:
 
 - Declarative APIs, taken from the DB model (think [Hasura](https://hasura.io/))
 - Storing business logic in the DB instead of relying on application-level validation
@@ -83,7 +87,8 @@ Learning how to minimize writing glue code and focusing on delivering value.
 13.03
 ```
 
-Re-learning `egui`, works wonderfully for making interactive node graphs! 
+Re-learning `egui`, works wonderfully for making interactive
+node graphs! 
 
 >Reading:
 >- Terry Pratchett - Sourcery
@@ -99,8 +104,8 @@ Re-learning `egui`, works wonderfully for making interactive node graphs!
 ```
 05.03
 ```
-Moving website generation to GitHub actions.
-Considering migrating my VPS to ansible-managed.
+Moving website generation to GitHub actions. Considering
+migrating my VPS to ansible-managed.
 
 
 ```
@@ -119,7 +124,9 @@ Considering migrating my VPS to ansible-managed.
 22.02
 ```
 
-Starting to think about the visual representation of the graph I'm gonna be evolving for my [master's thesis](/luthier)
+Starting to think about the visual representation of the
+graph I'm gonna be evolving for my [master's
+thesis](/luthier)
 
 
 ```
@@ -139,7 +146,7 @@ Learning Ansible, taking care of servers at work.
 04.02
 ```
 
-Reliving the cartoons from my childhood. Amazed to see that their 
+Reliving the cartoons from my childhood. Amazed to see that their
 [website](https://en.codelyoko.fr) is still alive and active!
 
 >Watching:
@@ -158,8 +165,10 @@ Reliving the cartoons from my childhood. Amazed to see that their
 28.01
 ```
 
-Recorded a small [demo](https://odysee.com/@Wint3rmute:c/libretakt_demo:2) of 
-[libretakt](https://github.com/Wint3rmute/libretakt/) - a sampler I've worked on during a university course.
+Recorded a small
+[demo](https://odysee.com/@Wint3rmute:c/libretakt_demo:2) of
+[libretakt](https://github.com/Wint3rmute/libretakt/) - a sampler
+I've worked on during a university course.
 
 >Reading:
 >- H.P. Lovecraft - At the Mountains of Madness
@@ -172,7 +181,9 @@ Recorded a small [demo](https://odysee.com/@Wint3rmute:c/libretakt_demo:2) of
 27.01
 ```
 
-Exploring ideas related with [decentralised](/decentralisation) search engines. Wrote a small manifesto on a [new paradigm for how we search the web](/search-registry-manifesto). 
+Exploring ideas related with [decentralised](/decentralisation)
+search engines. Wrote a small manifesto on a
+[new paradigm for how we search the web](/search-registry-manifesto). 
 
 >Watching:
 >- The Call Of Cthulhu (2005)
