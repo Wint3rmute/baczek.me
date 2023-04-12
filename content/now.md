@@ -4,6 +4,18 @@ tags: journal, programming, culture
 ---
 
 ```
+12.04
+```
+
+>**Watching:**<br>
+>Werner Herzog - On Death Row<br>
+>
+>**Listening:**<br>
+>- Yazoo - And On<br>
+>- Todd Terje, Bryan Ferry - Johnny and Mary<br>
+
+
+```
 07.04
 ```
 
