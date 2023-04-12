@@ -22,7 +22,7 @@ tags: journal, programming, culture
 Had a breakthrough moment with Lisp, finally understanding the idea behind "code is data". Rethinking my approach to type systems and programming language architecture. All things Lisp-related are food for thought :)
 
 >Watching:
->- MIT 6.001 - Structure and Interpretation
+>- [MIT 6.001 - Structure and Interpretation](https://www.youtube.com/playlist?list=PLE18841CABEA24090)
 >
 >Reading:
 >- Peter Watts - Blindsight
