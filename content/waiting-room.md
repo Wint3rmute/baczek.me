@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2023-04-11T20:16:21+02:00
+modified: 2023-04-13T00:24:36+02:00
 title: The Waiting room
 tags: journal, meta, culture, programming
 ---
@@ -10,6 +10,7 @@ tags: journal, meta, culture, programming
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
 
+- I Dream of Wires (2014)
 - [Neovim + Rust + Debugging @HN](https://news.ycombinator.com/item?id=35522642)
 - Late 20xx Eastern-European cinema:
   - Mikhail Titov's movies
