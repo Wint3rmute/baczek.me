@@ -115,9 +115,13 @@ main {
     width: 94%;
 }
 
-blockquote > p {
+blockquote > * {
+  margin: 5px;
+}
+
+blockquote {
   background-color: var(--background-light);
-  padding: 10px;
+  padding: 5px;
   border-radius: 10px;
   font-style: italic;
 }
