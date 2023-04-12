@@ -7,12 +7,12 @@ tags: journal, programming, culture
 12.04
 ```
 
->**Watching:**<br>
->Werner Herzog - On Death Row<br>
+>Watching:
+>- Werner Herzog - On Death Row
 >
->**Listening:**<br>
->- Yazoo - And On<br>
->- Todd Terje, Bryan Ferry - Johnny and Mary<br>
+>Listening:
+>- Yazoo - And On
+>- Todd Terje, Bryan Ferry - Johnny and Mary
 
 
 ```
@@ -21,10 +21,11 @@ tags: journal, programming, culture
 
 Had a breakthrough moment with Lisp, finally understanding the idea behind "code is data". Rethinking my approach to type systems and programming language architecture. All things Lisp-related are food for thought :)
 
->Watching:<br>
->MIT 6.001 - Structure and Interpretation<br>
->Reading:<br>
->Peter Watts - Blindsight
+>Watching:
+>- MIT 6.001 - Structure and Interpretation
+>
+>Reading:
+>- Peter Watts - Blindsight
 
 
 ```
@@ -33,8 +34,8 @@ Had a breakthrough moment with Lisp, finally understanding the idea behind "code
 
 Played a first jam session in my life :)
 
->Listening:<br>
->The Doors - Riders on the Storm
+>Listening:
+>- The Doors - Riders on the Storm
 
 
 ```
@@ -50,30 +51,32 @@ to building web applications, especially:
 
 Learning how to minimize writing glue code and focusing on delivering value.
 
->Listening:<br>
->KARAŚ/ROGUCKI - Czułe Kontyngenty
+>Listening:
+>- KARAŚ/ROGUCKI - Czułe Kontyngenty
 
 
 ```
 28.03
 ```
 
->Reading:<br>
->Terry Pratchett - Mort<br>
->Listening:<br>
->RY X - Bound (Live from the Royal Albert Hall)<br>
->KARAŚ/ROGUCKI - Jutro Spróbujemy Jeszcze Raz<br>
->sanah - wars<br>
->Watching:<br>
->Avatar - The Way of Water<br>
+>Reading:
+>- Terry Pratchett - Mort
+>
+>Listening:
+>- RY X - Bound (Live from the Royal Albert Hall)
+>- KARAŚ/ROGUCKI - Jutro Spróbujemy Jeszcze Raz
+>- sanah - wars
+>
+>Watching:
+>- Avatar - The Way of Water
 
 
 ```
 20.03
 ```
 
->Reading:<br>
->Terry Pratchett - Eric
+>Reading:
+>- Terry Pratchett - Eric
 
 
 ```
@@ -82,13 +85,15 @@ Learning how to minimize writing glue code and focusing on delivering value.
 
 Re-learning `egui`, works wonderfully for making interactive node graphs! 
 
->Reading:<br>
->Terry Pratchett - Sourcery<br>
->Watching:<br>
->David Lynch - Blue Velvet<br>
->Listening:<br>
->Roy Orbison - In Dreams<br>
->Jack Stauber - Cheeseburger Family
+>Reading:
+>- Terry Pratchett - Sourcery
+>
+>Watching:
+>- David Lynch - Blue Velvet
+>
+>Listening:
+>- Roy Orbison - In Dreams
+>- Jack Stauber - Cheeseburger Family
 
 
 ```
@@ -102,11 +107,12 @@ Considering migrating my VPS to ansible-managed.
 02.03
 ```
 
->Reading:<br>
->Terry Pratchett - Making Money<br>
->Listening:<br>
->Nation of Language - On Division St<br>
->Ásgeir - Snowblind
+>Reading:
+>- Terry Pratchett - Making Money
+>
+>Listening:
+>- Nation of Language - On Division St
+>- Ásgeir - Snowblind
 
 
 ```
@@ -122,30 +128,30 @@ Starting to think about the visual representation of the graph I'm gonna be evol
 
 Learning Ansible, taking care of servers at work. 
 
->Listening:<br>
->Depeche Mode - Ghosts Again<br>
->Cautious Clay - Cheesin'<br>
->Jacob Collier - Hajanga<br>
->Juno Reactor - Guardian Angel
+>Listening:
+>- Depeche Mode - Ghosts Again
+>- Cautious Clay - Cheesin'
+>- Jacob Collier - Hajanga
+>- Juno Reactor - Guardian Angel
 
 
 ```
 04.02
 ```
 
->Watching:<br>
->Code Lyoko
-
 Reliving the cartoons from my childhood. Amazed to see that their 
 [website](https://en.codelyoko.fr) is still alive and active!
 
->Listening:<br>
->Aphex Twin - Selected Ambient Works<br>
->Passenger - Things That Stop You Dreaming<br>
->Kishi Bashi - 151a<br>
->Sleeping At Last - You're Enough<br>
->Depeche Mode - The Love Thieves<br>
->Brian Eno - LUX 1<br>
+>Watching:
+>- Code Lyoko
+>
+>Listening:
+>- Aphex Twin - Selected Ambient Works
+>- Passenger - Things That Stop You Dreaming
+>- Kishi Bashi - 151a
+>- Sleeping At Last - You're Enough
+>- Depeche Mode - The Love Thieves
+>- Brian Eno - LUX 1
 
 
 ```
@@ -155,10 +161,11 @@ Reliving the cartoons from my childhood. Amazed to see that their
 Recorded a small [demo](https://odysee.com/@Wint3rmute:c/libretakt_demo:2) of 
 [libretakt](https://github.com/Wint3rmute/libretakt/) - a sampler I've worked on during a university course.
 
->Reading:<br>
->H.P. Lovecraft - At the Mountains of Madness
->Watching:<br>
->Ghos in the Shell 2: Innocence
+>Reading:
+>- H.P. Lovecraft - At the Mountains of Madness
+>
+>Watching:
+>- Ghost in the Shell 2: Innocence
 
 
 ```
@@ -167,11 +174,12 @@ Recorded a small [demo](https://odysee.com/@Wint3rmute:c/libretakt_demo:2) of
 
 Exploring ideas related with [decentralised](/decentralisation) search engines. Wrote a small manifesto on a [new paradigm for how we search the web](/search-registry-manifesto). 
 
->Watching:<br>
->The Call Of Cthulhu (2005)<br>
->Listening:<br>
->Aphex Twin - #3<br>
->Cory Wong - Power Station Tour
+>Watching:
+>- The Call Of Cthulhu (2005)
+>
+>Listening:
+>- Aphex Twin - #3
+>- Cory Wong - Power Station Tour
 
 
 ```
@@ -180,13 +188,13 @@ Exploring ideas related with [decentralised](/decentralisation) search engines. 
 
 Starting to work on [generating synth pathes](/luthier) from audio samples!
 
->Listening:<br>
->Rysy - Traveler<br>
->Son Lux - Plans We Made<br>
->Fiora - Let It Go By<br>
->LCD Soundsystem - Home<br>
->MC Virgins - Sundress
->(guilty pleasure, obviosly. Helps getting through the semester though)<br>
+>Listening:
+>- Rysy - Traveler
+>- Son Lux - Plans We Made
+>- Fiora - Let It Go By
+>- LCD Soundsystem - Home
+>- MC Virgins - Sundress
+>(guilty pleasure, obviosly. Helps getting through the semester though)
 
 
 ```
@@ -201,20 +209,20 @@ Also glad that it's possible to "just submit" a suggestion to
 software written by a prominent artist. Despite all the negativity
 coming from the media and politics, we live in a great age :)
 
->Listening:<br>
->Boa - Duvet<br>
->Vulfmon - Boogie Man<br>
->Jeanette - El Muchacho de los Ojos Tristes<br>
->Rysy - Wyspa<br>
->Rysy - Przyjmij Brak
+>Listening:
+>- Boa - Duvet
+>- Vulfmon - Boogie Man
+>- Jeanette - El Muchacho de los Ojos Tristes
+>- Rysy - Wyspa
+>- Rysy - Przyjmij Brak
 
 
 ```
 14.01
 ```
 
->Listening:<br>
->Carbon Based Lifeforms - Live at Ozora Festival 2017
+>Listening:
+>- Carbon Based Lifeforms - Live at Ozora Festival 2017
 
 
 ```
@@ -232,21 +240,23 @@ Not a good day. Those cubesats really had potential :(
 
 {{image (src="/website_footprint.jpg" title="Getting there!")}}
 
->Watching:<br>
->Guillermo del Toro's Cabinet of Curiosities<br>
->Listening:<br>
->Vulfpeck - Schvitz<br>
->T.Rex - Get It On (Virgin Magnetic Material remix)<br>
->Virgin Magnetic Material - LBDs mixtape
+>Watching:
+>- Guillermo del Toro's Cabinet of Curiosities
+>
+>Listening:
+>- Vulfpeck - Schvitz
+>- T.Rex - Get It On (Virgin Magnetic Material remix)
+>- Virgin Magnetic Material - LBDs mixtape
 
 ```
 05.01
 ```
 
->Reading:<br>
->Sean Luke - Computational Music Synthesis<br>
->Watching:<br>
->Warner Herzog - The Enigma of Kaspar Hauser
+>Reading:
+>- Sean Luke - Computational Music Synthesis
+>
+>Watching:
+>- Warner Herzog - The Enigma of Kaspar Hauser
 
 
 ```
@@ -255,32 +265,38 @@ Not a good day. Those cubesats really had potential :(
 
 Mood: reverb diagrams aesthetic. 
 
-{{image (src="/simple_reverb_loop.jpg" small=true noshadow=true title="Simple reverb loop. Taken from <a href='http://www.spinsemi.com/knowledge_base/effects.html'>spinsemi.com</i>")}}
+{{image (src="/simple_reverb_loop.jpg" small=true noshadow=true title="Simple reverb loop. Taken from <a href='http://www.spinsemi.com/knowledge_base/effects.html'>spinsemi.com</a>")}}
+
 
 
 ```
 01.01
 ```
 
-1. Trying to improve the [website map](/map) using Graphviz's [gvmap](https://graphviz.org/docs/cli/gvmap/).
-The clusters represented below have no real meaning, I've added them just to see whether this idea makes any sense visually.
+1. Trying to improve the [website map](/map) using Graphviz's
+   [gvmap](https://graphviz.org/docs/cli/gvmap/). The clusters represented
+   below have no real meaning, I've added them just to see whether this idea
+   makes any sense visually.
 
-{{image (src="/testing_gvmap.jpg" small=true noshadow=true title="Prototype of the website map generated with <code>gvmap</code>")}}
+{{image (src="/testing_gvmap.jpg" small=true noshadow=true title="Prototype of
+the website map generated with <code>gvmap</code>")}}
 
 
-2. Recently edited posts are now marked with an indicator:
-{{image (src="/recent_emoji.jpg" small=true noshadow=true title="")}}
+2. Recently edited posts are now marked with an indicator: {{image
+   (src="/recent_emoji.jpg" small=true noshadow=true title="")}}
 
 3. Added a simple tags system to post metadata, will help with map generation.
 
 ---
 
 
-{{image (src="/graphviz_happy_accident.jpg" small=true noshadow=true title="Accidentally generated this diagram by mistake. Looks pretty to me, let's call it a happy accident!")}}
+{{image (src="/graphviz_happy_accident.jpg" small=true noshadow=true
+title="Accidentally generated this diagram by mistake. Looks pretty to me,
+let's call it a happy accident!")}}
 
 
->Reading:<br>
->Nicholas Kristof, Shreyl WuDunn - Tightrope. Americans Reaching for Hope
+>Reading:
+>- Nicholas Kristof, Shreyl WuDunn - Tightrope. Americans Reaching for Hope
 
 ---
 
