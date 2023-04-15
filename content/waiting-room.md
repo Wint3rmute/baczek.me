@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2023-04-13T02:01:49+02:00
+modified: 2023-04-15T23:36:08+02:00
 title: The Waiting room
 tags: journal, meta, culture, programming
 ---
@@ -9,6 +9,7 @@ tags: journal, meta, culture, programming
 
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
+- John Martin - Satan Presiding at the Infernal Council
 - Super Mario Bros (1993) - childhood movie rewatch
 - Chernoff faces
 - I Dream of Wires (2014)
