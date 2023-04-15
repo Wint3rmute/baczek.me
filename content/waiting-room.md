@@ -9,6 +9,7 @@ tags: journal, meta, culture, programming
 
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
+- Super Mario Bros (1993) - childhood movie rewatch
 - Chernoff faces
 - I Dream of Wires (2014)
 - [Neovim + Rust + Debugging @HN](https://news.ycombinator.com/item?id=35522642)
