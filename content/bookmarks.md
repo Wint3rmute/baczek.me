@@ -18,6 +18,7 @@ who was in turn inspired by [marginalia.nu](https://memex.marginalia.nu/log/19-w
 
 - [wiby.me](https://wiby.me)
 - [lieu](https://lieu.cblgh.org/)
+- [torrents-csv](https://torrents-csv.ml/#/)
 
 ## Forums/Socials
 

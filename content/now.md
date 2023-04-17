@@ -4,6 +4,13 @@ tags: journal, programming, culture
 ---
 
 ```
+17.04
+```
+
+>Watching:
+>- Wes Anderson - Moonrise Kingdom
+
+```
 12.04
 ```
 
