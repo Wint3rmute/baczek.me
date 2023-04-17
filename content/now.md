@@ -9,6 +9,8 @@ tags: journal, programming, culture
 
 >Watching:
 >- Wes Anderson - Moonrise Kingdom
+>- Joe Hisaishi - Merry-Go-Round of Life
+
 
 ```
 12.04
