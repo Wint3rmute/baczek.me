@@ -1,4 +1,4 @@
-name: Check Zola links
+name: Checks
 on: push
 jobs:
   markdown:
@@ -8,6 +8,8 @@ jobs:
         uses: actions/checkout@master
       - name: markdownlint-cli
         uses: nosborn/github-action-markdown-cli@v3.3.0
+        with:
+          - files: .
 
   links:
     runs-on: ubuntu-latest
