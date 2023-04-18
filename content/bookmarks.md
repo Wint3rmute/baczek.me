@@ -18,6 +18,7 @@ who was in turn inspired by [marginalia.nu](https://memex.marginalia.nu/log/19-w
 
 - [wiby.me](https://wiby.me)
 - [lieu](https://lieu.cblgh.org/)
+- [marginalia](https://www.marginalia.nu/)
 - [torrents-csv](https://torrents-csv.ml/#/)
 
 ## Forums/Socials
@@ -29,4 +30,3 @@ who was in turn inspired by [marginalia.nu](https://memex.marginalia.nu/log/19-w
 
 - [XXIIVV webring](https://webring.xxiivv.com)
 - [XXIIVV bookmarks](https://wiki.xxiivv.com/site/bookmarks.html)
-
