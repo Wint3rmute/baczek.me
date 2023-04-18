@@ -1,6 +1,6 @@
 ---
 created: 2022-07-29T12:33:09+02:00
-modified: 2023-02-26T22:46:22+01:00
+modified: 2023-04-18T04:13:34+02:00
 title: 'Synth Patch Generation - Evolutionary Approach'
 tags: culture, programming, generative
 ---
@@ -10,6 +10,11 @@ tags: culture, programming, generative
 | w1/02 | Test FFT algos in rust, try plotting them in real time in UI |
 | w2/02 | Prepare **any** prototype of synth graph building UI |
 
+## Architecture notes
+
+Use a simple NxN matrix as a "patch bay". Pass a pointer to that matrix to each node as a mutable reference. Nodes know their own ID.
+
+Question: how would they know the IDs of modulators? Maybe the matrix should not be a raw array (in a structural sense), but rather a mirror-like mapping (axis going across the array)?
 
 ## Useful links
 
