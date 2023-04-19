@@ -10,6 +10,7 @@ tags: journal, programming, culture
 >Watching:
 >- Wes Anderson - Moonrise Kingdom
 >- Wes Anderson - The Royal Tenenbaums
+>- Wes Anderson - Bottle Rocket
 >
 >Listening:
 >- Joe Hisaishi - Merry-Go-Round of Life
