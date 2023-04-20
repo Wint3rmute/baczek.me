@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2023-04-17T14:00:48+02:00
+modified: 2023-04-20T17:04:55+02:00
 title: The Waiting room
 tags: journal, meta, culture, programming
 ---
@@ -9,6 +9,7 @@ tags: journal, meta, culture, programming
 
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
+- [Rust performance book](https://nnethercote.github.io/perf-book/introduction.html)
 - Form Constant
 - Eric Evans Domain-Driven Design: Tackling Complexity in the Heart of Software
 - Richard Wolff
