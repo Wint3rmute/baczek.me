@@ -4,6 +4,19 @@ tags: journal, programming, culture
 ---
 
 ```
+21.04
+```
+
+Full focus on master's thesis!
+
+>Reading:
+>- Terry Pratchett - Moving Pictures
+>
+>Listening:
+>- Aphex Twin - Alberto Balsalm
+
+
+```
 17.04
 ```
 
