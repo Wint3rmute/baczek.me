@@ -25,6 +25,7 @@ who was in turn inspired by [marginalia.nu](https://memex.marginalia.nu/log/19-w
 
 - [Lines forum](https://llllllll.co/)
 - [Merveilles](https://merveilles.town/)
+- [HackerNews](https://news.ycombinator.com)
 
 ## Collections
 
