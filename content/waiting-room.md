@@ -9,6 +9,7 @@ tags: journal, meta, culture, programming
 
 This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
 
+- The Perfect Insider
 - [Rust performance book](https://nnethercote.github.io/perf-book/introduction.html)
 - Form Constant
 - Eric Evans Domain-Driven Design: Tackling Complexity in the Heart of Software
