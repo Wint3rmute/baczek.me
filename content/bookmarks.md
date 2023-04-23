@@ -31,3 +31,4 @@ who was in turn inspired by [marginalia.nu](https://memex.marginalia.nu/log/19-w
 
 - [XXIIVV webring](https://webring.xxiivv.com)
 - [XXIIVV bookmarks](https://wiki.xxiivv.com/site/bookmarks.html)
+- [sizeof.cat/cyberpunk](https://sizeof.cat/post/cyberpunk/)
