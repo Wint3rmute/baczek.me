@@ -18,6 +18,7 @@ Question: how would they know the IDs of modulators? Maybe the matrix should not
 
 ## Useful links
 
+- [Languages for Computer Music](https://www.frontiersin.org/articles/10.3389/fdigh.2018.00026/full)
 - [AudioFlux](https://github.com/libAudioFlux/audioFlux) - audio analysis toolkit
 - [Riven@XXIIV](https://wiki.xxiivv.com/site/riven.html) - UI design inspiration
 - [Neuroevolution of augmenting topologies](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies),
