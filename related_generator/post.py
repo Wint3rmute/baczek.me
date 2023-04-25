@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 
 def was_recently_modified(file_path: Path) -> bool:
     recently_modified_files = subprocess.check_output(
-        "git log --pretty=format: --name-only | grep '.md' | awk '!seen[$0]++' | head -n 5",
+        "git log --pretty=format: --name-only | grep '.md' | awk '!seen[$0]++' | head -n 3",
         shell=True,
     ).decode()
 
