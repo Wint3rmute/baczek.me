@@ -1,6 +1,6 @@
 ---
 created: 2022-10-27T23:13:55+02:00
-modified: 2022-11-26T10:54:32+01:00
+modified: 2023-04-25T22:05:57+02:00
 title: Curated list of alternatives to C/C++/Java software
 tags: programming, collection
 ---
@@ -10,7 +10,8 @@ tags: programming, collection
 - [LeftWM](https://leftwm.org) - a window manager
 - [Caddy](https://caddyserver.com/) - a web server with automatic HTTPs and refreshingly simple configuration
 - [Helix](https://helix-editor.com/) - a text editor
-- [Bottom](https://github.com/ClementTsang/bottom/) - your new `top`/`htop`
+- [Zellij](https://zellij.dev/documentation/overview.html) - `tmux` alternative, batteries included
+- [Nu](https://www.nushell.sh/) - cross-platform shell with a fresh approach to streams & redirections 
 - [Zola](https://www.getzola.org/documentation/getting-started/overview/) - a static site generator, which powers this website
 - [Paru](https://github.com/Morganamilo/paru) - AUR helper for all Arch folks
 - [Neovide](https://neovide.dev) - `neovim` client with eye-candy animations
