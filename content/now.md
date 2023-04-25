@@ -13,6 +13,7 @@ Full focus on master's thesis!
 >- Terry Pratchett - Moving Pictures
 >
 >Listening:
+>- user18081971 - qu 1
 >- Aphex Twin - Alberto Balsalm
 
 
