@@ -221,5 +221,9 @@ hr {
     margin-left: -40%;
     margin-right: auto;
   }
+
+  blockquote {
+    margin: 5%;
+  }
 }
 
