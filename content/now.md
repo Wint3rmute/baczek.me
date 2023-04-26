@@ -115,7 +115,7 @@ Learning how to minimize writing glue code and focusing on delivering value.
 ```
 
 Re-learning `egui`, works wonderfully for making interactive
-node graphs! 
+node graphs!
 
 >Reading:
 >- Terry Pratchett - Sourcery
@@ -131,6 +131,7 @@ node graphs!
 ```
 05.03
 ```
+
 Moving website generation to GitHub actions. Considering
 migrating my VPS to ansible-managed.
 
@@ -160,7 +161,7 @@ thesis](/luthier)
 18.02
 ```
 
-Learning Ansible, taking care of servers at work. 
+Learning Ansible, taking care of servers at work.
 
 >Listening:
 >- Depeche Mode - Ghosts Again
@@ -210,7 +211,7 @@ I've worked on during a university course.
 
 Exploring ideas related with [decentralised](/decentralisation)
 search engines. Wrote a small manifesto on a
-[new paradigm for how we search the web](/search-registry-manifesto). 
+[new paradigm for how we search the web](/search-registry-manifesto).
 
 >Watching:
 >- The Call Of Cthulhu (2005)
@@ -239,13 +240,12 @@ Starting to work on [generating synth pathes](/luthier) from audio samples!
 17.01
 ```
 
-Did a minor contribution to 
-[Mutable Instruments' documentation repo](https://github.com/pichenettes/mutable-instruments-documentation).
-Glad to see that I'm getting more comfortable with suggesting patches
-to various open-source projects!
-Also glad that it's possible to "just submit" a suggestion to
-software written by a prominent artist. Despite all the negativity
-coming from the media and politics, we live in a great age :)
+Did a minor contribution to [Mutable Instruments' documentation
+repo](https://github.com/pichenettes/mutable-instruments-documentation). Glad
+to see that I'm getting more comfortable with suggesting patches to various
+open-source projects! Also glad that it's possible to "just submit" a
+suggestion to software written by a prominent artist. Despite all the
+negativity coming from the media and politics, we live in a great age :)
 
 >Listening:
 >- Boa - Duvet
@@ -301,9 +301,11 @@ Not a good day. Those cubesats really had potential :(
 02.01
 ```
 
-Mood: reverb diagrams aesthetic. 
+Mood: reverb diagrams aesthetic.
 
-{{image (src="/simple_reverb_loop.jpg" small=true noshadow=true title="Simple reverb loop. Taken from <a href='http://www.spinsemi.com/knowledge_base/effects.html'>spinsemi.com</a>")}}
+{{image (src="/simple_reverb_loop.jpg" small=true noshadow=true title="Simple
+reverb loop. Taken from <a
+href='http://www.spinsemi.com/knowledge_base/effects.html'>spinsemi.com</a>")}}
 
 
 
@@ -316,14 +318,13 @@ Mood: reverb diagrams aesthetic.
    below have no real meaning, I've added them just to see whether this idea
    makes any sense visually.
 
-{{image (src="/testing_gvmap.jpg" small=true noshadow=true title="Prototype of
-the website map generated with <code>gvmap</code>")}}
+    {{image (src="/testing_gvmap.jpg" small=true noshadow=true title="Prototype of
+    the website map generated with <code>gvmap</code>")}}
 
-
-2. Recently edited posts are now marked with an indicator: {{image
+1. Recently edited posts are now marked with an indicator: {{image
    (src="/recent_emoji.jpg" small=true noshadow=true title="")}}
 
-3. Added a simple tags system to post metadata, will help with map generation.
+1. Added a simple tags system to post metadata, will help with map generation.
 
 ---
 
