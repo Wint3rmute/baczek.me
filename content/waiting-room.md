@@ -7,7 +7,8 @@ tags: journal, meta, culture, programming
 
 {{image (src="/waiting_room.jpg" title="") }}
 
-This is where I keep ideas, movies, music, interesting words and other things that I plan to research more in-depth in the future.
+This is where I keep ideas, movies, music, interesting words and other things
+that I plan to research more in-depth in the future.
 
 - The Perfect Insider
 - [Rust performance book](https://nnethercote.github.io/perf-book/introduction.html)
@@ -20,10 +21,10 @@ This is where I keep ideas, movies, music, interesting words and other things th
 - I Dream of Wires (2014)
 - [Neovim + Rust + Debugging @HN](https://news.ycombinator.com/item?id=35522642)
 - Late 20xx Eastern-European cinema:
-  - Mikhail Titov's movies
-  - Budet laskovyy dozhd (1984)
-  - Vladimir Tarasov's movies
-  - Snezhnaya Koroleva (1957)
+  1. Mikhail Titov's movies
+  1. Budet laskovyy dozhd (1984)
+  1. Vladimir Tarasov's movies
+  1. Snezhnaya Koroleva (1957)
 - The Green Knight (2021)
 - [Anju Singh](https://www.anjusingh.com/)
 - [Nannou - an open-source creative-coding framework for Rust](https://nannou.cc/)
@@ -58,22 +59,20 @@ This is where I keep ideas, movies, music, interesting words and other things th
 - Possessor 2022
 - Baasch - neurotransmisja
 - Carl Jung - Aion
-- https://media.libreplanet.org/u/libreplanet/m/software-doldrums/
 - Miasto Światłości, Mieczysław Smolarski
 - Neo Tokyo
 - Wolf's Rain
 - Homunculus manga
 - Kobieta w czerni 2012
 - Permutation City
-- Julien Offray de La Mettrie - Człowiek Maszyna 
+- Julien Offray de La Mettrie - Człowiek Maszyna
 - Pulse, Kurosawa
 - [polski horror XD] wszyscy moi przyjaciele nie żyją
 - Amusing Ourselves to Death
 - Dark City
 - Melancholy of Haruchi Sizumiya
-- Counterpart HBO 
+- Counterpart HBO
 - Oldboy
-- https://naiwarszawa.pl/
 - Józef Kosecki, kybernetyka
 - ID invaded
 - Hitchcock Psychoza
@@ -81,30 +80,29 @@ This is where I keep ideas, movies, music, interesting words and other things th
 - Max Stirner
 - Virginia Woolf
 - Wittgenstein
-- Euphoria (skąd to mam?) 
+- Euphoria (skąd to mam?)
 - Kocia kołyska vonnegut
 - Dukajowi: Julio Cortazar, Gene Wolfe, Friedrich Durrenmatt
 - Disturbing the universe dyson
 - Brazil 85
-- http://justiceharvard.org/justicecourse/
-- https://github.com/adaltas/ece-devops-2020-fall
+- [Harvard University's Justice
+  Course](http://justiceharvard.org/justicecourse/)
 - Siedemnaście mgnień wiosny
 - Allo allo
 - Psychologia Ewolucyjna, Buss
-- Willard Van Orman Quine 
+- Willard Van Orman Quine
 - Richard Rorty
 - Irlandczyk 2019
 - Megazone23
 - On Contingency - Liebniz
-- The Affair, serial od Dukaja 
+- The Affair, serial od Dukaja
 - Castlevania
 - Angel's Egg
 - Made in abyss
 
+# Other, more organised lists
 
-## Other, more organised lists
-
-- [Audio/DSP](/dsp) 
+- [Audio/DSP](/dsp)
 - [Software alternatives](/alternatives)
 - [Reading](/reading)
 - [Watching](/watching)
