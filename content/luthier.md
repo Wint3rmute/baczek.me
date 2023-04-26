@@ -1,14 +1,15 @@
 ---
 created: 2022-07-29T12:33:09+02:00
-modified: 2023-04-18T04:13:34+02:00
-title: 'Luthier - Generative Sound Timbre Design'
+modified: 2023-04-27T00:06:59+02:00
+title: Luthier
 tags: culture, programming, generative
 ---
+
+# Generative sound timbre design
 
 [Luthier](https://github.com/Wint3rmute/luthier) is an experimental tool for
 generating sound synthesisers, which imitate a given sound sample. I'm building
 it as my master's thesis.
-
 
 ## Roadmap & tracking
 
