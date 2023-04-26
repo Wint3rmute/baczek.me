@@ -7,8 +7,10 @@ tags: programming, culture
 
 ![A screenshot of my desktop](/color_theme.jpg)
 
-I'm using a single colour scheme for every piece of software I'm using (browser, code editors, terminals, GTK and QT apps, this website, etc).
+I'm using a single colour scheme for every piece of software I'm using
+(browser, code editors, terminals, GTK and QT apps, this website, etc).
 
-Having a uniform, system-wide theme has been my dream since I first heard of desktop ricing.
+Having a uniform, system-wide theme has been my dream since I first heard of
+desktop ricing.
 
 [Repository with the theme](https://github.com/Wint3rmute/.themes)
