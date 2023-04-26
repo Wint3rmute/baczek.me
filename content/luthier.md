@@ -1,23 +1,50 @@
 ---
 created: 2022-07-29T12:33:09+02:00
 modified: 2023-04-18T04:13:34+02:00
-title: 'Synth Patch Generation - Evolutionary Approach'
+title: 'Luthier - Generative Sound Timbre Design'
 tags: culture, programming, generative
 ---
+
+[Luthier](https://github.com/Wint3rmute/luthier) is an experimental tool for
+generating sound synthesisers, which imitate a given sound sample. I'm building
+it as my master's thesis.
+
+
+## Roadmap & tracking
 
 | Week & month | Goal |
 | :-- | :-- |
 | w1/02 | Test FFT algos in rust, try plotting them in real time in UI |
 | w2/02 | Prepare **any** prototype of synth graph building UI |
+| ... | |
+| Half a semester passes.. | Busy with work |
+| ... | |
+| w8/05 | Wrote an actual working prototype in Python          |
+| w9/01 | Graph structure          |
+| w9/02 | Audio playback           |
+| w9/03 | Random graph generation, simple loss function  |
+| w9/04 | Control signals normalisation  |
+| w10/ |  |
+| w11/ |  |
+| w12/ |  |
+| w13/ |  |
+| w14/ |  |
+| w15/ |  |
+| w16/ |  |
+| w17   | **Deadline!** |
 
 ## Architecture notes
 
-Use a simple NxN matrix as a "patch bay". Pass a pointer to that matrix to each node as a mutable reference. Nodes know their own ID.
+Use a simple NxN matrix as a "patch bay". Pass a pointer to that matrix to each
+node as a mutable reference. Nodes know their own ID.
 
-Question: how would they know the IDs of modulators? Maybe the matrix should not be a raw array (in a structural sense), but rather a mirror-like mapping (axis going across the array)?
+Question: how would they know the IDs of modulators? Maybe the matrix should
+not be a raw array (in a structural sense), but rather a mirror-like mapping
+(axis going across the array)?
 
 ## Useful links
 
+- [Quantitative Analysis of a Common Audio Similarity Measure](https://www.ee.columbia.edu/~dpwe/pubs/JensCEJ09-quantmfcc.pdf)
 - [Languages for Computer Music](https://www.frontiersin.org/articles/10.3389/fdigh.2018.00026/full)
 - [AudioFlux](https://github.com/libAudioFlux/audioFlux) - audio analysis toolkit
 - [Riven@XXIIV](https://wiki.xxiivv.com/site/riven.html) - UI design inspiration
@@ -37,32 +64,7 @@ Question: how would they know the IDs of modulators? Maybe the matrix should not
 
 Todo: Read the `now` entry and restructure it
 
-
-# Random notes in polish for uni
-
-Zastosowanie algorytmów genetycznych do budowy grafu reprezentującego szereg algorytmów DSP,
-syntezujących zadany dźwięk. Analiza hiperparametrów krytycznych dla skuteczności algorytmu.
-
-Zakres prac:
-
-1. Napisanie aplikacji pozwalającej na dynamiczne budowanie grafów DSP i odsłuch generowanych przez nie dźwięków.
-  Podobne istniejące już aplikacje (umożliwiające jedynie **ręczną** budowę grafów):
-  - [Pure Data](http://puredata.info/)
-  - [Bespoke Synth](https://www.bespokesynth.com/)
-  - [VcvRack](https://vcvrack.com/)
-2. Wykorzystanie algorytmu genetycznego do automatycznego wygenerowania grafu DSP syntezującego wybrany przez użytkownika dźwięk
-3. Porównanie skuteczności algorytmu w zależności od:
-  - zastosowanej funkcji kosztu:
-    - [MFCC](https://en.wikipedia.org/wiki/Mel-frequency_cepstrum)
-    - Porównanie wykresu [spektrum audio w czasie (waterfall)](https://en.wikipedia.org/wiki/Waterfall_plot)
-    - Algorytmy do fingerprintingu audio: [Chromaprint](https://oxygene.sk/2011/01/how-does-chromaprint-work/),
-      inne rozwiązania opisane w [Computer vision for music identification](https://ieeexplore.ieee.org/document/1467322)
-  - różnego podejścia do generowania grafu (parametry algorytmu genetycznego,
-    użycie [NEAT](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies), jestem w trakcie szukania
-    badań, w których wykorzystywano jakąś formę automatycznego generowania grafów, żeby się zainspirować)
-
-
-Prace o podobnej tematyce:
+## Similiar papers:
 
 - [Automatic design of sound synthesizers as pure data patches using coevolutionary mixed-typed cartesian genetic programming](https://dl.acm.org/doi/10.1145/2576768.2598303)
 - [Differentiable FM Synthesis of Musical Instrument Sounds](https://fcaspe.github.io/ddx7/)
