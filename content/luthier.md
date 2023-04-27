@@ -45,6 +45,8 @@ not be a raw array (in a structural sense), but rather a mirror-like mapping
 
 ## Useful links
 
+- [auraloss: Audio-focused loss functions in
+  PyTorch](https://static1.squarespace.com/static/5554d97de4b0ee3b50a3ad52/t/5fb1e9031c7089551a30c2e4/1605495044128/DMRN15__auraloss__Audio_focused_loss_functions_in_PyTorch.pdf)
 - [Quantitative Analysis of a Common Audio Similarity Measure](https://www.ee.columbia.edu/~dpwe/pubs/JensCEJ09-quantmfcc.pdf)
 - [Languages for Computer Music](https://www.frontiersin.org/articles/10.3389/fdigh.2018.00026/full)
 - [AudioFlux](https://github.com/libAudioFlux/audioFlux) - audio analysis toolkit
