@@ -4,6 +4,31 @@ tags: journal, programming, culture
 ---
 
 ```
+29.04
+```
+
+[Gerald Sussman](https://en.wikipedia.org/wiki/Gerald_Jay_Sussman) on [why MIT
+has switched from Lisp to
+Python](http://wingolog.org/archives/2009/03/24/international-lisp-conference-day-two)
+in their introductory programming courses:
+
+>Engineering in 1980 was not what it was in the mid-90s or in 2000. In 1980,
+>good programmers spent a lot of time thinking, and then produced spare code
+>that they thought should work. Code ran close to the metal, even Scheme -- it
+>was understandable all the way down. Like a resistor, where you could read the
+>bands and know the power rating and the tolerance and the resistance and V=IR
+>and that's all there was to know. 6.001 had been conceived to teach engineers
+>how to take small parts that they understood entirely and use simple
+>techniques to compose them into larger things that do what you want.
+>
+>But programming now isn't so much like that, said Sussman. Nowadays you muck
+>around with incomprehensible or nonexistent man pages for software you don't
+>know who wrote. You have to do basic science on your libraries to see how they
+>work, trying out different inputs and seeing how the code reacts. This is a
+>fundamentally different job, and it needed a different course.
+
+
+```
 21.04
 ```
 
