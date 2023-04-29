@@ -7,6 +7,14 @@ tags: journal, programming, culture
 29.04
 ```
 
+Switched to [Nu Shell](http://www.nushell.sh/), learning about new ideas for OS
+shells which Nu is exploring.
+
+Automating the deployment of my system configuration with
+[Ansible](https://github.com/Wint3rmute/dotfiles/blob/master/playbook.yml).
+
+---
+
 [Gerald Sussman](https://en.wikipedia.org/wiki/Gerald_Jay_Sussman) on [why MIT
 has switched from Lisp to
 Python](http://wingolog.org/archives/2009/03/24/international-lisp-conference-day-two)
