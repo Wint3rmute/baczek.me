@@ -30,8 +30,9 @@ tags: programming
 
 # Color Theme
 
-I'm using a uniform colour scheme for every piece of software I'm using (browser, code editors, terminals, GTK and QT apps, this website, etc).
-[It's hosted on GitHub](https://github.com/Wint3rmute/.themes).
+I'm using a uniform colour scheme for every piece of software I'm using
+(browser, code editors, terminals, GTK and QT apps, this website, etc).
+[It's hosted on GitHub](https://github.com/Wint3rmute/dotfiles).
 
 ---
 
