@@ -4,6 +4,19 @@ tags: journal, programming, culture
 ---
 
 ```
+02.05
+```
+
+Switched all my computers to [Arch Linux](archlinux.org/), automated the
+process of deploying my [system
+configuration](https://github.com/Wint3rmute/dotfiles). Spent some time merging
+my configuration repositories and documenting the result.
+
+>Watching:
+>- Alan Kay - [The computer revolution hasn't happened
+>  yet](https://www.youtube.com/watch?v=oKg1hTOQXoY)
+
+```
 29.04
 ```
 
