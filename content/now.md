@@ -25,7 +25,11 @@ was the most interesting approach so far.
 >Listening:
 >- Son Lux - *Ghost Melody*
 
+---
+
 Started collecting some [thoughts on thinking](/how-to-think).
+
+{{image (src="/blue_thoughts.jpg" small=true title="You have to have something blue, to have blue thoughts with.")}}
 
 ```
 29.04
