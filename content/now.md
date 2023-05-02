@@ -9,12 +9,23 @@ tags: journal, programming, culture
 
 Switched all my computers to [Arch Linux](archlinux.org/), automated the
 process of deploying my [system
-configuration](https://github.com/Wint3rmute/dotfiles). Spent some time merging
+configuration](/linux). Spent some time merging
 my configuration repositories and documenting the result.
+
+Exploring ideas related with genetic programming, mainly how one should
+represent the structure of an optimisation problem in a form that would be
+viable for genetic programming approach. [Mixed type cartesian genetic
+programming](https://www.researchgate.net/publication/224041240_MT-CGP_Mixed_type_cartesian_genetic_programming)
+was the most interesting approach so far.
 
 >Watching:
 >- Alan Kay - [The computer revolution hasn't happened
 >  yet](https://www.youtube.com/watch?v=oKg1hTOQXoY)
+>
+>Listening:
+>- Son Lux - *Ghost Melody*
+
+Started collecting some [thoughts on thinking](/how-to-think).
 
 ```
 29.04
