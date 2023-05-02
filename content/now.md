@@ -7,7 +7,7 @@ tags: journal, programming, culture
 02.05
 ```
 
-Switched all my computers to [Arch Linux](archlinux.org/), automated the
+Switched all my computers to [Arch Linux](https://archlinux.org/), automated the
 process of deploying my [system
 configuration](/linux). Spent some time merging
 my configuration repositories and documenting the result.
