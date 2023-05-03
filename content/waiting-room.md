@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T22:47:19+02:00
-modified: 2023-04-30T14:08:04+02:00
+modified: 2023-05-03T15:13:21+02:00
 title: The Waiting room
 tags: journal, meta, culture, programming
 ---
@@ -10,6 +10,7 @@ tags: journal, meta, culture, programming
 This is where I keep ideas, movies, music, interesting words and other things
 that I plan to research more in-depth in the future.
 
+- [OpenAudio GitHub list](https://github.com/webprofusion/OpenAudio)
 - Gregor Kiczales - Art of the Metaobject Protocol
 - The Perfect Insider
 - [Rust performance book](https://nnethercote.github.io/perf-book/introduction.html)
