@@ -104,3 +104,4 @@ github.com
 Useful links:
 
 - [build your own search engine](http://wiby.me/about/guide.html)
+- ["Grasp" search engine](https://usegrasp.com/), a product built around this niche, although with quite strict limits for running search queries (20 queries/month on free tier as of may 2023)
