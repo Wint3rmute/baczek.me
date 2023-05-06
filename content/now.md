@@ -4,6 +4,14 @@ tags: journal, programming, culture
 ---
 
 ```
+06.05
+```
+
+>Listening:
+>- Yumi Zouma - In Camera
+
+
+```
 02.05
 ```
 
