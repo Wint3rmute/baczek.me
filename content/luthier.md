@@ -25,8 +25,10 @@ it as my master's thesis.
 | w9/02 | Audio playback           |
 | w9/03 | Random graph generation, simple loss function  |
 | w9/04 | Control signals normalisation  |
-| w10/ |  |
-| w11/ |  |
+| w10/05 | Multithreading when optimising or searching through parameter space for benchmarks | 
+| w10/06 | Handcoding different FM synths and trying to optimise them by stupid-simple evolutionary algorithms |
+| w10/07 | Graph colorisation & animations, integration with `scipy.optimize`  |
+| w11/01 | Normalised ADSR signals, reworked parameter setting. Basic one-operator FM optimised successfully! |
 | w12/ |  |
 | w13/ |  |
 | w14/ |  |
