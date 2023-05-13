@@ -29,12 +29,48 @@ it as my master's thesis.
 | w10/06 | Handcoding different FM synths and trying to optimise them by stupid-simple evolutionary algorithms |
 | w10/07 | Graph colorisation & animations, integration with `scipy.optimize`  |
 | w11/01 | Normalised ADSR signals, reworked parameter setting. Basic one-operator FM optimised successfully! |
-| w12/ |  |
-| w13/ |  |
-| w14/ |  |
-| w15/ |  |
-| w16/ |  |
-| w17   | **Deadline!** |
+| w11/02 | Experiments with Frechet audio distance (abandoned, different use case than mine), rust ADSR, converting notebooks to the new rust backend |
+| w11/03 | Notebook cleanup, UTs cleanup |
+| w11/04 | Implemented simple virtual analog algorithms |
+| w11/05 | *Cheat day* |
+| w11/06 | Implemented a reverb node, successfully evolving a 2-oscillator virtual analog with reverb |
+| w11/07 | **TODO:** basic version of generic synth genetic code |
+| w12/01 | **TODO:** Idk, polishing i guess  |
+| w12/02 | **Progress presentation seminary** |
+| w12/03 |  |
+| w12/04 |  |
+| w12/05 |  |
+| w12/06 |  |
+| w12/07 |  |
+| w13/01 |  |
+| w13/02 |  |
+| w13/03 |  |
+| w13/04 |  |
+| w13/05 |  |
+| w13/06 |  |
+| w13/07 |  |
+| w14/01 |  |
+| w14/02 |  |
+| w14/03 |  |
+| w14/04 |  |
+| w14/05 |  |
+| w14/06 |  |
+| w14/07 |  |
+| w15/01 |  |
+| w15/02 |  |
+| w15/03 |  |
+| w15/04 |  |
+| w15/05 |  |
+| w15/06 |  |
+| w15/07 |  |
+| w16/01 |  |
+| w16/02 |  |
+| w16/03 |  |
+| w16/04 |  |
+| w16/05 |  |
+| w16/06 |  |
+| w16/07 |  |
+| w17/XX | **Deadline!** |
 
 ## Architecture notes
 
