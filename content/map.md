@@ -4,7 +4,10 @@ tags: journal, generative, programming
 ---
 
 {{svg (src="generated/connections.svg")}}
+
+<center>
 *Note*: you can click on each page, all nodes are links!
+</center>
 
 ---
 
@@ -13,7 +16,7 @@ pages on my websites, along with the connections
 chosen by a text vectorisation algorithm.
 
 If you're interested, you can read the
-[source code](https://github.com/Wint3rmute/Wint3rmute.github.io/blob/master/related_generator//).
+[source code](https://github.com/Wint3rmute/baczek.me/blob/master/related_generator/).
 
 
 ## How is this thing generated?
