@@ -3,6 +3,16 @@ title: 2023's Devlog
 tags: journal, programming, culture
 ---
 
+
+```
+13.05
+```
+
+{{image (src="/luthier_simple_analog.png" title="Evolving parameters of simple DSP graphs")}}
+
+>Listening:
+>- Nation of Language - Introduction, Presence
+
 ```
 06.05
 ```
