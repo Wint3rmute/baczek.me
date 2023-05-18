@@ -5,7 +5,7 @@ description = ""
 authors = ["wint3rmute <mateusz.baczek1998@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "~3.10"
+python = "~3.11"
 scikit-learn = "^1.1.2"
 graphviz = "^0.20.1"
 matplotlib = "^3.6.0"
