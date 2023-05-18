@@ -3,6 +3,16 @@ title: 2023's Devlog
 tags: journal, programming, culture
 ---
 
+```
+18.05
+```
+
+>Reading:
+>- David B. Lamkins - [Successful Lisp](https://dept-info.labri.fr/~strandh/Teaching/MTP/Common/David-Lamkins/cover.html)
+>
+>Listening:
+>- Kraftwerk - Computer World
+>- Yumi Zouna - In Camera
 
 ```
 13.05

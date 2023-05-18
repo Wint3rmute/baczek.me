@@ -34,11 +34,11 @@ it as my master's thesis.
 | w11/04 | Implemented simple virtual analog algorithms |
 | w11/05 | *Cheat day* |
 | w11/06 | Implemented a reverb node, successfully evolving a 2-oscillator virtual analog with reverb |
-| w11/07 | **TODO:** basic version of generic synth genetic code |
-| w12/01 | **TODO:** Idk, polishing i guess  |
-| w12/02 | **Progress presentation seminary** |
-| w12/03 |  |
-| w12/04 |  |
+| w11/07 | basic version of generic synth genetic code |
+| w12/01 | Making the presentation, evolving analog-FM hybrids  |
+| w12/02 | Progress presentation seminary |
+| w12/03 | A break! |
+| w12/04 | Consulting my thesis advisor, MVP has been reached, time to write the thesis! |
 | w12/05 |  |
 | w12/06 |  |
 | w12/07 |  |
