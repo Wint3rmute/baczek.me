@@ -4,6 +4,17 @@ tags: journal, programming, culture
 ---
 
 ```
+24.05
+```
+
+In the middle of writing my master's thesis.
+
+>Watching:
+>- Beau is afraid (2023)
+>- Watchmen (2009)
+
+
+```
 18.05
 ```
 
