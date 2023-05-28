@@ -4,6 +4,27 @@ tags: journal, programming, culture
 ---
 
 ```
+30.05
+```
+
+>Watching:
+>
+>- Videodrome (1983)
+>- The Fly (1986)
+
+
+```
+28.05
+```
+
+>Watching:
+>- The Green Knight (2021)
+>
+>Listening:
+>BØRNS - Past Lives
+
+
+```
 24.05
 ```
 

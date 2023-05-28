@@ -10,13 +10,13 @@ tags: journal, meta, culture, programming
 This is where I keep ideas, movies, music, interesting words and other things
 that I plan to research more in-depth in the future.
 
+- Tetsuo: The Iron Man (1989)
 - [Little languages for music](https://www.usenix.org/legacy/publications/compsystems/1990/spr_langston.pdf)
 - The User Illusion - Tor Norretranders
 - The Diamond Age - Neal Stephenson
 - Jaroslaw Grzedowicz - Hel 3 
 - [OpenAudio GitHub list](https://github.com/webprofusion/OpenAudio)
 - Gregor Kiczales - Art of the Metaobject Protocol
-- The Perfect Insider
 - [Rust performance book](https://nnethercote.github.io/perf-book/introduction.html)
 - Form Constant
 - Eric Evans Domain-Driven Design: Tackling Complexity in the Heart of Software
