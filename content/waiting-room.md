@@ -31,7 +31,7 @@ that I plan to research more in-depth in the future.
   1. Budet laskovyy dozhd (1984)
   1. Vladimir Tarasov's movies
   1. Snezhnaya Koroleva (1957)
-- The Green Knight (2021)
+- Detonator Orgun
 - [Anju Singh](https://www.anjusingh.com/)
 - [Nannou - an open-source creative-coding framework for Rust](https://nannou.cc/)
 - [Sounding secrets of AudioLM](https://www.shaped.ai/blog/sounding-the-secrets-of-audiolm)
