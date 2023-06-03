@@ -4,6 +4,17 @@ tags: journal, programming, culture
 ---
 
 ```
+03.06
+```
+
+{{image (src="/vl1_manual.jpg" small=true title="Old synth manuals aesthetics")}}
+
+>Listening:
+>
+>Baasch - Wosk
+
+
+```
 30.05
 ```
 
