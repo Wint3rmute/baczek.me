@@ -10,6 +10,7 @@ tags: journal, meta, culture, programming
 This is where I keep ideas, movies, music, interesting words and other things
 that I plan to research more in-depth in the future.
 
+- [Non-linear analog modeling papers & talks](https://cytomic.com/technical-papers/)
 - Simon Stålenhag - The Labyrinth
 - Tetsuo: The Iron Man (1989)
 - [Little languages for music](https://www.usenix.org/legacy/publications/compsystems/1990/spr_langston.pdf)
