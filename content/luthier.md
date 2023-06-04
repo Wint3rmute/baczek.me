@@ -45,17 +45,17 @@ it as my master's thesis.
 | w13/01 |  |
 | w13/02 |  |
 | w13/03 |  |
-| w13/04 |  |
+| w13/04 | Experimenting with analog modeling, sounds quite nice now |
 | w13/05 |  |
-| w13/06 |  |
-| w13/07 |  |
-| w14/01 |  |
-| w14/02 |  |
-| w14/03 |  |
-| w14/04 |  |
-| w14/05 |  |
-| w14/06 |  |
-| w14/07 |  |
+| w13/06 | Attepmting to recreate samples from Korg Minilogue, fix an insanely dumb bug with different sample rates across Python and Rust |
+| w13/07 | Implementing delay, tweaking param ranges for ADSR |
+| w14/01 | Testing spectrogram as target function |
+| w14/02 | Testing different variations of MFCC and Fourier target functions, RMS/DTW flying all over the place |
+| w14/03 | Consulted the current thesis state with the supervisor, looks good, chapter shuffling ahead |
+| w14/04 | Restructured the thesis according to supervisor's directions |
+| w14/05 | Equations in the problem definition chapter |
+| w14/06 | Performed synthesis parameters cross-section tests of target functions |
+| w14/07 | Found benchmarks of a previous thesis which I can use for comparison with my work  |
 | w15/01 |  |
 | w15/02 |  |
 | w15/03 |  |
@@ -70,7 +70,14 @@ it as my master's thesis.
 | w16/05 |  |
 | w16/06 |  |
 | w16/07 |  |
-| w17/XX | **Deadline!** |
+| w17/01 |  |
+| w17/02 |  |
+| w17/03 |  |
+| w17/04 |  |
+| w17/05 |  |
+| w17/06 |  |
+| w17/07 |  |
+| w18/01 | **Deadline!** |
 
 ## Architecture notes
 
