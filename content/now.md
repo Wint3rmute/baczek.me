@@ -4,6 +4,22 @@ tags: journal, programming, culture
 ---
 
 ```
+06.06
+```
+
+>Watching:
+>
+>- The Endless (2017)
+>
+>Listening:
+>
+>- Brodka - Wpław - Skalper Rework
+>- Rob Doughan - Clubbed to Death
+>- Joris Delacroix - Homie
+>- Moby - Long Ambients 1: Calm. Sleep
+
+
+```
 03.06
 ```
 
