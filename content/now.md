@@ -3,6 +3,21 @@ title: 2023's Devlog
 tags: journal, programming, culture
 ---
 
+
+```
+12.06
+```
+
+Finishing touches on my [master's thesis](/luthier).
+
+Started hosting [Libreddit](https://libreddit.baczek.me).
+
+>Listening:
+>
+>- Oneohtrix Point NEver - The Pure and the Damned
+>- Junior - Bluszcz
+
+
 ```
 06.06
 ```

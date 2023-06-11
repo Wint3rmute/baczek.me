@@ -27,6 +27,8 @@ I'm running self-hosted online services. They are public, you can use them too :
 
 - [Librex](https://librex.baczek.me), another meta-search engine
 
+- [Libreddit](https://libreddit.baczek.me), alternative Reddit frontend
+
 
 I also recommend the following services for private use:
 
