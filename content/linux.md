@@ -1,12 +1,16 @@
 ---
 created: 2022-10-27T23:02:37+02:00
 modified: 2022-11-08T21:36:18+01:00
-title: My system configuration
+title: System configuration
 tags: programming
 ---
 
 {{image (src="/color_theme.jpg" title="A screenshot of my desktop, circa 2021" noshadow=true)}}
 
+# Repo
+
+[It's all hosted on GitHub](https://github.com/Wint3rmute/dotfiles), with an
+Ansible playbook for auto-deployments.
 
 # Hardware
 
@@ -32,7 +36,7 @@ tags: programming
 
 I'm using a uniform colour scheme for every piece of software I'm using
 (browser, code editors, terminals, GTK and QT apps, this website, etc).
-[It's hosted on GitHub](https://github.com/Wint3rmute/dotfiles).
+It's based on the color scheme from [Material Theme](https://material-theme.com/).
 
 ---
 
