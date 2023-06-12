@@ -12,6 +12,9 @@ Finishing touches on my [master's thesis](/luthier).
 
 Started hosting [Libreddit](https://libreddit.baczek.me).
 
+Fell in love with [unplug.red/automatism](https://unplug.red/automatism/),
+haven's seen such a beautiful website in a long time.
+
 >Listening:
 >
 >- Oneohtrix Point NEver - The Pure and the Damned
