@@ -11,30 +11,22 @@ tags: journal, generative, programming
 
 ---
 
-This is an automatically generated graph of all
-pages on my websites, along with the connections
-chosen by a text vectorisation algorithm.
-
-If you're interested, you can read the
-[source code](https://github.com/Wint3rmute/baczek.me/blob/master/related_generator/).
+This is an automatically generated graph of all pages on my websites, along
+with the connections chosen by a text vectorisation algorithm. If you're
+interested, you can read the [source
+code](https://github.com/Wint3rmute/baczek.me/blob/master/related_generator/).
 
 
 ## How is this thing generated?
 
-*TODO: update once I'm finished with UMAP*
-
-1. All of the posts are fed through a stemming algorithm, which reduces them
-   to their root form (think *"doing"* -> *"do"*, *"derivation"* -> *"deriv"*).
-2. All the posts are fed into a *TF-IDF vectorizer*, which assigns a unique
-   index to each unique word and weights them by the frequency in which it appears.
-   For example, the word *"to"* probably won't be an important word, opposed to
-   *"circumvolution"* or *"simulacrum"*. After this procedure, each post becomes
-   a vector of numbers containing the amount of occurences of each unique word
-   found in all of the posts, multiplied by the *value* of each word.
-3. Post similiarity is compared by using a metric called *cosine similiarity*,
-   calculated from the vectors obtained in the 2nd step.
-4. I'm connecting each post with its top 3 similiar posts (using 4 or more leads to clutter).
-5. This graph is drawn by `graphviz`, it automatically generates the layout.
+1. All of the posts are fed through an embeddings generator, I'm using the
+   [Sentence Transformers](https://www.sbert.net/) Python library.
+2. The embeddings are passed to [UMAP](https://arxiv.org/abs/1802.03426)
+   dimensionality reduction algorithm, which takes in multi-dimensional
+   embeddings and projects it down to a 2D representation.
+4. I'm connecting each post with its top 3 nearest posts (using 4 or more leads
+   to clutter).
+5. The final graph is drawn by `graphviz` and outputted as an SVG file.
 
 
 ### Future plans
