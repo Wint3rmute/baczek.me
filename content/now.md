@@ -3,9 +3,20 @@ title: 2023's Devlog
 tags: journal, programming, culture
 ---
 
-
 ```
 12.06
+```
+
+Converted my [website map](/map) generation algorithm from using TFIDF to [text
+embeddings](https://www.sbert.net/), I'm seeing a lot of improvement in how the
+generated map looks! It's a pretty lightweight solution (if you're not counting
+the `torch` library which is a behemoth), the embeddings only weight ~90MB.
+The embeddings really capture the general context between posts that they put
+closely together.
+
+
+```
+11.06
 ```
 
 Finishing touches on my [master's thesis](/luthier).
