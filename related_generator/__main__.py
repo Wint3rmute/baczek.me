@@ -39,16 +39,22 @@ if __name__ == "__main__":
     all_posts = get_all_posts()
 
     # Vectorizer to convert a collection of raw documents to a matrix of TF-IDF features
-    vectorizer = TfidfVectorizer(tokenizer=tokenizer)
+    # vectorizer = TfidfVectorizer(tokenizer=tokenizer)
     # vectorizer = TfidfVectorizer()
 
     # Learn vocabulary and idf, return term-document matrix.
-    tfidf = vectorizer.fit_transform([post.content for post in all_posts])
+    # tfidf = vectorizer.fit_transform([post.content for post in all_posts])
 
     # Array mapping from feature integer indices to feature name
-    words = vectorizer.get_feature_names_out()
+    # words = vectorizer.get_feature_names_out()
 
-    umap_result = umap.UMAP().fit_transform(tfidf)
+    # umap_result = umap.UMAP().fit_transform(tfidf)
+
+    from sentence_transformers import SentenceTransformer
+    model = SentenceTransformer('all-MiniLM-L6-v2')
+    embeddings = model.encode([post.content for post in all_posts])
+
+    umap_result = umap.UMAP().fit_transform(embeddings)
 
     for post, umap_result in zip(all_posts, umap_result):
         post.x, post.y = umap_result
