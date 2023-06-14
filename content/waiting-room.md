@@ -10,6 +10,7 @@ tags: journal, meta, culture, programming
 This is where I keep ideas, movies, music, interesting words and other things
 that I plan to research more in-depth in the future.
 
+- Watership Down
 - Nudge: Improving Decisions About Health, Wealth, and Happiness
 - [CCRU page found whwn looking for articles about David Cronenberg](http://ccru.net/syzygy/zerok.htm)
 - [Non-linear analog modeling papers & talks](https://cytomic.com/technical-papers/)
