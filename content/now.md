@@ -11,8 +11,12 @@ tags: journal, programming, culture
 >Wathing:
 >
 >- Lost
+>
+>Reading:
+>
+>- [Effective Rust](https://www.lurklurk.org/effective-rust/)
 
-<!-- (S01E09) -->
+<!-- (S01E10) -->
 
 ```
 12.06
