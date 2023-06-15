@@ -3,6 +3,17 @@ title: 2023's Devlog
 tags: journal, programming, culture
 ---
 
+
+```
+15.06
+```
+
+>Wathing:
+>
+>- Lost
+
+<!-- (S01E09) -->
+
 ```
 12.06
 ```
