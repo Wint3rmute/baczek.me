@@ -1,11 +1,16 @@
 import math
+import sklearn.metrics.pairwise
 import subprocess
 import warnings
 from dataclasses import dataclass, field
 from pathlib import Path
+import numpy
 
 import markdown
 from bs4 import BeautifulSoup
+from sentence_transformers import SentenceTransformer
+
+model = SentenceTransformer("all-MiniLM-L6-v2")
 
 
 def was_recently_modified(file_path: Path) -> bool:
@@ -54,14 +59,11 @@ class Post:
     content: str
     path: Path
     recently_modified: bool
+    embeddings: numpy.ndarray
     tags: list[str] = field(default_factory=list)
 
-    # To be filled by map generation
-    x: float = 0.0
-    y: float = 0.0
-
-    related_post_ids: list[int] = field(default_factory=list)
-    posts_linking_to_this: int = 0
+    # related_post_ids: list[int] = field(default_factory=list)
+    # posts_linking_to_this: int = 0
 
     @classmethod
     def from_path(cls, path: Path):
@@ -87,14 +89,19 @@ class Post:
             to_trim = content.rfind("Incoming:")
             if to_trim != -1:
                 content = content[to_trim:]
-            # else:
-            #     print("No Incoming")
-            #     print(content)
 
-        return cls(title, content, path, was_recently_modified(path), tags)
+        embeddings = model.encode([content])[0]
+        return cls(title, content, path, was_recently_modified(path), embeddings, tags)
 
     def distance_to(self, post: "Post") -> float:
-        return math.sqrt((self.x - post.x) ** 2 + (self.y - post.y) ** 2)
+        # print("fix distance function")
+        # return 0.0
+        # return math.sqrt((self.x - post.x) ** 2 + (self.y - post.y) ** 2)
+        return float(
+            sklearn.metrics.pairwise.cosine_similarity(
+                self.embeddings.reshape(1, -1), post.embeddings.reshape(1, -1)
+            )[0][0]
+        )
 
 
 def get_all_posts() -> list[Post]:
