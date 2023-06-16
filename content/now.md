@@ -16,7 +16,7 @@ tags: journal, programming, culture
 >
 >- [Effective Rust](https://www.lurklurk.org/effective-rust/)
 
-<!-- (S01E18) -->
+<!-- (S01E22) -->
 
 ```
 12.06
