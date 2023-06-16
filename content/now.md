@@ -16,7 +16,7 @@ tags: journal, programming, culture
 >
 >- [Effective Rust](https://www.lurklurk.org/effective-rust/)
 
-<!-- (S01E11) -->
+<!-- (S01E18) -->
 
 ```
 12.06
@@ -71,7 +71,7 @@ haven's seen such a beautiful website in a long time.
 
 >Listening:
 >
->Baasch - Wosk
+>- Baasch - Wosk
 
 
 ```
@@ -92,7 +92,7 @@ haven's seen such a beautiful website in a long time.
 >- The Green Knight (2021)
 >
 >Listening:
->BØRNS - Past Lives
+>-BØRNS - Past Lives
 
 
 ```
