@@ -5,18 +5,29 @@ tags: journal, programming, culture
 
 
 ```
+18.06
+```
+
+Created [AreWeSpaceYet.com](https://arewespaceyet.com) as a 1-day project.
+
+>Watching:
+>
+>- Lost (Season 2)
+
+<!-- (S01E04) -->
+
+```
 15.06
 ```
 
->Wathing:
->
->- Lost
->
 >Reading:
 >
 >- [Effective Rust](https://www.lurklurk.org/effective-rust/)
+>
+>Watching:
+>
+>- Lost (Season 1)
 
-<!-- (S01E22) -->
 
 ```
 12.06
