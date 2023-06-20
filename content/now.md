@@ -14,7 +14,7 @@ Created [AreWeSpaceYet.com](https://arewespaceyet.com) as a 1-day project.
 >
 >- Lost (Season 2)
 
-<!-- (S01E04) -->
+<!-- (S02E18) -->
 
 ```
 15.06
