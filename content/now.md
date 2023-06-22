@@ -3,6 +3,15 @@ title: 2023's Devlog
 tags: journal, programming, culture
 ---
 
+```
+22.06
+```
+
+>Watching:
+>
+>- Lost (Season 3)
+
+<!-- (S03E02) -->
 
 ```
 18.06
@@ -14,7 +23,6 @@ Created [AreWeSpaceYet.com](https://arewespaceyet.com) as a 1-day project.
 >
 >- Lost (Season 2)
 
-<!-- (S02E18) -->
 
 ```
 15.06
