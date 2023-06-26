@@ -11,7 +11,7 @@ tags: journal, programming, culture
 >
 >- Lost (Season 3)
 
-<!-- (S03E10) -->
+<!-- (S03E12) -->
 
 ```
 18.06
