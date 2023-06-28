@@ -10,6 +10,7 @@ tags: journal, meta, culture, programming
 This is where I keep ideas, movies, music, interesting words and other things
 that I plan to research more in-depth in the future.
 
+- Holy Motors (2012)
 - Henry James - The Turn of the Screw
 - Watership Down
 - Nudge: Improving Decisions About Health, Wealth, and Happiness
