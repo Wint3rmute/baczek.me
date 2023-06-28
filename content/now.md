@@ -4,6 +4,20 @@ tags: journal, programming, culture
 ---
 
 ```
+28.06
+```
+
+>Watching:
+>
+>- Asteroid City (2023)
+>
+>Listening:
+>
+>- Boy Harsher - The Runner
+
+<!-- (S03E12) -->
+
+```
 22.06
 ```
 
@@ -11,7 +25,6 @@ tags: journal, programming, culture
 >
 >- Lost (Season 3)
 
-<!-- (S03E12) -->
 
 ```
 18.06
