@@ -30,7 +30,10 @@ tags: journal, programming, culture
 18.06
 ```
 
-Created [AreWeSpaceYet.com](https://arewespaceyet.com) as a 1-day project.
+~~Created [AreWeSpaceYet.com](https://arewespaceyet.com) as a 1-day project.~~
+**Edit (29.06):** removed AreWeSpaceYet.com since its a duplicate of the
+[AeroRust](https://aerorust.org/) website, which already has lots of
+interesting content on using Rust in aerospace.
 
 >Watching:
 >
@@ -75,7 +78,7 @@ haven's seen such a beautiful website in a long time.
 
 >Listening:
 >
->- Oneohtrix Point NEver - The Pure and the Damned
+>- Oneohtrix Point Never - The Pure and the Damned
 >- Junior - Bluszcz
 
 
