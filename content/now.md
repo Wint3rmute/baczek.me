@@ -7,6 +7,16 @@ tags: journal, programming, culture
 28.06
 ```
 
+<!-- (S03E15) -->
+
+Grabbing some air after the last master's semester. I'm glad to notice that my
+mind has again started to produce ideas for extending my projects. Starting to
+rewrite [Libretakt's](https://github.com/Wint3rmute/libretakt) user interface
+to work as a website-based remote controller to the sampler engine. Networking
+code is going to get simpler as the a single sampler instance is meant to be
+run only locally. [Egui](https://egui.rs) should work just fine for a mobile-first
+user interface.
+
 >Watching:
 >
 >- Asteroid City (2023)
@@ -15,7 +25,6 @@ tags: journal, programming, culture
 >
 >- Boy Harsher - The Runner
 
-<!-- (S03E12) -->
 
 ```
 22.06
