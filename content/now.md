@@ -7,7 +7,7 @@ tags: journal, programming, culture
 28.06
 ```
 
-<!-- (S03E15) -->
+<!-- (S03E18) -->
 
 Grabbing some air after the last master's semester. I'm glad to notice that my
 mind has again started to produce ideas for extending my projects. Starting to
