@@ -4,10 +4,18 @@ tags: journal, programming, culture
 ---
 
 ```
-28.06
+02.07
 ```
 
-<!-- (S03E18) -->
+>Watching:
+>
+>- Lost (Season 4)
+<!-- S04E02 -->
+
+
+```
+28.06
+```
 
 Grabbing some air after the last master's semester. I'm glad to notice that my
 mind has again started to produce ideas for extending my projects. Starting to
