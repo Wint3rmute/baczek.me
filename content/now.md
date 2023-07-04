@@ -10,7 +10,7 @@ tags: journal, programming, culture
 >Watching:
 >
 >- Lost (Season 4)
-<!-- S04E05 -->
+<!-- S04E07 -->
 
 
 ```
