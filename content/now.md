@@ -4,12 +4,25 @@ tags: journal, programming, culture
 ---
 
 ```
+07.07
+```
+
+>Listening:
+>
+>- a-ha - Summer Moved On
+
+
+```
 02.07
 ```
 
 >Watching:
 >
 >- Lost (Season 4)
+>
+>Reading:
+>
+>- Peter Watts - Echopraxia
 <!-- S04E07 -->
 
 
