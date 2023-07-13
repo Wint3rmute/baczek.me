@@ -22,7 +22,7 @@ Ansible playbook for auto-deployments.
 
 - Arch Linux/[NixOS](/nixos) (transition on hold)
 - [LeftWm](http://leftwm.org/) - part of [better alternatives to C software](/alternatives)
-- [Kitty](https://sw.kovidgoyal.net/kitty/) as a terminal - I love the performance and the ligatures
+- [Wezterm](https://wezfurlong.org/wezterm/) as a terminal - Enjoying the GPU-accelerated performance and the ligatures
 - Firefox (yes, you should be using it instead of anything Chromium-based) 
 
 

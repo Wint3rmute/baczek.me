@@ -16,6 +16,7 @@ tags: programming, collection
 - [Paru](https://github.com/Morganamilo/paru) - AUR helper for all Arch folks
 - [Neovide](https://neovide.dev) - `neovim` client with eye-candy animations
 - [Alacritty](https://alacritty.org/) - a terminal emulator
+- [Wezterm](https://wezfurlong.org/wezterm/) - another terminal emulator
 - [fd](https://github.com/sharkdp/fd) - unix `find` but actually usable without having to read `man` each time
 
 ---
