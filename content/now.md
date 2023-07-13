@@ -4,6 +4,25 @@ tags: journal, programming, culture
 ---
 
 ```
+13.07
+```
+
+Discovered [Bitwig](https://www.bitwig.com/) - a
+full-featured DAW which I can run from Linux. Together
+with [Diva](https://u-he.com/products/diva/) it
+creates an amazing environment which uses way less CPU
+than Windows + Ableton and feels much more intuitive,
+at least for me.
+
+Learning about drum patterns, a missing piece in my
+musical education.
+
+>Listening:
+>
+>- Ben Bohmer - Ground Control
+>- Thievery Corporation - Voyage Libre
+
+```
 07.07
 ```
 
