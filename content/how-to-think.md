@@ -12,3 +12,4 @@ Collection of resources improving reasoning, empathy, planning, understanding:
     - [The computer revolution hasn't happened yet](https://invidious.baczek.me/watch?v=oKg1hTOQXoY)
     - [Power of simplicity](https://invidious.baczek.me/watch?v=NdSD07U5uBs)
 - [Martin Fowler's blog](https://martinfowler.com/)
+- [Consciousness, Qualia and Internal Monologues](https://youtu.be/qd1LG_2Fthk)
