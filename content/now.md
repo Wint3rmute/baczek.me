@@ -4,6 +4,16 @@ tags: journal, programming, culture
 ---
 
 ```
+17.07
+```
+
+Defended my master's thesis! I feel sad about leaving the university though, lots of good memories were made there. I'd like to come back some time in the future, perhaps not as a scientific worker but just as a engineer taking care of their systems.
+
+>Watching:
+>
+>The Hourglass Sanatorium (1973)
+
+```
 13.07
 ```
 
