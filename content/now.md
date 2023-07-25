@@ -4,6 +4,25 @@ tags: journal, programming, culture
 ---
 
 ```
+25.07
+```
+
+>Reading:
+>
+>- Spectres: Composing Listening
+>
+>Watching:
+>
+>- Oppenheimer (2023)
+>
+>Listening:
+>
+>- Peter Gabriel - So
+>- Jazz Against The Machine - Creep
+>- PlanBe - Najgorszy Numer
+
+
+```
 17.07
 ```
 
@@ -11,8 +30,8 @@ Defended my master's thesis! I feel sad about leaving the university though, lot
 
 >Watching:
 >
->-The Hourglass Sanatorium (1973)
->-Lost (Season 5)
+>- The Hourglass Sanatorium (1973)
+>- Lost (Season 5)
 
 <!-- S05E08 -->
 
