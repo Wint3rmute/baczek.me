@@ -10,6 +10,7 @@ tags: journal, meta, culture, programming
 This is where I keep ideas, movies, music, interesting words and other things
 that I plan to research more in-depth in the future.
 
+- The Unicorn Project
 - In the shadow of the moon (2019)
 - Philip K. Dick - Valis
 - Holy Motors (2012)
