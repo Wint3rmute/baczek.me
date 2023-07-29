@@ -236,3 +236,13 @@ hr {
   }
 }
 
+.dictionary-word {
+  font-family: serif;
+}
+
+
+.dictionary-letter {
+  font-family: serif;
+  text-decoration: underline;
+}
+
