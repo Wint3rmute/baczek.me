@@ -1,6 +1,6 @@
 ---
 title: Bookmarks
-tags: culture, list
+tags: culture, collection
 ---
 
 Inspired by [Devine's idea](https://wiki.xxiivv.com/site/bookmarks.html),

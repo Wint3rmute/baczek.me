@@ -3,6 +3,19 @@ title: 2023's Devlog
 tags: journal, programming, culture
 ---
 
+
+```
+29.07
+```
+
+Started using my physical motebook for more than just a worse version of Google
+Calendar. I've designated some dedicated space to various projects and "thought
+categories". Taking notes while reading is also less distracting, so I
+recommend it to anyone who has trouble remembering all the ideas which come to
+their mind while getting through a book.
+
+Decided to finally organize my [excellent words](/excellent-words) list.
+
 ```
 25.07
 ```
