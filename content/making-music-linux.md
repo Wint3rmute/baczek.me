@@ -3,26 +3,29 @@ title: Making music on Linux
 tags: programming
 ---
 
-# TODO: finish
-
 *Trying to build a productive music-making environment as a Linux purist.*
 
 ## The Setup
 
-- *TODO:* details on setting up JACK on an Arch Machine. [Arch Wiki
-  page](https://wiki.archlinux.org/title/JACK_Audio_Connection_Kit) should work
-  just fine.
-- [QjackCtl](https://qjackctl.sourceforge.io/) is a useful GUI app for managing
-  your JACK configuration, it comes packaged in most Linux distros.
+- The first thing is to get JACK working on
+  your system. [Arch Wiki
+  page](https://wiki.archlinux.org/title/JACK_Audio_Connection_Kit)
+  should have everything you need.
+- [QjackCtl](https://qjackctl.sourceforge.io/)
+  is a useful GUI app for managing your JACK
+  configuration, it comes packaged in most
+  Linux distros. Use the "graph" view to
+  configure your audio devices
 
 ## The DAW
 
 In my opinion, the most mature DAW available for Linux is
-[Bitwig](https://www.bitwig.com). It is somewhat pricey and is not open-source.
-However, it makes up for it with its broad range of available synths, effects
-and other features. The UI feels snappy and very intuitive. On my personal
-machine I feel like Bitwig is 1.5-2x times faster than Ableton in "just doing
-the general DAW stuff".
+[Bitwig](https://www.bitwig.com). It is somewhat pricey and is
+not open-source, however, it makes up for it with its broad range
+of available synths, effects and other features. The UI feels
+snappy and very intuitive. On my personal machine I feel like
+Bitwig is 1.5-2x times faster than Ableton in "just doing the
+general DAW stuff".
 
 If you feel more adventurous and would like to try a more *experimental*
 interface, [Bespoke](https://www.bespokesynth.com/) could be the DAW for you.
@@ -39,5 +42,11 @@ interface, [Bespoke](https://www.bespokesynth.com/) could be the DAW for you.
 
 ## The controllers
 
-It seems like Novation's [Companion](https://us.novationmusic.com/components)
-software is built around 
+Novation's
+[Companion](https://us.novationmusic.com/components)
+software is built around web MIDI, so it should
+work on any platform which can open a modern
+web browser, such as Firefox or Chrome. This
+should get you around the limitations of
+OS-bound apps, which are unfortunately used by
+most MIDI gear manufacturers.
