@@ -16,6 +16,8 @@ their mind while getting through a book.
 
 Decided to finally organize my [excellent words](/excellent-words) list.
 
+Written a small tutorial about [making music on Linux](/making-music-on-linux).
+
 ```
 25.07
 ```
