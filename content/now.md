@@ -3,6 +3,7 @@ title: 2023's Devlog
 tags: journal, programming, culture
 ---
 
+<!-- S05E14 -->
 
 ```
 29.07
@@ -18,7 +19,6 @@ Decided to finally organize my [excellent words](/excellent-words) list.
 
 Wrote a small tutorial about [making music on Linux](/making-music-on-linux).
 
-<!-- S05E08 -->
 
 ```
 25.07
