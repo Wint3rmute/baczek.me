@@ -16,7 +16,9 @@ their mind while getting through a book.
 
 Decided to finally organize my [excellent words](/excellent-words) list.
 
-Written a small tutorial about [making music on Linux](/making-music-on-linux).
+Wrote a small tutorial about [making music on Linux](/making-music-on-linux).
+
+<!-- S05E08 -->
 
 ```
 25.07
@@ -48,7 +50,6 @@ Defended my master's thesis! I feel sad about leaving the university though, lot
 >- The Hourglass Sanatorium (1973)
 >- Lost (Season 5)
 
-<!-- S05E08 -->
 
 
 ```
