@@ -8,18 +8,14 @@ nor comprehensive in any way, it's just a quick hack that is good enough for me.
 
 """
 import json
-import math
-import re
-import subprocess
-from dataclasses import dataclass, field
 from pathlib import Path
 
 import graphviz
-import matplotlib.pyplot as plt
 import nltk
 import umap
 from nltk.stem.snowball import SnowballStemmer
 from nltk.tokenize import word_tokenize
+from sentence_transformers import SentenceTransformer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.manifold import TSNE
 from sklearn.metrics.pairwise import cosine_similarity
@@ -35,23 +31,11 @@ def tokenizer(text: str) -> list[str]:
 
 
 if __name__ == "__main__":
+
     nltk.download("punkt")
     all_posts = get_all_posts()
 
-    # Vectorizer to convert a collection of raw documents to a matrix of TF-IDF features
-    # vectorizer = TfidfVectorizer(tokenizer=tokenizer)
-    # vectorizer = TfidfVectorizer()
-
-    # Learn vocabulary and idf, return term-document matrix.
-    # tfidf = vectorizer.fit_transform([post.content for post in all_posts])
-
-    # Array mapping from feature integer indices to feature name
-    # words = vectorizer.get_feature_names_out()
-
-    # umap_result = umap.UMAP().fit_transform(tfidf)
-
-    from sentence_transformers import SentenceTransformer
-    model = SentenceTransformer('all-MiniLM-L6-v2')
+    model = SentenceTransformer("all-MiniLM-L6-v2")
     embeddings = model.encode([post.content for post in all_posts])
 
     umap_result = umap.UMAP().fit_transform(embeddings)
