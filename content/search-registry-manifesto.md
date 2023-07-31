@@ -5,6 +5,8 @@ tags: project, culture, programming
 
 *Bringing human-run sites back into search results*.
 
+**update: I found a somewhat similar project: [LinkWarden](https://linkwarden.app).**
+
 # Problem outline
 
 Let's face it, most of the sites you now see when using a search engine are AI
