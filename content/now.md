@@ -5,6 +5,31 @@ tags: journal, programming, culture
 
 <!-- S05E14 -->
 
+
+```
+01.08
+```
+
+Attempting to force my brain into not being 100% active right from the early
+morning all the way to late night hours - a habit I unwillingly developed while
+doing my master's degree and working at the same time. It's becoming a burden
+which could potentially lead to a burnout. I'm taking some time off, reading
+more books, trying to focus more on direct physical experiences rather than my
+thoughts.
+
+It seems like one has to periodically embrace or fight against their own
+introspection and modeling capabilities. Developing mental models of various
+problems, systems and situations, especially in the context of the role that
+one plays in them, is no doubt an essential skill when it comes to any kind of
+engineering (or any job which is done by one than one person). Unfortunately,
+if the desire to constantly improve those mental models is let astray, it leads
+to degradation of the models due to constant overthinking and breaking the
+feedback loop, validating the model against reality.
+
+>Reading:
+>
+>- Philip K. Dick -  Valis
+
 ```
 29.07
 ```

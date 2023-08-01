@@ -30,3 +30,5 @@ Here's a collection of hand-picked Bączek pictures, following this interpretati
 {{image (src="/bumblebees/olek.jpg" title="This monstrosity, from @Olek" small=true) }}
 
 {{image (src="/bumblebees/christmas.jpg" title="Christmas Bączek, thank you @Roksana!" small=true) }}
+
+{{image (src="/bumblebees/beer.jpg" title=",,What's better than a bumblebee? Two bumblebees!'' - poster from a polish beverage Łomża." small=true) }}
