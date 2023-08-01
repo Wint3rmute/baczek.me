@@ -42,7 +42,7 @@ their mind while getting through a book.
 
 Decided to finally organize my [excellent words](/excellent-words) list.
 
-Wrote a small tutorial about [making music on Linux](/making-music-on-linux).
+Wrote a small tutorial about [making music on Linux](/making-music-linux).
 
 
 ```
