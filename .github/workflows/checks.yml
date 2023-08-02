@@ -1,6 +1,20 @@
 name: Checks
 on: push
 jobs:
+  python:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-python@v4
+      with:
+        python-version: "3.11"
+    - name: Run black
+      uses: abatilo/actions-poetry@v2
+      with:
+        poetry-version: "1.5.1"
+    - name: View poetry --help
+      run: poetry run black . --check
+
   markdown:
     runs-on: ubuntu-latest
     steps:
