@@ -10,9 +10,9 @@ tags: culture, collection
 >~ Peter Gabriel - This is the Picture
 
 Being a non-native English speaker, I'm always striving to expand my foreign
-vocabulary by collecting various interesting words from books and other
-reading/listening materials. I usually write them down in a personal
-notebook and gradually move them to this page.
+vocabulary by collecting various interesting words/phrases from books and other
+reading/listening materials. I usually write them down in a personal notebook
+and gradually move them to this page.
 
 <center>
     <b>

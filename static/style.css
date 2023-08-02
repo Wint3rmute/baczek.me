@@ -240,6 +240,12 @@ hr {
   font-family: serif;
 }
 
+.dictionary-source {
+  font-size: 80%;
+  margin-top: -15px;
+  margin-bottom: 30px;
+}
+
 
 .dictionary-letter {
   font-family: serif;
