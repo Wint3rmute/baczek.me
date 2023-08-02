@@ -11,28 +11,15 @@ import json
 from pathlib import Path
 
 import graphviz
-import nltk
 import umap
-from nltk.stem.snowball import SnowballStemmer
-from nltk.tokenize import word_tokenize
 from sentence_transformers import SentenceTransformer
-from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.manifold import TSNE
 from sklearn.metrics.pairwise import cosine_similarity
 
 from .post import Post, get_all_posts
 
 
-def tokenizer(text: str) -> list[str]:
-    stemmer = SnowballStemmer("english")
-    words = word_tokenize(text)
-
-    return [stemmer.stem(word) for word in words]
-
-
 if __name__ == "__main__":
-
-    nltk.download("punkt")
     all_posts = get_all_posts()
 
     model = SentenceTransformer("all-MiniLM-L6-v2")
@@ -103,10 +90,6 @@ if __name__ == "__main__":
         related_posts_json_path.parent.mkdir(parents=True, exist_ok=True)
 
         related_posts_json = []
-
-        # for post_ in all_posts:
-        #     if len(set(post.tags) & set(post_.tags)) != 0:
-        #         relations_graph.edge(post.title, post_.title, color="transparent")
 
         for post_id in post.related_post_ids:
             related_post = all_posts[post_id]
