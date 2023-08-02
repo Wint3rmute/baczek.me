@@ -13,7 +13,10 @@ jobs:
       with:
         poetry-version: "1.5.1"
     - name: View poetry --help
-      run: poetry run black . --check
+      run: |
+        poetry install
+        poetry run black . --check
+        poetry run ruff .
 
   markdown:
     runs-on: ubuntu-latest
