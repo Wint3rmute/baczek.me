@@ -12,9 +12,10 @@ jobs:
       uses: abatilo/actions-poetry@v2
       with:
         poetry-version: "1.5.1"
-    - name: View poetry --help
+    - name: Install deps
+      run: poetry install --only dev
+    - name: Run linters
       run: |
-        poetry install
         poetry run black . --check
         poetry run ruff .
 
