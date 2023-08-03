@@ -1,5 +1,5 @@
 FROM archlinux:latest as builder
-RUN pacman -Sy --noconfirm git graphviz wget \
+RUN pacman -Syu --noconfirm git graphviz wget \
   blas gcc poetry pkgconf \
   python python-cairo graphviz zola \
   && pacman -Sc --noconfirm
