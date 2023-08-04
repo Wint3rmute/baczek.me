@@ -415,6 +415,8 @@ Lisp-related are food for thought :)
 
 Played a first jam session in my life :)
 
+{{image (src="/jam.jpg" small=true title="Jamming in the mission control room")}}
+
 >Listening:
 >- The Doors - Riders on the Storm
 
