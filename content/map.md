@@ -14,7 +14,7 @@ tags: journal, generative, programming
 This is an automatically generated graph of all pages on my websites, along
 with the connections chosen by a text vectorisation algorithm. If you're
 interested, you can read the [source
-code](https://github.com/Wint3rmute/baczek.me/blob/master/related_generator/).
+code](https://github.com/Wint3rmute/baczek.me/blob/master/exocortex.ipynb).
 
 
 ## How is this thing generated?

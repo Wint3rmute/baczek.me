@@ -15,7 +15,7 @@ jobs:
       - name: Build docker image & Zola
         uses: docker/build-push-action@v4.0.0
       - name: Build the website
-        run: docker run -v $(pwd):/build $(docker images --quiet | head -n 1) bash -c "git config --global --add safe.directory /build && cd /build && /website/.venv/bin/ipython umap.ipynb && zola build"
+        run: docker run -v $(pwd):/build $(docker images --quiet | head -n 1) bash -c "git config --global --add safe.directory /build && cd /build && /website/.venv/bin/ipython exocortex.ipynb && zola build"
       - name: Zip the website
         run: mkdir docs && zip -r docs/site.zip public
       - name: Setup Pages
