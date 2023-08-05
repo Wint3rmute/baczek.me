@@ -5,6 +5,13 @@ tags: journal, programming, culture
 
 <!-- S05E14 -->
 
+```
+04.08
+```
+
+Refactored (or rather rewrote) my [website map](/map) generation algorithm. The
+"related posts" section on each page now displays a fragment of the site map,
+centered around the currently viewed post.
 
 ```
 01.08

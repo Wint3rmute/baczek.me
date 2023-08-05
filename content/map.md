@@ -11,8 +11,8 @@ tags: journal, generative, programming
 
 ---
 
-This is an automatically generated graph of all pages on my websites, along
-with the connections chosen by a text vectorisation algorithm. If you're
+This is an automatically generated graph containing all pages on my websites,
+along with the connections calculated using sentence embeddings. If you're
 interested, you can read the [source
 code](https://github.com/Wint3rmute/baczek.me/blob/master/exocortex.ipynb).
 
@@ -23,15 +23,16 @@ code](https://github.com/Wint3rmute/baczek.me/blob/master/exocortex.ipynb).
    [Sentence Transformers](https://www.sbert.net/) Python library.
 2. The embeddings are passed to [UMAP](https://arxiv.org/abs/1802.03426)
    dimensionality reduction algorithm, which takes in multi-dimensional
-   embeddings and projects it down to a 2D representation.
-4. I'm connecting each post with its top 3 nearest posts (using 4 or more leads
-   to clutter).
-5. The final graph is drawn by `graphviz` and outputted as an SVG file.
+   embeddings and projects it down to a 2D representation, which can be drawn
+   as a graph.
+3. I'm connecting each post with its top 2 nearest posts (using more clutters
+   up the map).
+4. `graphviz` renders the graph and outputs it as an SVG file.
 
 
 ### Future plans
 
-1. Make this thing look more map-alike
+1. Make this thing look more "map-alike", whatever that might mean.
 2. Experiment with text clusterisation & dimensionality reduction algorithms, such as:
     - tSNE
     - K-means clustering
