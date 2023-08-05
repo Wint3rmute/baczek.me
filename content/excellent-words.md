@@ -60,6 +60,7 @@ and gradually move them to this page.
 
 {{dictionary_letter(letter="S")}}
 
+{{definition(word="Semantic Satiation" definition="Psychological phenomenon in which repetition causes a word or phrase to temporarily lose meaning for the listener, who then perceives the speech as repeated meaningless sounds.", source="Don't remember")}}
 {{definition(word="Subterfuge" definition="Fraud, deception, swindle", source="Simulacra and Simulation")}}
 {{definition(word="Subversive" definition="Rebelling against authority/governement/tradition/etc", source="Simulacra and Simulation")}}
 {{definition(word="Sybarite" definition="A person who is self-indulgent in their fondness for sensuous luxury", source="The Futurological Congress")}}

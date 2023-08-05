@@ -15,13 +15,13 @@ tags: programming
   is a useful GUI app for managing your JACK
   configuration, it comes packaged in most
   Linux distros. Use the "graph" view to
-  configure your audio devices
+  configure your audio devices.
 
 ## The DAW
 
 In my opinion, the most mature DAW available for Linux is
 [Bitwig](https://www.bitwig.com). It is somewhat pricey and is
-not open-source, however, it makes up for it with its broad range
+not open-source, however it makes up for it with its broad range
 of available synths, effects and other features. The UI feels
 snappy and very intuitive. On my personal machine I feel like
 Bitwig is 1.5-2x times faster than Ableton in "just doing the
