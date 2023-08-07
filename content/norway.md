@@ -11,3 +11,4 @@ tags: collection
   [https://www.nasjonaleturistveger.no/en/routes/](scenic routes)
 - Czech application [Mapy.cz](https://mapy.cz) has proved very useful around
   Bergen, it contains high quality hiking maps
+- [Weather website](https://www.yr.no/en) served by the Norwegian Meteorological Institute
