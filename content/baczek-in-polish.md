@@ -1,7 +1,7 @@
 ---
 created: 2022-06-16T00:10:36+02:00
 modified: 2022-12-19T14:23:26+01:00
-title: The word *Bączek* in Polish
+title: The word *Bączek*
 tags: journal, meta
 ---
 
