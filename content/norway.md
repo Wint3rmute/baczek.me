@@ -6,9 +6,20 @@ tags: collection
 - [Tips for hikes from
   Bergen](https://www.reddit.com/r/Norway/comments/2ebfg7/comment/cjy42q5/)
 - [Trolltunga](https://maps.app.goo.gl/LcFPiWkw4qqSXYGL8)
-- [ut.no](https://ut.no/) - Hiking/biking trails aggregator (in Norwegian)
-- If you're traveling by car, here's a list of
-  [https://www.nasjonaleturistveger.no/en/routes/](scenic routes)
-- Czech application [Mapy.cz](https://mapy.cz) has proved very useful around
-  Bergen, it contains high quality hiking maps
-- [Weather website](https://www.yr.no/en) served by the Norwegian Meteorological Institute
+- When hiking from sea level up to ~500m it
+  will be all fine and dandy. Above 500m
+  things start to get tricky, after you pass
+  ~700m be ready for very steep slopes.
+- [ut.no](https://ut.no/) - Hiking/biking
+  trails aggregator (in Norwegian)
+- If you're traveling by car, here's a list
+  of
+  [https://www.nasjonaleturistveger.no/en/routes/](scenic
+  routes)
+- Czech application
+  [Mapy.cz](https://mapy.cz) has proved very
+  useful around Bergen, it contains high
+  quality hiking maps
+- [Weather website](https://www.yr.no/en)
+  served by the Norwegian Meteorological
+  Institute
