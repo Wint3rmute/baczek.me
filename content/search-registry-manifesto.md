@@ -1,5 +1,5 @@
 ---
-title: Registry-based search engine manifesto
+title: Registry-based search engine
 tags: project, culture, programming
 ---
 
