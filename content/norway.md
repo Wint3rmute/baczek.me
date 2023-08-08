@@ -11,7 +11,7 @@ tags: collection
   slopes.
 - [ut.no](https://ut.no/) - Hiking/biking trails aggregator (in Norwegian)
 - If you're traveling by car, here's a list of [scenic
-  routes](https://www.nasjonaleturistveger.no/en/routes/) worth driving
+  routes](https://www.nasjonaleturistveger.no/en/routes/) worth driving through
 - Czech application [Mapy.cz](https://mapy.cz) has proved very useful around
   Bergen, it contains high quality hiking maps
 - [Weather website](https://www.yr.no/en) served by the Norwegian

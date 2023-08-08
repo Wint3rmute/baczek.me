@@ -5,7 +5,7 @@ tags: project, culture, programming
 
 *Bringing human-run sites back into search results*.
 
-**update: I found a somewhat similar project: [LinkWarden](https://linkwarden.app).**
+**Update: I found a somewhat similar project: [LinkWarden](https://linkwarden.app).**
 
 # Problem outline
 
