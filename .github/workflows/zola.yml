@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: 'Checkout'
         uses: actions/checkout@master
+        with:
+          fetch-depth: 0
       - name: Build docker image & Zola
         uses: docker/build-push-action@v4.0.0
       - name: Build the website
