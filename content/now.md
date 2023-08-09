@@ -4,6 +4,14 @@ tags: journal, programming, culture
 ---
 
 <!-- S05E14 -->
+```
+10.08
+```
+
+>Listening:
+>
+>- Jungle - Back On 74
+>- [Wii Menu Music](https://www.youtube.com/watch?v=5-E_0uhPzaE)
 
 ```
 04.08
