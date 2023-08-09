@@ -26,7 +26,7 @@ thoughts.
 
 It seems like one has to periodically embrace or fight against their own
 introspection and modeling capabilities. Developing mental models of various
-problems, systems and situations, especially in the context of the role that
+problems, systems, and situations, especially in the context of the role that
 one plays in them, is no doubt an essential skill when it comes to any kind of
 engineering (or any job which is done by one than one person). Unfortunately,
 if the desire to constantly improve those mental models is let astray, it leads
