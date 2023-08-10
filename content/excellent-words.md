@@ -57,6 +57,7 @@ and gradually move them to this page.
 
 {{definition(word="Raison d'être" definition="Purpose for existence", source="Ergo Proxy")}}
 {{definition(word="Rejuvenate" definition="Odmładzać", source="Unknown")}}
+{{definition(word="Rhizome" definition="a nonlinear network that ,,connects any point to any other point'', source="Explaining Deleuze with drum machines")}}
 
 {{dictionary_letter(letter="S")}}
 
