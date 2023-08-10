@@ -1,7 +1,9 @@
 ---
-title: Travel notes for Norway
+title: Norway
 tags: collection
 ---
+
+## Travel notes
 
 - [Tips for hikes from
   Bergen](https://www.reddit.com/r/Norway/comments/2ebfg7/comment/cjy42q5/)

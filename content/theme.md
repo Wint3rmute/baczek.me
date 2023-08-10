@@ -1,7 +1,7 @@
 ---
 created: 2022-07-27T15:06:09+02:00
 modified: 2022-07-27T17:46:22+02:00
-title: Colour scheme for everything
+title: Colour scheme
 tags: programming, culture
 ---
 
