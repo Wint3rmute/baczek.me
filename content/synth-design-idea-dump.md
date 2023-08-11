@@ -1,9 +1,11 @@
 ---
 created: 2022-05-28T13:55:05+02:00
 modified: 2022-05-28T14:00:58+02:00
-title: Custom synth design idea dump
+title: Custom synth
 tags: culture
 ---
+
+## Idea dump for a custom hardware synth
 
 I've zero experience when it comes to making any kind of hardware,
 but I can still dream of making a custom synthesiser, can't I?
