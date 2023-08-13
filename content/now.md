@@ -14,6 +14,15 @@ tags: journal, programming, culture
 >- [Wii Menu Music](https://www.youtube.com/watch?v=5-E_0uhPzaE)
 
 ```
+14.08
+```
+
+>Watching:
+>
+>- Nightcrawler (2014)
+
+
+```
 04.08
 ```
 

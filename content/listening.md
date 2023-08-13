@@ -1,9 +1,11 @@
 ---
-title: Listening recommendations
+title: Listening
 tags: culture, collection
 ---
 
-## No matter what music taste you have, try those:
+## Some listening recommendations
+
+### No matter what music taste you have, try those:
 
 - Leonard Cohen - You Want it Darker
 
@@ -14,7 +16,7 @@ tags: culture, collection
 - Son Lux - Brighter Wounds
 
 
-## Other recommendations
+### Other recommendations
 
 - Vulfpeck
 - Ben Bohmer
