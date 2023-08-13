@@ -39,6 +39,7 @@ interface, [Bespoke](https://www.bespokesynth.com/) could be the DAW for you.
 - Arch Linux's [pro-audio](https://archlinux.org/groups/x86_64/pro-audio/)
   package group provides a lot of up-to-date VSTs (and also other audio-related
   programs)
+- *todo*: write something about [Modarrt](https://www.modartt.com/)
 
 ## The controllers
 
