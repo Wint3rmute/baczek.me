@@ -35,6 +35,10 @@ and gradually move them to this page.
 {{definition(word="Defunct" definition="Zmarły, zlikwidowany (?)", source="Simulacra and Simulation")}}
 {{definition(word="Deterrence" definition="Odstraszenie", source="Oppenheimer (2023)")}}
 
+{{dictionary_letter(letter="G")}}
+
+{{definition(word="Gestalt" definition="From German: shape, figure, form", source="Valis")}}
+
 {{dictionary_letter(letter="I")}}
 
 {{definition(word="Incessant" definition="Continual, unceasing, pernament, perpetual", source="Simulacra and Simulation")}}
