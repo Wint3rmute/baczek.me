@@ -69,6 +69,7 @@ and gradually move them to this page.
 {{definition(word="Subterfuge" definition="Fraud, deception, swindle", source="Simulacra and Simulation")}}
 {{definition(word="Subversive" definition="Rebelling against authority/governement/tradition/etc", source="Simulacra and Simulation")}}
 {{definition(word="Sybarite" definition="A person who is self-indulgent in their fondness for sensuous luxury", source="The Futurological Congress")}}
+{{definition(word="Synesthesia" definition="Perceptual phenomenon in which stimulation of one sensory leads to involuntary experiences in a second sensory", source="Can't remember")}}
 
 {{dictionary_letter(letter="V")}}
 
