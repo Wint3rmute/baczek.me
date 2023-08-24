@@ -5,11 +5,15 @@ title: Rust
 tags: programming
 ---
 
-Libraries that I'm using for my projects and can recommend:
+Rust is my current language of choice - it offers great
+developer experience, powerful type system and a wide range
+of libraries. Here are some of the libraries that I'm using
+for my projects and can recommend:
 
 - [Macroquad](https://macroquad.rs/), a minimalist game engine that deserves more attention
 - [Rodio](https://github.com/RustAudio/rodio), easy to use sound playback library.
    I've used it to code a [sampler](https://github.com/Wint3rmute/libretakt) and a [synthesiser](https://github.com/Wint3rmute/nosna)
+- [Egui](https://egui.rs) - an immediate mode GUI library,supporting desktop, mobile and web
 - [Rust.audio](https://rust.audio/), collection of resources dedicated to audio programming in Rust
 
 Other links that I found interesting:
@@ -17,3 +21,4 @@ Other links that I found interesting:
 - [Delegate crate](https://lib.rs/crates/delegate)
 - [faster than lime blog](https://fasterthanli.me/about)
 - [A cool guy whose talk I've attended at a Rust Meetup in Wrocław](https://pwy.io/en/)
+- [No Boilerplate](https://www.youtube.com/channel/UCUMwY9iS8oMyWDYIe6_RmoA) - a YouTube channel that ~~shills~~ embraces Rust
