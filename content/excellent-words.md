@@ -64,12 +64,12 @@ and gradually move them to this page.
 {{dictionary_letter(letter="R")}}
 
 {{definition(word="Raison d'être" definition="Purpose for existence", source="Ergo Proxy")}}
-{{definition(word="Rejuvenate" definition="Odmładzać", source="Unknown")}}
-{{definition(word="Rhizome" definition="a nonlinear network that ,,connects any point to any other point'', source="Explaining Deleuze with drum machines")}}
+{{definition(word="Rejuvenate" definition="To make younger", source="Unknown")}}
+{{definition(word="Rhizome" definition="a nonlinear network that ,,connects any **point** to any other point'', used to describe concepts such as structures of language and knowledge, social relationships, etc. Used in opposition to hierarchical models", source="Explaining Deleuze with drum machines")}}
 
 {{dictionary_letter(letter="S")}}
 
-{{definition(word="Semantic Satiation" definition="Psychological phenomenon in which repetition causes a word or phrase to temporarily lose meaning for the listener, who then perceives the speech as repeated meaningless sounds.", source="Don't remember")}}
+{{definition(word="Semantic Satiation" definition="Psychological phenomenon in which repetition causes a word or phrase to temporarily lose meaning for the listener, who then perceives the speech as repeated meaningless sounds", source="Don't remember")}}
 {{definition(word="Subterfuge" definition="Fraud, deception, swindle", source="Simulacra and Simulation")}}
 {{definition(word="Subversive" definition="Rebelling against authority/governement/tradition/etc", source="Simulacra and Simulation")}}
 {{definition(word="Sybarite" definition="A person who is self-indulgent in their fondness for sensuous luxury", source="The Futurological Congress")}}

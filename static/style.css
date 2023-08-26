@@ -249,6 +249,7 @@ hr {
 
 .dictionary-letter {
   font-family: serif;
-  text-decoration: underline;
+  border-top: 1px solid white;
+  border-bottom: 1px solid white;
 }
 

@@ -13,3 +13,7 @@ Collection of resources improving reasoning, empathy, planning, understanding:
     - [Power of simplicity](https://invidious.baczek.me/watch?v=NdSD07U5uBs)
 - [Martin Fowler's blog](https://martinfowler.com/)
 - [Consciousness, Qualia and Internal Monologues](https://youtu.be/qd1LG_2Fthk)
+
+>Reality is that which, when you stop believing it, doesn't go away.
+>
+>~ Philip K. Dick, VALIS
