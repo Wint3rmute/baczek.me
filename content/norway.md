@@ -3,6 +3,9 @@ title: Norway
 tags: collection
 ---
 
+
+*todo*: add some pics.
+
 ## Travel notes
 
 - [Tips for hikes from
