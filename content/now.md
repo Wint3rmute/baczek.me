@@ -13,6 +13,10 @@ tags: journal, programming, culture
 Updated the dependencies of [tnb](https://github.com/Wint3rmute/tnb), polished
 the UX of the program a little bit.
 
+>Listening:
+>
+>- Cory Wong - Call Me Wild
+
 
 ```
 10.08

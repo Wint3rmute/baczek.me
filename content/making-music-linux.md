@@ -43,11 +43,8 @@ interface, [Bespoke](https://www.bespokesynth.com/) could be the DAW for you.
 
 ## The controllers
 
-Novation's
-[Companion](https://us.novationmusic.com/components)
-software is built around web MIDI, so it should
-work on any platform which can open a modern
-web browser, such as Firefox or Chrome. This
-should get you around the limitations of
-OS-bound apps, which are unfortunately used by
-most MIDI gear manufacturers.
+Novation's [Companion](https://us.novationmusic.com/components) software is
+built around Web MIDI API, so it works on any OS which can open Google Chrome
+(tested myself, unfortunately Firefox and Chromium do not work yet). This can
+get you around the limitations of OS-bound apps, which are unfortunately used
+by most MIDI gear manufacturers.
