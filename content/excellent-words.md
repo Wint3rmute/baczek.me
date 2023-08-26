@@ -43,6 +43,10 @@ and gradually move them to this page.
 
 {{definition(word="Incessant" definition="Continual, unceasing, pernament, perpetual", source="Simulacra and Simulation")}}
 
+{{dictionary_letter(letter="L")}}
+
+{{definition(word="Liminality" definition="todo: write", source="The Backrooms Wiki")}}
+
 {{dictionary_letter(letter="M")}}
 
 {{definition(word="Modus vivendi" definition="Way of life - coexistance of conflicting parties", source="Dark (2017)")}}
