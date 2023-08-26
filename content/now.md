@@ -4,6 +4,16 @@ tags: journal, programming, culture
 ---
 
 <!-- S05E14 -->
+
+
+```
+26.08
+```
+
+Updated the dependencies of [tnb](https://github.com/Wint3rmute/tnb), polished
+the UX of the program a little bit.
+
+
 ```
 10.08
 ```
