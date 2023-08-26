@@ -1,6 +1,8 @@
 <p>
   <b class="dictionary-word"> {{word}}</b>: {{definition}}.
+  {% if source != "" %}
 <div class="dictionary-source">
   Learned from: <i> {{source}} </i>
 </div>
+{% endif %}
 </p>
