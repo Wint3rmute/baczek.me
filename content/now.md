@@ -42,6 +42,10 @@ the UX of the program a little bit.
 04.08
 ```
 
+Visiting Norway.
+
+{{image (src="/norway_chill.jpg" small=false title="Cozy sunset somewhere around Kvanndal.")}}
+
 Refactored (or rather rewrote) my [website map](/map) generation algorithm. The
 "related posts" section on each page now displays a fragment of the site map,
 centered around the currently viewed post.
