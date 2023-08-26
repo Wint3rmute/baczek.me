@@ -10,6 +10,8 @@ tags: journal, programming, culture
 26.08
 ```
 
+Started working on [The ~~Dharma~~ Ławka Initiative](/lawka) page.
+
 Updated the dependencies of [tnb](https://github.com/Wint3rmute/tnb), polished
 the UX of the program a little bit.
 
