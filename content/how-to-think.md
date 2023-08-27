@@ -7,6 +7,12 @@ tags: journal, culture, collection
 
 Collection of resources improving reasoning, empathy, planning, understanding:
 
+>Never attribute to malice that
+>which is adequately explained
+>by stupidity.
+>
+>~Robert J. Hanlon (Hanlon's Razor)
+
 - Jonathan Haidt - The Righteous Mind
 - Alan Kay:
     - [The computer revolution hasn't happened yet](https://invidious.baczek.me/watch?v=oKg1hTOQXoY)
