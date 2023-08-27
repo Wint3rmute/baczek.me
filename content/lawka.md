@@ -5,7 +5,7 @@ tags: culture, collection
 
 {{definition(word="Ławka" definition="Polish word which means ,,bench''", source="")}}
 
-This page is dedicated to benches, placed in convenient places, offering a
+This page is dedicated to benches, placed in convenient locations, offering a
 place to rest and enjoy scenic/calming/whatever views. I appreciate well-placed
 benches a lot for some reason, hence I'm collecting my favourite ones right
 here.
