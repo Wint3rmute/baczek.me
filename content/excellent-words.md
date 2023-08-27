@@ -59,6 +59,7 @@ and gradually move them to this page.
 {{dictionary_letter(letter="P")}}
 
 {{definition(word="Persona non grata" definition="person not welcome (in some place, institution)", source="Unknown")}}
+{{definition(word="Petrichor" definition="Specific ,,earthy'' scent produced when rain falls on dry soil", source="Preset name on Minilougue xd")}}
 {{definition(word="Putrefaction" definition="Rot, decay", source="Simulacra and Simulation")}}
 
 {{dictionary_letter(letter="R")}}
