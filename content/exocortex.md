@@ -12,9 +12,9 @@ As many other people, I'm building a website storing pieces of knowledge which
 I find interesting, mostly notes on technical, artistic and philosphical
 matters. I'm also using the website as a journal.
 
-In my case, it is not a blog nor a
+In my case, it is neither a blog nor a
 *[Zettelkasten-like](https://en.wikipedia.org/wiki/Zettelkasten)* system. I'm
-experimenting on a custom visualisation system, utilising natural language
+implementing custom visualisation software, utilising natural language
 processing and high-dimensional data exploration/visualisation methods. You can
 take a look at the [map](/map) if you're interested.
 
