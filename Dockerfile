@@ -9,7 +9,7 @@ COPY pyproject.toml poetry.lock poetry.toml /website/
 RUN poetry install --only main && rm -rf ~/.cache/pypoetry
 
 FROM archlinux:latest
-RUN pacman -Sy --noconfirm git graphviz wget \
+RUN pacman -Syu --noconfirm git graphviz wget \
   blas \
   python python-cairo graphviz zola \
   && pacman -Sc --noconfirm
