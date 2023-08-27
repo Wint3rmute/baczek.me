@@ -3,8 +3,7 @@ title: Norway
 tags: collection
 ---
 
-
-*todo*: add some pics.
+{{image (src="/norway_buer.jpg" small=false title="Passing 700 meters during a trip to Buerbreen.")}}
 
 ## Travel notes
 
@@ -18,6 +17,6 @@ tags: collection
 - If you're traveling by car, here's a list of [scenic
   routes](https://www.nasjonaleturistveger.no/en/routes/) worth driving through
 - Czech application [Mapy.cz](https://mapy.cz) has proved very useful around
-  Bergen, it contains high quality hiking maps
+  both Bergen and Hardangerfjord, it contains high quality hiking maps
 - [Weather website](https://www.yr.no/en) served by the Norwegian
   Meteorological Institute
