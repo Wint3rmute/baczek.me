@@ -5,6 +5,14 @@ tags: journal, programming, culture
 
 <!-- S05E14 -->
 
+```
+27.08
+```
+
+>Rewatching:
+>
+>- Dune (2021)
+
 
 ```
 26.08
