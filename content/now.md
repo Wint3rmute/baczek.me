@@ -12,6 +12,10 @@ tags: journal, programming, culture
 >Rewatching:
 >
 >- Dune (2021)
+>
+>Listening:
+>
+>Joe Hisaishi - Kids Return
 
 
 ```
