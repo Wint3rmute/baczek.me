@@ -9,6 +9,12 @@ tags: journal, programming, culture
 27.08
 ```
 
+Testing out
+[DrivenByMoss](https://www.mossgrabers.de/Software/Bitwig/Bitwig.html),
+incredibly powerful integration between MIDI
+controllers and DAWs such as Bitwig and Reaper (both
+Linux-friendly).
+
 >Rewatching:
 >
 >- Dune (2021)
