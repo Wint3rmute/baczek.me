@@ -48,3 +48,10 @@ built around Web MIDI API, so it works on any OS which can open Google Chrome
 (tested myself, unfortunately Firefox and Chromium do not work yet). This can
 get you around the limitations of OS-bound apps, which are unfortunately used
 by most MIDI gear manufacturers.
+
+When picking a controller, first check whether it
+has
+[DrivenByMoss](https://www.mossgrabers.de/Software/Bitwig/Bitwig.html)
+support. It will get you an out-of-the-box full DAW
+integration, just like between Ableton & Ableton
+Push. I cannot recommend it enough!
