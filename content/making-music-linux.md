@@ -6,7 +6,6 @@ tags: programming
 *Trying to build a productive music-making environment as a Linux purist.*
 
 ## Initial setup, no matter what you will use later on
-
 - The first thing is to get JACK working on your system. [Arch Wiki
   page](https://wiki.archlinux.org/title/JACK_Audio_Connection_Kit) should have
   everything you need, also for non-Arch distros.
@@ -35,11 +34,13 @@ interface, [Bespoke](https://www.bespokesynth.com/) could be the DAW for you.
 - [Dragonfly Reverb](https://github.com/michaelwillis/dragonfly-reverb) is a
   good sounding reverb, which comes in multiple versions, modelling
   reverberation in various spaces
-- Arch Linux's [pro-audio](https://archlinux.org/groups/x86_64/pro-audio/)
-  package group provides a lot of up-to-date VSTs (and also other audio-related
-  programs)
+- Arch Linux's [`pro-audio`](https://archlinux.org/groups/x86_64/pro-audio/)
+  package group provides many VSTs (and other audio-related programs)
+- [Cardinal](https://github.com/DISTRHO/Cardinal) offers a wide of range of
+  Eurorack module clones, my favourite being Mutable Instruments
 - *todo*: write something about [Modarrt](https://www.modartt.com/)
-- *todo*: check out [Cardinal](https://github.com/DISTRHO/Cardinal)
+
+{{image (src="/cardinal_patch.jpg" title="Cardinal also has the cutest patch descriptions!")}}
 
 ## The controllers
 
@@ -49,9 +50,7 @@ built around Web MIDI API, so it works on any OS which can open Google Chrome
 get you around the limitations of OS-bound apps, which are unfortunately used
 by most MIDI gear manufacturers.
 
-When picking a controller, first check whether it
-has
-[DrivenByMoss](https://www.mossgrabers.de/Software/Bitwig/Bitwig.html)
-support. It will get you an out-of-the-box full DAW
-integration, just like between Ableton & Ableton
-Push. I cannot recommend it enough!
+When picking a controller, first check whether it is supported by
+[DrivenByMoss](https://www.mossgrabers.de/Software/Bitwig/Bitwig.html). It will
+get you an out-of-the-box full DAW integration, just like between Ableton &
+Ableton Push. I cannot recommend it enough!
