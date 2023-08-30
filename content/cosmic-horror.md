@@ -1,14 +1,14 @@
 ---
-title: Horror
+title: Cosmic Horror
 tags: culture, collection
 ---
 
-*Todo:* list of favourite niche horrors, subgenres and trivia.
+Cosmic horror explores the idea that the higher forces of the universe
+(supernatural beings, gods, other) either do not care about, or act against
+humans. Our morals and values are juxtaposed against a completely indifferent
+world, which functions in a way incomprehensible by our brains.
 
-*Note:* perhaps this list should be converted to *cosmic horror*?
-
-
-## Cosmic horror
+*Work in progress:* list of favourite niche horrors, subgenres and trivia.
 
 ### Movies
 
@@ -32,3 +32,8 @@ tags: culture, collection
   artist, father of biomechanical designs and the Xenomorph from Alien
 - [Howard Phillips Lovecraft](https://en.wikipedia.org/wiki/H._P._Lovecraft) -
   needs no introduction
+
+## Other
+
+- The Alien franchise contains some elements of cosmic horror, especially both
+  of *Prometheus* movies
