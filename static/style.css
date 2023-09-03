@@ -253,3 +253,7 @@ hr {
   border-bottom: 1px solid white;
 }
 
+li.recently-updated-item {
+  list-style-type: circle;
+}
+

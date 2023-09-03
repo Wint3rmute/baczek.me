@@ -1,6 +1,7 @@
 {# Landing page #}
 {% extends "base.html" %}
 {% block content %}
+{% set recently_updated_posts = load_data(path="./generated/recently_updated.json", required=true) %}
 
 <div class="index-div">
   <div class="index-image"></div>
@@ -16,8 +17,16 @@
     <li><a href="/sounds">Sounds & Melodies</a></li>
     <li><a href="/linux"> Linux setups</a></li>
     <li><a href="/decentralisation">Decentralisation of the internet</a></li>
-  </ul>
+
+    <hr>
+    Recently edited:
+
+    {% for post in recently_updated_posts -%}
+      <li class="recently-updated-item"><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {%- endfor %}
+    </ul>
   </div>
+
   <br>
   <a href="/about">
     <button>Read more about my work</button>
