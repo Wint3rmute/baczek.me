@@ -1,5 +1,5 @@
 ---
-title: Website map
+title: Map
 tags: journal, generative, programming
 ---
 

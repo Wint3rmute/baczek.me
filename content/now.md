@@ -6,6 +6,15 @@ tags: journal, programming, culture
 <!-- S05E14 -->
 
 ```
+03.09
+```
+
+Added line wrapping to post titles displayed on the [map](/map) - a simple
+change which drastically increased the readability of nodes. Glad to discover
+yet another useful module in the [Python Standard
+Library](https://docs.python.org/3/library/textwrap.html).
+
+```
 27.08
 ```
 
