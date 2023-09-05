@@ -8,7 +8,9 @@ Cosmic horror explores the idea that the higher forces of the universe
 humans. Our morals and values are juxtaposed against a completely indifferent
 world, which functions in a way incomprehensible to our brains.
 
-Cosmic horror has fascinated me since childhood, so I'm keeping my humble list of related material on this page.
+Cosmic horror has fascinated me since childhood, especially when mixed together
+with body horror or biomechanics, so I'm keeping my humble list of related
+material on this page.
 
 ### Movies
 
