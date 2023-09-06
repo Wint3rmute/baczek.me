@@ -46,7 +46,7 @@ and gradually move them to this page.
 {{dictionary_letter(letter="L")}}
 
 {{definition(word="Liminality" definition="todo: write", source="The Backrooms Wiki")}}
-{{definition(word="Locus" definition="The place where something happens or the central area of interest in something", source="Biblical Lecture Series by Jurdan Peterson")}}
+{{definition(word="Locus" definition="The place where something happens or the central area of interest in something", source="The Psychological Significance of the Biblical Stories)}}
 
 {{dictionary_letter(letter="M")}}
 
@@ -59,7 +59,7 @@ and gradually move them to this page.
 
 {{dictionary_letter(letter="P")}}
 
-{{definition(word="Persona non grata" definition="person not welcome (in some place, institution)", source="Unknown")}}
+{{definition(word="Persona non grata" definition="person not welcome (in some place, institution)", source="Can't remember")}}
 {{definition(word="Petrichor" definition="Specific ,,earthy'' scent produced when rain falls on dry soil", source="Preset name on Minilougue xd")}}
 {{definition(word="Putrefaction" definition="Rot, decay", source="Simulacra and Simulation")}}
 {{definition(word="Pyrrhic victory" definition="victory that inflicts such a devastating toll on the victor that it is tantamount to defeat", source="Valis")}}
@@ -67,7 +67,7 @@ and gradually move them to this page.
 {{dictionary_letter(letter="R")}}
 
 {{definition(word="Raison d'être" definition="Purpose for existence", source="Ergo Proxy")}}
-{{definition(word="Rejuvenate" definition="To make younger", source="Unknown")}}
+{{definition(word="Rejuvenate" definition="To make younger", source="Simulacra and Simulation")}}
 {{definition(word="Rhizome" definition="a nonlinear network that ,,connects any **point** to any other point'', used to describe concepts such as structures of language and knowledge, social relationships, etc. Used in opposition to hierarchical models", source="Explaining Deleuze with drum machines")}}
 
 {{dictionary_letter(letter="S")}}
@@ -80,4 +80,4 @@ and gradually move them to this page.
 
 {{dictionary_letter(letter="V")}}
 
-{{definition(word="Veritable" definition="Real, true, authentic, very", source="Unknown")}}
+{{definition(word="Veritable" definition="Real, true, authentic, very", source="Simulacra and Simulation")}}

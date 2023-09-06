@@ -31,7 +31,7 @@ Testing out
 [DrivenByMoss](https://www.mossgrabers.de/Software/Bitwig/Bitwig.html),
 incredibly powerful integration between MIDI
 controllers and DAWs such as Bitwig and Reaper (both
-Linux-friendly).
+Linux-friendly). It's a really great plugin, definitely recommended for all Bitwig users!
 
 >Rewatching:
 >
@@ -39,7 +39,7 @@ Linux-friendly).
 >
 >Listening:
 >
->Joe Hisaishi - Kids Return
+>- Joe Hisaishi - Kids Return
 
 
 ```
