@@ -46,6 +46,7 @@ and gradually move them to this page.
 {{dictionary_letter(letter="L")}}
 
 {{definition(word="Liminality" definition="todo: write", source="The Backrooms Wiki")}}
+{{definition(word="Locus" definition="The place where something happens or the central area of interest in something", source="Biblical Lecture Series by Jurdan Peterson")}}
 
 {{dictionary_letter(letter="M")}}
 
