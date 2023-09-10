@@ -35,6 +35,9 @@ and gradually move them to this page.
 {{definition(word="Defunct" definition="Zmarły, zlikwidowany (?)", source="Simulacra and Simulation")}}
 {{definition(word="Deterrence" definition="Odstraszenie", source="Oppenheimer (2023)")}}
 
+{{dictionary_letter(letter="F")}}
+{{definition(word="Fulcrum" definition="The point on which a lever turns or is supported. The most important part of an activity or a situation", source="The Psychological Significance of the Biblical Stories")}}
+
 {{dictionary_letter(letter="G")}}
 
 {{definition(word="Gestalt" definition="From German: shape, figure, form", source="Valis")}}
@@ -46,7 +49,7 @@ and gradually move them to this page.
 {{dictionary_letter(letter="L")}}
 
 {{definition(word="Liminality" definition="todo: write", source="The Backrooms Wiki")}}
-{{definition(word="Locus" definition="The place where something happens or the central area of interest in something", source="The Psychological Significance of the Biblical Stories)}}
+{{definition(word="Locus" definition="The place where something happens or the central area of interest in something", source="The Psychological Significance of the Biblical Stories")}}
 
 {{dictionary_letter(letter="M")}}
 

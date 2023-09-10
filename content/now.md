@@ -6,6 +6,16 @@ tags: journal, programming, culture
 <!-- S05E14 -->
 
 ```
+10.09
+```
+
+[Developing a taste](https://youtu.be/Q1l4PyTsMY0?si=pN84p_Mml65E2NvM) for freeform jazz.
+
+>Listening:
+>
+>- Charles Mingus
+
+```
 04.09
 ```
 
