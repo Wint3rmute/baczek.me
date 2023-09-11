@@ -25,7 +25,9 @@ I'm running self-hosted online services. They are public, you can use them too :
 
 - [SearX](https://searx.baczek.me), a meta-search engine
 
-- [Librex](https://librex.baczek.me), another meta-search engine
+- [LibreX](https://librex.baczek.me), another meta-search engine
+
+- [LibreY](https://librey.baczek.me), fork of LibreX
 
 - [Libreddit](https://libreddit.baczek.me), alternative Reddit frontend
 
