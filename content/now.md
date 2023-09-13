@@ -14,6 +14,8 @@ tags: journal, programming, culture
 >Listening:
 >
 >- Charles Mingus
+>- Shiro Sagisu - Hedgehog's Dilemma
+>- Chet Baker - Chet Baker Sings
 
 ```
 04.09
