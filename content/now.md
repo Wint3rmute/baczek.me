@@ -6,6 +6,21 @@ tags: journal, programming, culture
 <!-- S05E14 -->
 
 ```
+15.09
+```
+
+Cleaning up and organizing many things at once, preparing to leave for another
+adventure.
+
+>Listening:
+>
+>- Roxy Music - In Every Dream House A Heartache
+>- Baasch - Karuzele
+>- Nation of Language - Sightseer
+>- Nathaniel Merriweather Et al. - Ladies Love Chest Rockwell
+
+
+```
 10.09
 ```
 
