@@ -23,3 +23,5 @@ Collection of resources improving reasoning, empathy, planning, understanding:
 >Reality is that which, when you stop believing it, doesn't go away.
 >
 >~ Philip K. Dick, VALIS
+
+- Intelligence is a form of [compression](http://prize.hutter1.net/)
