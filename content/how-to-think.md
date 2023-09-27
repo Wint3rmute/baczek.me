@@ -5,6 +5,8 @@ title: How to think
 tags: journal, culture, collection
 ---
 
+{{image (src="/on_philosophy.jpg" small=false title="What matters, really.")}}
+
 Collection of resources improving reasoning, empathy, planning, understanding:
 
 >Never attribute to malice that
