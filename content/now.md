@@ -5,6 +5,17 @@ tags: journal, programming, culture
 
 <!-- S05E14 -->
 
+
+```
+27.09
+```
+
+
+{{image (src="/venice.jpg" small=false title="Pizza & pasta taste best near the water during a hot day.")}}
+
+Visiting Venice and Florence.
+
+
 ```
 15.09
 ```
