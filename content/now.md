@@ -7,13 +7,29 @@ tags: journal, programming, culture
 
 
 ```
+30.08
+```
+
+My journey with [SatRev](https://satrev.space/) is officially finished! I'll
+never forget the 3 years I spent there, with all the amazing coworkers
+fascinated with space and engineering.
+
+{{image (src="/with_cubesat.jpg" small=true title="Feeling smart while holding a model of one of Satrev's cubesats.")}}
+
+>Listening:
+>
+>- Jungle - Volcano
+>- Il Quadro di Troisi - Il Quadro di Troisi 
+>- The Green Book Copacabana Orchestra - That Old Black Magic
+
+```
 27.09
 ```
 
 
 {{image (src="/venice.jpg" small=false title="Pizza & pasta taste best near the water during a hot day.")}}
 
-Visiting Venice and Florence.
+Visiting Venice and Florence. Getting some air between switching jobs.
 
 
 ```

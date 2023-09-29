@@ -5,7 +5,7 @@ title: How to think
 tags: journal, culture, collection
 ---
 
-{{image (src="/on_philosophy.jpg" small=false title="What matters, really.")}}
+{{image (src="/on_philosophy.jpg" small=true title="What matters, really.")}}
 
 Collection of resources improving reasoning, empathy, planning, understanding:
 
@@ -27,3 +27,5 @@ Collection of resources improving reasoning, empathy, planning, understanding:
 >~ Philip K. Dick, VALIS
 
 - Intelligence is a form of [compression](http://prize.hutter1.net/)
+- [Devine's brilliant take on
+  discourse](https://wiki.xxiivv.com/site/discourse.html)
