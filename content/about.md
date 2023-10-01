@@ -79,22 +79,38 @@ magical experience and the effort was definitely worth the time!
 
 ## 🐍 Python & WebDev
 
-Python is my primary language, as I do lots of prototyping and scripting. In my high-school years,
-after getting a grip on the basics of programming, I've turned to WebDev, which has been my passion
-for the last years of high school and first years of uni.
+> This section is outdated and contains too many different things, I'll rewrite
+> it on the nearest occasion.
 
-I've been field tested during [Nokia Innovative Projects](https://github.com/nokia-wroclaw/innovativeprojects),
-scoring a second place with a project of a global, team-based RTS game - [Consquare](https://marekchoinski.com/consquare/)
-(kind of like Pokemon Go, except you actually get to affect the world map around you, not just change the color of some
-statically placed structures on the map). We wrote game in
-Unity and the server software in Django.
+Python is my primary language, as I do lots of prototyping and automation. In
+my high-school years, after getting a grip on the basics of programming, I've
+turned to broadly defined web development, which has been my passion for the
+last years of high school and first years of uni.
+
+I've been field tested during [Nokia Innovative
+Projects](https://github.com/nokia-wroclaw/innovativeprojects), scoring a
+second place with a project of a global, team-based RTS game -
+[Consquare](https://marekchoinski.com/consquare/) (kind of like Pokemon Go,
+except you actually get to affect the world map around you, not just change the
+color of some statically placed structures on the map). We wrote game in Unity
+and the server software in Django.
 
 ## 🌌 The future?
 
-I've learned the basics of programming in C, then switched to higher-level languages and technologies.
-My current self development plan is centered on Rust. I'm aiming to combine
-my Linux knowledge and aerial systems design experience,
-to develop reliable and high-performance embedded and server applications.
+### Programming
+
+My current self development plan is centered on Rust. Strong and rich type
+systems are my main topic of interest. From a more product-focused perspective,
+I want to become an expert in developing performant and highly reliable mission
+control software.
+
+### Engineering in general
+
+I've been leading teams of programmers both at university and at work and I'd
+like to continue working as a leader. I have a fairly good instinct at setting
+goals and creating a positive work environment. Moving from being a developer
+to a more leadership-oriented role has also sparked my interest in system
+engineering - a field in which I have been recently pursuing.
 
 ## ☀️ Interests
 
