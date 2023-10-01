@@ -14,15 +14,15 @@ tags: journal, meta
 - Tech lead of the [Academic Aviation Club](http://akl.pwr.edu.pl) (2nd place [Sae Aero Design Advanced](https://www.saeaerodesign.com/) winner)
 - Extensive Linux knowledge (long time power user, ricing enthusiast)
 - Solid understanding of mission operations & telemetry system design
-- Python + Rust + Linux = ❤️
+- My dream stack: Python + Rust + Linux
 
 ### Other interests:
 
 - Hard sci-fi
 - Music of (mostly) all sorts
-- Messing around with synthesizers
+- Messing around with synthesizers and other sound creation tools
 - Philosophy
-- Non-standard applications of terminal-based user interfaces
+- Terminal UI aesthetics
 
 *TL;DR ends here, full version below*
 
@@ -60,13 +60,20 @@ I've attended [SAE Aero Design 2020](https://www.saeaerodesign.com/) and my team
 
 ## 🐧 Linux
 
-Since my first Linux install I've fallen in love with the customizability and
-flexibility of this operating system. Since then, I've been using it everywhere
-I could ([my Kindle runs Arch btw](https://github.com/Wint3rmute/arch-linux-on-kindle)).
+Since my first Linux install I've fallen in love with it's customizability and
+flexibility. Since then, I've been using it everywhere I could ([my Kindle
+runs Arch btw](https://github.com/Wint3rmute/arch-linux-on-kindle)). I've a
+solid knowledge base on Linux-related tools: from building embedded linux
+distributions to Docker-based deployments and infrastructure as code.
 
-I've a solid knowledge base on Linux-related tools: from building embedded linux distributions to deploying Docker-based infrastructure.
-In my spare time, I'm running Linux-related lectures on my uni, trying to teach more people
-about the advantages of the OS and providing them with knowledge for a painless transition to Linux.
+During my time at the university, I was engaged in educating fellow students
+about Linux and how it can enhance their lives as programmers, as I found that
+part missing from the study programme. I organised Linux-related lectures,
+providing students with knowledge necessary to transition away from
+Windows/MacOS. I managed to keep a regular schedule of the lectures during the
+entire semester and gathered 200+ people on a dedicated Facebook group.
+Seeing a positive response from a large group of students was a truly
+magical experience and the effort was definitely worth the time!
 
 {{image (src="/workshops.jpg" title="Wint3r of 2019. They clearly look like they're having fun :)") }}
 
