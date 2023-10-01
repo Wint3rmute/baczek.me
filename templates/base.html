@@ -7,7 +7,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta property="og:image" content="/og_image.jpg">
   <meta name="author" content="Mateusz Bączek">
-  <title>Mateusz Bączek</title>
+    <title>Mateusz Bączek{% if page.title %} - {{ page.title }}{% endif %}
+    </title>
   <link rel="stylesheet" href="/style.css">
 </head>
 
