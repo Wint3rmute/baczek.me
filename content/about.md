@@ -110,7 +110,7 @@ I've been leading teams of programmers both at university and at work and I'd
 like to continue working as a leader. I have a fairly good instinct at setting
 goals and creating a positive work environment. Moving from being a developer
 to a more leadership-oriented role has also sparked my interest in system
-engineering - a field in which I have been recently pursuing.
+engineering - a field which I have been recently pursuing.
 
 ## ☀️ Interests
 
