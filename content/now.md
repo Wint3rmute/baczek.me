@@ -5,9 +5,17 @@ tags: journal, programming, culture
 
 <!-- S05E14 -->
 
+```
+04.10
+```
+
+>Listening:
+>
+>William's Things - The Robots are Coming
+
 
 ```
-30.08
+30.09
 ```
 
 My journey with [SatRev](https://satrev.space/) is officially finished! I'll
