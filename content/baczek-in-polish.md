@@ -32,3 +32,5 @@ Here's a collection of hand-picked Bączek pictures, following this interpretati
 {{image (src="/bumblebees/christmas.jpg" title="Christmas Bączek, thank you @Roksana!" small=true) }}
 
 {{image (src="/bumblebees/beer.jpg" title=",,What's better than a bumblebee? Two bumblebees!'' - poster from a polish beverage Łomża." small=true) }}
+
+{{image (src="/bumblebees/lifesaver_book.jpg" title="Bumblebee Lifesaver - https://karolratownik.pl/baczek-ksiazka/" small=true) }}
