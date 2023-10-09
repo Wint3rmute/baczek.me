@@ -6,12 +6,29 @@ tags: journal, programming, culture
 <!-- S05E14 -->
 
 ```
+09.10
+```
+
+Exploring the world of polish hand-made (at least what they say on the page)
+notebooks:
+
+- [Introligatorka.pl](https://introligatorka.pl/)
+- [Noteka.pl](https://noteka.pl/)
+- [Papierniczeni.pl](https://papierniczeni.pl/)
+- [Papiery.pl](https://papiery.pl/)
+- [Rzeczownik.pl](https://rzeczownik.com/)
+
+>Listening:
+>
+>- daste. - Telephone (What's Your Name?)
+
+```
 04.10
 ```
 
 >Listening:
 >
->William's Things - The Robots are Coming
+>- William's Things - The Robots are Coming
 
 
 ```
