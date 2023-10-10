@@ -6,6 +6,15 @@ tags: journal, programming, culture
 <!-- S05E14 -->
 
 ```
+10.10
+```
+
+>Listening:
+>
+>- Urbanski - Everdome
+
+
+```
 09.10
 ```
 
