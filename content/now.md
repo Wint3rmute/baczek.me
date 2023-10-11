@@ -18,7 +18,7 @@ tags: journal, programming, culture
 09.10
 ```
 
-Exploring the world of polish hand-made (at least what they say on the page)
+Exploring the world of Polish hand-made (at least what they say on the page)
 notebooks:
 
 - [Introligatorka.pl](https://introligatorka.pl/)
