@@ -12,6 +12,7 @@ tags: journal, programming, culture
 >Listening:
 >
 >- Urbanski - Everdome
+>- Jacob Collier & Brandi Carlile - Little Blue
 
 
 ```
