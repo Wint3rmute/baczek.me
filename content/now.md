@@ -13,6 +13,11 @@ tags: journal, programming, culture
 >
 >- Urbanski - Everdome
 >- Jacob Collier & Brandi Carlile - Little Blue
+>
+>Watching:
+>
+>- [Devine Lu Linvega - An approach to computing and sustainability inspired
+>  from permaculture](https://youtu.be/T3u7bGgVspM)
 
 
 ```
