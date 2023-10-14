@@ -84,3 +84,9 @@ and gradually move them to this page.
 {{dictionary_letter(letter="V")}}
 
 {{definition(word="Veritable" definition="Real, true, authentic, very", source="Simulacra and Simulation")}}
+
+---
+
+Similar lists lists:
+
+- https://wordwarriors.wayne.edu/list
