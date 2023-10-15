@@ -6,6 +6,15 @@ tags: journal, programming, culture
 <!-- S05E14 -->
 
 ```
+14.10
+```
+
+>Reading:
+>
+>- Doughlas Adams - The Salmon Of Doubt
+
+
+```
 10.10
 ```
 
