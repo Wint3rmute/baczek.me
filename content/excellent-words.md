@@ -90,3 +90,5 @@ and gradually move them to this page.
 Similar lists lists:
 
 - https://wordwarriors.wayne.edu/list
+- [A more comical & creative
+  approach](https://en.m.wikipedia.org/wiki/The_Meaning_of_Liff)
