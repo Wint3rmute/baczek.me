@@ -10,6 +10,7 @@ tags: journal, meta, culture, programming
 This is where I keep ideas, movies, music, interesting words and other things
 that I plan to research more in-depth in the future.
 
+- Labirynth (1986)
 - Crumb (1995)
 - [gwern.net](https://gwern.net/)
 - [Gaphor](https://gaphor.org/) - UML, SysML, RAAML, and C4 modeling application

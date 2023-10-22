@@ -9,7 +9,8 @@ tags: journal, programming, culture
 22.10
 ```
 
-[Jacob Collier's harmonizer](https://www.youtube.com/watch?v=PHkKMJ6DCZQ).
+Enjoying the sound of [Jacob Collier's
+harmonizer](https://www.youtube.com/watch?v=PHkKMJ6DCZQ).
 
 ```
 14.10
