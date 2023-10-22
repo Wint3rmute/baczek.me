@@ -6,6 +6,12 @@ tags: journal, programming, culture
 <!-- S05E14 -->
 
 ```
+22.10
+```
+
+[Jacob Collier's harmonizer](https://www.youtube.com/watch?v=PHkKMJ6DCZQ).
+
+```
 14.10
 ```
 
