@@ -29,6 +29,7 @@ code](https://github.com/Wint3rmute/baczek.me/blob/master/exocortex.ipynb).
    up the map).
 4. `graphviz` renders the graph and outputs it as an SVG file.
 
+A much better description on [Simon Willison's blog](https://simonwillison.net/2023/Oct/23/embeddings/).
 
 ### Future plans
 
