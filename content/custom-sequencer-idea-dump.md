@@ -5,6 +5,15 @@ title: Custom sequencer
 tags: generative, culture, programming
 ---
 
+## New branch of ideas - interconnectivity
+
+Image a drum sequencer in which you never directly program
+patterns. Instead, you get a few "basic" rhytms and
+compose complex patterns by relationships between other
+patterns - addition, subtraction, xor, negation, etc. This
+approach could also be applied to parameter modulation and
+then used for breathing more life into melodies.
+
 ## Unordered dump of ideas for a custom sequencer
 
 - Think tracker but scriptable in a repl-like manner
