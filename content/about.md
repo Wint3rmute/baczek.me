@@ -9,12 +9,17 @@ tags: journal, meta
 
 ### Work-related interests:
 
-- Currently designing & operating commercial CubeSat constellation [@SatRev](https://satrevolution.com/)
-- Playing around with UAVs - ArduPilot, computer vision, telemetry systems
-- Tech lead of the [Academic Aviation Club](http://akl.pwr.edu.pl) (2nd place [Sae Aero Design Advanced](https://www.saeaerodesign.com/) winner)
-- Extensive Linux knowledge (long time power user, ricing enthusiast)
+- Currently building mission operations software for [Creotech
+  Instruments](https://creotech.pl/)
+- Ex-leader of the mission operations team operating a commercial fleet of 8
+  cubesats at [SatRev](https://satrevolution.com/)
+- Experienced with UAVs - ArduPilot, computer vision, telemetry systems
+- Tech lead of the [Academic Aviation Club](http://akl.pwr.edu.pl) (2nd place
+  [Sae Aero Design Advanced](https://www.saeaerodesign.com/) winner)
+- Extensive Linux knowledge - from satellite's on-board computers all the way
+  to servers
 - Solid understanding of mission operations & telemetry system design
-- My dream stack: Python + Rust + Linux
+- My dream stack: Rust 🦀 + Python 🐍 + Linux 🐧
 
 ### Other interests:
 
@@ -29,30 +34,41 @@ tags: journal, meta
 ---
 
 
-## 🛰️ Satellites
+## 🛰️ Space
 
-During the summer of 2020 I've started working at [SatRev](https://satrev.space/) - company
-designing a CubeSat satellite fleet for commercial and research usage.
+I am currently working at [Creotech Instruments](https://creotech.pl/),
+developing their mission operations software.
 
-I currently lead the mission operations software team -- that's where we design
-the communication & telemetry systems of our satellites, create the tools used for automated
-testing and finally talk with the satellites on orbit.
+### Previous job - [SatRev](https://satrev.space/)
+
+During the summer of 2020 I've started working at
+[SatRev](https://satrev.space/) - a company designing a CubeSat satellite fleet
+for commercial and research usage.
+
+I from 2021 to 2023 I led Satrev's mission operations software team -- that's
+where we design the communication & telemetry systems of our satellites, create
+the tools used for automated testing and finally talk with the satellites on
+orbit.
 
 Involved into a wide scope of satellite creation processes: prototyping, tests and ground station operations,
 I have gained a significant insight into the design philosophy of space systems and I'm still eager to learn more.
 
-Two of the satellites I've worked on were launched on the [first commercial Virgin Orbit flight](https://virginorbit.com/the-latest/virgin-orbit-selected-to-launch-satrevolutions-constellation-of-constellations/). I am currently running mission operations for them,
-waiting for the next part of the constellation to launch around Q1 2022.
+Three of the satellites I've worked on were launched on the [first commercial
+Virgin Orbit
+flight](https://virginorbit.com/the-latest/virgin-orbit-selected-to-launch-satrevolutions-constellation-of-constellations/)
+and the rest was launched by SpaceX's Falcon 9.
 
 {{image (src="/sw1ft.jpg" title="Summer of 2020. The SW1FT cubesat I worked on during my internship (artistic vision, duh)") }}
 
 
 ## ✈️ UAVs
 
-During 2019 I joined the [Academic Aviation Club](http://akl.pwr.edu.pl) - a student club from my university,
-dedicated to developing autonomous airplanes and drones. I've got the know-how to develop on top of
-[ArduPilot](https://github.com/ArduPilot/ardupilot)-based flight controllers, designing systems aimed
-both for fully autonomous operation and for human-aircraft(s) cooperation.
+From 2019 to 2023 I was a member of the [Academic Aviation
+Club](http://akl.pwr.edu.pl) - a student club from my university, dedicated to
+developing autonomous airplanes and drones. I've got the know-how to develop on
+top of [ArduPilot](https://github.com/ArduPilot/ardupilot)-based flight
+controllers, designing systems aimed both for fully autonomous operation and
+for human-aircraft(s) cooperation.
 
 I've attended [SAE Aero Design 2020](https://www.saeaerodesign.com/) and my team has placed second in the Advance cathegory.
 
