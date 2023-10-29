@@ -28,4 +28,4 @@ Here's a bunch of opinions I have on writing and storing notes/ideas/etc:
   [exocortex-related processing](/map).
 - For taking notes from a mobile device I use [Termux](https://termux.dev/en/)
   and [NVChad](https://nvchad.com/).
-- CI/CD builds and deploys the site for me.
+- CI/CD builds the site for me, then my server pulls it automatically

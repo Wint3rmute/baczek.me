@@ -6,6 +6,7 @@ tags: programming
 *Trying to build a productive music-making environment as a Linux purist.*
 
 ## Initial setup, no matter what you will use later on
+
 - The first thing is to get JACK working on your system. [Arch Wiki
   page](https://wiki.archlinux.org/title/JACK_Audio_Connection_Kit) should have
   everything you need, also for non-Arch distros.
@@ -52,5 +53,5 @@ by most MIDI gear manufacturers.
 
 When picking a controller, first check whether it is supported by
 [DrivenByMoss](https://www.mossgrabers.de/Software/Bitwig/Bitwig.html). It will
-get you an out-of-the-box full DAW integration, just like between Ableton &
+get you an out-of-the-box full Bitwig integration, just like between Ableton &
 Ableton Push. I cannot recommend it enough!

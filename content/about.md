@@ -11,8 +11,9 @@ tags: journal, meta
 
 - Currently building mission operations software for [Creotech
   Instruments](https://creotech.pl/)
-- Ex-leader of the mission operations team operating a commercial fleet of 8
-  cubesats at [SatRev](https://satrevolution.com/)
+- Ex-leader of the mission operations team at
+  [SatRev](https://satrevolution.com/), operated a commercial fleet of 8
+  cubesats
 - Experienced with UAVs - ArduPilot, computer vision, telemetry systems
 - Tech lead of the [Academic Aviation Club](http://akl.pwr.edu.pl) (2nd place
   [Sae Aero Design Advanced](https://www.saeaerodesign.com/) winner)
@@ -93,7 +94,7 @@ magical experience and the effort was definitely worth the time!
 
 {{image (src="/workshops.jpg" title="Wint3r of 2019. They clearly look like they're having fun :)") }}
 
-## 🐍 Python & WebDev
+## 🐍 Python & web development
 
 > This section is outdated and contains too many different things, I'll rewrite
 > it on the nearest occasion.

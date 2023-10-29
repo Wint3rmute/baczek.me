@@ -10,13 +10,13 @@ tags: programming
 # Repo
 
 [It's all hosted on GitHub](https://github.com/Wint3rmute/dotfiles), with an
-Ansible playbook for auto-deployments.
+Ansible playbook for auto-deployments. You can read the breakdown of the most
+important parts below.
 
 # Hardware
 
 - ThinkPad x260 + Asus GL553VE
-- *TODO*: update ~~when the keyboard ships~~ when my gf gives it back ;-;
-
+- Keyboard: still struggling to pick one
 
 # Distro + Essentials
 
