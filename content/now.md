@@ -12,6 +12,12 @@ tags: journal, programming, culture
 Enjoying the sound of [Jacob Collier's
 harmonizer](https://www.youtube.com/watch?v=PHkKMJ6DCZQ).
 
+>Listening:
+>
+>- Nation of Language - A New Goodbye
+>- Jiro Inagaki & Sould Media - Funky Stuff
+
+
 ```
 14.10
 ```

@@ -14,3 +14,5 @@ tags: culture, collection
 - Donnie Darko
 - Ghost In The Shell 
 - Twin Peaks
+
+I'm logging the things I am currently watching in the [log](/now).

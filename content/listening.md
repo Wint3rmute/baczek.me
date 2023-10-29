@@ -3,9 +3,7 @@ title: Listening
 tags: culture, collection
 ---
 
-## Some listening recommendations
-
-### No matter what music taste you have, try those:
+## All-time favourites
 
 - Leonard Cohen - You Want it Darker
 
@@ -16,13 +14,15 @@ tags: culture, collection
 - Son Lux - Brighter Wounds
 
 
-### Other recommendations
+## Other recommendations
 
-- Vulfpeck
-- Ben Bohmer
-- Peter Gabriel
-- Yazoo
-- The Punch Brothers
-- Bryan Ferry
 - Rysy
 - Baasch
+- Ben Bohmer
+- Nation of Language
+- Vulfpeck
+- Peter Gabriel
+- Yazoo
+- Bryan Ferry
+
+I'm logging the things I am currently listening to in the [log](/now).
