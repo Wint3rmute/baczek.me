@@ -6,6 +6,17 @@ tags: journal, programming, culture
 <!-- S05E14 -->
 
 ```
+30.10
+```
+
+Finished a 1 year streak in Duolingo, learned basics of
+French and a tiny bit of Norwegian and Italian.
+Unfortunately, the app only makes sense as an addition to a
+"real" language practice, at least that's how I perceive
+its effectiveness.
+
+
+```
 22.10
 ```
 
