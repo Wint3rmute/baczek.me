@@ -15,6 +15,10 @@ Unfortunately, the app only makes sense as an addition to a
 "real" language practice, at least that's how I perceive
 its effectiveness.
 
+>Reading:
+>
+>- Stanisław Lem - Summa Technologiae
+
 
 ```
 22.10
