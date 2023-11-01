@@ -6,6 +6,12 @@ tags: journal, programming, culture
 <!-- S05E14 -->
 
 ```
+01.11
+```
+
+Yet another Polish gem: [osiedlowy.sklep.pl](https://osiedlowy.sklep.pl/).
+
+```
 30.10
 ```
 
