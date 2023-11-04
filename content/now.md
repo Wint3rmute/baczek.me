@@ -6,10 +6,13 @@ tags: journal, programming, culture
 <!-- S05E14 -->
 
 ```
-01.11
+04.11
 ```
 
-Yet another Polish gem: [osiedlowy.sklep.pl](https://osiedlowy.sklep.pl/).
+Some more polish gems:
+
+- [osiedlowy.sklep.pl](https://osiedlowy.sklep.pl/) - cool shirts
+- [mgart.com.pl](https://mgart.com.pl/) - handmade ceramic
 
 ```
 30.10
