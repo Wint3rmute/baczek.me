@@ -6,6 +6,15 @@ tags: journal, programming, culture
 <!-- S05E14 -->
 
 ```
+08.11
+```
+
+>Listening:
+>
+>- [Crystal Castles - Kept (Waltz piano)](https://youtu.be/KpF1RzgSl0c?si=gkfnZ_453lgeditg)
+>- The Chemical Brothers - Goodbye
+
+```
 04.11
 ```
 
