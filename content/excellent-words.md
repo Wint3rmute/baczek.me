@@ -23,7 +23,7 @@ and gradually move them to this page.
 
 {{dictionary_letter(letter="C")}}
 
-{{definition(word="Carceral" definition="relating to a prision. You probably know a similar word: ,,incarceration''", source="Simulacra and Simulation")}}
+{{definition(word="Carceral" definition="relating to a prison. You probably know a similar word: ,,incarceration''", source="Simulacra and Simulation")}}
 {{definition(word="Circumvolution" definition="A winding movement, especially of one thing round another", source="Simulacra and Simulation")}}
 {{definition(word="Cloister" definition="Klasztor", source="Simulacra and Simulation")}}
 {{definition(word="Collective Effervescence" definition="Spontaneus participation in the same action", source="Simulacra and Simulation")}}
