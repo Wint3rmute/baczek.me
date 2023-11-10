@@ -13,6 +13,7 @@ tags: journal, programming, culture
 >
 >- [Crystal Castles - Kept (Waltz piano)](https://youtu.be/KpF1RzgSl0c?si=gkfnZ_453lgeditg)
 >- The Chemical Brothers - Goodbye
+>- Jungle - Happy Man
 
 ```
 04.11
