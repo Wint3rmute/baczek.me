@@ -5,6 +5,16 @@ tags: journal, programming, culture
 
 <!-- S05E14 -->
 
+
+```
+12.11
+```
+
+TIL: A Polish Movie *Na Srebrnym Globie* (On
+the Silver Globe) is available at
+[35mm.online](https://35mm.online/vod/fabula/na-srebrnym-globie)!
+
+
 ```
 08.11
 ```
