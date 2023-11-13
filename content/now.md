@@ -6,9 +6,18 @@ tags: journal, programming, culture
 <!-- S05E14 -->
 
 
+
 ```
-12.11
+11.11
 ```
+
+{{image (src="/transporter-9.jpg" small=true title="Transporter 9 launching with the AMAN satellite. Image from SpaceX.")}}
+
+Yet again, some of my code travels into space. I won't
+be operating this new bird, but I still wish it
+good luck!
+
+---
 
 TIL: A Polish Movie *Na Srebrnym Globie* (On
 the Silver Globe) is available at
