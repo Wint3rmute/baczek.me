@@ -91,6 +91,10 @@ and gradually move them to this page.
 
 {{definition(word="Veritable" definition="Real, true, authentic, very", source="Simulacra and Simulation")}}
 
+{{dictionary_letter(letter="Y")}}
+
+{{definition(word="Yakamoz" definition="Turkish word, meaning 'the reflection of  moonlight on water'", source="Found randomly on the internet")}}
+
 ---
 
 Similar lists lists:
