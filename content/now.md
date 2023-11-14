@@ -5,6 +5,17 @@ tags: journal, programming, culture
 
 <!-- S05E14 -->
 
+```
+14.11
+```
+
+>Watching:
+>
+>- [Układ Formalny](https://ukladformalny.pl/) - Balladyna
+>
+>Listening:
+>
+>- David Bowie - I'm Deranged
 
 
 ```
@@ -191,6 +202,11 @@ Added line wrapping to post titles displayed on the [map](/map) - a simple
 change which drastically increased the readability of nodes. Glad to discover
 yet another useful module in the [Python Standard
 Library](https://docs.python.org/3/library/textwrap.html).
+
+>Watching:
+>
+>- [Układ Formalny](https://ukladformalny.pl/) - Balladyna
+
 
 ```
 27.08
