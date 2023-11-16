@@ -94,7 +94,7 @@ magical experience and the effort was definitely worth the time!
 
 {{image (src="/workshops.jpg" title="Wint3r of 2019. They clearly look like they're having fun :)") }}
 
-## 🐍 Python & web development
+## 🐍 Python, web development
 
 > This section is outdated and contains too many different things, I'll rewrite
 > it on the nearest occasion.
@@ -103,6 +103,8 @@ Python is my primary language, as I do lots of prototyping and automation. In
 my high-school years, after getting a grip on the basics of programming, I've
 turned to broadly defined web development, which has been my passion for the
 last years of high school and first years of uni.
+
+{{image (src="/consquare.jpg" title="One of the banners we created for Consquare.") }}
 
 I've been field tested during [Nokia Innovative
 Projects](https://github.com/nokia-wroclaw/innovativeprojects), scoring a
