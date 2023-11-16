@@ -11,7 +11,8 @@ tags: journal, programming, culture
 
 High-fiving [Adam Neely](https://www.youtube.com/@AdamNeely)
 and hearing a crowd clap in perfect sync in 7/8 time is quite
-something for just one day.
+something for just one day! Happy to be alive at the same
+time as all the people who were there :)
 
 {{image (src="/sungazer.jpg" small=false title="Prague, Kampus Hybernská")}}
 
