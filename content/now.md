@@ -6,6 +6,20 @@ tags: journal, programming, culture
 <!-- S05E14 -->
 
 ```
+16.11
+```
+
+High-fiving [Adam Neely](https://www.youtube.com/@AdamNeely)
+and hearing a crowd clap in perfect sync in 7/8 time is quite
+something for just one day.
+
+{{image (src="/sungazer.jpg" small=false title="Prague, Kampus Hybernská")}}
+
+>Listening:
+>
+>- Sungazer
+
+```
 14.11
 ```
 
