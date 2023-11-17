@@ -10,5 +10,5 @@
 
 <figure>
   <img class="{{classes | join(sep=' ')}}" src="{{src}}">
-  <figcaption>{{title | safe}}</figcaption>
+  <figcaption>{{title | markdown(inline=True) | safe}}</figcaption>
 </figure>

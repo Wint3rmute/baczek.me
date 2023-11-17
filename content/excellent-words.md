@@ -53,7 +53,7 @@ and gradually move them to this page.
 
 {{dictionary_letter(letter="M")}}
 
-{{definition(word="Merveilles" definition="French word for wonders/miracles", source="merveilles.town")}}
+{{definition(word="Merveilles" definition="French word for wonders/miracles", source="[merveilles.town](https://merveilles.town/)")}}
 {{definition(word="Modus vivendi" definition="Way of life - coexistance of conflicting parties", source="Dark (2017)")}}
 
 {{dictionary_letter(letter="N")}}
