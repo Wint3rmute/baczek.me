@@ -102,17 +102,18 @@ magical experience and the effort was definitely worth the time!
 Python is my primary language, as I do lots of prototyping and automation. In
 my high-school years, after getting a grip on the basics of programming, I've
 turned to broadly defined web development, which has been my passion for the
-last years of high school and first years of uni.
+last years of high school and first years of uni. I enjoy glueing together
+weird contraptions, exploring ideas around networking and interactivity.
 
-{{image (src="/consquare.jpg" title="One of the banners we created for Consquare.") }}
+{{image (src="/consquare.jpg" small=true title="One of the banners we created for Consquare. Courtesy of [Marek Choiński](https://marekchoinski.com/).") }}
 
 I've been field tested during [Nokia Innovative
 Projects](https://github.com/nokia-wroclaw/innovativeprojects), scoring a
 second place with a project of a global, team-based RTS game -
 [Consquare](https://marekchoinski.com/consquare/) (kind of like Pokemon Go,
 except you actually get to affect the world map around you, not just change the
-color of some statically placed structures on the map). We wrote game in Unity
-and the server software in Django.
+color of some statically placed structures on the map). We wrote the mobile
+game client in Unity and the server software in Django.
 
 ## 🌌 The future?
 
