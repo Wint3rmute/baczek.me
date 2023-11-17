@@ -6,6 +6,19 @@ tags: journal, programming, culture
 <!-- S05E14 -->
 
 ```
+17.11
+```
+
+>Watching:
+>
+>- Mad God (2021)
+>
+>Listening:
+>
+>- ∑tella - Girl Supreme
+
+
+```
 16.11
 ```
 
