@@ -5,6 +5,18 @@ tags: journal, programming, culture
 
 <!-- S05E14 -->
 
+
+```
+18.11
+```
+
+todo: ambientalny festival entry. Find
+out about this amazing Krzysztof guy who
+was playing with Hainbach.
+
+{{image (src="/ambientalny.jpg" small=false title="Klub Formaty, Wrocław")}}
+
+
 ```
 17.11
 ```
