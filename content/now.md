@@ -9,6 +9,10 @@ tags: journal, programming, culture
 17.11
 ```
 
+Came back my small [transcribing](/music-transcribing) project, nearly finished
+[Wintermute](https://github.com/Wint3rmute/Wintermute), a few notes are
+out of sync, but the pitches sound 100% right to my ear.
+
 >Watching:
 >
 >- Mad God (2021)
