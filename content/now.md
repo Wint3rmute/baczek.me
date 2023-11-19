@@ -10,11 +10,18 @@ tags: journal, programming, culture
 18.11
 ```
 
-todo: ambientalny festival entry. Find
-out about this amazing Krzysztof guy who
-was playing with Hainbach.
+todo:
+[ambientalny](https://www.ambientalny.pl/)
+festival entry. Find out about this amazing
+Krzysztof guy who was playing with Hainbach.
 
 {{image (src="/ambientalny.jpg" small=false title="Klub Formaty, Wrocław")}}
+
+>Listening:
+>
+>- Martyna Basta
+>- Thomas Könar
+>- Hainbach
 
 
 ```
