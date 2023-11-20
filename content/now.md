@@ -10,12 +10,17 @@ tags: journal, programming, culture
 18.11
 ```
 
-todo:
-[ambientalny](https://www.ambientalny.pl/)
-festival entry. Find out about this amazing
-Krzysztof guy who was playing with Hainbach.
-
 {{image (src="/ambientalny.jpg" small=false title="Klub Formaty, Wrocław")}}
+
+Went to the
+[Ambientalny](https://www.ambientalny.pl/) festival.
+Glad to see many people interested in the genre. Saw
+Hainbach live :) after the concert he invited
+everyone interested to take a look at his setup and
+ask questions about it, super nice!
+
+TODO: Find out about this amazing
+Krzysztof guy who was playing with Hainbach.
 
 >Listening:
 >
