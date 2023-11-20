@@ -32,6 +32,7 @@ and gradually move them to this page.
 {{dictionary_letter(letter="D")}}
 
 {{definition(word="De Jure" definition="Practices, which are legally recognized", source="Starość Aksolotla")}}
+{{definition(word="Defenestration" definition="The act of throwing someone or something out of a window", source="JJay")}}
 {{definition(word="Defunct" definition="Zmarły, zlikwidowany (?)", source="Simulacra and Simulation")}}
 {{definition(word="Deterrence" definition="Odstraszenie", source="Oppenheimer (2023)")}}
 
@@ -99,6 +100,5 @@ and gradually move them to this page.
 
 Similar lists lists:
 
-- https://wordwarriors.wayne.edu/list
-- [A more comical & creative
-  approach](https://en.m.wikipedia.org/wiki/The_Meaning_of_Liff)
+- [wordwarriors.wayne.edu/list](https://wordwarriors.wayne.edu/list)
+- [The Meaning of Liff](https://en.m.wikipedia.org/wiki/The_Meaning_of_Liff)
