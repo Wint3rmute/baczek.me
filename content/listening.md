@@ -16,6 +16,8 @@ tags: culture, collection
 
 ## Other recommendations
 
+{{image (src="/sightseer.jpg" small=true title="Another kind of love")}}
+
 - Rysy
 - Baasch
 - Ben Bohmer
