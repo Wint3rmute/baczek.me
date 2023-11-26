@@ -24,6 +24,10 @@ Notes on travel, places I visited and the ones I'd like to visit.
 - [Weather website](https://www.yr.no/en) served by the Norwegian
   Meteorological Institute
 
+# Poland - my favourite places
+
+{{image (src="/muflon.jpg" small=false title="Mountain shelter Mouflon, near Duszniki Zdrój")}}
+
 # Want to visit
 
 - Fiordland, New Zealand (as recommended by Doughlas Adams)
