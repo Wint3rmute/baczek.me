@@ -34,9 +34,10 @@ header, nav, ul {
     overflow: hidden;
 }
 
-header, h1, h2, h3, h4, h5 {
-    color: var(--headers_foreground);
+header, h2, h3, h4, h5 {
+  color: var(--headers_foreground);
 }
+
 
 th, td {
   border-bottom: 1px solid var(--background-light);
@@ -44,7 +45,11 @@ th, td {
 }
 
 article > h1:first-child {
-  color: white;
+  background: var(--accent);
+  background: linear-gradient(to right, var(--accent) 0%, var(--accent2) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
   font-size: 200%;
   text-decoration: underline var(--background-light) 1px;
   text-underline-offset: 10px;
