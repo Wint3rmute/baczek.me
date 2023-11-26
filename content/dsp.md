@@ -13,6 +13,7 @@ tags: generative, culture, programming
      it out [here](https://github.com/Wint3rmute/Nosna).
 2. If you're using Rust, I recommend [Rodio](https://docs.rs/rodio/latest/rodio/) for taking care of sound card interaction.
 3. Check out [The Audio Programmer](https://www.theaudioprogrammer.com/), especially their YouTube channel.
+4. If you want to write a VST, give [nih-plug](https://github.com/robbert-vdh/nih-plug) a try.
 
 
 # Generative music
