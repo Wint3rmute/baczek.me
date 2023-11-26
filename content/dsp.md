@@ -54,7 +54,7 @@ tags: generative, culture, programming
 - [Signal processing for sound design](https://invidious.baczek.me/watch?v=jVac5IFXpFo). Todo: watch! 
 
 
-# Interesting DSP projects
+# Interesting DSP/audio links
 
 - [Faust - functional audio stream](https://faust.grame.fr/) 
 - [Daisy seed, synth microcontroller](https://www.electro-smith.com/daisy/daisy)
@@ -65,3 +65,11 @@ tags: generative, culture, programming
   - https://llllllll.co/t/mangling-manipulating-digital-physical-media-like-analog/54876 
   - https://en.m.wikipedia.org/wiki/Musique_concr%C3%A8te
 - [Lessons learned from a decade of audio programming](https://invidious.baczek.me/watch?v=Vjm--AqG04Y)
+- [DirtyWave tracker firmware](https://github.com/Dirtywave/M8HeadlessFirmware)
+- [TextBeat](https://github.com/flipcoder/textbeat)
+- [Glicol language](https://glicol.org/)
+- [AMY Synth library](https://notes.variogram.com/amy/)
+- [Interview with Emillie Gillet from Mutable Instruments](https://www.synthtopia.com/content/2014/03/31/interview-with-emilie-gillet-mutable-instruments/)
+- [Cellular automata synth kit](https://vtol.cc/#Cellular-Automata)
+- Tarai function for generative music
+- Todo: [extract all interesting synth software links from this thread](https://news.ycombinator.com/item?id=34097936)

@@ -15,12 +15,12 @@ tags: journal, programming, culture
 Went to the
 [Ambientalny](https://www.ambientalny.pl/) festival.
 Glad to see many people interested in the genre. Saw
-Hainbach live :) after the concert he invited
+[Hainbach](https://www.hainbachmusik.com/) live :) after the concert he invited
 everyone interested to take a look at his setup and
 ask questions about it, super nice!
 
-TODO: Find out about this amazing
-Krzysztof guy who was playing with Hainbach.
+TODO: Find out about this amazing Krzysztof guy who was
+making absolutely stunning live visuals to Hainbach's music.
 
 >Listening:
 >

@@ -29,3 +29,7 @@ Collection of resources improving reasoning, empathy, planning, understanding:
 - Intelligence is a form of [compression](http://prize.hutter1.net/)
 - [Devine's brilliant take on
   discourse](https://wiki.xxiivv.com/site/discourse.html)
+
+>I don't like the word materialist
+>because it suggests we know
+>what the material is ~ Richard Penrose
