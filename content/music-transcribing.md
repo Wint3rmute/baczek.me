@@ -14,8 +14,7 @@ I am currently transcribing [**wintermute**](https://ryanlott.bandcamp.com/track
 written by [Ryan Lott](https://ryan-lott.com/). You can track my progress and get the notes
 [here](https://github.com/Wint3rmute/Wintermute).
 
-![Work in progress wintermute transcription](/wip_transcription.png)
-
+{{image (src="/wip_transcription.png" noshadow=true small=false title="I still fink that I got the key wrong")}}
 
 ## Writing your own sheet music
 
@@ -27,26 +26,28 @@ also need to install a soundfont unless your distribution ships one as a depende
 
 Beginning of **wintermute**, written in LilyPond:
 
-*TODO:* fix the key once you know exactly what it is
 ```latex
 upper = \relative c'' {
   \clef treble
-  \key c \major
+  \key c \minor
   \time 4/4
-  \tempo 4 = 90
+  \tempo 4 = 80
 
-  \mf
   \partial 2.
-  f,2. _\markup {\italic legato }
+  f,2. \mf _\markup {\italic legato }
  
-  g8 ( f es  d es \> f  es4 d4. )
+  g8 ( f es  d es \> f  es4 d4 )
   c2. \pp
 
-  d8 ( c8 bes8 a8 bes8 c8 bes8 d4 g2 )
+  d8 ( c8 bes8 a8 bes8 c8 bes8 d g2 )
+  % \relative { c''4\< c\ff\> c c\! }
 
-  <<des2 ges bes>>
+  <<des2. ges bes>>
 
-  (c8 bes as g as bes as c)
-}
+  c8 (bes as g as bes as c)
+...
 ```
+
+TODO: In the future, check whether someone has developed a
+[Typst](https://github.com/qjcg/awesome-typst) package for writing music.
 
