@@ -14,8 +14,8 @@ Hiking at Duszniki Zdrój.
 {{image (src="/muflon.jpg" small=false title="Mountain shelter Mouflon, near Duszniki Zdrój")}}
 
 Work on
-[Wintermute](https://github.com/Wint3rmute/Wintermute), a few
-notes are is almost finished, but I still have no idea what
+[Wintermute](https://github.com/Wint3rmute/Wintermute)
+is almost finished, but I still have no idea what
 key the song is in. Nevertheless, the generated MIDI sounds
 close enough to the original melody and the rendered notes
 look almost proffesional.

@@ -32,4 +32,6 @@ Collection of resources improving reasoning, empathy, planning, understanding:
 
 >I don't like the word materialist
 >because it suggests we know
->what the material is ~ Richard Penrose
+>what the material is 
+>
+>~ Richard Penrose
