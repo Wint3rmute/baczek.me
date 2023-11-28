@@ -44,10 +44,11 @@ th, td {
   padding: 8px;
 }
 
-article > h1:first-child {
+h1.title {
   background: var(--accent);
   background: linear-gradient(to right, var(--accent) 0%, var(--accent2) 100%);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 
   font-size: 200%;
