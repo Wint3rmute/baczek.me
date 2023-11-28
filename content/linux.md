@@ -21,10 +21,15 @@ important parts below.
 # Distro + Essentials
 
 - Arch Linux/[NixOS](/nixos) (transition on hold)
-- [LeftWm](http://leftwm.org/) - part of [better alternatives to C software](/alternatives)
-- [Wezterm](https://wezfurlong.org/wezterm/) as a terminal - Enjoying the GPU-accelerated performance and the ligatures
+- [LeftWm](http://leftwm.org/) - part of [better alternatives to C
+  software](/alternatives)
+- [Wezterm](https://wezfurlong.org/wezterm/) as a terminal - Enjoying the
+  GPU-accelerated performance and the ligatures
+- [Nushell](http://www.nushell.sh/) for amazing performance and a fresh take on
+  Linux shells
 - Firefox (yes, you should be using it instead of anything Chromium-based) 
-
+- [Bitwig](https://www.bitwig.com/) for jamming & [making
+  sounds](/making-music-linux).
 
 # Development
 
