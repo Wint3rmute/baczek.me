@@ -20,6 +20,10 @@ key the song is in. Nevertheless, the generated MIDI sounds
 close enough to the original melody and the rendered notes
 look almost proffesional.
 
+>Listening:
+>
+>-Woodkid feat. Son Lux - Central Park
+
 ```
 18.11
 ```
@@ -29,7 +33,7 @@ look almost proffesional.
 Went to the
 [Ambientalny](https://www.ambientalny.pl/) festival.
 Glad to see many people interested in the genre. Saw
-[Hainbach](https://www.hainbachmusik.com/) live :) after the concert he invited
+[Hainbach](https://www.hainbachmusik.com/) live! After the concert he invited
 everyone interested to take a look at his setup and
 ask questions about it, super nice!
 

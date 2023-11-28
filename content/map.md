@@ -21,10 +21,10 @@ code](https://github.com/Wint3rmute/baczek.me/blob/master/exocortex.ipynb).
 
 1. All of the posts are fed through an embeddings generator, I'm using the
    [Sentence Transformers](https://www.sbert.net/) Python library.
-2. The embeddings are passed to [UMAP](https://arxiv.org/abs/1802.03426)
+2. The embeddings are passed to [UMAP](https://arxiv.org/abs/1802.03426), a
    dimensionality reduction algorithm, which takes in multi-dimensional
    embeddings and projects it down to a 2D representation, which can be drawn
-   as a graph.
+   as a graph. The projection is done so that the high-level "structure" of the data is preserved.
 3. I'm connecting each post with its top 2 nearest posts (using more clutters
    up the map).
 4. `graphviz` renders the graph and outputs it as an SVG file.
