@@ -84,6 +84,7 @@ and gradually move them to this page.
 {{definition(word="Sybarite" definition="A person who is self-indulgent in their fondness for sensuous luxury", source="The Futurological Congress")}}
 {{definition(word="Synesthesia" definition="Perceptual phenomenon in which stimulation of one sensory leads to involuntary experiences in a second sensory", source="Can't remember")}}
 {{definition(word="Schlaraffenland" definition="A land of plenty in medieval myth, an imaginary place of extreme luxury", source="Summa Technologiae")}}
+{{definition(word="Salient" definition="Something that projects outward or upward from its surroundings", source="[How to speak](https://www.youtube.com/watch?v=Unzc731iCUY)")}}
 
 {{dictionary_letter(letter="T")}}
 {{definition(word="Tantrum" definition="Intense emotional outburst. Commonly used wording: temper tantrum", source="Can't remember")}}
