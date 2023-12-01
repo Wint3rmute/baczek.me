@@ -51,6 +51,7 @@ and gradually move them to this page.
 
 {{definition(word="Liminality" definition="todo: write", source="The Backrooms Wiki")}}
 {{definition(word="Locus" definition="The place where something happens or the central area of interest in something", source="The Psychological Significance of the Biblical Stories")}}
+{{definition(word="Languid" definition="Lacking force or quickness of movement", source="Kadhja Bonet - Honeycomb")}}
 
 {{dictionary_letter(letter="M")}}
 
