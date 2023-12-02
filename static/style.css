@@ -45,15 +45,22 @@ th, td {
 }
 
 h1.title {
+  font-size: 200%;
+
+  text-decoration: underline var(--background-light) 1px;
+  text-underline-offset: 10px;
+}
+
+h1.post-title {
+  font-size: 200%;
+  text-decoration: underline var(--background-light) 1px;
+  text-underline-offset: 10px;
+
   background: var(--accent);
   background: linear-gradient(to right, var(--accent) 0%, var(--accent2) 100%);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
-
-  font-size: 200%;
-  text-decoration: underline var(--background-light) 1px;
-  text-underline-offset: 10px;
 }
 
 button {
