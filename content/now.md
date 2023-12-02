@@ -6,6 +6,14 @@ tags: journal, programming, culture
 <!-- S05E14 -->
 
 ```
+02.12
+```
+
+Since I've been playing piano more and more during recent months, here's a
+[small list](/piano) of nice songs.
+
+
+```
 27.11
 ```
 

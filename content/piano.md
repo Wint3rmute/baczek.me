@@ -5,7 +5,9 @@ tags: culture, collection
 
 Collection of piano pieces which strike a good balance between being easy to
 play and still sounding beautiful. You should find the sheet music online
-without problems :)
+without problems. I usually find myself stressed when playing in public, even
+though I know most of those songs by heart, keeping a list like this is meant
+to make me remember that I can play them :)
 
 - Koji Kondo - Song of Storms
 - Aphex Twin - Avril 14th
