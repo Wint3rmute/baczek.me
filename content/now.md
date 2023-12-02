@@ -12,6 +12,10 @@ tags: journal, programming, culture
 Since I've been playing piano more and more during recent months, here's a
 [small list](/piano) of nice songs.
 
+>Listening:
+>
+>- L'Impératrice - Agitations tropicales
+
 
 ```
 27.11
