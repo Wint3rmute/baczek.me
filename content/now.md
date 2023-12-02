@@ -585,9 +585,11 @@ haven's seen such a beautiful website in a long time.
 ```
 
 >Watching:
+>
 >- The Green Knight (2021)
 >
 >Listening:
+>
 >- BØRNS - Past Lives
 
 
@@ -598,6 +600,7 @@ haven's seen such a beautiful website in a long time.
 In the middle of writing my master's thesis.
 
 >Watching:
+>
 >- Beau is afraid (2023)
 >- Watchmen (2009)
 
@@ -607,9 +610,11 @@ In the middle of writing my master's thesis.
 ```
 
 >Reading:
+>
 >- David B. Lamkins - [Successful Lisp](https://dept-info.labri.fr/~strandh/Teaching/MTP/Common/David-Lamkins/cover.html)
 >
 >Listening:
+>
 >- Kraftwerk - Computer World
 >- Yumi Zouna - In Camera
 
@@ -620,6 +625,7 @@ In the middle of writing my master's thesis.
 {{image (src="/luthier_simple_analog.png" title="Evolving parameters of simple DSP graphs")}}
 
 >Listening:
+>
 >- Nation of Language - Introduction, Presence
 
 ```
@@ -627,6 +633,7 @@ In the middle of writing my master's thesis.
 ```
 
 >Listening:
+>
 >- Yumi Zouma - In Camera
 
 
@@ -646,10 +653,12 @@ programming](https://www.researchgate.net/publication/224041240_MT-CGP_Mixed_typ
 was the most interesting approach so far.
 
 >Watching:
+>
 >- Alan Kay - [The computer revolution hasn't happened
 >  yet](https://www.youtube.com/watch?v=oKg1hTOQXoY)
 >
 >Listening:
+>
 >- Son Lux - *Ghost Melody*
 
 ---
@@ -698,9 +707,11 @@ in their introductory programming courses:
 Full focus on master's thesis!
 
 >Reading:
+>
 >- Terry Pratchett - Moving Pictures
 >
 >Listening:
+>
 >- user18081971 - qu 1
 >- Aphex Twin - Alberto Balsalm
 >- Vulfpeck - I Can't Party
@@ -711,11 +722,13 @@ Full focus on master's thesis!
 ```
 
 >Watching:
+>
 >- Wes Anderson - Moonrise Kingdom
 >- Wes Anderson - The Royal Tenenbaums
 >- Wes Anderson - Bottle Rocket
 >
 >Listening:
+>
 >- Joe Hisaishi - Merry-Go-Round of Life
 
 
@@ -724,9 +737,11 @@ Full focus on master's thesis!
 ```
 
 >Watching:
+>
 >- Werner Herzog - On Death Row
 >
 >Listening:
+>
 >- Yazoo - And On
 >- Todd Terje, Bryan Ferry - Johnny and Mary
 
@@ -757,6 +772,7 @@ Played a first jam session in my life :)
 {{image (src="/jam.jpg" small=true title="Jamming in the mission control room")}}
 
 >Listening:
+>
 >- The Doors - Riders on the Storm
 
 
@@ -774,6 +790,7 @@ applications, especially:
 Learning how to minimize writing glue code and focusing on delivering value.
 
 >Listening:
+>
 >- KARAŚ/ROGUCKI - Czułe Kontyngenty
 
 
@@ -785,6 +802,7 @@ Learning how to minimize writing glue code and focusing on delivering value.
 >- Terry Pratchett - Mort
 >
 >Listening:
+>
 >- RY X - Bound (Live from the Royal Albert Hall)
 >- KARAŚ/ROGUCKI - Jutro Spróbujemy Jeszcze Raz
 >- sanah - wars
@@ -815,6 +833,7 @@ node graphs!
 >- David Lynch - Blue Velvet
 >
 >Listening:
+>
 >- Roy Orbison - In Dreams
 >- Jack Stauber - Cheeseburger Family
 
@@ -835,6 +854,7 @@ migrating my VPS to ansible-managed.
 >- Terry Pratchett - Making Money
 >
 >Listening:
+>
 >- Nation of Language - On Division St
 >- Ásgeir - Snowblind
 
@@ -855,6 +875,7 @@ thesis](/luthier)
 Learning Ansible, taking care of servers at work.
 
 >Listening:
+>
 >- Depeche Mode - Ghosts Again
 >- Cautious Clay - Cheesin'
 >- Jacob Collier - Hajanga
@@ -872,6 +893,7 @@ Reliving the cartoons from my childhood. Amazed to see that their
 >- Code Lyoko
 >
 >Listening:
+>
 >- Aphex Twin - Selected Ambient Works
 >- Passenger - Things That Stop You Dreaming
 >- Kishi Bashi - 151a
@@ -908,6 +930,7 @@ search engines. Wrote a small manifesto on a
 >- The Call Of Cthulhu (2005)
 >
 >Listening:
+>
 >- Aphex Twin - #3
 >- Cory Wong - Power Station Tour
 
@@ -919,6 +942,7 @@ search engines. Wrote a small manifesto on a
 Starting to work on [generating synth pathes](/luthier) from audio samples!
 
 >Listening:
+>
 >- Rysy - Traveler
 >- Son Lux - Plans We Made
 >- Fiora - Let It Go By
@@ -939,6 +963,7 @@ suggestion to software written by a prominent artist. Despite all the
 negativity coming from the media and politics, we live in a great age :)
 
 >Listening:
+>
 >- Boa - Duvet
 >- Vulfmon - Boogie Man
 >- Jeanette - El Muchacho de los Ojos Tristes
@@ -951,6 +976,7 @@ negativity coming from the media and politics, we live in a great age :)
 ```
 
 >Listening:
+>
 >- Carbon Based Lifeforms - Live at Ozora Festival 2017
 
 
@@ -970,9 +996,11 @@ Not a good day. Those cubesats really had potential :(
 {{image (src="/website_footprint.jpg" title="Getting there!")}}
 
 >Watching:
+>
 >- Guillermo del Toro's Cabinet of Curiosities
 >
 >Listening:
+>
 >- Vulfpeck - Schvitz
 >- T.Rex - Get It On (Virgin Magnetic Material remix)
 >- Virgin Magnetic Material - LBDs mixtape
