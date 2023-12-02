@@ -11,5 +11,7 @@ tags: culture, programming, generative
 
 - [Listening recommendations](/listening)
 
+- [Some piano songs worth learning](/piano)
+
 
 {{image (src="/spectres_patch.jpg" title="My Korg Minilogue" small=true)}}
