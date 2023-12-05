@@ -43,6 +43,10 @@ and gradually move them to this page.
 
 {{definition(word="Gestalt" definition="From German: shape, figure, form", source="Valis")}}
 
+{{dictionary_letter(letter="H")}}
+
+{{definition(word="Hapax Legomenon" definition="a word with a special meaning used for a special occasion/a word or an expression that occurs only once within a context", source="[How to Speak by Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)")}}
+
 {{dictionary_letter(letter="I")}}
 
 {{definition(word="Incessant" definition="Continual, unceasing, pernament, perpetual", source="Simulacra and Simulation")}}
