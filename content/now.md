@@ -6,7 +6,7 @@ tags: journal, programming, culture
 <!-- S05E14 -->
 
 ```
-02.12
+0X.12
 ```
 
 Since I've been playing piano more and more during recent months, here's a
@@ -15,6 +15,7 @@ Since I've been playing piano more and more during recent months, here's a
 >Listening:
 >
 >- L'Impératrice - Agitations tropicales
+>- Mercy - Saint Saviour
 
 
 ```
