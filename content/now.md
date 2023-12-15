@@ -6,6 +6,16 @@ tags: journal, programming, culture
 <!-- S05E14 -->
 
 ```
+1X.12
+```
+
+>Listening:
+>
+>- Peter Gabriel - Mercy Street
+>- Virgin Magnetic Material - Owner Of A Lonely Heart
+
+
+```
 0X.12
 ```
 
