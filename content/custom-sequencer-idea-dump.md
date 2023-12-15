@@ -5,6 +5,12 @@ title: Custom sequencer
 tags: generative, culture, programming
 ---
 
+## Yet another take
+
+I should simply rewrite Orca and add some cool midi
+IN and a multiplayer mode. Sounds like a reasonable
+Rusty project for a few weekends.
+
 ## New branch of ideas - interconnectivity
 
 Image a drum sequencer in which you never directly program

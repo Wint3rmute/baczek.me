@@ -9,6 +9,9 @@ tags: journal, programming, culture
 1X.12
 ```
 
+[Swiss-Jazz.ch](https://www.swiss-jazz.ch/standards-jazz/)
+open directory.
+
 >Listening:
 >
 >- Peter Gabriel - Mercy Street
