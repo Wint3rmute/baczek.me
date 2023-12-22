@@ -6,6 +6,14 @@ tags: journal, programming, culture
 <!-- S05E14 -->
 
 ```
+2X.12
+```
+
+Implemented rate limiting for my [Invidious
+instance](https://invidious.baczek.me/), the instance has been moved to a
+server with a dynamic IP address. I guess YouTube has no way to ban me now :)
+
+```
 1X.12
 ```
 
