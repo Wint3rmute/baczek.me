@@ -10,6 +10,9 @@ tags: journal, meta, culture, programming
 This is where I keep ideas, movies, music, interesting words and other things
 that I plan to research more in-depth in the future.
 
+- Witold Lipiński's architecture
+- Vivarium (2020)
+- The Machinist (2004)
 - The Holy Mountain (1973)
 - Erich Neumann - The Origins and History of Consciousness
 - Labirynth (1986)
