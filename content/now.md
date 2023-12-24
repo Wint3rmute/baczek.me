@@ -13,6 +13,16 @@ Implemented rate limiting for my [Invidious
 instance](https://invidious.baczek.me/), the instance has been moved to a
 server with a dynamic IP address. I guess YouTube has no way to ban me now :)
 
+>Reading:
+>
+>- Mark Harrison - Contemporary Jazz Piano
+>
+>Listening:
+>
+>- Skalpel - Wpław
+>- Skalpel - 1958 
+
+
 ```
 1X.12
 ```
