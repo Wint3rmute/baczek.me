@@ -16,11 +16,13 @@ server with a dynamic IP address. I guess YouTube has no way to ban me now :)
 >Reading:
 >
 >- Mark Harrison - Contemporary Jazz Piano
+>- Tom Doyle - Running up that Hill: 50 visions of Kate Bush
 >
 >Listening:
 >
 >- Skalpel - Wpław
 >- Skalpel - 1958 
+>- Etnobotanika - Fruwający Przestępca
 
 
 ```
