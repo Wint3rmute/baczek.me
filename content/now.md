@@ -15,6 +15,10 @@ tutorial](https://www.youtube.com/watch?v=KQRV0c1KXYc) on that song and some
 others.
 
 
+>Reading:
+>
+>- Peter Watts - Starfish
+>
 >Listening:
 >
 >- Nicolas Jaar - Space Is Only Noise If You Can See
