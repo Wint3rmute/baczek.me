@@ -5,9 +5,13 @@ tags: journal, programming, culture
 
 <!-- S05E14 -->
 
+<!-- Learning `nftables` -->
+
 ```
 0X.01
 ```
+
+Going back to my Invidious MR adding Prometheus metrics.
 
 Trying out some funky rhytms - learning how to play Beastly by Vulfpeck. Amazed
 to see that they've made [an official
