@@ -49,7 +49,7 @@ and gradually move them to this page.
 
 {{dictionary_letter(letter="I")}}
 
-{{definition(word="Incessant" definition="Continual, unceasing, pernament, perpetual", source="Simulacra and Simulation")}}
+{{definition(word="Incessant" definition="Continual, unceasing, permanent, perpetual", source="Simulacra and Simulation")}}
 
 {{dictionary_letter(letter="L")}}
 
