@@ -13,8 +13,8 @@ tags: journal, programming, culture
 
 Finished migrating my cloud & home instrastructure to [NixOs](/nixos). It
 really feels like an improvement over Ansible playbooks (although I am still
-using Ansible for copying files & running system rebuilds, as it is the easiest
-way for me), as I can merge custom software builds/packaging with the system
+using them for copying files & running system rebuilds, it is the easiest
+solution for me), as I can merge custom software builds/packaging with the system
 setup & configuration. Learned a bit about [`nftables`](https://nftables.org)
 in the process.
 
