@@ -10,6 +10,7 @@ tags: journal, meta, culture, programming
 This is where I keep ideas, movies, music, interesting words and other things
 that I plan to research more in-depth in the future.
 
+- The Place Beyond the Pines (2012)
 - Witold Lipiński's architecture
 - Vivarium (2020)
 - The Machinist (2004)
@@ -31,7 +32,6 @@ that I plan to research more in-depth in the future.
 - Nudge: Improving Decisions About Health, Wealth, and Happiness
 - [CCRU page found whwn looking for articles about David Cronenberg](http://ccru.net/syzygy/zerok.htm)
 - [Non-linear analog modeling papers & talks](https://cytomic.com/technical-papers/)
-- The Hourglass Sanatorium
 - Simon Stålenhag - The Labyrinth
 - Tetsuo: The Iron Man (1989)
 - [Little languages for music](https://www.usenix.org/legacy/publications/compsystems/1990/spr_langston.pdf)
