@@ -8,6 +8,23 @@ tags: journal, programming, culture
 <!-- Going back to my Invidious MR adding Prometheus metrics. -->
 
 ```
+1X.01
+```
+
+Broke my whole IT infrastructure for 12+ hours due to a trivial mistake in
+static IP configuration. I haven't noticed it until late afternoon, the fix was
+rather easy but I learned a bit about `nmcli`. Funny adventure, worth it :)
+
+>Reading:
+>
+>- Peter Watts - Maelstrom
+>
+>Listening:
+>
+>- Vulfpeck - Live at Madison Square Garden
+
+
+```
 0X.01
 ```
 
