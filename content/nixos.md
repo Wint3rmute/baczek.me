@@ -31,5 +31,7 @@ definitely come back to Nix in a few years.
 Useful links:
 
 - [An overview of Nix in practice](https://www.slice.zone/blog/nix-in-practice)
+- [MyNixOs](https://mynixos.com/) - comfy search engine for NixOs configuration
+  options
 - [NixOs egui](https://scvalex.net/posts/63/)
 - [Nix Pills](https://nixos.org/guides/nix-pills/)
