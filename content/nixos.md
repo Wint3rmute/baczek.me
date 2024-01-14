@@ -6,27 +6,14 @@ tags: programming, collection
 ---
 
 NixOs is a Linux distro based on a fully declarative package manager, Nix.
+Forget about keeping a script for setting up your system or storing your
+dotfiles in a repository, Nix will take care of it.
 
-When they say that it's declarative, they really mean it - if you copy a `.nix`
-os configuration file into another machine, you'll get the exact same setup.
-Most of commonly used GNU/Linux utilities can be configured declaratively
-inside the `.nix` configuration files. Forget about storing your dotfiles in a
-repository, now you can store your entire system's configuration! [Here's
-mine](https://github.com/Wint3rmute/nixos-config). 
-
-I am currently switching my main machine from Arch to Nix, as it solves my
-biggest issue with OS management, by making the whole system stateless. My main
-concern when experimenting with UNIX systems was that I always had to carefully
-keep track of all the changes I'm making, which are often scattered across
-different configuration files, written in different languages/formats. Even
-though I find the Nix language confusing at times, I believe that is has the
-potential to grow into a wonderful ecosystem.
-
-Update: unfortunately, due to lack of documentation I had to abandon Nix, as I
-was spending more time writing the configuration required to build my software
-than the actual software itself. If I was doing just web development, Nix would
-be a perfect match for me. I still see great potential in the project, I'll
-definitely come back to Nix in a few years.
+I am currently using NixOs on my server/homelab infrastructure. From my
+experience so far, it is a step up from Ansible playbooks or similar tools. I
+am reluctant to switch my main laptops to NixOs, as it's not as easy to program
+on NixOs as it is to deploy software on it. Hopefully this will change in the
+future :)
 
 Useful links:
 

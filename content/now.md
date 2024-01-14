@@ -22,6 +22,7 @@ rather easy but I learned a bit about `nmcli`. Funny adventure, worth it :)
 >Listening:
 >
 >- Vulfpeck - Live at Madison Square Garden
+>- David Bowie - Sound and Vision (the pure piano version)
 
 
 ```
