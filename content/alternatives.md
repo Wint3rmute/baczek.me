@@ -22,7 +22,7 @@ UNIX-related tools. Lesser-known first to keep the list interesting:
 
 ---
 
-I encourage you to compare the documentation of the software from this list
+I encourage you to compare the listed softwares
 with their more classic alternatives in terms of documentation, contribution
 guides and CI/CD practices.
 
