@@ -15,6 +15,14 @@ Broke my whole IT infrastructure for 12+ hours due to a trivial mistake in
 static IP configuration. I haven't noticed it until late afternoon, the fix was
 rather easy but I learned a bit about `nmcli`. Funny adventure, worth it :)
 
+Week 1 of going to the gym!
+
+Bought a used Octatrack unit. I already have to hold myself back
+from tinkering with it instead of during house chores. Once I
+connect my piano to it I'm gonna be out for at least a few days
+:) The workflow is wonderful and the idea of having a single main
+macro know is both simple and effective.
+
 >Reading:
 >
 >- Peter Watts - Maelstrom
