@@ -6,7 +6,9 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta property="og:image" content="/og_image.jpg">
+  {% if page.title %}
   <meta property="og:title" content="{{ page.title }} - Mateusz Bączek">
+  {% endif %}
   <meta name="author" content="Mateusz Bączek">
     <title>Mateusz Bączek{% if page.title %} - {{ page.title }}{% endif %}
     </title>
