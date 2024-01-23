@@ -17,11 +17,10 @@ rather easy but I learned a bit about `nmcli`. Funny adventure, worth it :)
 
 Week 1 of going to the gym!
 
-Bought a used Octatrack unit. I already have to hold myself back
-from tinkering with it instead of during house chores. Once I
-connect my piano to it I'm gonna be out for at least a few days
-:) The workflow is wonderful and the idea of having a single main
-macro know is both simple and effective.
+Bought a used Octatrack unit. I already have to hold myself back from tinkering
+with it instead of during house chores. Once I connect my piano to it I'm gonna
+be out for at least a few days :) The workflow is wonderful and the idea of
+having a single "macro knob" is both simple and effective.
 
 >Reading:
 >
