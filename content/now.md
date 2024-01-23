@@ -5,7 +5,17 @@ tags: journal, programming, culture
 
 <!-- S05E14 -->
 
-<!-- Going back to my Invidious MR adding Prometheus metrics. -->
+```
+2X.01
+```
+
+Went back to my [Invidious MR adding Prometheus
+metrics](https://github.com/iv-org/invidious/pull/3576).
+
+>Listening:
+>
+>- Depeche Mode - Exciter
+
 
 ```
 1X.01
