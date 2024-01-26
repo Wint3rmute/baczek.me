@@ -9,6 +9,14 @@ tags: journal, programming, culture
 2X.01
 ```
 
+Done some optimisations of my infrastructure:
+
+- All services are now accessible from IPv6
+- Switched from TCP to UNIX sockets in the Invidious database used by
+  PostgreSQL
+- Fine-tuned Postgres with [PGTune](https://pgtune.leopard.in.ua/), hoping to
+  see some results in my monitoring
+
 Went back to my [Invidious MR adding Prometheus
 metrics](https://github.com/iv-org/invidious/pull/3576).
 
