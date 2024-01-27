@@ -54,6 +54,8 @@ orbit.
 Involved into a wide scope of satellite creation processes: prototyping, tests and ground station operations,
 I have gained a significant insight into the design philosophy of space systems and I'm still eager to learn more.
 
+{{image (src="/with_cubesat.jpg" small=true title="Feeling smart while holding a model of one of Satrev's cubesats.")}}
+
 Three of the satellites I've worked on were launched on the [first commercial
 Virgin Orbit
 flight](https://virginorbit.com/the-latest/virgin-orbit-selected-to-launch-satrevolutions-constellation-of-constellations/)
