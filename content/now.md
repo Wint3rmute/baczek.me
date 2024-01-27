@@ -12,10 +12,12 @@ tags: journal, programming, culture
 Done some optimisations of my infrastructure:
 
 - All services are now accessible from IPv6
-- Switched from TCP to UNIX sockets in the Invidious database used by
-  PostgreSQL
-- Fine-tuned Postgres with [PGTune](https://pgtune.leopard.in.ua/), hoping to
-  see some results in my monitoring
+- Switched from TCP to UNIX sockets in the Postgres database used
+  by [Invidious instance](https://invidious.baczek.me/)
+- Fine-tuned Postgres with
+  [PGTune](https://pgtune.leopard.in.ua/), hoping to see some
+  results in my monitoring. Doing that configuration via
+  [NixOs](/nixos) was a breeze
 
 Went back to my [Invidious MR adding Prometheus
 metrics](https://github.com/iv-org/invidious/pull/3576).
