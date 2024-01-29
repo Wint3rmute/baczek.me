@@ -37,6 +37,10 @@ metrics](https://github.com/iv-org/invidious/pull/3576).
 >Listening:
 >
 >- Depeche Mode - Exciter
+>
+>Watching:
+>
+>- Ennio (2021)
 
 
 ```

@@ -25,9 +25,11 @@ I'm running self-hosted online services. They are public, you can use them too :
 
 - [SearX](https://searx.baczek.me), a meta-search engine
 
-- [LibreY](https://librey.baczek.me), fork of LibreX
+- [LibreY](https://librey.baczek.me), another meta-search engine
 
 - [Libreddit](https://libreddit.baczek.me), alternative Reddit frontend
+
+- [Nitter](https://nitter.baczek.me), alternative Twitter frontend
 
 
 I also recommend the following services for private use:
@@ -37,7 +39,7 @@ I also recommend the following services for private use:
 - [Matrix](https://github.com/matrix-org/synapse/) 
 
 
->new idea, work in progress - [registry-based search engine manifesto](/search-registry-manifesto)
+>some random thoughts on search - [registry-based search engine manifesto](/search-registry-manifesto)
 
 
 ## Notes on self-hosting
