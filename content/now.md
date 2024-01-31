@@ -19,13 +19,15 @@ Done some optimisations of my infrastructure:
   results in my monitoring. Doing that configuration via
   [NixOs](/nixos) was a breeze
 
-To my surprise, after 2 days I took a look at my monitoring charts and saw visible improvements in my metrics:
+To my surprise, after 2 days I took a look at my monitoring
+charts and saw visible improvements in my metrics:
 
 - CPU usage is down **a lot**
 - Almost 3 times less IO operations are performed
 - CPU temperature is down **by 10℃**
 
-..all of that while the request rate reported by Caddy haven't changed!
+..all of that while the request rate reported by Caddy hasn't
+changed!
 
 {{image (src="/metrics_pgtune.png" small=true title="Metrics from [Node Exporter](https://github.com/prometheus/node_exporter). Light-blue line marks the moment when PostgreSQL tunings were applied.")}}
 
