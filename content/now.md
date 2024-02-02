@@ -6,6 +6,14 @@ tags: journal, programming, culture
 <!-- S05E14 -->
 
 ```
+0X.02
+```
+
+>Listening:
+>
+>- Robert Sapolsky - Human Behavioral Biology
+
+```
 2X.01
 ```
 
