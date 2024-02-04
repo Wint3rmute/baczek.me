@@ -12,6 +12,11 @@ tags: journal, programming, culture
 >Listening:
 >
 >- Robert Sapolsky - Human Behavioral Biology
+>
+>Reading:
+>
+>- Peter Watts - Behemoth
+
 
 ```
 2X.01
