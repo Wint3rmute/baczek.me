@@ -5,6 +5,14 @@ tags: journal, programming, culture
 
 <!-- S05E14 -->
 
+
+```
+1X.02
+```
+
+TODO: add note on making myself look like an idiot when attempting to contribute to nixpkgs.
+
+
 ```
 0X.02
 ```
