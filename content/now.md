@@ -12,6 +12,11 @@ tags: journal, programming, culture
 
 TODO: add note on making myself look like an idiot when attempting to contribute to nixpkgs.
 
+>Listening:
+>
+>- Daft Punk - Human After All
+>- Alan Parsons Project - Ammonia Avenue
+
 
 ```
 0X.02
