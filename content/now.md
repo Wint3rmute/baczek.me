@@ -7,6 +7,15 @@ tags: journal, programming, culture
 
 
 ```
+2X.02
+```
+
+>Watching:
+>
+>- Hayao Miyazaki - The Boy and the Heron
+
+
+```
 1X.02
 ```
 
