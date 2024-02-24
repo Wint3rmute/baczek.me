@@ -19,6 +19,7 @@ UNIX-related tools. Lesser-known first to keep the list interesting:
 - [Alacritty](https://alacritty.org/) - a terminal emulator
 - [Wezterm](https://wezfurlong.org/wezterm/) - another terminal emulator
 - [fd](https://github.com/sharkdp/fd) - unix `find` but actually usable without having to read `man` each time
+- [Popsicle](https://github.com/pop-os/popsicle) - USB File Flasher
 
 ---
 
