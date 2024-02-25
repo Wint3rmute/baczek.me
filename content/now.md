@@ -10,10 +10,17 @@ tags: journal, programming, culture
 2X.02
 ```
 
+Picked up an Arduino and started playing around with
+Rust for AVRs.
+
 >Watching:
 >
 >- Hayao Miyazaki - The Boy and the Heron
 >- David Lynch - Dune
+>
+>Listening:
+>
+>- Son Lux - Prophecy
 
 
 ```

@@ -88,7 +88,7 @@ and gradually move them to this page.
 {{definition(word="Subterfuge" definition="Fraud, deception, swindle", source="Simulacra and Simulation")}}
 {{definition(word="Subversive" definition="Rebelling against authority/governement/tradition/etc", source="Simulacra and Simulation")}}
 {{definition(word="Sybarite" definition="A person who is self-indulgent in their fondness for sensuous luxury", source="The Futurological Congress")}}
-{{definition(word="Synesthesia" definition="Perceptual phenomenon in which stimulation of one sensory leads to involuntary experiences in a second sensory", source="Can't remember")}}
+{{definition(word="Synesthesia" definition="Perceptual phenomenon in which stimulation of one sensory leads to involuntary experiences in a second sensory", source="Can't remember, started experiencing it at childhood while listening to Yazoo and Bryan Ferry")}}
 {{definition(word="Schlaraffenland" definition="A land of plenty in medieval myth, an imaginary place of extreme luxury", source="Summa Technologiae")}}
 {{definition(word="Salient" definition="Something that projects outward or upward from its surroundings", source="[How to speak](https://www.youtube.com/watch?v=Unzc731iCUY)")}}
 {{definition(word="Sonification" definition="Sonification is the use of non-speech audio to convey information or perceptualize data", source="")}}
