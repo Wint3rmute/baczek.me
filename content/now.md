@@ -13,6 +13,7 @@ tags: journal, programming, culture
 >Watching:
 >
 >- Hayao Miyazaki - The Boy and the Heron
+>- David Lynch - Dune
 
 
 ```

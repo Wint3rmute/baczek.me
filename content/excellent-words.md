@@ -79,7 +79,8 @@ and gradually move them to this page.
 
 {{definition(word="Raison d'être" definition="Purpose for existence", source="Ergo Proxy")}}
 {{definition(word="Rejuvenate" definition="To make younger", source="Simulacra and Simulation")}}
-{{definition(word="Rhizome" definition="a nonlinear network that ,,connects any **point** to any other point'', used to describe concepts such as structures of language and knowledge, social relationships, etc. Used in opposition to hierarchical models", source="Explaining Deleuze with drum machines")}}
+{{definition(word="Rhizome" definition="A nonlinear network that ,,connects any **point** to any other point'', used to describe concepts such as structures of language and knowledge, social relationships, etc. Used in opposition to hierarchical models", source="Explaining Deleuze with drum machines")}}
+{{definition(word="Reverie" definition="A state of thinking about pleasant things, almost as though you are dreaming. Daydreaming.", source="Son Lux - [Prophecy](https://www.youtube.com/watch?v=Lr3T3BxxSVA)")}}
 
 {{dictionary_letter(letter="S")}}
 
