@@ -21,6 +21,7 @@ Rust for AVRs.
 >Listening:
 >
 >- Son Lux - Prophecy
+>- Daft Punk - Infinity Repeating
 
 
 ```
