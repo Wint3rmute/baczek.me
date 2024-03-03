@@ -5,6 +5,14 @@ tags: journal, programming, culture
 
 <!-- S05E14 -->
 
+```
+0X.03
+```
+
+>Listening:
+>
+>- Ryuichi Sakamoto - Merry Christmas Mr. Lawrence
+
 
 ```
 2X.02
