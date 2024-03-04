@@ -11,6 +11,7 @@ tags: journal, programming, culture
 
 >Listening:
 >
+>- Jacob Collier - Djesse Vol. 4
 >- Ryuichi Sakamoto - Merry Christmas Mr. Lawrence
 
 
