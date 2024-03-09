@@ -13,6 +13,10 @@ tags: journal, programming, culture
 >
 >- Jacob Collier - Djesse Vol. 4
 >- Ryuichi Sakamoto - Merry Christmas Mr. Lawrence
+>
+>Watching:
+>
+>- Crumb (1994)
 
 
 ```
