@@ -18,6 +18,8 @@ currently have.
 
 {{image (src="/benches/arboretum_wojslawice.jpg" small=false title="Arboretum Wojsławice, Poland. A local gem near where I live.")}}
 
+{{image (src="/benches/sobotka.jpg" small=false title="Sobótka, Poland. En route towards the Ślęża mountain")}}
+
 *todo: add some more pictures of benches*
 
 Hey you! Yes, the one that's staring at the screen! You have any cool pictures
