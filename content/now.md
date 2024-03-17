@@ -15,6 +15,9 @@ still surprises me how much hardware-centered music
 making machines feel similar to terminal-based tools
 such as bash/zsh/nu and vim.
 
+Still fiddling with [NixOs](/nixos), making tiny steps towards
+using it as a daily driver.
+
 ```
 0X.03
 ```

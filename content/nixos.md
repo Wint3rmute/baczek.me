@@ -17,6 +17,8 @@ future :)
 
 Useful links:
 
+- [VimJoyer YouTube channel](https://youtube.com/@vimjoyer) - high quality Nix tutorials
+- [Nix-ld](https://github.com/Mic92/nix-ld) - running "normal" binaries on NixOs
 - [An overview of Nix in practice](https://www.slice.zone/blog/nix-in-practice)
 - [MyNixOs](https://mynixos.com/) - comfy search engine for NixOs configuration
   options
