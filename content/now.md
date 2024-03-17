@@ -6,6 +6,16 @@ tags: journal, programming, culture
 <!-- S05E14 -->
 
 ```
+1X.03
+```
+
+Finally having some time to play around with the
+used Octatrack unit I bought a couple months ago. It
+still surprises me how much hardware-centered music
+making machines feel similar to terminal-based tools
+such as bash/zsh/nu and vim.
+
+```
 0X.03
 ```
 
