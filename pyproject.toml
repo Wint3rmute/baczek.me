@@ -20,7 +20,7 @@ sentence-transformers = "^2.2.2"
 jupyterlab = "^4.0.11"
 
 [tool.poetry.group.dev.dependencies]
-black = {extras = ["jupyter"], version = "^23.7.0"}
+black = {extras = ["jupyter"], version = "^24.3.0"}
 isort = "^5.10.1"
 ruff = "^0.0.282"
 
