@@ -12,6 +12,7 @@ tags: journal, programming, culture
 >Watching:
 >
 >- Dune: Part Two
+>- The Holy Mountain (1973)
 >
 >
 >Reading:

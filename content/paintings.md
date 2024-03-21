@@ -15,3 +15,5 @@ candidates here:
 {{image (src="/paintings/cabinet_of_an_art_lover.jpg" small=false title="Attributed to Hieronymous Francken II - The Cabinet of an Art Lover")}}
 {{image (src="/paintings/die-toteninsel-iii.jpg" small=false title="Arnold Böcklin - Isle of the Dead (version III)")}}
 
+To be determined: a still from *The Holy Mountain* (1973).
+
