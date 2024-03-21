@@ -6,6 +6,19 @@ tags: journal, programming, culture
 <!-- S05E14 -->
 
 ```
+2X.03
+```
+
+>Watching:
+>
+>- Dune: Part Two
+>
+>
+>Reading:
+>
+>- [NixOS in Production](https://github.com/Gabriella439/nixos-in-production)
+
+```
 1X.03
 ```
 
