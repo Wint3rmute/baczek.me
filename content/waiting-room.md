@@ -10,19 +10,17 @@ tags: journal, meta, culture, programming
 This is where I keep ideas, movies, music, interesting words and other things
 that I plan to research more in-depth in the future.
 
+- Poor Things (2023)
 - Daniel Ellsberg - [The Optimal Benefit of Perceived Madness](https://ia600102.us.archive.org/20/items/ThePoliticalUsesOfMadness/ELS005-001.pdf)
 - Chaos: Making a New Science
 - The Place Beyond the Pines (2012)
 - Witold Lipiński's architecture
 - Vivarium (2020)
 - The Machinist (2004)
-- The Holy Mountain (1973)
 - Erich Neumann - The Origins and History of Consciousness
 - Labirynth (1986)
-- Crumb (1995)
 - [gwern.net](https://gwern.net/)
 - [Gaphor](https://gaphor.org/) - UML, SysML, RAAML, and C4 modeling application
-- David Lynch - Dune
 - Julian Jayes - The Origin of Consciousness in the Breakdown of the Bicameral Mind
 - [Hypermedia.systems](https://hypermedia.system)
 - [DrNostromo](http://www.drnostromo.com/movies/I.html) - niche sci-fi movies list
