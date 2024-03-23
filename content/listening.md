@@ -13,6 +13,8 @@ tags: culture, collection
 
 - Son Lux - Brighter Wounds
 
+- Jacob Collier - Djesse Vol. 4
+
 
 ## Other recommendations
 

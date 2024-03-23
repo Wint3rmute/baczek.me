@@ -36,14 +36,17 @@ using it as a daily driver.
 0X.03
 ```
 
->Listening:
->
->- Jacob Collier - Djesse Vol. 4
->- Ryuichi Sakamoto - Merry Christmas Mr. Lawrence
->
 >Watching:
 >
 >- Crumb (1994)
+>
+>Listening:
+>
+>- Ryuichi Sakamoto - Merry Christmas Mr. Lawrence
+>- Jacob Collier - Djesse Vol. 4
+
+A pleasant surprise: *Djesse Vol. 4 - Box Full Of Stars Pt. 2* contains a few
+words in Polish at `2.15`
 
 
 ```

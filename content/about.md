@@ -9,7 +9,7 @@ tags: journal, meta
 
 ### Work-related interests:
 
-- Currently building mission operations software for [Creotech
+- Currently building mission control software for [Creotech
   Instruments](https://creotech.pl/)
 - Ex-leader of the mission operations team at
   [SatRev](https://satrevolution.com/), operated a commercial fleet of 8
@@ -37,16 +37,17 @@ tags: journal, meta
 
 ## 🛰️ Space
 
-I am currently working at [Creotech Instruments](https://creotech.pl/),
-developing their mission operations software.
+I am currently developing mission control software at [Creotech
+Instruments](https://creotech.pl/). Proud to be a part of the
+[EagleEye](https://creotech.pl/news/the-polish-satellite-eagleeye-is-a-breakthrough-project-for-the-space-sector/)
+project - the largest satellite built by a Polish company so far!
 
 ### Previous job - [SatRev](https://satrev.space/)
 
-During the summer of 2020 I've started working at
-[SatRev](https://satrev.space/) - a company designing a CubeSat satellite fleet
-for commercial and research usage.
+Between 2020 and 2023 I was working at [SatRev](https://satrev.space/) - a
+company designing a CubeSat satellite fleet for commercial and research usage.
 
-I from 2021 to 2023 I led Satrev's mission operations software team -- that's
+From 2021 to 2023 I led Satrev's mission operations software team -- that's
 where we design the communication & telemetry systems of our satellites, create
 the tools used for automated testing and finally talk with the satellites on
 orbit.

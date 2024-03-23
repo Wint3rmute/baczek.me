@@ -6,7 +6,7 @@ tags: culture, collection
 ## My recommendations
 
 - Everything Everywhere All At Once
-- Evangelion
+- Neon Genesis Evangelion
 - Blade Runner
 - Lost Highway
 - Angel's Egg
