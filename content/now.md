@@ -18,6 +18,8 @@ tags: journal, programming, culture
 >Reading:
 >
 >- [NixOS in Production](https://github.com/Gabriella439/nixos-in-production)
+>- Cixin Liu - Theee Body Problem
+
 
 ```
 1X.03
