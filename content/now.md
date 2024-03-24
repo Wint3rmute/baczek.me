@@ -19,6 +19,12 @@ tags: journal, programming, culture
 >
 >- [NixOS in Production](https://github.com/Gabriella439/nixos-in-production)
 >- Cixin Liu - Theee Body Problem
+>
+>Listening:
+>
+>- Lor
+
+{{image (src="/lor.jpg" small=true title="The band Lor in Niebo, Warsaw")}}
 
 
 ```
