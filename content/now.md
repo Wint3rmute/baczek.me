@@ -24,7 +24,7 @@ tags: journal, programming, culture
 >
 >- Lor
 
-{{image (src="/lor.jpg" small=true title="The band Lor in Niebo, Warsaw")}}
+{{image (src="/lor.jpg" small=false title="The band Lor in Niebo, Warsaw")}}
 
 
 ```
