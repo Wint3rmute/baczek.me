@@ -26,8 +26,6 @@ use them too :)
 
 - [Libreddit](https://libreddit.baczek.me), alternative Reddit frontend
 
-- [Nitter](https://nitter.baczek.me), alternative Twitter frontend
-
 
 I also recommend the following services for private use:
 
