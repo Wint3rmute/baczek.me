@@ -2,6 +2,8 @@
 {# Root template #}
 <html lang="en">
 
+{% set build_date = load_data(path="generated/build_date.txt", required=true, format="plain") -%}
+
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -43,6 +45,7 @@
   </main>
 
   <footer>
+  <hr>
     <p>
     {#
       <a target="_blank" href="https://matrix.to/#/@baczek:matrix.baczek.me">
@@ -86,9 +89,9 @@
       </a>
     </p>
     
-  <a href="/now">
-    <p>Current devlog</p>
-  </a>
+  <p>
+        Build date: {{ build_date }}
+  </p>
 
   </footer>
 </body>
