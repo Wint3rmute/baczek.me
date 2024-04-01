@@ -5,6 +5,34 @@ tags: journal, programming, culture
 
 <!-- S05E14 -->
 
+
+```
+0X.04
+```
+
+After a weekend of resting, I attempted to revisit 2 of my projects:
+
+- [Custom sequencer](/custom-sequencer-idea-dump)
+- [This website's map generation](/map)
+
+Regarding the sequencer, my plans have been crushed by the complexity of
+Android tooling. Instead of spending 2 hours on prototyping or any sort of
+creative work, I was setting up SDK/NDK toolchains and fighting with ADB. Sad
+to see that Android still has no good documentation for audio and MIDI.
+Fortunately, [I'm not the only one having trouble with
+this](https://news.ycombinator.com/item?id=25328173).
+
+Revisiting site map generation has been a bit more fruitful - the
+LLM/embeddings libraries are large, but managable. I'm thinking about
+converting the current all-containing Jupyter notebook into a set of
+independent Python scripts and glueing them together with something like a
+`Makefile`.
+
+
+>Listening:
+>
+>- Sergei Rachmaninoff - Symphony No. 2, Prelude in C# Minor
+
 ```
 2X.03
 ```
