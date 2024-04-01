@@ -14,6 +14,9 @@ candidates here:
 {{image (src="/paintings/bjerk_i_storm.jpg" small=true title="Johan Christian Clausen Dahl - Birch Tree in a Storm (it looked SO MUCH better irl I can't believe it)")}}
 {{image (src="/paintings/cabinet_of_an_art_lover.jpg" small=false title="Attributed to Hieronymous Francken II - The Cabinet of an Art Lover")}}
 {{image (src="/paintings/die-toteninsel-iii.jpg" small=false title="Arnold Böcklin - Isle of the Dead (version III)")}}
+
+{{image (src="/paintings/holy_mountain.jpg" small=false title="A still from *The Holy Mountain* (1973). Have not yet decided which specific still to pick, this is just a proposition to my future self")}}
+
 {{image (src="/paintings/beautiful_bacteria.jpg" small=false title="One of the pages from *Beautiful Bacteria: Encounters in the Microuniverse*")}}
 
 To be determined: a still from *The Holy Mountain* (1973).
