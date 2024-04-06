@@ -5,6 +5,17 @@ tags: journal, programming, culture
 
 <!-- S05E14 -->
 
+
+```
+0X.04
+```
+
+
+>Listening:
+>
+>- Sam Harris & Robert Sapolsky - We Really Don't Have Free Will?
+
+
 ```
 2X.03
 ```
