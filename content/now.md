@@ -11,6 +11,12 @@ tags: journal, programming, culture
 ```
 
 
+Converted my home NixOs infrastructure to [Nix
+Flakes](https://nixos.wiki/wiki/Flakes). Pinning the entire OS configuration to
+a specific revision(s) of Nixpkgs and having it build/rollback without any
+fears is a breath of fresh air :)
+
+
 >Listening:
 >
 >- Sam Harris & Robert Sapolsky - We Really Don't Have Free Will?
