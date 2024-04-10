@@ -5,6 +5,14 @@ tags: journal, programming, culture
 
 <!-- S05E14 -->
 
+```
+1X.04
+```
+
+>Reading:
+>
+>- Liu Cixin - The Dark Forest
+
 
 ```
 0X.04
