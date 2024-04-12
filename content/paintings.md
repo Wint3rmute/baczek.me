@@ -19,5 +19,3 @@ candidates here:
 
 {{image (src="/paintings/beautiful_bacteria.jpg" small=false title="One of the pages from *Beautiful Bacteria: Encounters in the Microuniverse*")}}
 
-To be determined: a still from *The Holy Mountain* (1973).
-
