@@ -11,21 +11,21 @@ tags: journal, meta
 
 - Currently building mission control software for [Creotech
   Instruments](https://creotech.pl/)
-- Ex-leader of the mission operations team at
+- Ex-Leader of the mission operations team at
   [SatRev](https://satrevolution.com/), operated a commercial fleet of 8
   cubesats
+- Developed the flight software for SatRev's on-board computer
 - Experienced with UAVs - ArduPilot, computer vision, telemetry systems
 - Tech lead of the [Academic Aviation Club](http://akl.pwr.edu.pl) (2nd place
   [Sae Aero Design Advanced](https://www.saeaerodesign.com/) winner)
-- Extensive Linux knowledge - from satellite's on-board computers all the way
-  to servers
+- Extensive Linux knowledge - from embedded systems all the way to infrastructure-as-code
 - Solid understanding of mission operations & telemetry system design
-- My dream stack: Rust 🦀 + Python 🐍 + Linux 🐧
+- My dream stack: Rust 🦀 + Python 🐍 + Linux 🐧 + Nix ❄️
 
 ### Other interests:
 
 - Hard sci-fi
-- Music of (mostly) all sorts
+- Music of (mostly) all sorts, but mostly funk, jazz and electro
 - Messing around with synthesizers and other sound creation tools
 - Philosophy
 - Terminal UI aesthetics
@@ -41,6 +41,11 @@ I am currently developing mission control software at [Creotech
 Instruments](https://creotech.pl/). Proud to be a part of the
 [EagleEye](https://creotech.pl/news/the-polish-satellite-eagleeye-is-a-breakthrough-project-for-the-space-sector/)
 project - the largest satellite built by a Polish company so far!
+
+{{image (src="/eagleeye_visualisation.jpg" small=false title="Visualisation of the EagleEye satellite on orbit")}}
+
+{{image (src="/eagleeye_scope.jpg" small=false title="Telescope of the EagleEye satellite, manufactured by another Polish company [ScanWay](https://scanway.space/)")}}
+
 
 ### Previous job - [SatRev](https://satrev.space/)
 
