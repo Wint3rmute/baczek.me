@@ -16,6 +16,7 @@ tags: journal, programming, culture
 >Watching:
 >
 >- The World's End (2013)
+>- Poor Things (2023)
 >
 >Listening:
 >

@@ -35,3 +35,12 @@ Collection of resources improving reasoning, empathy, planning, understanding:
 >what the material is 
 >
 >~ Richard Penrose
+
+>it is only the way it is until we discover
+>the new way it is, and then that is the way
+>it is until we discover the new way it is,
+>and so it goes until the world is no longer
+>flat, electricity lights the night, and
+>shoes are no longer tied with ribbons.
+>
+>~ Godwin Baxter - Poor Things
