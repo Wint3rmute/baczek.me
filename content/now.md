@@ -6,6 +6,15 @@ tags: journal, programming, culture
 <!-- S05E14 -->
 
 ```
+2X.04
+```
+
+>Reading:
+>
+>- Eelco Dolstra - The Purely Functional Software Deployment Model
+
+
+```
 1X.04
 ```
 
