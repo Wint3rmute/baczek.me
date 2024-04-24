@@ -18,7 +18,7 @@ tags: journal, programming, culture
 1X.04
 ```
 
-{{image (src="/synthjaw.jpg" small=false title="Attended a [SynthJaw](https://synthjaw.pl/) jam session. Incredibly friendly synth people, recommended!")}}
+{{image (src="/synthjaw.jpg" small=false title="Attended the [SynthJaw](https://synthjaw.pl/) jam session. Incredibly friendly synth people, recommended!")}}
 
 >Reading:
 >
