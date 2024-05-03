@@ -6,6 +6,23 @@ tags: journal, programming, culture
 <!-- S05E14 -->
 
 ```
+3X.04
+```
+
+Made a [tiny](https://github.com/NixOS/nixpkgs/pull/307221) contribution to
+Nixpkgs without making myself look like a complete fool (which happened at the
+previous try). Their [documentation for
+contributors](https://github.com/NixOS/nixpkgs/blob/master/CONTRIBUTING.md) is
+likely the best piece of software documentation I have ever read.
+
+>Listening:
+>
+>- Snarky Puppy
+
+{{image (src="/snarky.jpg" small=false title="Snarky Puppy and the absolutely top tier frypan solo.")}}
+
+
+```
 2X.04
 ```
 

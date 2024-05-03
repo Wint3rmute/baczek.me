@@ -44,3 +44,5 @@ Collection of resources improving reasoning, empathy, planning, understanding:
 >shoes are no longer tied with ribbons.
 >
 >~ Godwin Baxter - Poor Things
+
+- [Models of Software Acceptance - How Winners Win](https://www.dreamsongs.com/Files/AcceptanceModels.pdf)
