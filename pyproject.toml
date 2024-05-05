@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "wint3rmute.github.io"
+name = "exocortex"
 version = "0.1.0"
-description = ""
+description = "Wires my thoughts together in a (hopefully) graceful way"
 authors = ["wint3rmute <mateusz.baczek1998@gmail.com>"]
 package-mode = false
 
@@ -16,13 +16,10 @@ beautifulsoup4 = "^4.11.1"
 markdown = "^3.4.1"
 torch = "2.2.0"
 sentence-transformers = "^2.2.2"
-# ipywidgets = "^8.0.3"
-# ipympl = "^0.9.2"
-jupyterlab = "^4.0.11"
 gitpython = "^3.1.43"
 
 [tool.poetry.group.dev.dependencies]
-black = {extras = ["jupyter"], version = "^24.3.0"}
+black = "^24.3.0"
 isort = "^5.10.1"
 ruff = "^0.0.282"
 
@@ -31,4 +28,5 @@ requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.ruff]
-include = ["*.py", "*.pyi", "**/pyproject.toml", "*.ipynb"]
+include = ["*.py", "*.pyi", "**/pyproject.toml"]
+ignore = ['E501']

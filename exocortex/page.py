@@ -1,0 +1,199 @@
+import logging
+import math
+import subprocess
+import warnings
+from dataclasses import dataclass, field
+from pathlib import Path
+
+import markdown
+import numpy
+import umap
+from bs4 import BeautifulSoup
+from sentence_transformers import SentenceTransformer, util
+
+logger = logging.getLogger(__name__)
+
+# Consider using "all-MiniLM-L6-v2" for slightly lower accuracy and 5x performance
+sentence_transformer = SentenceTransformer("all-mpnet-base-v2")
+
+RECENTLY_MODIFIED_FILES = subprocess.check_output(
+    "git log --pretty=format: --name-only | grep '.md' | awk '!seen[$0]++' | head -n 3",
+    shell=True,
+).decode()
+
+logger.debug("Recently modified:")
+for line in RECENTLY_MODIFIED_FILES.split("\n")[
+    :-1
+]:  # Last line is empty, skip it with :-1
+    logger.debug("-", line)
+
+
+def was_recently_modified(file_path: Path) -> bool:
+    for file in RECENTLY_MODIFIED_FILES.split("\n"):
+        if str(file_path) in file:
+            return True
+
+    return False
+
+
+def extract_title(file_path: Path, content: str) -> str:
+    title = None
+
+    for line in content.split("\n"):
+        if "title: " in line:
+            title = line.replace("title: ", "").strip()
+
+    if not title:
+        raise ValueError(f"Title not found in {file_path}")
+
+    return title
+
+
+def extract_tags(file_path: Path, content: str) -> list[str]:
+    tags = []
+
+    for line in content.split("\n"):
+        if line.startswith("tags: "):
+            tags = line.replace("tags: ", "").split(",")
+            tags = [tag.strip() for tag in tags]
+
+    if len(tags) == 0:
+        warnings.warn(f"No tags defined for {file_path}")
+
+    return tags
+
+
+@dataclass
+class RelatedPost:
+    similarity: float
+    post: "Post"
+    # level: int # 1 = very related, 2 less related, etc
+
+
+@dataclass
+class Post:
+    title: str
+    content: str
+    path: Path
+    recently_modified: bool
+
+    embeddings: numpy.ndarray
+    tags: list[str] = field(default_factory=list)
+    related_posts: list[RelatedPost] = field(default_factory=list)
+
+    # To be filled by UMAP
+    _x: float | None = None
+    _y: float | None = None
+
+    @property
+    def x(self):
+        if self._x is None:
+            raise ValueError("Value of X coordinate not filled")
+        return self._x
+
+    @property
+    def y(self):
+        if self._y is None:
+            raise ValueError("Value of Y coordinate not filled")
+        return self._y
+
+    @property
+    def link(self) -> str:
+        post_link = "/" + str(
+            self.path.relative_to("content").parent
+            / self.path.relative_to("content").stem
+        )
+
+        return post_link
+
+    @classmethod
+    def from_path(cls, path: Path):
+        if path.suffix == ".md":
+            content_raw = path.read_text()
+            # No easy markdown to text convertsion available at the moment :/
+            html = markdown.markdown(content_raw)
+            html_tree = BeautifulSoup(html, features="html.parser")
+            content = html_tree.text
+
+            title = extract_title(path, content_raw)
+            tags = extract_tags(path, content_raw)
+
+        elif path.suffix == ".html":
+            content_raw = path.read_text()
+            html_tree = BeautifulSoup(content_raw, features="html.parser")
+            html_tree.nav.decompose()
+            content = html_tree.text.replace("\n", "")
+            tags = []
+
+            title = path.name
+
+            to_trim = content.rfind("Incoming:")
+            if to_trim != -1:
+                content = content[to_trim:]
+
+        embeddings = sentence_transformer.encode([content])[0]
+        return cls(
+            title=title,
+            content=content,
+            path=path,
+            recently_modified=was_recently_modified(path),
+            tags=tags,
+            embeddings=embeddings,
+        )
+
+    def __hash__(self) -> None:
+        return hash(self.path)
+
+    def distance_to(self, post: "Post") -> float:
+        return math.sqrt((self.x - post.x) ** 2 + (self.y - post.y) ** 2)
+        # return -util.cos_sim(self.embeddings, post.embeddings)
+
+    def distance_embedding(self, post: "Post") -> float:
+        # return math.sqrt((self.x - post.x) ** 2 + (self.y - post.y) ** 2)
+        result = -util.cos_sim(self.embeddings, post.embeddings)
+        return float(result)
+
+
+def get_all_posts() -> list[Post]:
+    all_posts = []
+    all_posts_paths = Path.glob(Path("./content/"), "**/*.md")
+
+    for post_path in all_posts_paths:
+        all_posts.append(Post.from_path(post_path))
+
+    embeddings = [post.embeddings for post in all_posts]
+
+    umap_result = umap.UMAP().fit_transform(embeddings)
+    # umap_result = manifold.TSNE(
+    #     n_components=2,
+    #     learning_rate='auto',
+    #     init='random',
+    #     perplexity=3).fit_transform(numpy.array(embeddings))
+    # from sklearn.decomposition import PCA
+    # umap_result = PCA(n_components=2).fit_transform(numpy.array(embeddings))
+
+    for post, umap_result in zip(all_posts, umap_result):
+        post._x, post._y = umap_result
+
+    weirdness_level_embedding = sentence_transformer.encode(
+        ["things that are artistic, weird or nerdy"]
+    )
+
+    for post in all_posts:
+        post.weirdness = float(util.cos_sim(weirdness_level_embedding, post.embeddings))
+
+    max_weirdness = max(post.weirdness for post in all_posts)
+
+    for post in all_posts:
+        post.weirdness /= max_weirdness
+
+    for post in all_posts:
+        post.related_posts = [
+            RelatedPost(post=similar_post, similarity=post.distance_to(similar_post))
+            for similar_post in sorted(
+                all_posts, key=lambda post_to_sort: post_to_sort.distance_to(post)
+            )
+            if similar_post != post
+        ]
+
+    return all_posts

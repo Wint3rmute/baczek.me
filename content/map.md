@@ -14,7 +14,7 @@ tags: journal, generative, programming
 This is an automatically generated graph containing all pages on my websites,
 along with the [connections](https://en.m.wikipedia.org/wiki/Intertwingularity) calculated using sentence embeddings. If you're
 interested, you can read the [source
-code](https://github.com/Wint3rmute/baczek.me/blob/master/exocortex.ipynb).
+code](https://github.com/Wint3rmute/baczek.me/blob/master/exocortex).
 
 
 ## How is this thing generated?
