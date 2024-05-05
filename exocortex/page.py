@@ -215,6 +215,15 @@ def get_all_posts() -> list[Post]:
         "things that are artistic, weird or nerdy"
     )
 
+    music_embedding = _sentence_transformer.encode(
+        "music, melodies, musical instruments, sounds"
+    )
+
+    programming_embedding = _sentence_transformer.encode(
+        "programming, computers"
+    )
+
+
     for post in all_posts:
         post.weirdness = float(util.cos_sim(weirdness_level_embedding, post.embeddings))
 
