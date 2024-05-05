@@ -4,14 +4,14 @@ RUN pacman -Syu --noconfirm git graphviz wget \
   python python-cairo graphviz zola \
   && pacman -Sc --noconfirm
 
-WORKDIR /website
-COPY pyproject.toml poetry.lock poetry.toml /website/
+WORKDIR /build
+COPY pyproject.toml poetry.lock poetry.toml /build/
 RUN poetry install --only main && rm -rf ~/.cache/pypoetry
 
 FROM archlinux:latest
 RUN pacman -Syu --noconfirm git graphviz wget \
   blas \
-  python python-cairo graphviz zola \
+  poetry python python-cairo graphviz zola \
   && pacman -Sc --noconfirm
 
-COPY --from=builder /website /website
+COPY --from=builder /build /build
