@@ -34,8 +34,9 @@ logger = logging.getLogger(__name__)
 logging.basicConfig(level=logging.INFO)
 
 all_posts = get_all_posts()
-
 render_maps(all_posts)
 generate_recently_updated(all_posts)
 generate_rss_feed()
 write_build_date()
+
+logger.info("Done!")

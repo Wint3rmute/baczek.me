@@ -1,3 +1,4 @@
+import hashlib
 import logging
 import math
 import subprocess
@@ -13,8 +14,42 @@ from sentence_transformers import SentenceTransformer, util
 
 logger = logging.getLogger(__name__)
 
-# Consider using "all-MiniLM-L6-v2" for slightly lower accuracy and 5x performance
-sentence_transformer = SentenceTransformer("all-mpnet-base-v2")
+
+def sha256_hash_from(string: str) -> str:
+    return hashlib.sha256(string.encode()).hexdigest()
+
+
+class CachingSentenceTransformer:
+    def __init__(self):
+        self.cache_location = Path("./generated/embeddings_cache")
+        self.cache_location.mkdir(parents=True, exist_ok=True)
+        self.cache_hits = 0
+        self.cache_misses = 0
+
+        self._sentence_transformer: SentenceTransformer | None = None
+
+    def encode(self, content: str):
+        hash = sha256_hash_from(content)
+        cache_path = (self.cache_location / hash).with_suffix(".npy")
+        if cache_path.exists():
+            embeddings = numpy.load(cache_path)
+            logger.debug("Cache hit for %s", hash)
+            self.cache_hits += 1
+        else:
+            if self._sentence_transformer is None:
+                logger.info("Initializing a sentence transformer...")
+                # Consider using "all-MiniLM-L6-v2" for slightly lower accuracy and 5x performance
+                self._sentence_transformer = SentenceTransformer("all-mpnet-base-v2")
+
+            logger.debug("Cache miss for %s", hash)
+            embeddings = self._sentence_transformer.encode([content])[0]
+            numpy.save(cache_path, embeddings)
+            self.cache_misses += 1
+
+        return embeddings
+
+
+_sentence_transformer = CachingSentenceTransformer()
 
 RECENTLY_MODIFIED_FILES = subprocess.check_output(
     "git log --pretty=format: --name-only | grep '.md' | awk '!seen[$0]++' | head -n 3",
@@ -131,7 +166,7 @@ class Post:
             if to_trim != -1:
                 content = content[to_trim:]
 
-        embeddings = sentence_transformer.encode([content])[0]
+        embeddings = _sentence_transformer.encode(content)
         return cls(
             title=title,
             content=content,
@@ -155,6 +190,7 @@ class Post:
 
 
 def get_all_posts() -> list[Post]:
+    logger.info("Loading pages...")
     all_posts = []
     all_posts_paths = Path.glob(Path("./content/"), "**/*.md")
 
@@ -175,8 +211,8 @@ def get_all_posts() -> list[Post]:
     for post, umap_result in zip(all_posts, umap_result):
         post._x, post._y = umap_result
 
-    weirdness_level_embedding = sentence_transformer.encode(
-        ["things that are artistic, weird or nerdy"]
+    weirdness_level_embedding = _sentence_transformer.encode(
+        "things that are artistic, weird or nerdy"
     )
 
     for post in all_posts:
@@ -195,5 +231,11 @@ def get_all_posts() -> list[Post]:
             )
             if similar_post != post
         ]
+
+    logger.info(
+        "Sentence transformer cache hit/miss ratio: %i/%i",
+        _sentence_transformer.cache_hits,
+        _sentence_transformer.cache_misses,
+    )
 
     return all_posts

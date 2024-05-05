@@ -41,6 +41,8 @@ def make_node(graph: graphviz.Graph, post: Post, accent_style: bool = False):
 
 
 def render_maps(all_posts: list[Post]):
+    logger.info("Rendering maps...")
+
     graph = graphviz.Graph(
         comment="All Relations",
         graph_attr={
