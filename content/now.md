@@ -6,6 +6,24 @@ tags: journal, programming, culture
 <!-- S05E14 -->
 
 ```
+0X.05
+```
+
+Questioning my approach to functional programming, memory safe programming
+languages, and "doing things the declarative way" with the thought-provoking
+arguments provided by Mr Richard P. Gabriel.
+
+>Reading:
+>
+>- (Richard P. Gabriel - Worse Is Better)[https://www.dreamsongs.com/WorseIsBetter.html]
+>- [Richard P. Gabriel - Models of Software Acceptance - How Winners Win](https://www.dreamsongs.com/Files/AcceptanceModels.pdf)
+>
+>Listening:
+>
+>- Ryan Lott - Pentaptych
+
+
+```
 3X.04
 ```
 
