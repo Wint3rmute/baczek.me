@@ -15,7 +15,7 @@ arguments provided by Mr Richard P. Gabriel.
 
 >Reading:
 >
->- (Richard P. Gabriel - Worse Is Better)[https://www.dreamsongs.com/WorseIsBetter.html]
+>- [Richard P. Gabriel - Worse Is Better](https://www.dreamsongs.com/WorseIsBetter.html)
 >- [Richard P. Gabriel - Models of Software Acceptance - How Winners Win](https://www.dreamsongs.com/Files/AcceptanceModels.pdf)
 >
 >Listening:
