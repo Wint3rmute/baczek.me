@@ -6,6 +6,17 @@ tags: journal, programming, culture
 <!-- S05E14 -->
 
 ```
+1X,05
+```
+
+Bought myself a bike. Expłoring biking routes
+around Warsaw.
+
+>Watching:
+>
+>- Into the Wild (2005)
+
+```
 3X.04
 ```
 
