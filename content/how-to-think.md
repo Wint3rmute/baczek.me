@@ -46,3 +46,9 @@ Collection of resources improving reasoning, empathy, planning, understanding:
 >~ Godwin Baxter - Poor Things
 
 - [Models of Software Acceptance - How Winners Win](https://www.dreamsongs.com/Files/AcceptanceModels.pdf)
+
+>Some people feel like they don't deserve love.
+>They walk away quietly into empty spaces, trying
+>to close the gaps of the past.
+>
+>~ Jon Karauker - Into the Wild
