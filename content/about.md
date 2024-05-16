@@ -42,9 +42,12 @@ Instruments](https://creotech.pl/). Proud to be a part of the
 [EagleEye](https://creotech.pl/news/the-polish-satellite-eagleeye-is-a-breakthrough-project-for-the-space-sector/)
 project - the largest satellite built by a Polish company so far!
 
-{{image (src="/eagleeye_visualisation.jpg" small=false title="Visualisation of the EagleEye satellite on orbit")}}
+{{image (src="/eagleeye_cleanroom.jpg" small=false title="Picture of the EagleEye taken during Creotech's press campaign")}}
 
 {{image (src="/eagleeye_scope.jpg" small=false title="Telescope of the EagleEye satellite, manufactured by another Polish company [ScanWay](https://scanway.space/)")}}
+
+{{image (src="/eagleeye_visualisation.jpg" small=false title="Visualisation of the EagleEye satellite on orbit")}}
+
 
 
 ### Previous job - [SatRev](https://satrev.space/)
