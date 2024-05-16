@@ -9,12 +9,19 @@ tags: journal, programming, culture
 1X,05
 ```
 
+After a few weeks of equally satisfying and exhaustive work, earthly days of
+the EagleEye satellite have nearly passed. It is now ready for it's greatest
+journey!
+
+{{image (src="/eagleeye_cleanroom.jpg" small=false title="The EagleEye satellite, soon to be launched!")}}
+
 Bought myself a bike. Expłoring biking routes
 around Warsaw.
 
 >Watching:
 >
 >- Into the Wild (2005)
+>- Invincible - Season 2, part 1
 
 ```
 0X.05
