@@ -10,6 +10,7 @@ tags: journal, meta, culture, programming
 This is where I keep ideas, movies, music, interesting words and other things
 that I plan to research more in-depth in the future.
 
+- Daniel Keyes - Flowers for Algernon
 - Tim Marshal - Prisoners of Geography
 - [Beautiful Bacteria: Encounters in the Microuniverse](https://www.rizzoliusa.com/book/9780847899869)
 - Poor Things (2023)
