@@ -24,7 +24,7 @@ use them too :)
 
 - [LibreY](https://librey.baczek.me), another meta-search engine
 
-- [Libreddit](https://libreddit.baczek.me), alternative Reddit frontend
+- [Redlib](https://redlib.baczek.me), alternative Reddit frontend
 
 
 I also recommend the following services for private use:
@@ -32,6 +32,8 @@ I also recommend the following services for private use:
 - [NextCloud](https://nextcloud.com/)
 
 - [Matrix](https://github.com/matrix-org/synapse/) 
+
+- [Gitea](https://gitea.com/)
 
 
 >some random thoughts on search - [registry-based search engine manifesto](/search-registry-manifesto)

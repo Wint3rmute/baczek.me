@@ -6,11 +6,28 @@ tags: journal, programming, culture
 <!-- S05E14 -->
 
 ```
-1X,05
+2X.05
+```
+
+Migrated my homelab containers (or rather what's left from them, as I'm running
+almost everything under NixOS' Systemd services) to
+[Podman](https://podman.io/).
+
+Migrated my [LibReddit instance](https://libreddit.baczek.me/) to
+[Redlib](https://github.com/redlib-org/redlib), as [LibReddit is being
+discontinued](https://github.com/libreddit/libreddit/issues/840).
+
+>Listening:
+>
+>- Sade - Smooth Operator
+
+
+```
+1X.05
 ```
 
 After a few weeks of equally satisfying and exhaustive work, earthly days of
-the EagleEye satellite have nearly passed. It is now ready for it's greatest
+the EagleEye satellite have nearly passed. It is now ready for it's final
 journey!
 
 {{image (src="/eagleeye_cleanroom.jpg" small=false title="The EagleEye satellite, soon to be launched!")}}
