@@ -6,7 +6,7 @@ tags: journal, generative, programming
 {{svg (src="generated/connections.svg")}}
 
 <center>
-*Note*: you can click on each page, all nodes are links!
+You can click on each node, they are links!
 </center>
 
 ---
