@@ -5,6 +5,16 @@ tags: journal, programming, culture
 
 <!-- S05E14 -->
 
+
+```
+0X.06
+```
+
+>Watching:
+>
+>- Sunshine (2007)
+>- Invasion of the Body Snatchers (1978)
+
 ```
 2X.05
 ```
