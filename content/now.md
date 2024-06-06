@@ -13,6 +13,7 @@ tags: journal, programming, culture
 >Watching:
 >
 >- Sunshine (2007)
+>- The Invisible Man (2020)
 >- Invasion of the Body Snatchers (1978)
 
 ```
