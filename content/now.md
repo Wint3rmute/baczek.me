@@ -10,6 +10,10 @@ tags: journal, programming, culture
 0X.06
 ```
 
+>Listening:
+>
+>- Jacob Collier - Here Comes The Sun (feat. dodie)
+>
 >Watching:
 >
 >- Sunshine (2007)
