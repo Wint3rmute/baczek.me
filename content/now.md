@@ -5,6 +5,18 @@ tags: journal, programming, culture
 
 <!-- S05E14 -->
 
+```
+1X.06
+```
+
+>Reading:
+>
+>- Liu Cixin - Death's End
+>
+>Watching:
+>
+>- Severance (2022)
+
 
 ```
 0X.06
