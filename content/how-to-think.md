@@ -52,3 +52,5 @@ Collection of resources improving reasoning, empathy, planning, understanding:
 >to close the gaps of the past.
 >
 >~ Jon Karauker - Into the Wild
+
+{{image (src="/garland.jpg" small=true title="")}}
