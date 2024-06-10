@@ -9,6 +9,10 @@ tags: journal, programming, culture
 1X.06
 ```
 
+>Listening:
+>
+>- Jacob Collier - Djesse Vol. 1
+>
 >Reading:
 >
 >- Liu Cixin - Death's End
