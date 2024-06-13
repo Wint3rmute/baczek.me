@@ -19,6 +19,7 @@ tags: journal, programming, culture
 >
 >Watching:
 >
+>- [LOGIC SESSION BREAKDOWN: "With The Love In My Heart"](https://www.youtube.com/watch?v=6H-cAzfB2qo)
 >- Severance (2022)
 
 
