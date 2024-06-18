@@ -9,9 +9,16 @@ tags: journal, programming, culture
 1X.06
 ```
 
+Visiting places I never thought I'd see.
+
+{{image (src="/jpl.jpg" small=false title="")}}
+{{image (src="/vandenberg.jpg" small=false title="")}}
+
+
 >Listening:
 >
 >- Jacob Collier - Djesse Vol. 1
+>- Aphex Twin - Flim
 >
 >Reading:
 >
