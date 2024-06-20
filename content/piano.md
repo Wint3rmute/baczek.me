@@ -18,3 +18,10 @@ without problems:
 I usually find myself stressed when playing in public, even
 though I know most of those songs by heart. Keeping a list like this is meant
 to make me remember what I can play :)
+
+---
+
+Some more songs, a bit more advanced:
+
+- Yoko Kanno - Goodnight Julia (the saxophone part can be played on the piano, as the melody follows the [call and response](https://en.m.wikipedia.org/wiki/Call_and_response_(music)) technique)
+- Ryuichi Sakamoto - Merry Christmas Mr. Lawrence
