@@ -54,3 +54,10 @@ Collection of resources improving reasoning, empathy, planning, understanding:
 >~ Jon Karauker - Into the Wild
 
 {{image (src="/garland.jpg" small=true title="")}}
+
+>When you're explaining a concept/idea and some
+>people don't get, it can be neither their nor your
+>fault. There's no reason to become angry about it.
+>Keep in mind that different brains [dó not experience thinking in the same way](https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf), 
+>and it goes **way deeper** than differences in
+>experience and knowledge.
