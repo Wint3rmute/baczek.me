@@ -6,6 +6,14 @@ tags: journal, programming, culture
 <!-- S05E14 -->
 
 ```
+2X.06
+```
+
+>Watching:
+>
+>- The Boys (Season 1)
+
+```
 1X.06
 ```
 

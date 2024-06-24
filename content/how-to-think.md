@@ -5,7 +5,7 @@ title: How to think
 tags: journal, culture, collection
 ---
 
-{{image (src="/on_philosophy.jpg" small=true title="What matters, really.")}}
+{{image (src="/on_philosophy.jpg" small=true title="")}}
 
 Collection of resources improving reasoning, empathy, planning, understanding:
 
@@ -56,8 +56,7 @@ Collection of resources improving reasoning, empathy, planning, understanding:
 {{image (src="/garland.jpg" small=true title="")}}
 
 >When you're explaining a concept/idea and some
->people don't get, it can be neither their nor your
->fault. There's no reason to become angry about it.
->Keep in mind that different brains [dó not experience thinking in the same way](https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf), 
+>people don't get, keep in mind that different brains
+>[experience thinking differently than you do](https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf),
 >and it goes **way deeper** than differences in
 >experience and knowledge.
