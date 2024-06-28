@@ -25,8 +25,7 @@ important parts below.
   software](/alternatives)
 - [Wezterm](https://wezfurlong.org/wezterm/) as a terminal - Enjoying the
   GPU-accelerated performance and the ligatures
-- [Nushell](http://www.nushell.sh/) for amazing performance and a fresh take on
-  Linux shells
+- [Zoxide](https://github.com/ajeetdsouza/zoxide) for a smarter `cd`
 - Firefox (yes, you should be using it instead of anything Chromium-based) 
 - [Bitwig](https://www.bitwig.com/) for jamming & [making
   sounds](/making-music-linux).

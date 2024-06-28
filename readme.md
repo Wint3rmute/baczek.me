@@ -8,7 +8,7 @@ I'm using [Zola](https://www.getzola.org/) + some extra scripts to build my
 [site map and related pages](https://baczek.me/map).
 
 If you have [Poetry](https://python-poetry.org/) installed, simply run `poetry
-install` and `poetry run python -m exocortex` and then `zola serve` or `zola
+install` and `poetry run python -m exocortex`, then `zola serve` or `zola
 build`.
 
 If you prefer to keep everything isolated, use the [`Dockerfile`](./Dockerfile)

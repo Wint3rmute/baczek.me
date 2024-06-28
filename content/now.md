@@ -5,13 +5,29 @@ tags: journal, programming, culture
 
 <!-- S05E14 -->
 
+
 ```
 2X.06
 ```
 
+{{image (src="/thailand_temple_trees.jpg" small=false title="Visiting Thailand/Bangkok on holidays")}}
+
+Got back to
+[libretakt](https://github.com/wint3rmute/libretakt), instead
+of rapidly prototyping the UI, I first modelled the
+application state as nested fat enums and structs. After the
+initial modeling phase, UI implementation felt like a breeze.
+Thank you, [@NoBoilerplate](https://www.youtube.com/watch?v=Kdpfhj3VM04)!
+
+>Listening:
+>
+>- Jacob Collier - Flow Freely
+>
 >Watching:
 >
 >- The Boys (Season 1)
+>- [Patrick Lencioni - Are you an ideal team player?](https://www.youtube.com/watch?v=PRh80RyT74I)
+
 
 ```
 1X.06

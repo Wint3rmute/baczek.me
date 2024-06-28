@@ -20,6 +20,8 @@ currently have.
 
 {{image (src="/benches/sobotka.jpg" small=false title="Sobótka, Poland. En route towards the Ślęża mountain")}}
 
+{{image (src="/benches/bangkok.jpg" small=false title="Bangkok, Thailand. From the left side there's a small garden, from the right side (not visible in the photo) there's a beautiful Royal Hall building.")}}
+
 *todo: add some more pictures of benches*
 
 Hey you! Yes, the one that's staring at the screen! You have any cool pictures

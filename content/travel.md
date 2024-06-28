@@ -6,6 +6,14 @@ tags: collection
 
 Notes on travel, places I visited and the ones I'd like to visit.
 
+# Thailand/Bangkok - visited in 2024
+
+- Bangkok is one of the warmest cities in the world, expect extremally humid air
+- In restaurants, every person on te table gets an extra empty plate, so that
+  they can easily try the dishes ordered by other people. I've seen Thai people
+  using primarly those "extra" plates, treating the ordered dishes as a buffet
+  meal. I see it as a very positive custom, encouraging sharing and tasting different foods.
+
 # Norway - visited in 2023
 
 {{image (src="/norway_buer.jpg" small=false title="Passing 700 meters during a trip to Buerbreen.")}}
