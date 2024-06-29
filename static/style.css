@@ -1,45 +1,54 @@
 :root {
---content_foreground: rgba(255, 255, 255, 0.74);
---headers_foreground: rgba(255, 255, 255, 0.84);
---background: #263238;
---background-light: #37474F;
---accent: #82AAFF;
---accent2: #C3E88D;
---header-height: 2vh;
+  --content_foreground: rgba(255, 255, 255, 0.74);
+  --headers_foreground: rgba(255, 255, 255, 0.84);
+  --background: #263238;
+  --background-light: #37474F;
+  --accent: #82AAFF;
+  --accent2: #C3E88D;
+  --header-height: 2vh;
 }
 
 body {
-    background-color: var(--background);
-    color: var(--content_foreground);
-    font-family: -apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen,Ubuntu,Cantarell,open sans,helvetica neue,sans-serif;
-    font-size: 17px;
-    height: 100vh;
-    flex-direction: column;
-    margin: 0;
+  background-color: var(--background);
+  color: var(--content_foreground);
+  font-family: -apple-system, BlinkMacSystemFont, segoe ui, Roboto, Oxygen, Ubuntu, Cantarell, open sans, helvetica neue, sans-serif;
+  font-size: 17px;
+  height: 100vh;
+  flex-direction: column;
+  margin: 0;
 }
 
-header, main, footer {
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 5px;
-    padding-right: 5px;
+header,
+main,
+footer {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
 footer {
-    margin-top: 5vh;
-    text-align: center;
+  margin-top: 5vh;
+  text-align: center;
 }
 
-header, nav, ul {
-    overflow: hidden;
+header,
+nav,
+ul {
+  overflow: hidden;
 }
 
-header, h2, h3, h4, h5 {
+header,
+h2,
+h3,
+h4,
+h5 {
   color: var(--headers_foreground);
 }
 
 
-th, td {
+th,
+td {
   border-bottom: 1px solid var(--background-light);
   padding: 8px;
 }
@@ -64,13 +73,13 @@ h1.post-title {
 }
 
 button {
-    background-color: var(--background-light);
-    padding: 10px;
-    border-radius: 5px;
-    border: none;
-    font-size: 15px;
-    cursor: pointer;
-    box-shadow: 0px 0px 25px -10px black;
+  background-color: var(--background-light);
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  font-size: 15px;
+  cursor: pointer;
+  box-shadow: 0px 0px 25px -10px black;
 }
 
 a.hidden {
@@ -78,9 +87,10 @@ a.hidden {
   color: inherit;
 }
 
-a, button {
-    color: white;
-    transition: .5s;
+a,
+button {
+  color: white;
+  transition: .5s;
 }
 
 a[target="_blank"] {
@@ -88,25 +98,25 @@ a[target="_blank"] {
 }
 
 button:hover {
-    background-color: var(--accent);
+  background-color: var(--accent);
 }
 
 a:hover {
-    color: var(--accent)
+  color: var(--accent)
 }
 
-footer > p > a {
-    text-decoration: none;
+footer>p>a {
+  text-decoration: none;
 }
 
-nav > ul {
-    padding-left: 0px;
+nav>ul {
+  padding-left: 0px;
 }
 
-nav > ul > li {
-    display: block;
-    float: right;
-    padding: 5px;
+nav>ul>li {
+  display: block;
+  float: right;
+  padding: 5px;
 }
 
 svg {
@@ -115,29 +125,29 @@ svg {
 }
 
 .svg-icon {
-    width: 30px;
-    height: 30px;
-    padding-left: 5px;
-    padding-right: 5px;
+  width: 30px;
+  height: 30px;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
 figcaption {
-    text-align: center;
-    font-style: italic;
+  text-align: center;
+  font-style: italic;
 }
 
 .logo {
-    float: left;
+  float: left;
 }
 
 main {
-    margin-left: auto;
-    margin-right: auto;
-    line-height: 1.7;
-    width: 94%;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.7;
+  width: 94%;
 }
 
-blockquote > * {
+blockquote>* {
   margin: 5px;
 }
 
@@ -155,34 +165,34 @@ blockquote {
   justify-content: center;
 }
 
-ul > li {
-    margin-left: 0px;
+ul>li {
+  margin-left: 0px;
 }
 
 .index-div {
-    margin-top: 8vh;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
+  margin-top: 8vh;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }
 
 .index-image {
-    background-image: url("https://github.com/wint3rmute.png");
-    background-position: center center;
-    background-size: cover;
-    width: 30vh;
-    height: 30vh;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 50%;
-    box-shadow: 0px 0px 35px -10px black;
+  background-image: url("https://github.com/wint3rmute.png");
+  background-position: center center;
+  background-size: cover;
+  width: 30vh;
+  height: 30vh;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  box-shadow: 0px 0px 35px -10px black;
 }
 
 .image {
-    object-fit: contain;
-    max-width: 100%;
-    height: auto;
-    border-radius: 7px;
+  object-fit: contain;
+  max-width: 100%;
+  height: auto;
+  border-radius: 7px;
 }
 
 .small {
@@ -193,7 +203,7 @@ ul > li {
 }
 
 .shadow {
-    box-shadow: 0px 0px 50px -10px black;
+  box-shadow: 0px 0px 50px -10px black;
 }
 
 img {
@@ -269,4 +279,3 @@ hr {
 li.recently-updated-item {
   list-style-type: circle;
 }
-
