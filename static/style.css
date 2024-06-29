@@ -231,7 +231,7 @@ pre {
 }
 
 hr {
-  color: var(--background-light);
+  border: 1px solid var(--background-light);
   width: 80%;
 }
 
