@@ -7,10 +7,20 @@ tags: journal, programming, culture
 
 
 ```
+3X.06
+```
+
+I've set up [zoxide](https://github.com/ajeetdsouza/zoxide) a couple months ago
+and forgot about it completely during holidays. Accidentally fast-jumping to
+the correct directory (from an invalid base dir) reminded me that I have it
+installed. Recommended tool for sure, improves navigation speed significantly.
+
+
+```
 2X.06
 ```
 
-{{image (src="/thailand_temple_trees.jpg" small=false title="Visiting Thailand/Bangkok on holidays")}}
+{{image (src="/thailand_temple_trees.jpg" small=false title="Exploring Thailand/Bangkok on holidays. I'm sensitive to the heat, but the views are worth it!")}}
 
 Got back to
 [libretakt](https://github.com/wint3rmute/libretakt), instead

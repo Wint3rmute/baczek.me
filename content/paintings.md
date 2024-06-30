@@ -19,3 +19,5 @@ candidates here:
 
 {{image (src="/paintings/beautiful_bacteria.jpg" small=false title="One of the pages from *Beautiful Bacteria: Encounters in the Microuniverse*")}}
 
+{{image (src="/paintings/sreethnpaint.jpg" small=false title="I don't understand the Thai alphabet, so I could not figure out which part of the description was the painting's name. Anyway, art by @sreethnppaints")}}
+
