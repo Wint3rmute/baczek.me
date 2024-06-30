@@ -30,6 +30,11 @@ calculated using sentence embeddings. If you're interested, you can read the
 3. I'm drawing links between pages which are the closest. This also generates
    the "related posts" section at the bottom of each page. The drawn links only
    serve aesthetic purposes.
+4. Posts are colored depending on their relatedness to 3 topics:
+    - More red: art-related
+    - More green: computers-related
+    - More blue: music-related
+    - I'm working on better coloring algorithms based on various gradients
 
 ### The gory technical details
 
@@ -43,7 +48,11 @@ calculated using sentence embeddings. If you're interested, you can read the
    scientist to argue with the experts).
 3. I'm connecting each post with its top 2 nearest posts (using more clutters
    up the map).
-4. `graphviz` renders the graph and outputs it as an SVG file.
+4. Coloring is done via calculating cosine similarity between the post content
+   embeddings and embeddings of simple tag-based sentences, such as *"music,
+   melodies"* or *"art, beauty"*. Currently the gradient is dead-simple,
+   similarity directly affects the R/G/B channel.
+5. `graphviz` renders the graphs and outputs them as SVGs.
 
 A much better description on [Simon Willison's blog](https://simonwillison.net/2023/Oct/23/embeddings/).
 

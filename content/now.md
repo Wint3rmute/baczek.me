@@ -10,6 +10,21 @@ tags: journal, programming, culture
 3X.06
 ```
 
+{{image (src="/map_now_has_colors.png" noshadow=true small=false title="Dead-simple gradient-based coloring of posts on the [map](/map).")}}
+
+Started coloring the nodes on the [map](/map) based on how related they are to:
+
+- Art - more red
+- Computers - more green
+- Music more blue (da ba dee)
+
+Having fun learning about gradients, as most out-of-the-box
+visualisation/graphics tools only support linear two-color gradients. Seeing
+stuff like [CIELAB](https://en.wikipedia.org/wiki/CIELAB_color_space) is
+currently blowing my mind away, hoping to understand it better soon.
+
+---
+
 I've set up [zoxide](https://github.com/ajeetdsouza/zoxide) a couple months ago
 and forgot about it completely during holidays. Accidentally fast-jumping to
 the correct directory (from an invalid base dir) reminded me that I have it
