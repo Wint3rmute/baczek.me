@@ -116,6 +116,12 @@ class Post:
     tags: list[str] = field(default_factory=list)
     related_posts: list[RelatedPost] = field(default_factory=list)
 
+    length_normalized: float = 0
+
+    art_relatedness: float = 0
+    music_relatedness: float = 0
+    computers_relatedness: float = 0
+
     # To be filled by UMAP
     _x: float | None = None
     _y: float | None = None
@@ -140,6 +146,17 @@ class Post:
         )
 
         return post_link
+
+    def get_rgb(self) -> tuple[int, int, int]:
+        red = 100 + int(155 * self.art_relatedness)
+        green = 100 + int(155 * self.computers_relatedness)
+        blue = 100 + int(155 * self.music_relatedness)
+
+        return (red, green, blue)
+
+    def get_html_color(self) -> str:
+        red, green, blue = self.get_rgb()
+        return f"#{red:02x}{green:02x}{blue:02x}"
 
     @classmethod
     def from_path(cls, path: Path):
@@ -211,17 +228,33 @@ def get_all_posts() -> list[Post]:
     for post, umap_result in zip(all_posts, umap_result):
         post._x, post._y = umap_result
 
-    weirdness_level_embedding = _sentence_transformer.encode(
-        "things that are artistic, weird or nerdy"
+    art_embedding = _sentence_transformer.encode("art, beauty")
+    musicality_embedding = _sentence_transformer.encode("music, melodies")
+    computers_embedding = _sentence_transformer.encode(
+        "programming, computers, internet"
     )
 
     for post in all_posts:
-        post.weirdness = float(util.cos_sim(weirdness_level_embedding, post.embeddings))
+        post.length_normalized = len(post.content)
+        post.art_relatedness = float(util.cos_sim(art_embedding, post.embeddings))
+        post.music_relatedness = float(
+            util.cos_sim(musicality_embedding, post.embeddings)
+        )
+        post.computers_relatedness = float(
+            util.cos_sim(computers_embedding, post.embeddings)
+        )
 
-    max_weirdness = max(post.weirdness for post in all_posts)
+    max_length = max(post.length_normalized for post in all_posts)
+
+    max_art_relatedness = max(post.art_relatedness for post in all_posts)
+    max_music_relatedness = max(post.music_relatedness for post in all_posts)
+    max_computer_relatedness = max(post.computers_relatedness for post in all_posts)
 
     for post in all_posts:
-        post.weirdness /= max_weirdness
+        post.art_relatedness /= max_art_relatedness
+        post.music_relatedness /= max_music_relatedness
+        post.computers_relatedness /= max_computer_relatedness
+        post.length_normalized /= max_length
 
     for post in all_posts:
         post.related_posts = [

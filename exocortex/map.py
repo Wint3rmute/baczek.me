@@ -2,6 +2,8 @@ import json
 import logging
 import textwrap
 from pathlib import Path
+import matplotlib.pyplot
+import numpy
 
 import graphviz
 
@@ -12,14 +14,18 @@ logger = logging.getLogger(__name__)
 ACCENT_COLOR = "#82AAFF"
 UMAP_POSITION_TO_GRAPHVIZ_MULTIPLIER = 0.40
 
+COLOR_MAP_GREENS = matplotlib.pyplot.get_cmap("Greens")
+COLOR_MAP_BLUES = matplotlib.pyplot.get_cmap("Blues")
+COLOR_MAP_REDS = matplotlib.pyplot.get_cmap("Reds")
+
 
 def make_node(graph: graphviz.Graph, post: Post, accent_style: bool = False):
     if accent_style:
         color = ACCENT_COLOR
     else:
-        color = "#ffffff"
-        transparency = f"{int(255 * post.weirdness):02x}"
-        color += transparency
+        # transparency = 220 + int(25 * post.length_normalized)
+        transparency = 255
+        color = f"{post.get_html_color()}{transparency:02x}"
 
     xlabel = ""
     if post.recently_modified:
@@ -32,7 +38,7 @@ def make_node(graph: graphviz.Graph, post: Post, accent_style: bool = False):
         color=color,
         fillcolor="#263238",
         style="filled",
-        fontcolor=ACCENT_COLOR if accent_style else "white",
+        fontcolor=ACCENT_COLOR if accent_style else color,
         penwidth="2.0" if accent_style else "1.0",
         xlabel=xlabel,
         URL="/" + post.path.with_suffix("").name,
@@ -76,10 +82,11 @@ def render_maps(all_posts: list[Post]):
         with open(related_posts_json_path, "w", encoding="utf-8") as relations_file:
             json.dump(
                 {
+                    "color": post.get_html_color(),
                     "posts": [
                         {"title": related_post.title, "url": related_post.link}
                         for related_post in related_posts[:2]
-                    ]
+                    ],
                 },
                 relations_file,
             )

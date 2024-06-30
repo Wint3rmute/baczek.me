@@ -13,6 +13,13 @@
 {% set related_map_posts = load_data(path=related_map_file_path, required=true, format="plain") -%}
 
 <article>
+
+{% if related_posts %}
+  <!-- special color for the title, from the map -->
+{% else %}
+  <!-- default title color  -->
+{% endif %}
+
 <h1 class="post-title">
 {{ page.title | markdown(inline=True) | safe }}
 </h1>
