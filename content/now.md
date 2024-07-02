@@ -5,6 +5,19 @@ tags: journal, programming, culture
 
 <!-- S05E14 -->
 
+```
+0X.07
+```
+
+>Reading
+>
+>- Patrick Lencioni - The Ideal Team Player
+>
+>Listening:
+>
+>- Anomalie - Lune
+>- Swing Out Sister - When the Laughter Is Over
+
 
 ```
 3X.06
