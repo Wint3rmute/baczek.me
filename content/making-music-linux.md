@@ -7,13 +7,18 @@ tags: programming
 
 ## Initial setup, no matter what you will use later on
 
-- The first thing is to get JACK working on your system. [Arch Wiki
+- ~~The first thing is to get JACK working on your system. [Arch Wiki
   page](https://wiki.archlinux.org/title/JACK_Audio_Connection_Kit) should have
-  everything you need, also for non-Arch distros.
-- [QjackCtl](https://qjackctl.sourceforge.io/) is a useful GUI app for managing
+  everything you need, also for non-Arch distros.~~
+- ~~[QjackCtl](https://qjackctl.sourceforge.io/) is a useful GUI app for managing
   your JACK configuration, it comes packaged in most Linux distros. Use the
   "graph" view to configure your audio devices, this is incredibly useful when
-  debugging audio routing which gets messy very quickly!
+  debugging audio routing which gets messy very quickly!~~
+
+**I fell for the JACK meme and you probably too.
+After 2 years of struggling with JACK, it turns
+out that Pipewire is simpler to setup and it's
+buffer size settings work better than JACK's.**
 
 ## The DAW
 
@@ -55,3 +60,24 @@ When picking a controller, first check whether it is supported by
 [DrivenByMoss](https://www.mossgrabers.de/Software/Bitwig/Bitwig.html). It will
 get you an out-of-the-box full Bitwig integration, just like between Ableton &
 Ableton Push. I cannot recommend it enough!
+
+## Other hardware
+
+### Korg synths with the Logue SDK
+
+The [Logue SDK](https://github.com/korginc/logue-sdk) can be installed on Linux
+and you can flash your custom sound
+generators and effects to Logue-SDK-enabled synths.
+
+### Elektron
+
+[Electron Octatrack](https://www.elektron.se/us/octatrack-mkii-explorer)
+supports a mass-storage USB mode, which
+makes it visible like a USB drive.
+
+Other Elektron machines like Digitakt
+and Digitone support USB
+class-compliant audio and can be used
+as audio interfaces. Unfortunately,
+[Overbridge](https://www.elektron.se/us/overbridge)
+is not supported on Linux.
