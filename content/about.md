@@ -26,7 +26,7 @@ tags: journal, meta
 
 - Hard sci-fi
 - Music of (mostly) all sorts, but mostly funk, jazz and electro
-- Messing around with synthesizers and other sound creation tools
+- Messing around with synthesizers and other sound-shaping tools
 - Philosophy
 - Terminal UI aesthetics
 
@@ -42,9 +42,11 @@ Instruments](https://creotech.pl/). Proud to be a part of the
 [EagleEye](https://creotech.pl/news/the-polish-satellite-eagleeye-is-a-breakthrough-project-for-the-space-sector/)
 project - the largest satellite built by a Polish company so far!
 
+{{image (src="/at_spacex.jpg" small=false title="Our satellite integration crew. Glad to hold the unofficial title of the `Youngest-Polish-Programmer-Who-Has-Entered-The-Spacex-Integration-Facility-As-Far-As-I-Know`.")}}
+
 {{image (src="/eagleeye_cleanroom.jpg" small=false title="Picture of the EagleEye taken during Creotech's press campaign")}}
 
-{{image (src="/eagleeye_scope.jpg" small=false title="Telescope of the EagleEye satellite, manufactured by another Polish company [ScanWay](https://scanway.space/)")}}
+{{image (src="/eagleeye_scope.jpg" small=false title="Telescope of the EagleEye satellite, manufactured by another Polish company [Scanway](https://scanway.space/)")}}
 
 {{image (src="/eagleeye_visualisation.jpg" small=false title="Visualisation of the EagleEye satellite on orbit")}}
 

@@ -6,6 +6,23 @@ tags: journal, programming, culture
 <!-- S05E14 -->
 
 ```
+1X.07
+```
+
+Recent [SpaceX issues with their second
+stage](https://www.spacex.com/launches/mission/?missionId=sl-9-3) caused launch
+delays, which gave me some much-needed free time to spend more time with the
+Octatrack. After listening to too much of Jacob Collier, I'm playing around
+with with 3/4 and 5/4 rhythms, a simple way to make the compositions stand out.
+
+{{image (src="/octatrack_reflection.jpg" small=true title="")}}
+
+---
+
+{{image (src="/at_spacex.jpg" small=false title="Our satellite integration crew. Glad to hold the unofficial title of the `Youngest-Polish-Programmer-Who-Has-Entered-The-Spacex-Integration-Facility-So-Far`.")}}
+
+
+```
 0X.07
 ```
 
