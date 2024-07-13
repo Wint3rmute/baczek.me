@@ -15,10 +15,12 @@ tags: programming
   "graph" view to configure your audio devices, this is incredibly useful when
   debugging audio routing which gets messy very quickly!~~
 
-**I fell for the JACK meme and you probably too.
-After 2 years of struggling with JACK, it turns
-out that Pipewire is simpler to setup and it's
-buffer size settings work better than JACK's.**
+**I fell for the JACK meme and you probably will too**. On almost all Linux
+tutorial wikis/pages, JACK is recommended as a go-to solution for low-latency
+Linux audio. After 2 years of struggling with JACK, it turns out that Pipewire
+is simpler to setup and it's buffer size settings work better than JACK's.
+After switching to Pipewire on Bitwig, I was finally able to live-process
+guitar and microphone signals.
 
 ## The DAW
 
@@ -31,6 +33,7 @@ the general DAW stuff".
 
 If you feel more adventurous and would like to try a more *experimental*
 interface, [Bespoke](https://www.bespokesynth.com/) could be the DAW for you.
+It's also open source!
 
 ## The VSTs
 
@@ -53,7 +56,7 @@ interface, [Bespoke](https://www.bespokesynth.com/) could be the DAW for you.
 Novation's [Companion](https://us.novationmusic.com/components) software is
 built around Web MIDI API, so it works on any OS which can open Google Chrome
 (tested myself, unfortunately Firefox and Chromium do not work yet). This can
-get you around the limitations of OS-bound apps, which are unfortunately used
+get you around the limitations of Windows/Mac-specific apps, which are unfortunately used
 by most MIDI gear manufacturers.
 
 When picking a controller, first check whether it is supported by

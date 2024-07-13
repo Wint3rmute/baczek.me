@@ -5,7 +5,7 @@ title: System configuration
 tags: programming
 ---
 
-{{image (src="/color_theme.jpg" title="A screenshot of my desktop, circa 2021" noshadow=true)}}
+{{image (src="/color_theme.jpg" title="A screenshot of my desktop, circa 2021" noshadow=false)}}
 
 # Repo
 

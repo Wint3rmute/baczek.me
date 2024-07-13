@@ -18,6 +18,7 @@ UNIX-related tools. Lesser-known first to keep the list interesting:
 - [Caddy](https://caddyserver.com/) - a web server with automatic HTTPs and refreshingly simple configuration
 - [Alacritty](https://alacritty.org/) - a terminal emulator
 - [Wezterm](https://wezfurlong.org/wezterm/) - another terminal emulator
+- [Fzf](https://github.com/junegunn/fzf) - Fuzzy finder for pretty much everything
 - [fd](https://github.com/sharkdp/fd) - unix `find` but actually usable without having to read `man` each time
 - [duf](https://github.com/muesli/duf) - like `df` but easier to read
 - [Popsicle](https://github.com/pop-os/popsicle) - USB File Flasher

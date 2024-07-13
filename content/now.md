@@ -12,10 +12,10 @@ tags: journal, programming, culture
 Recent [SpaceX issues with their second
 stage](https://www.spacex.com/launches/mission/?missionId=sl-9-3) caused launch
 delays, which gave me some much-needed free time to spend more time with the
-Octatrack. After listening to too much of Jacob Collier, I'm playing around
+[Octatrack](/making-music-linux). After listening to too much of Jacob Collier, I'm playing around
 with with 3/4 and 5/4 rhythms, a simple way to make the compositions stand out.
 
-{{image (src="/octatrack_reflection.jpg" small=true title="")}}
+{{image (src="/octatrack_reflection.jpg" small=true title="Spending evenings with this machine and my [piano](/piano).")}}
 
 ---
 
