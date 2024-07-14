@@ -55,8 +55,18 @@ Collection of resources improving reasoning, empathy, planning, understanding:
 
 {{image (src="/garland.jpg" small=true title="")}}
 
->When you're explaining a concept/idea and some
->people don't get, keep in mind that different brains
->[experience thinking differently than you do](https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf),
->and it goes **way deeper** than differences in
->experience and knowledge.
+>When you're explaining a concept/idea and some people don't get, keep in mind
+>that different human brains [experience thinking
+>differently](https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf).
+>Your brain and someone else's might not share the same thinking patterns, and
+>it goes **way deeper** than differences in experience and knowledge.
+
+>All to often in life, we see people do what we want them to do and we say
+>nothing, assuming that the behavior has become natural for them, as easy
+>standard. We justify our lack of praise by claiming that it would be
+>embarrassing to the employee to call attention to a behavior that she sees as
+>something fundamental What we're failing to realize is that the point of
+>praise is not only to reinforce the behavior in that employee, but also to
+>reinforce it in everyone else.
+>
+>- Patrick Lencioni - The Ideal Team Player
