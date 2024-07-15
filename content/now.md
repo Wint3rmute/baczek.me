@@ -5,6 +5,17 @@ tags: journal, programming, culture
 
 <!-- S05E14 -->
 
+<!-- ``` -->
+<!-- 2X.07 -->
+<!-- ``` -->
+
+<!-- Started contributing some of my CPU power to [Science -->
+<!-- United](https://scienceunited.org/) via [BOINC](https://boinc.berkeley.edu/). -->
+
+<!-- >Reading: -->
+<!-- > -->
+<!-- >- Tim Marshal - Prisoners of Geography -->
+
 ```
 1X.07
 ```
