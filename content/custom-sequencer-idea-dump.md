@@ -25,6 +25,7 @@ then used for breathing more life into melodies.
 - Think tracker but scriptable in a repl-like manner
 - Runes/Opcodes for sound modification
 - It should be possible to "carry" packets of data around the program (like a packet of information containing a sound trigger info)
+- https://blog.sbensu.com/posts/demand-for-visual-programming/
 - How should if statements work?
 - Song transitions, pattern muting?
 - Does a minimal (opcode-centered) system allows for more better rhytmic expression than a typical programming language?
@@ -83,8 +84,6 @@ step += 1
 step %= 1
 > 1 rhytm  # Await a single step and jump to rhytm:
 ```
-
-### Crazy ideas dump
 
 - It should work in multiple directions, right to left, left to right, etc. If Opcodes are just 1 letter long, it won't be a problem to read right-to-left or bottom-to-top
 - A language server should be defined separately from the server, so I can later write something like `neovide` for it
