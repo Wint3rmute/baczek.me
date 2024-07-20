@@ -5,16 +5,33 @@ tags: journal, programming, culture
 
 <!-- S05E14 -->
 
-<!-- ``` -->
-<!-- 2X.07 -->
-<!-- ``` -->
+```
+2X.07
+```
 
-<!-- Started contributing some of my CPU power to [Science -->
-<!-- United](https://scienceunited.org/) via [BOINC](https://boinc.berkeley.edu/). -->
+Started contributing some of my CPU power to [Science
+United](https://scienceunited.org/) via [BOINC](https://boinc.berkeley.edu/).
 
-<!-- >Reading: -->
-<!-- > -->
-<!-- >- Tim Marshal - Prisoners of Geography -->
+>Reading:
+>
+>- Tim Marshal - Prisoners of Geography
+>
+>Watching:
+>
+>- Ryuichi Sakamoto - Opus
+>-  Eryn O'Neil - [Congrats! You're the tech lead - now what?](https://www.youtube.com/watch?v=FcyD85z3JSI)
+>
+>Listening:
+>
+>- Flying Lotus - Zodiac Shit
+>- Son Lux - Clair de Lune (Pied au Piano)
+
+---
+
+>Everybody likes to write reusable code and nobody
+>wants to reuse anybody else's code
+>
+>~ Eryn O'Neil
 
 ```
 1X.07
