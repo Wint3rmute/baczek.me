@@ -6,6 +6,16 @@ tags: journal, programming, culture
 <!-- S05E14 -->
 
 ```
+3X.07
+```
+
+>Watching:
+>
+>- Mad Max (1979)
+>- Mad Max 2 (1981)
+
+
+```
 2X.07
 ```
 
