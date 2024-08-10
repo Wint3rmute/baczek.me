@@ -3,9 +3,18 @@ title: 2024's Devlog
 tags: journal, programming, culture
 ---
 
+```
+1X.08
+```
+
+>Listening:
+>
+>- J Dilla - Donuts
+>- Sungazer - A Song With No Words
+
 
 ```
-0X.07
+0X.08
 ```
 
 For the last few weeks, my thoughts have been circling around the topic of
