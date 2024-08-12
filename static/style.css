@@ -87,6 +87,10 @@ button {
   transition: .5s;
 }
 
+a {
+  text-underline-offset: 2px;
+}
+
 a[target="_blank"] {
   text-decoration: underline white 1px dashed;
   text-underline-offset: 2px;
