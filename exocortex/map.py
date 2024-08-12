@@ -18,6 +18,18 @@ COLOR_MAP_GREENS = matplotlib.pyplot.get_cmap("Greens")
 COLOR_MAP_BLUES = matplotlib.pyplot.get_cmap("Blues")
 COLOR_MAP_REDS = matplotlib.pyplot.get_cmap("Reds")
 
+NODE_ATTR = {
+    "shape": "box",
+    "nodesep": "0.55",
+    "fontname": "Roboto",
+}
+
+GRAPH_ATTR = {
+    "bgcolor": "transparent",
+    "overlap": "false",
+    "outputorder": "edgesfirst",
+}
+
 
 def make_node(graph: graphviz.Graph, post: Post, accent_style: bool = False):
     if accent_style:
@@ -39,7 +51,7 @@ def make_node(graph: graphviz.Graph, post: Post, accent_style: bool = False):
         fillcolor="#263238",
         style="filled",
         fontcolor=ACCENT_COLOR if accent_style else color,
-        penwidth="2.0" if accent_style else "1.0",
+        penwidth="2.0" if accent_style else "0.6",
         xlabel=xlabel,
         URL="/" + post.path.with_suffix("").name,
         pos=f"{post.x * UMAP_POSITION_TO_GRAPHVIZ_MULTIPLIER},{post.y * UMAP_POSITION_TO_GRAPHVIZ_MULTIPLIER}!",
@@ -51,13 +63,9 @@ def render_maps(all_posts: list[Post]):
 
     graph = graphviz.Graph(
         comment="All Relations",
-        graph_attr={
-            "bgcolor": "transparent",
-            "overlap": "false",
-            "outputorder": "edgesfirst",
-        },
+        graph_attr=GRAPH_ATTR,
         format="svg",
-        node_attr={"shape": "box", "nodesep": "0.55"},
+        node_attr=NODE_ATTR,
         engine="neato",
     )
 
@@ -111,13 +119,9 @@ def render_maps(all_posts: list[Post]):
     for current_post in all_posts:
         graph = graphviz.Graph(
             comment="Relations for node",
-            graph_attr={
-                "bgcolor": "transparent",
-                "overlap": "false",
-                "outputorder": "edgesfirst",
-            },
+            graph_attr=GRAPH_ATTR,
             format="svg",
-            node_attr={"shape": "box", "nodesep": "0.55"},
+            node_attr=NODE_ATTR,
             engine="neato",
         )
 

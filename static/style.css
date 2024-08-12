@@ -11,7 +11,7 @@
 body {
   background-color: var(--background);
   color: var(--content_foreground);
-  font-family: -apple-system, BlinkMacSystemFont, segoe ui, Roboto, Oxygen, Ubuntu, Cantarell, open sans, helvetica neue, sans-serif;
+  font-family: Roboto, Cantarell, -apple-system, BlinkMacSystemFont, segoe ui, Oxygen, Ubuntu, open sans, helvetica neue, sans-serif;
   font-size: 17px;
   height: 100vh;
   flex-direction: column;
