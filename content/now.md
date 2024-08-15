@@ -4,6 +4,39 @@ tags: journal, programming, culture
 ---
 
 ```
+0X.09
+```
+
+>Watching:
+>
+>- Dark City (1998)
+
+
+```
+3X.08
+```
+
+>Watching:
+>
+>- Alien: Romulus
+>- The Accountant (2016)
+>
+>Listening:
+>
+>- Duran Duran - Invisible
+>- Sungazer - Against The Fall Of Night
+
+
+```
+2X.08
+```
+
+>Watching:
+>
+>- Furiosa: A Mad Max Saga
+
+
+```
 1X.08
 ```
 
@@ -11,6 +44,11 @@ tags: journal, programming, culture
 >
 >- J Dilla - Donuts
 >- Sungazer - A Song With No Words
+>
+>Watching:
+>
+>- Mars Express (2024)
+>- Mad Max: Fury Road (2015)
 
 
 ```
