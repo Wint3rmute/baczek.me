@@ -10,6 +10,8 @@ tags: journal, programming, culture
 >Watching:
 >
 >- Dark City (1998)
+>- Sampha, Little Simz - Satellite Business 2.0
+>- Magdalena Bay - Imaginal Disk
 
 
 ```
