@@ -2,10 +2,10 @@ import json
 import logging
 import textwrap
 from pathlib import Path
-import matplotlib.pyplot
-import numpy
 
 import graphviz
+import matplotlib.pyplot
+import numpy
 
 from exocortex.page import Post
 
@@ -116,10 +116,11 @@ def render_maps(all_posts: list[Post]):
     # Note: it actually renders to connections.svg
     graph.render("./generated/connections")
 
+    logger.info("Rendering minimaps..")
     for current_post in all_posts:
         graph = graphviz.Graph(
             comment="Relations for node",
-            graph_attr=GRAPH_ATTR,
+            graph_attr=GRAPH_ATTR | {"defaultdist": "0.02"},
             format="svg",
             node_attr=NODE_ATTR,
             engine="neato",
