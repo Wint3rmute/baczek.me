@@ -10,8 +10,12 @@ tags: journal, programming, culture
 >Watching:
 >
 >- Dark City (1998)
+>
+>Listening:
+
 >- Sampha, Little Simz - Satellite Business 2.0
 >- Magdalena Bay - Imaginal Disk
+>- Genesis Owusu - STRUGGLER
 
 
 ```
