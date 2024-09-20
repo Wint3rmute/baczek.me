@@ -70,3 +70,9 @@ Collection of resources improving reasoning, empathy, planning, understanding:
 >reinforce it in everyone else.
 >
 >- Patrick Lencioni - The Ideal Team Player
+
+>Maybe there's no ends, maybe just infinity
+>
+>Maybe no beginnings, maybe just bridges
+>
+>~ Satellite Business 2.0
