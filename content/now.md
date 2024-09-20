@@ -4,6 +4,16 @@ tags: journal, programming, culture
 ---
 
 ```
+2X.09
+```
+
+>Watching:
+>
+>- Vivarium (2019)
+>- Tinker Tailor Soldier Spy (2011)
+
+
+```
 0X.09
 ```
 
