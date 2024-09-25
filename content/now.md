@@ -11,6 +11,10 @@ tags: journal, programming, culture
 >
 >- Vivarium (2019)
 >- Tinker Tailor Soldier Spy (2011)
+>
+>Listening:
+>
+>- KARAŚ/ROGUCKI - Ostatni bastion romantyzmu
 
 
 ```
