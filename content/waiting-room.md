@@ -10,12 +10,11 @@ tags: journal, meta, culture, programming
 This is where I keep ideas, movies, music, interesting words and other things
 that I plan to research more in-depth in the future.
 
-- Jérémie Périn - Mars Express
+- Substance (2024)
 - Daniel Ellsberg - [The Optimal Benefit of Perceived Madness](https://ia600102.us.archive.org/20/items/ThePoliticalUsesOfMadness/ELS005-001.pdf)
 - Chaos: Making a New Science
 - The Place Beyond the Pines (2012)
 - Witold Lipiński's architecture
-- Vivarium (2020)
 - The Machinist (2004)
 - Erich Neumann - The Origins and History of Consciousness
 - Labirynth (1986)
@@ -48,7 +47,6 @@ that I plan to research more in-depth in the future.
 - Super Mario Bros (1993) - childhood movie rewatch
 - Chernoff faces
 - I Dream of Wires (2014)
-- [Neovim + Rust + Debugging @HN](https://news.ycombinator.com/item?id=35522642)
 - Late 20xx Eastern-European cinema:
   1. Mikhail Titov's movies
   1. Budet laskovyy dozhd (1984)
@@ -86,8 +84,6 @@ that I plan to research more in-depth in the future.
 - Julien Offray de La Mettrie - Człowiek Maszyna
 - Pulse, Kurosawa
 - Amusing Ourselves to Death
-- Dark City
-- Melancholy of Haruchi Sizumiya
 - Counterpart HBO
 - Oldboy
 - Józef Kosecki, kybernetyka
@@ -96,7 +92,7 @@ that I plan to research more in-depth in the future.
 - Max Stirner
 - Virginia Woolf
 - Wittgenstein
-- Euphoria (skąd to mam?)
+- Euphoria (where did I found this? Random note, forgot to include details)
 - Kocia kołyska vonnegut
 - Recommendations from Jacek Dukaj:
     - Julio Cortazar
@@ -114,8 +110,7 @@ that I plan to research more in-depth in the future.
 - Irlandczyk 2019
 - Megazone23
 - On Contingency - Liebniz
-- The Affair, serial od Dukaja
-- Angel's Egg
+- The Affair, TV series recomendation from Jacek Dukaj
 - Made in abyss
 
 # Other, more organised lists

@@ -4,6 +4,15 @@ tags: journal, programming, culture
 ---
 
 ```
+3X.09
+```
+
+>Listening:
+>
+>- Sungazer -  Against the Fall of Night
+
+
+```
 2X.09
 ```
 
@@ -26,7 +35,7 @@ tags: journal, programming, culture
 >- Dark City (1998)
 >
 >Listening:
-
+>
 >- Sampha, Little Simz - Satellite Business 2.0
 >- Magdalena Bay - Imaginal Disk
 >- Genesis Owusu - STRUGGLER
