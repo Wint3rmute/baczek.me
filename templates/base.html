@@ -30,6 +30,8 @@
           </a>
         </li>
         <li>
+        </li>
+        <li>
           <a href="/about">About</a>
         </li>
         <li>
@@ -38,6 +40,9 @@
         <li>
           <a href="/map">Map</a>
         </li>
+        <li id="websocket-counter">
+        </li>
+
       </ul>
     </nav>
   </header>
@@ -98,5 +103,20 @@
 
   </footer>
 </body>
+
+<script>
+  const socket = new WebSocket("wss://baczek.me/kolektyw/");
+  socket.addEventListener("open", (event) => {
+    socket.send("Hello");
+    setInterval(function() {
+      socket.send("Hello");
+    }, 5000);
+  });
+  socket.addEventListener("message", (event) => {
+    const elem = document.getElementById("websocket-counter");
+    elem.innerHTML = event.data;
+    console.log(event.data);
+  });
+</script>
 
 </html>
