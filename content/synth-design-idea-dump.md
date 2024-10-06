@@ -22,5 +22,10 @@ capable of making musical sounds.
 
 {{image (src="/grandma_boxes.jpg" title="Hand-made wooden boxes from my Grandma's things") }}
 
+Real wood and a floral pattern - could be used as a front panel or a frame around it.
+
 {{image (src="/roberts_radio.jpg" title="Old radio, nice frequency display behind a layer or plastic. Potentiometers are a pleasure to turn, buttons are very clicky, in a way different from mechanical keyboard switches.") }}
 
+I like the tuning scale behind a plastic cover. Could be
+used to display shortcuts or visualize some element of
+synth internals.
