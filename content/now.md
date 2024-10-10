@@ -4,6 +4,30 @@ tags: journal, programming, culture
 ---
 
 ```
+1X.10
+```
+
+A friend of mine has recently offered me an amazing birthday gift - we made a
+custom stand for my Octatrack, I learned a bit about CADs
+([OnShape](https://www.onshape.com/en/)), 3D printing and woodworking. It
+turned out really nice!
+
+{{image (src="/octatrack_custom_stand.jpg" small=false title="The result.")}}
+
+{{image (src="/octatrack_stand_side.jpg" small=true title="A single side of the stand.")}}
+
+
+```
+0X.10
+```
+
+{{image (src="/trst.jpg" small=true title="TR/ST. Progresja Club Warsaw")}}
+
+>Listening:
+>
+>- TR/ST
+
+```
 3X.09
 ```
 
