@@ -40,7 +40,7 @@ tags: journal, meta
 I am currently developing mission control software at [Creotech
 Instruments](https://creotech.pl/). Proud to be a part of the
 [EagleEye](https://creotech.pl/news/the-polish-satellite-eagleeye-is-a-breakthrough-project-for-the-space-sector/)
-project - the largest satellite built by a Polish company so far!
+project - the most advanced satellite built by a Polish company so far (as of 2024)!
 
 {{image (src="/at_spacex.jpg" small=false title="Our satellite integration crew. Glad to hold the unofficial title of the `Youngest-Polish-Programmer-Who-Has-Entered-The-Spacex-Integration-Facility-As-Far-As-I-Know`.")}}
 

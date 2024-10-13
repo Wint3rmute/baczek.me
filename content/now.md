@@ -3,6 +3,9 @@ title: 2024's Devlog
 tags: journal, programming, culture
 ---
 
+<!-- If you have nothing to write about, you can always flex about being involved in -->
+<!-- more than half of polish-built satellites. /static/polish_satellites_2024.jpg -->
+
 ```
 1X.10
 ```
@@ -92,6 +95,17 @@ turned out really nice!
 ```
 1X.08
 ```
+
+{{image (src="/eeye_deploy_confirmed.jpg" small=false title="A moment long awaited")}}
+
+*"EagleEye, deploy confirmed"* - words from the SpaceX launch stream, which
+sparked a wave of joy in the mission control team in Creotech. Successful
+launch, followed by a series of equally successful communication sessions, the
+satellite talking with us right from the first communication session… It was a
+long night. Glad to report that all mission control systems worked at the first
+try, without any unexpected interruptions or downtime. We've already learned
+lots from that first launch and operations and with the team we currently have,
+I have nothing but good hopes for the future.
 
 >Listening:
 >
