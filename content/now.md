@@ -19,6 +19,14 @@ turned out really nice!
 
 {{image (src="/octatrack_stand_side.jpg" small=true title="A single side of the stand.")}}
 
+>Reading:
+>
+>- Fyodor Dostoevsky - Crime and Punishment
+>
+>Listening:
+>
+>- Jacob Collier - Wild Wild Sea
+
 
 ```
 0X.10
@@ -90,6 +98,10 @@ turned out really nice!
 >Watching:
 >
 >- Furiosa: A Mad Max Saga
+>
+>Reading:
+>
+>- Isaac Asimov - Foundation
 
 
 ```
