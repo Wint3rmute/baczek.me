@@ -7,6 +7,26 @@ tags: journal, programming, culture
 <!-- more than half of polish-built satellites. /static/polish_satellites_2024.jpg -->
 
 ```
+2X.10
+```
+
+Learning more about CAD software, designing small parts around a custom
+synthesizer which I'd like to build. The sheer amount of work compared to what
+I usually have to do for pure-software prototypes is astounding. Gained a ton
+of respect to all mechanical engineers this month :)
+
+>Listening:
+>
+>- Skalpel - Big Band Live
+>- TR/ST - Joyland
+>
+>Watching (now proud of this, still had fun)
+>
+>- Scary Movie 1
+>- Scary Movie 2
+>- Scary Movie 3
+
+```
 1X.10
 ```
 

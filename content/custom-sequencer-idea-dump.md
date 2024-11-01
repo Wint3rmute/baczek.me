@@ -5,6 +5,14 @@ title: Custom sequencer
 tags: generative, culture, programming
 ---
 
+## Yet another take 2
+
+- Base component of the program would be a cursor, moving through a board
+- The cursor has some kind of internal state (a stack, a dict, whatever)
+- The cursor moves through a program, which is expressed as a semi-visual programming language
+  - It is on a terminal screen, like Orca
+  - THe cursor can move in all directions, depending on the commands in the program
+
 ## Yet another take
 
 I should simply rewrite Orca and add some cool midi
