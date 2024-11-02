@@ -75,4 +75,27 @@ Collection of resources improving reasoning, empathy, planning, understanding:
 >
 >Maybe no beginnings, maybe just bridges
 >
->~ Satellite Business 2.0
+>~ Sampha - Satellite Business 2.0
+
+
+>Dripping golden blood from important arteries as I smash through once again
+>
+>Screaming, "More love, less hate"
+>
+>The words rattling my boney ribcage
+>
+>At that moment, I realize I'm actually in my apartment wearing yеsterday's clothes
+>
+>Trying to make my kеyboard and mouse sing like the voices in my head
+>
+>On an ergonomic rolling throne
+>
+>A million mouse clicks away
+>
+>A trillion mouse clicks away
+>
+>From the light at the end of a twisted and incredible tunnel
+>
+>A journey with no true end and a beginning too far away to remember
+>
+>~ Louis Cole - Quality Over Opinion
