@@ -5,6 +5,18 @@ title: Custom sequencer
 tags: generative, culture, programming
 ---
 
+## Machine Elves
+
+Randomly stumbled around the idea of Machine Elves. I like the concept of creatures singing things into existence, even self-modifying themselves. Perhaps some elements of cellular-automata-like features could be incorporated into the sequencer? The pattern could be a structure unstable by default.
+
+Some sort of kernel (think image processing) could be made available for the user to describe rules of self-transformation. The pattern could flip back and forth between repetitions, letting the user decide if they want to take a step forward or modify the kernel.
+
+Ideas:
+
+- 2D cellular automata pattern modification
+- What about parameter modifications?
+- How to control how radical the changes would be?
+
 ## Yet another take 2
 
 - Base component of the program would be a cursor, moving through a board
