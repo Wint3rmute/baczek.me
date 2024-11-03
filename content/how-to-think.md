@@ -61,6 +61,8 @@ Collection of resources improving reasoning, empathy, planning, understanding:
 >Your brain and someone else's might not share the same thinking patterns, and
 >it goes **way deeper** than differences in experience and knowledge.
 
+---
+
 >All to often in life, we see people do what we want them to do and we say
 >nothing, assuming that the behavior has become natural for them, as easy
 >standard. We justify our lack of praise by claiming that it would be
@@ -71,12 +73,15 @@ Collection of resources improving reasoning, empathy, planning, understanding:
 >
 >- Patrick Lencioni - The Ideal Team Player
 
+---
+
 >Maybe there's no ends, maybe just infinity
 >
 >Maybe no beginnings, maybe just bridges
 >
 >~ Sampha - Satellite Business 2.0
 
+---
 
 >Dripping golden blood from important arteries as I smash through once again
 >
