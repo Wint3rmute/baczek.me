@@ -7,6 +7,16 @@ tags: journal, programming, culture
 <!-- more than half of polish-built satellites. /static/polish_satellites_2024.jpg -->
 
 ```
+0X.11
+```
+
+>Watching:
+>
+>- The Art of Self-Defense (2019)
+>
+>Listening:
+
+```
 2X.10
 ```
 
