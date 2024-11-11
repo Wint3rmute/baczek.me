@@ -6,6 +6,20 @@ tags: journal, programming, culture
 <!-- If you have nothing to write about, you can always flex about being involved in -->
 <!-- more than half of polish-built satellites. /static/polish_satellites_2024.jpg -->
 
+
+```
+1X.11
+```
+
+
+>Watching:
+>
+>- The Wild Robot (2024)
+>
+>Listening:
+>
+>- Nabihah Iqbal - DREAMER
+
 ```
 0X.11
 ```
@@ -15,6 +29,8 @@ tags: journal, programming, culture
 >- The Art of Self-Defense (2019)
 >
 >Listening:
+>
+>- Louis Cole - nothing
 
 ```
 2X.10
