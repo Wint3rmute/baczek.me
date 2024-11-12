@@ -15,6 +15,7 @@ tags: journal, programming, culture
 >Watching:
 >
 >- The Wild Robot (2024)
+>- Castle in the Sky (1986)
 >
 >Listening:
 >
