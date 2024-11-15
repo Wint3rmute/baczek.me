@@ -11,6 +11,7 @@ tags: journal, programming, culture
 1X.11
 ```
 
+{{image (src="/collier_live.jpg" small=false title="And there it was. The audience choir (and drum machine). The unexpected Happy Birthday (in Polish) and equally unexpected FaceTime call that followed it. Finally, the Polish anthem. Easily the best concert I've ever attented, the man's a genius. Jacob Collier, Łódź.")}}
 
 >Watching:
 >
