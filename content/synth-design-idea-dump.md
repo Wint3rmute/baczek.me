@@ -14,6 +14,8 @@ synthesiser, can't I?
 Adding to my bucket list: making any machine
 capable of making musical sounds.
 
+- https://learn.adafruit.com/adafruit-seesaw-atsamd09-breakout/reading-and-writing-data
+
 {{image (src="/old_radio_duszniki.jpg" title="Old radio i found in a mountain hostel in Duszniki Zdrój") }}
 
 {{image (src="/grandma_tape_and_radio_player.jpg" title="EQ section of my grandma's tape & radio player") }}
