@@ -21,3 +21,5 @@ candidates here:
 
 {{image (src="/paintings/sreethnpaint.jpg" small=false title="I don't understand the Thai alphabet, so I could not figure out which part of the description was the painting's name. Anyway, art by @sreethnppaints")}}
 
+{{image (src="/paintings/ada_zielinska.png" small=false title="This or something else by Ada Zielińska")}}
+
