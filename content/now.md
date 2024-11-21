@@ -6,6 +6,11 @@ tags: journal, programming, culture
 <!-- If you have nothing to write about, you can always flex about being involved in -->
 <!-- more than half of polish-built satellites. /static/polish_satellites_2024.jpg -->
 
+```
+2X.11
+```
+
+{{image (src="/marseille.jpg" small=false title="Cathing some air in Marseille, France.")}}
 
 ```
 1X.11
