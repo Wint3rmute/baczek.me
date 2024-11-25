@@ -10,13 +10,38 @@ tags: journal, programming, culture
 2X.11
 ```
 
-{{image (src="/marseille.jpg" small=false title="Cathing some air in Marseille, France.")}}
+Cathing some air around Marseille, France.
+
+After a couple days spent away from work, my thoughts started to circulate
+around technologies similar to Phoenix LiveView. Single source of truth on the
+server is nothing new, but an easy-to-use abstraction for soft real-time
+synchronisation of that state between browser-based clients could be useful in
+my niche. Especially when it minimizes the amount of client-side javascript to
+be written :)
+
+{{image (src="/marseille.jpg" small=false title="Marseille, Friche la Belle de Mai.")}}
+
+{{image (src="/marseilleveyre.jpg" small=false title="View from Marseilleveyre.")}}
+
+>Reading:
+>
+>- [Growing Music: musical interpretations of L-Systems](https://ccrma.stanford.edu/~elisse/256A/final/growing%20music%20-%20musical%20interpretations%20of%20l-systems.pdf)
+>
+>Listening:
+>
+>- Moderat - MORE D4TA
+>- Metronomy - Nice Town
 
 ```
 1X.11
 ```
 
-{{image (src="/collier_live.jpg" small=false title="And there it was. The audience choir (and drum machine). The unexpected Happy Birthday (in Polish) and equally unexpected FaceTime call that followed it. Finally, the Polish anthem. Easily the best concert I've ever attented, the man's a genius. Jacob Collier, Łódź.")}}
+And there it was. The audience choir (and drum machine). The unexpected Happy
+Birthday (in Polish) and equally unexpected FaceTime call that followed it.
+Finally, the Polish anthem. Easily the best concert I've ever attented, the
+man's a genius. 
+
+{{image (src="/collier_live.jpg" small=false title="Jacob Collier, Łódź.")}}
 
 >Watching:
 >
