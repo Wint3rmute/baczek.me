@@ -7,6 +7,15 @@ tags: journal, programming, culture
 <!-- more than half of polish-built satellites. /static/polish_satellites_2024.jpg -->
 
 ```
+0X.12
+```
+
+>Watching:
+>
+>- Whiplash (2014)
+
+
+```
 2X.11
 ```
 
