@@ -24,4 +24,5 @@ Other links that I found interesting:
 - [No Boilerplate](https://www.youtube.com/channel/UCUMwY9iS8oMyWDYIe6_RmoA) - a YouTube channel that ~~shills~~ embraces Rust
 - [This Week In Rust](https://this-week-in-rust.org/)
 - [Without Boats (dreams dry up)](https://without.boats/)
+- [Runtime Scripting for Rust Applications - Niklas Korz | EuroRust 2024](https://youtu.be/M8dpH3rO-2M?si=gn9-p4DtAEh8OjdG)
 
