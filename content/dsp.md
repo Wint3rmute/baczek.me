@@ -57,6 +57,7 @@ tags: generative, culture, programming
 
 # Interesting DSP/audio links
 
+- [Miller Puckette - The Theory and Technique of Electronic](https://msp.ucsd.edu/techniques.htm)
 - [Faust - functional audio stream](https://faust.grame.fr/) 
 - [Daisy seed, synth microcontroller](https://www.electro-smith.com/daisy/daisy)
 - [llllllll.co](https://llllllll.co) and some interesting things found in there:
