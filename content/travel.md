@@ -6,6 +6,11 @@ tags: collection
 
 Notes on travel, places I visited and the ones I'd like to visit.
 
+# France/Marseille
+
+Hiking maps application by [IGN.fr](https://www.ign.fr/) has the best maps I've
+seen so far in France. [Mapy.cz](https://en.mapy.cz/) work nicely as well.
+
 # Thailand/Bangkok - visited in 2024
 
 - Bangkok is one of the warmest cities in the world, expect extremally humid air
