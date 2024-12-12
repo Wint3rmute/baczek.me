@@ -8,8 +8,12 @@ Notes on travel, places I visited and the ones I'd like to visit.
 
 # France/Marseille
 
-Hiking maps application by [IGN.fr](https://www.ign.fr/) has the best maps I've
-seen so far in France. [Mapy.cz](https://en.mapy.cz/) work nicely as well.
+{{image (src="/marseille.jpg" small=false title="Marseille, Friche la Belle de Mai.")}}
+
+- Hiking maps application by [IGN.fr](https://www.ign.fr/) has the best maps I've
+  seen so far in France. [Mapy.cz](https://en.mapy.cz/) work nicely as well.
+- We gave up while climbing Montagne Sainte-Victoire (near Aix-en-Provence) due
+  to lack of proper equipment. Remember to get bring warmer clothes next time!
 
 # Thailand/Bangkok - visited in 2024
 
