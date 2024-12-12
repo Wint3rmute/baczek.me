@@ -13,6 +13,7 @@ tags: journal, programming, culture
 >Watching:
 >
 >- Whiplash (2014)
+>- The NeverEnding Story (1984)
 
 
 ```
