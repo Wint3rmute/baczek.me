@@ -7,6 +7,16 @@ tags: journal, programming, culture
 <!-- more than half of polish-built satellites. /static/polish_satellites_2024.jpg -->
 
 ```
+1X.12
+```
+
+{{image (src="/skalpel.jpg" small=false title="Skalpel. NFM Wrocław.")}}
+
+>Listening
+>
+>- Skalpel
+
+```
 0X.12
 ```
 
