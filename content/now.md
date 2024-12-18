@@ -6,15 +6,27 @@ tags: journal, programming, culture
 <!-- If you have nothing to write about, you can always flex about being involved in -->
 <!-- more than half of polish-built satellites. /static/polish_satellites_2024.jpg -->
 
+
+```
+2X.12
+```
+
+>Listening:
+>
+>- Jacob Collier - Djesse Vol.2
+
+
 ```
 1X.12
 ```
 
 {{image (src="/skalpel.jpg" small=false title="Skalpel. NFM Wrocław.")}}
 
->Listening
+>Listening:
 >
 >- Skalpel
+>- PJ Morton - Gumbo Unplugges
+
 
 ```
 0X.12
