@@ -14,6 +14,10 @@ tags: journal, programming, culture
 >Listening:
 >
 >- Jacob Collier - Djesse Vol.2
+>
+>Watching:
+>
+>- Crimes Of The Future (2022)
 
 
 ```
