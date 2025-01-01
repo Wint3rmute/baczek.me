@@ -5,7 +5,6 @@ from pathlib import Path
 
 import graphviz
 import matplotlib.pyplot
-import numpy
 
 from exocortex.page import Post
 
