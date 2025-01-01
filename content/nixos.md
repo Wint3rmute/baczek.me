@@ -24,3 +24,7 @@ Useful links:
   options
 - [NixOs egui](https://scvalex.net/posts/63/)
 - [Nix Pills](https://nixos.org/guides/nix-pills/)
+
+Tips:
+
+- NixOS has excellent support for ZFS, arguably the most advanced filesystem currently on the market. [Article about ZFS on the unofficial NixOS wiki](https://nixos.wiki/wiki/Main_Page)
