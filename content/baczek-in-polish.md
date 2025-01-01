@@ -31,6 +31,6 @@ Here's a collection of hand-picked Bączek pictures, following this interpretati
 
 {{image (src="/bumblebees/beer.jpg" title=",,What's better than a bumblebee? Two bumblebees!'' - poster from a polish beverage Łomża." small=true) }}
 
-{{image (src="/bumblebees/lifesaver_book.jpg" title="Bumblebee Lifesaver - https://karolratownik.pl/baczek-ksiazka/" small=true) }}
+{{image (src="/bumblebees/lifesaver_book.jpg" title="Bumblebee Lifesaver - from a [book by Anna Gil](https://karolratownik.pl/baczek-ksiazka/)" small=true) }}
 
 {{image (src="/bumblebees/beeal.jpg" title="Thanks @Adam!" small=true) }}
