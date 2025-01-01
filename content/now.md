@@ -3,9 +3,22 @@ title: 2024's Devlog
 tags: journal, programming, culture
 ---
 
-<!-- If you have nothing to write about, you can always flex about being involved in -->
-<!-- more than half of polish-built satellites. /static/polish_satellites_2024.jpg -->
+<!-- [Enter 2025](/now). -->
 
+```
+Closing thoughts
+```
+
+{{image (src="/polish_satellites_2024.jpg" small=true title="Polish Satellites. Infographic by the Polish Space Agency (POLSA).")}}
+
+1. Polish Space Agency ([POLSA](https://polsa.gov.pl/en/)) has recently posted an
+   infographic listing all Polish-built satellites. It turns out that I have
+   worked on over half of them!
+2. I saw some amazing artists this year. Snarky Puppy, Jacob Collier,
+   Skalpel, TR/SR. At this point I can see Vulfpeck and Louis Cole and stop
+   going to concerts altogether :)
+3. Diversification of my interests, getting more into sports, electronics,
+   mechanics, is already paying off!
 
 ```
 2X.12
@@ -504,7 +517,7 @@ likely the best piece of software documentation I have ever read.
 >
 >- Snarky Puppy
 
-{{image (src="/snarky.jpg" small=false title="Snarky Puppy and the absolutely top tier frypan solo.")}}
+{{image (src="/snarky.jpg" small=false title="Snarky Puppy and the absolutely top-tier frypan solo.")}}
 
 
 ```
