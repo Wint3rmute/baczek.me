@@ -28,3 +28,8 @@ Useful links:
 Tips:
 
 - NixOS has excellent support for ZFS, arguably the most advanced filesystem currently on the market. [Article about ZFS on the unofficial NixOS wiki](https://nixos.wiki/wiki/Main_Page)
+- Convert your system configuration into flake-based as soon as possible. It makes your system fully reproducible and makes it easier to use stuff like Agenix
+    - https://wiki.nixos.org/wiki/Flakes
+- Creating and maintaining custom SystemD services/timers is a breeze in NixOS
+    - https://wiki.nixos.org/wiki/Systemd/User_Services
+- There is a `formatter` key in Flake configuration. If you set it to a formatter program, use `nix fmt` to format your code
