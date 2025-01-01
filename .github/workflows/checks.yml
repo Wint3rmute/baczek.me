@@ -4,18 +4,18 @@ jobs:
   python:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
-    - uses: actions/setup-python@v4
-      with:
-        python-version: "3.11"
-    - name: Run black
-      uses: abatilo/actions-poetry@v2
-      with:
-        poetry-version: "1.5.1"
-    - name: Install deps
-      run: poetry install --only dev
-    - name: Run linters
-      run: |
-        poetry run black . --check
-        poetry run isort . --check
-        poetry run ruff .
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Run black
+        uses: abatilo/actions-poetry@v2
+        with:
+          poetry-version: "1.8.5"
+      - name: Install deps
+        run: poetry install --only dev
+      - name: Run linters
+        run: |
+          poetry run black . --check
+          poetry run isort . --check
+          poetry run ruff .
