@@ -5,19 +5,17 @@ title: The word *Bączek*
 tags: journal, meta
 ---
 
-My last name, *Bączek*, has multiple meanings. Here I've collected my favourites:
+My last name, _Bączek_, has multiple meanings. Here I've collected my favourites:
 
 - Spinning top (the toy that spins)
-- Spins, barrel rolls and other similar aerial maneuvers (in Polish we call that *kręcić bączki*, which roughly translates to *spin a bączek*)
+- Spins, barrel rolls and other similar aerial maneuvers (in Polish we call that _kręcić bączki_, which roughly translates to _spin a bączek_)
 - Fart (which leads to many funny/cringey) situations as people often call me by my surname rather than my name
-
 
 **And the winner goes to:**
 
-> A diminutive form of the word *Bąk* (Bumblebee)
+> A diminutive form of the word _Bąk_ (Bumblebee)
 
 Here's a collection of hand-picked Bączek pictures, following this interpretation:
-
 
 {{image (src="/bumblebees/rabbit.jpg" title="Rabbit bumblebee from @Łukasz" small=true) }}
 
@@ -34,3 +32,5 @@ Here's a collection of hand-picked Bączek pictures, following this interpretati
 {{image (src="/bumblebees/beer.jpg" title=",,What's better than a bumblebee? Two bumblebees!'' - poster from a polish beverage Łomża." small=true) }}
 
 {{image (src="/bumblebees/lifesaver_book.jpg" title="Bumblebee Lifesaver - https://karolratownik.pl/baczek-ksiazka/" small=true) }}
+
+{{image (src="/bumblebees/beeal.jpg" title="Thanks @Adam!" small=true) }}
