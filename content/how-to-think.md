@@ -36,6 +36,8 @@ Collection of resources improving reasoning, empathy, planning, understanding:
 >
 >~ Richard Penrose
 
+---
+
 >it is only the way it is until we discover
 >the new way it is, and then that is the way
 >it is until we discover the new way it is,
@@ -104,3 +106,13 @@ Collection of resources improving reasoning, empathy, planning, understanding:
 >A journey with no true end and a beginning too far away to remember
 >
 >~ Louis Cole - Quality Over Opinion
+
+---
+
+>People aren't actually moved by competence at all. Competence is actually one
+>of the least moving things in the world. You're moved by something being
+>resonant and clear. There's an amount of competence that's necessary to get
+>something to be clear and then there's superfluous competence, which is
+>whittling away all the life in it.
+>
+>~ Jacob Collier - [Logic Session Breakdown: Little Blue](https://youtu.be/M-Ii2_GgdRs?si=Mik_xJahM9wZ0Sup)
