@@ -11,7 +11,7 @@ You can click on each node, they are links!
 
 ---
 
-This is an automatically generated graph containing all pages on my websites,
+This is an automatically generated graph containing all pages on my website,
 along with the [connections](https://en.m.wikipedia.org/wiki/Intertwingularity)
 calculated using sentence embeddings. If you're interested, you can read the
 [source code](https://github.com/Wint3rmute/baczek.me/blob/main/exocortex).
@@ -54,7 +54,8 @@ calculated using sentence embeddings. If you're interested, you can read the
    similarity directly affects the R/G/B channel.
 5. `graphviz` renders the graphs and outputs them as SVGs.
 
-A much better description on [Simon Willison's blog](https://simonwillison.net/2023/Oct/23/embeddings/).
+A much better description of a similiar idea on [Simon Willison's
+blog](https://simonwillison.net/2023/Oct/23/embeddings/).
 
 ## Future plans
 
