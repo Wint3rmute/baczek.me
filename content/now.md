@@ -15,7 +15,7 @@ Closing thoughts
    infographic listing all Polish-built satellites. It turns out that I have
    worked on over half of them!
 2. I saw some amazing artists this year. Snarky Puppy, Jacob Collier,
-   Skalpel, TR/SR. At this point I can see Vulfpeck and Louis Cole and stop
+   Skalpel, TR/ST. At this point I can see Vulfpeck and Louis Cole and stop
    going to concerts altogether :)
 3. Diversification of my interests, getting more into sports, electronics,
    mechanics, is already paying off!
