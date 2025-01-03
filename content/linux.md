@@ -16,7 +16,7 @@ important parts below.
 # Hardware
 
 - ThinkPad x260 + Asus GL553VE
-- Keyboard: still struggling to pick one
+- Keyboard: Keychron K1 Slim
 
 # Distro + Essentials
 
@@ -26,7 +26,7 @@ important parts below.
 - [Wezterm](https://wezfurlong.org/wezterm/) as a terminal - Enjoying the
   GPU-accelerated performance and the ligatures
 - [Zoxide](https://github.com/ajeetdsouza/zoxide) for a smarter `cd`
-- Firefox (yes, you should be using it instead of anything Chromium-based) 
+- Firefox (yes, you should be using it instead of anything Chromium-based)
 - [Bitwig](https://www.bitwig.com/) for jamming & [making
   sounds](/making-music-linux).
 
@@ -34,7 +34,6 @@ important parts below.
 
 - [LunarVim](https://lunarvim.org)
 - [Neovide](https://neovide.dev) (only sometimes, when I feel like watching the cool cursor animations)
-
 
 # Color Theme
 
@@ -45,4 +44,3 @@ It's based on the color scheme from [Material Theme](https://material-theme.com/
 ---
 
 {{image (src="/old_theme_dwm.jpg" title="My older DWM theme. I wrote a patch which would semi-randomly assign colors to window frames. Looked fancy, but wasn't pleasant to use since it was too hard to figure out which window was focused :)" noshadow=true)}}
-
