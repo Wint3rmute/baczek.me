@@ -21,6 +21,10 @@ and gradually move them to this page.
 </center>
 
 
+{{dictionary_letter(letter="B")}}
+
+{{definition(word="Bespectacled" definition="wearing, or having the face adorned with, eyeglasses or an eyeglass", source="Disco Elysium")}}
+
 {{dictionary_letter(letter="C")}}
 
 {{definition(word="Carceral" definition="relating to a prison. You probably know a similar word: ,,incarceration''", source="Simulacra and Simulation")}}
