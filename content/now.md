@@ -4,6 +4,14 @@ tags: journal, programming, culture
 ---
 
 ```
+1X.01
+```
+
+> Watching:
+> 
+> - Porco Rosso (1992)
+
+```
 0X.01
 ```
 
