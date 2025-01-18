@@ -8,8 +8,10 @@ tags: journal, programming, culture
 ```
 
 > Watching:
-> 
+>
 > - Porco Rosso (1992)
+> - Dune: Prophecy (2024)
+> - El Topo (1970)
 
 ```
 0X.01
