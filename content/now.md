@@ -4,6 +4,29 @@ tags: journal, programming, culture
 ---
 
 ```
+2X.01
+```
+
+Took a small movie-making (or rather video-tutorial-making) task at work, to
+get a break from programming/managing/whatever it is that im currently doing.
+Happy to report that DaVinci Resolve works like a charm on Linux, with full
+GPU support! Together with Bitwig, i can basically do whatever I want, without
+leaving the comfort of my Arch setup.
+
+> Playing:
+>
+> - Ultrakill
+>
+> Listening:
+> 
+> - Heaven Piece Her
+>
+> Reading:
+>
+> - [Testing Angular](https://testing-angular.com/)
+
+
+```
 1X.01
 ```
 
