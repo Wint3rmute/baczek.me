@@ -19,7 +19,7 @@ leaving the comfort of my Arch setup.
 >
 > Listening:
 > 
-> - Heaven Piece Her
+> - Heaven Pierce Her
 >
 > Reading:
 >
