@@ -6,7 +6,14 @@ tags: collection
 
 Notes on travel, places I visited and the ones I'd like to visit.
 
-# France/Marseille
+# Iceland - to be visited in 2025
+
+- [road.is](https://road.is) - road status
+- [vedur.is](https://vedur.is) - weather status
+- [safetravel.is](https://safetravel.is) - other info/warnings for tourists
+
+
+# France/Marseille - visited in 2024
 
 {{image (src="/marseille.jpg" small=false title="Marseille, Friche la Belle de Mai.")}}
 
