@@ -10,6 +10,7 @@ tags: journal, meta, culture, programming
 This is where I keep ideas, movies, music, interesting words and other things
 that I plan to research more in-depth in the future.
 
+- [John Ousterhout - A Philosophy of Software Design](https://web.stanford.edu/~ouster/cgi-bin/book.php)
 - The mythical man-month, Fred Brooks
 - The Black Swan: The Impact of the Highly Improbable
 - Substance (2024)

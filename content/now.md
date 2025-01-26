@@ -24,6 +24,7 @@ leaving the comfort of my Arch setup.
 > Reading:
 >
 > - [Testing Angular](https://testing-angular.com/)
+> - [Lars Wirzenius -  40 years of programming](https://liw.fi/40/)
 
 
 ```
