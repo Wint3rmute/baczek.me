@@ -8,9 +8,9 @@ tags: journal, programming, culture
 ```
 
 > Listening:
-> 
+>
 > - Twenty One Pilots - Clancy
-
+> - Robert Sapolsky - Human Behavioral Biology
 
 ```
 2X.01
@@ -27,14 +27,13 @@ leaving the comfort of my Arch setup.
 > - Ultrakill
 >
 > Listening:
-> 
+>
 > - Heaven Pierce Her
 >
 > Reading:
 >
 > - [Testing Angular](https://testing-angular.com/)
-> - [Lars Wirzenius -  40 years of programming](https://liw.fi/40/)
-
+> - [Lars Wirzenius - 40 years of programming](https://liw.fi/40/)
 
 ```
 1X.01
