@@ -4,6 +4,15 @@ tags: journal, programming, culture
 ---
 
 ```
+0X.02
+```
+
+> Listening:
+> 
+> - Twenty One Pilots - Clancy
+
+
+```
 2X.01
 ```
 
