@@ -11,6 +11,10 @@ tags: journal, programming, culture
 >
 > - Twenty One Pilots - Clancy
 > - Robert Sapolsky - Human Behavioral Biology
+>
+> Watching:
+>
+> - The Banker (2020)
 
 ```
 2X.01
