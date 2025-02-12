@@ -4,6 +4,14 @@ tags: journal, programming, culture
 ---
 
 ```
+1X.02
+```
+
+> Reading:
+>
+> - Greg Egan - Learning To Be Me
+
+```
 0X.02
 ```
 
@@ -15,6 +23,10 @@ tags: journal, programming, culture
 > Watching:
 >
 > - The Banker (2020)
+>
+> Reading:
+>
+> - Pat Helland - Immutability Changes Everything
 
 ```
 2X.01
