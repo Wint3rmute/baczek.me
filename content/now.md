@@ -10,6 +10,11 @@ tags: journal, programming, culture
 > Reading:
 >
 > - Greg Egan - Learning To Be Me
+>
+> Watching:
+>
+> - The Brutalist (2024)
+
 
 ```
 0X.02
