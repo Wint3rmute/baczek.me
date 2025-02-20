@@ -4,6 +4,14 @@ tags: journal, programming, culture
 ---
 
 ```
+2X.02
+```
+
+> Reading:
+>
+> - Don Norman - The Design Of Everyday Things
+
+```
 1X.02
 ```
 

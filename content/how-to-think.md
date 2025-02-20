@@ -116,3 +116,28 @@ Collection of resources improving reasoning, empathy, planning, understanding:
 > whittling away all the life in it.
 >
 > ~ Jacob Collier - [Logic Session Breakdown: Little Blue](https://youtu.be/M-Ii2_GgdRs?si=Mik_xJahM9wZ0Sup)
+
+> Machines, after all, are conceived, designed, and constructed by people. By
+> human standards, machines are pretty limited. They do not maintain the same
+> kind of rich history of experiences that people have in common with one another,
+> experiences that enable us to interact with others because of this shared
+> understanding. Instead, machines usually follow rather simple, rigid rules of
+> behavior. If we get the rules wrong even slightly, the machine does what it
+> is told, no matter how insensible and illogical. People are imaginative and
+> creative, filled with common sense; that is, a lot of valuable knowledge built
+> up over years of experience. But instead of capitalizing on these strengths,
+> machines require us to be precise and accurate, things we are not very good at.
+> Machines have no leeway or common sense. Moreover, many of the rules followed
+> by a machine are known only by the machine and its designers. When people fail
+> to follow these bizarre, secret rules, and the machine does the wrong thing,
+> its operators are blamed for not understanding the machine, for not following
+> its rigid specifications. With everyday objects, the result is frustration.
+> With complex devices and commercial and industrial processes, the resulting
+> difficulties can lead to accidents, injuries, and even deaths. It is time to
+> reverse the situation: to cast the blame upon the machines and their design. It
+> is the machine and its design that are at fault. It is the duty of machines and
+> those who design them to understand people. It is not our duty to understand the
+> arbitrary, meaningless dictates of machines.
+>
+> ~ Don Norman - The Design Of Everyday Things
+
