@@ -19,6 +19,7 @@ tags: journal, programming, culture
 >
 > - Greg Egan - Learning To Be Me
 > - [C2 Wiki - Anti Patterns Catalog](https://wiki.c2.com/?AntiPatternsCatalog)
+>   - Also available on [antipatterns.com](http://antipatterns.com/briefing/sld001.htm)
 >
 > Watching:
 >
