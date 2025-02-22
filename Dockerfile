@@ -6,7 +6,7 @@ RUN pacman -Syu --noconfirm git graphviz wget \
 
 WORKDIR /build
 COPY pyproject.toml poetry.lock poetry.toml /build/
-RUN poetry install --only main && rm -rf ~/.cache/pypoetry
+RUN poetry install --only main --no-root && rm -rf ~/.cache/pypoetry
 
 FROM archlinux:latest
 RUN pacman -Syu --noconfirm git graphviz wget \
