@@ -10,6 +10,11 @@ tags: journal, programming, culture
 > Reading:
 >
 > - Don Norman - The Design Of Everyday Things
+>
+> Listening:
+>
+> - Son Lux - Risks of Make Believe
+
 
 ```
 1X.02
