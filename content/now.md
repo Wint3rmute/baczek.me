@@ -4,8 +4,20 @@ tags: journal, programming, culture
 ---
 
 ```
+1X.03
+```
+
+> Watching:
+>
+> - Coherence (2013)
+> - Vulfpeck - New Beastly
+
+
+```
 2X.02
 ```
+
+{{image (src="/iceland_2025.jpg" small=true title="Visited Iceland.")}}
 
 > Reading:
 >
