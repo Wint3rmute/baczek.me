@@ -10,6 +10,9 @@ tags: journal, programming, culture
 > Watching:
 >
 > - Coherence (2013)
+>
+> Listening:
+>
 > - Vulfpeck - New Beastly
 
 
