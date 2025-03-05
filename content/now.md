@@ -10,6 +10,7 @@ tags: journal, programming, culture
 > Watching:
 >
 > - Coherence (2013)
+> - The Substance (2024)
 >
 > Listening:
 >
