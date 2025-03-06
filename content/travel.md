@@ -24,6 +24,8 @@ Notes on travel, places I visited and the ones I'd like to visit.
 
 # Thailand/Bangkok - visited in 2024
 
+{{image (src="/thailand_temple_trees.jpg" small=false title="")}}
+
 - Bangkok is one of the warmest cities in the world, expect extremally humid air
 - In restaurants, every person on te table gets an extra empty plate, so that
   they can easily try the dishes ordered by other people. I've seen Thai people
