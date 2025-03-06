@@ -24,6 +24,8 @@ currently have.
 
 {{image (src="/benches/marseille_bench.jpg" small=false title="Marseille, France. View of the city from the Museum of Civilizations of Europe and the Mediterranean.")}}
 
+{{image (src="/benches/iceland.jpg" small=false title="Iceland, somewhere around the eastern shore")}}
+
 *todo: add some more pictures of benches*
 
 Hey you! Yes, the one that's staring at the screen! You have any cool pictures
