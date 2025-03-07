@@ -15,13 +15,14 @@ tags: journal, programming, culture
 > Listening:
 >
 > - Vulfpeck - New Beastly
+> - Magdalena Bay - Mercurial World
 
 
 ```
 2X.02
 ```
 
-{{image (src="/iceland_2025.jpg" small=true title="Visited Iceland.")}}
+{{image (src="/iceland_2025.jpg" small=true title="Visiting Iceland.")}}
 
 > Reading:
 >
