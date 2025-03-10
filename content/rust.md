@@ -25,4 +25,5 @@ Other links that I found interesting:
 - [This Week In Rust](https://this-week-in-rust.org/)
 - [Without Boats (dreams dry up)](https://without.boats/)
 - [Runtime Scripting for Rust Applications - Niklas Korz | EuroRust 2024](https://youtu.be/M8dpH3rO-2M?si=gn9-p4DtAEh8OjdG)
+- [blessed.rs](https://blessed.rs/crates)
 
