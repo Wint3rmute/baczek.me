@@ -9,6 +9,15 @@ tags: journal, programming, culture
 
 > Watching:
 >
+> - A Rainy Day in New York (2019)
+
+
+```
+0X.03
+```
+
+> Watching:
+>
 > - Coherence (2013)
 > - The Substance (2024)
 >
