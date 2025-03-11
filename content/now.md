@@ -7,10 +7,26 @@ tags: journal, programming, culture
 1X.03
 ```
 
+Thinking about data sonification again. [The Digital
+Heartbeats](https://youtu.be/J81WQrIBrpw?si=nBZ0eAcowzNqSEZM) sparkled some new
+ideas in my mind. Using code coverage data ([Python's
+trace](https://docs.python.org/3/library/trace.html), [Clang's
+SanitizerCoverage](https://clang.llvm.org/docs/SanitizerCoverage.html)) as it
+runs in real time could be used to draw visualisations or play sonifications
+describing what's going on. I'm pondering on an idea of the _shape_ of a
+running program and how it could evolve with different usage patterns of the
+same application. If the visualisation/sonification tool is written correctly,
+the _shape_ could be preserved between application versions, altering only
+slightly.
+
 > Watching:
 >
 > - A Rainy Day in New York (2019)
-
+> - Severance, season 2
+>
+> Reading:
+>
+> - Blame! (1997, second time)
 
 ```
 0X.03
@@ -26,7 +42,6 @@ tags: journal, programming, culture
 > - Vulfpeck - New Beastly
 > - Magdalena Bay - Mercurial World
 
-
 ```
 2X.02
 ```
@@ -41,7 +56,6 @@ tags: journal, programming, culture
 >
 > - Son Lux - Risks of Make Believe
 
-
 ```
 1X.02
 ```
@@ -55,7 +69,6 @@ tags: journal, programming, culture
 > Watching:
 >
 > - The Brutalist (2024)
-
 
 ```
 0X.02
