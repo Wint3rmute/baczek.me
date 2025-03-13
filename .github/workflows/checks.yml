@@ -16,6 +16,9 @@ jobs:
         run: poetry install --only dev
       - name: Run linters
         run: |
-          poetry run black . --check
-          poetry run isort . --check
+          # Formatting
+          poetry run ruff format --check .
+          # Import sorting
+          poetry run ruff check --select I .
+          # Lint
           poetry run ruff check .
