@@ -141,3 +141,6 @@ Collection of resources improving reasoning, empathy, planning, understanding:
 >
 > ~ Don Norman - The Design Of Everyday Things
 
+> The most effective way of helping people remember is to make it unnecessary.
+>
+> ~ Don Norman - The Design Of Everyday Things
