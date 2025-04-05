@@ -42,3 +42,7 @@ facility. The Assistant can be accessed and instructed through terminals,
 scattered accross the map. Once you instruct The Assistant on how to act, you
 can enter a room in the facility. With luck, the assistant will help you to
 progress through the room.
+
+# Some Links
+
+- https://www.aseprite.org/
