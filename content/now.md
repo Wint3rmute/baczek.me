@@ -4,6 +4,27 @@ tags: journal, programming, culture
 ---
 
 ```
+1X.05
+```
+
+> Watching:
+>
+> - Orphan Black, season 4
+
+```
+XX.04
+```
+
+Focused on work and healthy lifestyle for the entire month, had no time to note
+anything here.
+
+Run my first 10k.
+
+> Watching:
+>
+> - Orphan Black, seasons 1-3
+
+```
 1X.03
 ```
 

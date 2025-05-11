@@ -10,10 +10,10 @@ tags: journal, meta, culture, programming
 This is where I keep ideas, movies, music, interesting words and other things
 that I plan to research more in-depth in the future.
 
+- The Design Of Future Things
 - [John Ousterhout - A Philosophy of Software Design](https://web.stanford.edu/~ouster/cgi-bin/book.php)
 - The mythical man-month, Fred Brooks
 - The Black Swan: The Impact of the Highly Improbable
-- Substance (2024)
 - Daniel Ellsberg - [The Optimal Benefit of Perceived Madness](https://ia600102.us.archive.org/20/items/ThePoliticalUsesOfMadness/ELS005-001.pdf)
 - Chaos: Making a New Science
 - The Place Beyond the Pines (2012)
