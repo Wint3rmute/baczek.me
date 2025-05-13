@@ -7,6 +7,8 @@ tags: journal, programming, culture
 1X.05
 ```
 
+Enjoyed [It Awaits Your Experiments by Peter Watts](https://www.rifters.com/crawl/?p=11511).
+
 > Watching:
 >
 > - Orphan Black, season 4
