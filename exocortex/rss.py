@@ -28,7 +28,7 @@ DEVLOG_URL = "https://baczek.me/now"
 def generate_entry(link: str, updated: datetime, commit_hash: str) -> str:
     return f"""
       <entry>
-        <title>{updated.strftime('%d.%m.%Y')} Devlog update</title>
+        <title>{updated.strftime("%d.%m.%Y")} Devlog update</title>
         <link href="{link}"/>
         <updated>{updated.isoformat()}</updated>
         <summary>DevLog available at {link}</summary>
