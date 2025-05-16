@@ -33,6 +33,7 @@ from exocortex.rss import generate_rss_feed
 logger = logging.getLogger(__name__)
 logging.basicConfig(level=logging.INFO)
 
+logger.info("⌈ Wired Thoughts For Wired People ⌋")
 all_posts = get_all_posts()
 render_maps(all_posts)
 generate_recently_updated(all_posts)
