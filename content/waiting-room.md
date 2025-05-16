@@ -7,9 +7,10 @@ tags: journal, meta, culture, programming
 
 {{image (src="/waiting_room.jpg" title="") }}
 
-This is where I keep ideas, movies, music, interesting words and other things
-that I plan to research more in-depth in the future.
+This is where I keep ideas, movies, music, and other things that I plan to
+research more in-depth in the future.
 
+- Mr Nobody (2001)
 - The Design Of Future Things
 - [John Ousterhout - A Philosophy of Software Design](https://web.stanford.edu/~ouster/cgi-bin/book.php)
 - The mythical man-month, Fred Brooks
@@ -39,7 +40,7 @@ that I plan to research more in-depth in the future.
 - [Little languages for music](https://www.usenix.org/legacy/publications/compsystems/1990/spr_langston.pdf)
 - The User Illusion - Tor Norretranders
 - The Diamond Age - Neal Stephenson
-- Jaroslaw Grzedowicz - Hel 3 
+- Jaroslaw Grzedowicz - Hel 3
 - [OpenAudio GitHub list](https://github.com/webprofusion/OpenAudio)
 - Gregor Kiczales - Art of the Metaobject Protocol
 - [Rust performance book](https://nnethercote.github.io/perf-book/introduction.html)
@@ -47,7 +48,6 @@ that I plan to research more in-depth in the future.
 - Eric Evans Domain-Driven Design: Tackling Complexity in the Heart of Software
 - Richard Wolff
 - John Martin - Satan Presiding at the Infernal Council
-- Super Mario Bros (1993) - childhood movie rewatch
 - Chernoff faces
 - I Dream of Wires (2014)
 - Late 20xx Eastern-European cinema:
@@ -59,20 +59,16 @@ that I plan to research more in-depth in the future.
 - [Anju Singh](https://www.anjusingh.com/)
 - [Nannou - an open-source creative-coding framework for Rust](https://nannou.cc/)
 - [Sounding secrets of AudioLM](https://www.shaped.ai/blog/sounding-the-secrets-of-audiolm)
-- [SICP, Lecture 6A: Streams, Part 1](https://invidious.baczek.me/watch?v=JkGKLILLy0I&list=PLE18841CABEA24090&index=11)
 - [Interesting notes on memexes and related topics](https://metasyn.pw/memex)
 - [Video on geometry, from @Maciej](https://invidious.baczek.me/watch?v=utMx48aGndI)
 - [Hydra - livecoding visuals](https://github.com/hydra-synth/hydra)
-- [Rust for game tooling](https://invidious.baczek.me/watch?v=GtRo-eF8-TE)
 - Brian Eno - A Year with Swollen Appendices
 - Gothic flatline
-- Richard Penrose - The Road to Reality
 
->I don't like the word materialist
->because it suggests we know
->what the material is ~ Richard Penrose
+> I don't like the word materialist
+> because it suggests we know
+> what the material is ~ Richard Penrose
 
-- Parasite Dolls (2003)
 - [Jonathan Haidt on social media](https://jonathanhaidt.com/social-media)
 - The Sublime Object of Ideology
 - [Escape From Freedom](https://en.m.wikipedia.org/wiki/Escape_from_Freedom)
@@ -80,15 +76,12 @@ that I plan to research more in-depth in the future.
 - Baasch - neurotransmisja
 - Carl Jung - Aion
 - Miasto Światłości, Mieczysław Smolarski
-- Neo Tokyo
-- Wolf's Rain
 - Kobieta w czerni 2012
 - Permutation City
 - Julien Offray de La Mettrie - Człowiek Maszyna
 - Pulse, Kurosawa
 - Amusing Ourselves to Death
 - Counterpart HBO
-- Oldboy
 - Józef Kosecki, kybernetyka
 - ID invaded
 - Hitchcock Psychoza
@@ -98,9 +91,9 @@ that I plan to research more in-depth in the future.
 - Euphoria (where did I found this? Random note, forgot to include details)
 - Kocia kołyska vonnegut
 - Recommendations from Jacek Dukaj:
-    - Julio Cortazar
-    - Gene Wolfe
-    - Friedrich Durrenmatt
+  - Julio Cortazar
+  - Gene Wolfe
+  - Friedrich Durrenmatt
 - Dyson - Disturbing the universe
 - Brazil 85
 - [Harvard University's Justice
