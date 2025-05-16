@@ -3,6 +3,8 @@ title: 2025's Devlog
 tags: journal, programming, culture
 ---
 
+TODO: something about learning CAD.
+
 ```
 1X.05
 ```
@@ -12,6 +14,10 @@ Enjoyed [It Awaits Your Experiments by Peter Watts](https://www.rifters.com/craw
 > Watching:
 >
 > - Orphan Black, season 4
+>
+> Reading:
+>
+> - Peter Watts - Blindsight (this time the original version, in English)
 
 ```
 XX.04
