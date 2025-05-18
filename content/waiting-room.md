@@ -10,6 +10,7 @@ tags: journal, meta, culture, programming
 This is where I keep ideas, movies, music, and other things that I plan to
 research more in-depth in the future.
 
+- Olaf Stapledon - Last and First Men
 - Mr Nobody (2001)
 - The Design Of Future Things
 - [John Ousterhout - A Philosophy of Software Design](https://web.stanford.edu/~ouster/cgi-bin/book.php)
