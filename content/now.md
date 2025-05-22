@@ -6,6 +6,15 @@ tags: journal, programming, culture
 TODO: something about learning CAD.
 
 ```
+2X.05
+```
+
+> Listening:
+>
+> - Nujabes - Luv (sic) pt2 (damn, the saxophones are so good here)
+
+
+```
 1X.05
 ```
 
