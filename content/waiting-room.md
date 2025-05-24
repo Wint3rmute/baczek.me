@@ -45,7 +45,7 @@ research more in-depth in the future.
 - [OpenAudio GitHub list](https://github.com/webprofusion/OpenAudio)
 - Gregor Kiczales - Art of the Metaobject Protocol
 - [Rust performance book](https://nnethercote.github.io/perf-book/introduction.html)
-- Form Constant
+- Form Constant (Klüver constant, from Blindsight)
 - Eric Evans Domain-Driven Design: Tackling Complexity in the Heart of Software
 - Richard Wolff
 - John Martin - Satan Presiding at the Infernal Council

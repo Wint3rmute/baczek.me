@@ -9,6 +9,9 @@ TODO: something about learning CAD.
 2X.05
 ```
 
+> Watching:
+>
+> - Orphan Black, season 4
 > Listening:
 >
 > - Nujabes - Luv (sic) pt2 (damn, the saxophones are so good here)
