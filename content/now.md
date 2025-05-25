@@ -3,11 +3,18 @@ title: 2025's Devlog
 tags: journal, programming, culture
 ---
 
-TODO: something about learning CAD.
-
 ```
 2X.05
 ```
+
+Trying to get more comfortable with CAD software. Every now and then, during a
+lazy Sunday afternoon, I dedicate 2-3 hours to measure and model a random object
+at my house. CAD-based modeling is far more intuitive to me than Blender-like
+workflows. Perhaps my mind is deeply shaped with programming-based approaches
+to things and I find parametric modeling to be a reflection of declarative
+programming. Well, whatever works.
+
+{{image (src="/focal_onshape.jpg" small=true title="Model of a Focal speaker at my family's house.")}}
 
 > Watching:
 >
