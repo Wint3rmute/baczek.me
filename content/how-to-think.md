@@ -144,3 +144,10 @@ Collection of resources improving reasoning, empathy, planning, understanding:
 > The most effective way of helping people remember is to make it unnecessary.
 >
 > ~ Don Norman - The Design Of Everyday Things
+
+> Brains are survival engines, not truth detectors. If self-deception promotes
+> fitness, the brain lies. Stops noticing— irrelevant things. Truth never matters.
+> Only fitness. By now you don't experience the world as it exists at all. You
+> experience a simulation built from assumptions.
+>
+> - Peter Watts - Blindsight
