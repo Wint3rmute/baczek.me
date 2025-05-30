@@ -10,6 +10,9 @@ tags: journal, meta, culture, programming
 This is where I keep ideas, movies, music, and other things that I plan to
 research more in-depth in the future.
 
+- Greg Egan
+  - Diaspora
+  - Permutation City
 - Olaf Stapledon - Last and First Men
 - Mr Nobody (2001)
 - The Design Of Future Things
@@ -78,7 +81,6 @@ research more in-depth in the future.
 - Carl Jung - Aion
 - Miasto Światłości, Mieczysław Smolarski
 - Kobieta w czerni 2012
-- Permutation City
 - Julien Offray de La Mettrie - Człowiek Maszyna
 - Pulse, Kurosawa
 - Amusing Ourselves to Death
