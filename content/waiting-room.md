@@ -10,9 +10,7 @@ tags: journal, meta, culture, programming
 This is where I keep ideas, movies, music, and other things that I plan to
 research more in-depth in the future.
 
-- Greg Egan
-  - Diaspora
-  - Permutation City
+- Eyes Wide Shut
 - Olaf Stapledon - Last and First Men
 - Mr Nobody (2001)
 - The Design Of Future Things
@@ -23,7 +21,6 @@ research more in-depth in the future.
 - Chaos: Making a New Science
 - The Place Beyond the Pines (2012)
 - Witold Lipiński's architecture
-- The Machinist (2004)
 - Erich Neumann - The Origins and History of Consciousness
 - Labirynth (1986)
 - [gwern.net](https://gwern.net/)
@@ -48,7 +45,6 @@ research more in-depth in the future.
 - [OpenAudio GitHub list](https://github.com/webprofusion/OpenAudio)
 - Gregor Kiczales - Art of the Metaobject Protocol
 - [Rust performance book](https://nnethercote.github.io/perf-book/introduction.html)
-- Form Constant (Klüver constant, from Blindsight)
 - Eric Evans Domain-Driven Design: Tackling Complexity in the Heart of Software
 - Richard Wolff
 - John Martin - Satan Presiding at the Infernal Council
