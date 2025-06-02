@@ -3,11 +3,11 @@ title: Excellent Words
 tags: culture, collection
 ---
 
->Long words, excellent words
+> Long words, excellent words
 >
->I can hear them now
+> I can hear them now
 >
->~ Peter Gabriel - This is the Picture
+> ~ Peter Gabriel - This is the Picture
 
 Being a non-native English speaker, I'm always striving to expand my foreign
 vocabulary by collecting various interesting words/phrases from books and other
@@ -20,13 +20,13 @@ and gradually move them to this page.
     </b>
 </center>
 
-
 {{dictionary_letter(letter="B")}}
 
 {{definition(word="Bespectacled" definition="wearing, or having the face adorned with, eyeglasses or an eyeglass", source="Disco Elysium")}}
 
 {{dictionary_letter(letter="C")}}
 
+{{definition(word="Carapace" definition="a bony or chitinous case or shield covering the back or part of the back of an animal (such as a turtle or crab)", source="Peter Watts - Blindsight")}}
 {{definition(word="Carceral" definition="relating to a prison. You probably know a similar word: ,,incarceration''", source="Simulacra and Simulation")}}
 {{definition(word="Circumvolution" definition="A winding movement, especially of one thing round another", source="Simulacra and Simulation")}}
 {{definition(word="Cloister" definition="Klasztor", source="Simulacra and Simulation")}}

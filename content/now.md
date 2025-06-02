@@ -25,7 +25,7 @@ techincal jargon. My favorites:
 .. of course, the core plot twist is also on my list , but I'm not gonna reveal
 it here!
 
-New quotes are lading in [the quotes room](/how-to-think).
+New quotes are lading in [the quotes room](/thinking).
 
 After reading online reviews, possible similar materials:
 

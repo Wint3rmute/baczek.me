@@ -3,7 +3,7 @@ title: Sounds & Melodies
 tags: culture, programming, generative
 ---
 
-- [Transcribing music](/music-transcribing) with open-source tools
+- [Transcribing music](/transcribing) with open-source tools
 
 - [Resources on audio programming & DSP](/dsp)
 
@@ -12,6 +12,5 @@ tags: culture, programming, generative
 - [Listening recommendations](/listening)
 
 - [Some piano songs worth learning](/piano)
-
 
 {{image (src="/spectres_patch.jpg" title="My Korg Minilogue" small=true)}}

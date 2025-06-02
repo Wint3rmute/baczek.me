@@ -20,7 +20,7 @@ capable of making musical sounds.
 
 {{image (src="/grandma_tape_and_radio_player.jpg" title="EQ section of my grandma's tape & radio player") }}
 
-*TODO:* what synthesis method should it utilise, what sounds should it be able to make?
+_TODO:_ what synthesis method should it utilise, what sounds should it be able to make?
 
 {{image (src="/grandma_boxes.jpg" title="Hand-made wooden boxes from my Grandma's things") }}
 
