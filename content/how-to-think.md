@@ -7,13 +7,17 @@ tags: journal, culture, collection
 
 {{image (src="/on_philosophy.jpg" small=true title="")}}
 
-Collection of resources improving reasoning, empathy, planning, understanding:
+Collection of resources improving reasoning, empathy, planning, understanding.
+Selected by the merit of how much they feel relevant to my own biases and
+fallacies I fell for.
+
+Some quotes I simply enjoyed.
 
 > Never attribute to malice that
 > which is adequately explained
 > by stupidity.
 >
-> ~Robert J. Hanlon (Hanlon's Razor)
+> ~ Robert J. Hanlon (Hanlon's Razor)
 
 - Jonathan Haidt - The Righteous Mind
 - Alan Kay:
@@ -32,7 +36,7 @@ Collection of resources improving reasoning, empathy, planning, understanding:
 
 > I don't like the word materialist
 > because it suggests we know
-> what the material is
+> what the material is.
 >
 > ~ Richard Penrose
 
@@ -62,6 +66,8 @@ Collection of resources improving reasoning, empathy, planning, understanding:
 > differently](https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf).
 > Your brain and someone else's might not share the same thinking patterns, and
 > it goes **way deeper** than differences in experience and knowledge.
+>
+> ~ my own rumblings
 
 ---
 
@@ -73,7 +79,7 @@ Collection of resources improving reasoning, empathy, planning, understanding:
 > praise is not only to reinforce the behavior in that employee, but also to
 > reinforce it in everyone else.
 >
-> - Patrick Lencioni - The Ideal Team Player
+> ~ Patrick Lencioni - The Ideal Team Player
 
 ---
 
@@ -82,6 +88,8 @@ Collection of resources improving reasoning, empathy, planning, understanding:
 > Maybe no beginnings, maybe just bridges
 >
 > ~ Sampha - Satellite Business 2.0
+>
+> **Hell yes, [rhizomes](<https://en.wikipedia.org/wiki/Rhizome_(philosophy)>) explained in a hip hop song about space!**
 
 ---
 
@@ -93,19 +101,9 @@ Collection of resources improving reasoning, empathy, planning, understanding:
 >
 > At that moment, I realize I'm actually in my apartment wearing yеsterday's clothes
 >
-> Trying to make my kеyboard and mouse sing like the voices in my head
->
-> On an ergonomic rolling throne
->
-> A million mouse clicks away
->
-> A trillion mouse clicks away
->
-> From the light at the end of a twisted and incredible tunnel
->
-> A journey with no true end and a beginning too far away to remember
->
 > ~ Louis Cole - Quality Over Opinion
+>
+> **This one actually goes on for much longer, but I don't want to paste it all here for sake of brevity.**
 
 ---
 
@@ -145,9 +143,13 @@ Collection of resources improving reasoning, empathy, planning, understanding:
 >
 > ~ Don Norman - The Design Of Everyday Things
 
+---
+
 > Brains are survival engines, not truth detectors. If self-deception promotes
 > fitness, the brain lies. Stops noticing— irrelevant things. Truth never matters.
 > Only fitness. By now you don't experience the world as it exists at all. You
 > experience a simulation built from assumptions.
 >
-> - Peter Watts - Blindsight
+> ~ Peter Watts - Blindsight
+>
+> **...actually this might be a rephrasing of Steven Pinker's quote from How the Mind Works, not sure 100%**

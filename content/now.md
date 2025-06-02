@@ -4,17 +4,28 @@ tags: journal, programming, culture
 ---
 
 ```
+0X.06
+```
+
+> Listening:
+>
+> - Sroka - La Nuée
+
+```
 3X.05
 ```
 
 Finished my second reading of Blindsight, a book unbelievably densely packed
-with philosophophical and technological concepts. My favorites:
+with philosophophical and technological concepts, hidden in a labirynth of
+techincal jargon. My favorites:
 
 - Form Constant (Klüver constant)
 - Being No One (Thomas Metzinger)
 
-.. of course, the core plot twist is also in my list , but I'm not gonna reveal
+.. of course, the core plot twist is also on my list , but I'm not gonna reveal
 it here!
+
+New quotes are lading in [the quotes room](/how-to-think).
 
 After reading online reviews, possible similar materials:
 
@@ -40,7 +51,9 @@ programming. Well, whatever works.
 > Watching:
 >
 > - Orphan Black, season 4
->   Listening:
+>
+> Listening:
+>
 > - Nujabes - Luv (sic) pt2 (damn, the saxophones are so good here)
 
 ```
