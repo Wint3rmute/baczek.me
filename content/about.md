@@ -9,7 +9,7 @@ tags: journal, meta
 
 ### Work-related interests:
 
-- Currently building mission control software for [Creotech
+- Currently leading the Mission Control team for [Creotech
   Instruments](https://creotech.pl/)
 - Ex-Leader of the mission operations team at
   [SatRev](https://satrevolution.com/), operated a commercial fleet of 8
@@ -30,14 +30,13 @@ tags: journal, meta
 - Philosophy
 - Terminal UI aesthetics
 
-*TL;DR ends here, full version below*
+_TL;DR ends here, full version below_
 
 ---
 
-
 ## 🛰️ Space
 
-I am currently developing mission control software at [Creotech
+I am currently leading the Mission Control team at [Creotech
 Instruments](https://creotech.pl/). Proud to be a part of the
 [EagleEye](https://creotech.pl/news/the-polish-satellite-eagleeye-is-a-breakthrough-project-for-the-space-sector/)
 project - the most advanced satellite built by a Polish company so far (as of 2024)!
@@ -49,8 +48,6 @@ project - the most advanced satellite built by a Polish company so far (as of 20
 {{image (src="/eagleeye_scope.jpg" small=false title="Telescope of the EagleEye satellite, manufactured by another Polish company [Scanway](https://scanway.space/)")}}
 
 {{image (src="/eagleeye_visualisation.jpg" small=false title="Visualisation of the EagleEye satellite on orbit")}}
-
-
 
 ### Previous job - [SatRev](https://satrev.space/)
 
@@ -73,7 +70,6 @@ flight](https://virginorbit.com/the-latest/virgin-orbit-selected-to-launch-satre
 and the rest was launched by SpaceX's Falcon 9.
 
 {{image (src="/sw1ft.jpg" title="Summer of 2020. The SW1FT cubesat I worked on during my internship (artistic vision, duh)") }}
-
 
 ## ✈️ UAVs
 
