@@ -18,7 +18,7 @@ for my projects and can recommend:
 
 Other links that I found interesting:
 
-- [Delegate crate](https://lib.rs/crates/delegate)
+- [This Week in Rust](https://this-week-in-rust.org/)
 - [faster than lime blog](https://fasterthanli.me/about)
 - [A cool guy whose talk I've attended at a Rust Meetup in Wrocław](https://pwy.io/en/)
 - [No Boilerplate](https://www.youtube.com/channel/UCUMwY9iS8oMyWDYIe6_RmoA) - a YouTube channel that ~~shills~~ embraces Rust
