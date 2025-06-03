@@ -7,6 +7,22 @@ tags: journal, programming, culture
 0X.06
 ```
 
+While playing around with 2 really nicely designed Rust frameworks,
+[Dioxus](https://dioxuslabs.com/) and [Bevy](https://bevyengine.org/), I
+realized that my trusty old ThinkPad x260 is having trouble keeping up with my
+development workflow. A peek at [btop](https://github.com/aristocratos/btop)
+reveals that:
+
+- `rust-analyzer` is using around 4GB of RAM
+- `rustc` is peaking around 1GB
+- Firefox tabs are taking around 2GB
+  - ... and don't even think about launching Spotify! Btw: unexpected gem - [ncspot](https://github.com/hrkfdn/ncspot)
+- Add OS usage to the mix and you will soon run out of RAM!
+
+Being too lazy to write a long post about how mad I am about increasing
+resource requirements, I bought a 16GB RAM module and replaced my current 8GB
+module. RAM issues gone. Thank you, ThinkPad!
+
 > Listening:
 >
 > - Sroka - La Nuée
