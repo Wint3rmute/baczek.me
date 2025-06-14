@@ -4,6 +4,33 @@ tags: journal, programming, culture
 ---
 
 ```
+1X.06
+```
+
+Organizing my software design & specification knowledge as my team size is
+growing. I currently manage 8 people directly and around 3 indirectly. My
+semi-formal style with clearly described tickets but no well-formalized
+overarching vision is no longer scaling. I'm talking something more than
+[ARCHITECTURE.md](https://matklad.github.io//2021/02/06/ARCHITECTURE.md.html)
+and a set of design notes on an internal wiki.
+
+Learning about enterprise-scale requirements management software, such as [IBM
+Doors](https://en.wikipedia.org/wiki/DOORS) and [Enterprise
+Architect](<https://en.wikipedia.org/wiki/Enterprise_Architect_(software)>).
+They cause **so much** mental overhead and seem to be tailored for a
+_blue-collar_ _Windows-only_
+_I-will-not-stand-anything-that-is-not-reminiscent-of-msoffice_ mindset. I
+wonder if anything like this, but much more minimal, can be created for
+developers. Can't we just have a set of tags for Markdown/RST documents? With a
+[lockfile](https://doc.rust-lang.org/cargo/guide/cargo-toml-vs-cargo-lock.html)
+to detect changes/inconsistencies (such as accidentally removing requirements)
+and VCS integration to track status changes in Git?
+
+> Reading:
+>
+> - [IEEE Standard for Information Technology - Software Design Descriptions](https://standards.ieee.org/ieee/1016/4502/)
+
+```
 0X.06
 ```
 
