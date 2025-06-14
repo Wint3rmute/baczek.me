@@ -10,7 +10,7 @@ place to rest and enjoy scenic/calming/whatever views. I appreciate well-placed
 benches a lot for some reason, hence I'm collecting my favourite ones right
 here.
 
-If I ever get awfully rich, I'm going to start a real *Ławka Initiative*,
+If I ever get awfully rich, I'm going to start a real _Ławka Initiative_,
 funding benches across places in Poland to improve the tourist experience we
 currently have.
 
@@ -26,7 +26,9 @@ currently have.
 
 {{image (src="/benches/iceland.jpg" small=false title="Iceland, somewhere around the eastern shore")}}
 
-*todo: add some more pictures of benches*
+{{image (src="/benches/ksiaz_castle.jpeg" small=false title="Poland, [Książ Castle](https://en.wikipedia.org/wiki/Ksi%C4%85%C5%BC_Castle). The castle is visible when sitting on the bench, unfortunately I wasn't able to find a good perspective to snap both the bench and the castle.")}}
+
+_todo: add some more pictures of benches_
 
 Hey you! Yes, the one that's staring at the screen! You have any cool pictures
 of benches? Send them over [to me](/contact).
