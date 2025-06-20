@@ -4,6 +4,25 @@ tags: journal, programming, culture
 ---
 
 ```
+2X.06
+```
+
+Vibe-coding (there, I said it!) a small application for [requirements
+management](https://en.wikipedia.org/wiki/Requirements_management) within
+Markdown files. Sounds like the right project scope for the current maturity of
+coding agents. The UX of [Cursor](https://www.cursor.com/) has been really nice
+so far!
+
+---
+
+Attempting to understand how Blindsight was shaped by [Being No One with Thomas
+Metzinger](https://youtu.be/mthDxnFXs9k?si=cgENR_MUPJH-1QZY).
+
+> Listening:
+>
+> - Hiatus Kaiyote - Chivalry Is Not Dead
+
+```
 1X.06
 ```
 
