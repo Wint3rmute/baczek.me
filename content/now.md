@@ -13,6 +13,9 @@ Markdown files. Sounds like the right project scope for the current maturity of
 coding agents. The UX of [Cursor](https://www.cursor.com/) has been really nice
 so far!
 
+5 days later, there we are! [ReqSnake](https://github.com/wint3rmute/reqsnake).
+**TODO:** Write a larger note about my experiences with AI-assisted coding.
+
 ---
 
 Attempting to understand how Blindsight was shaped by [Being No One with Thomas
