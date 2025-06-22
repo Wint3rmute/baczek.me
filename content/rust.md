@@ -27,3 +27,4 @@ Other links that I found interesting:
 - [Runtime Scripting for Rust Applications - Niklas Korz | EuroRust 2024](https://youtu.be/M8dpH3rO-2M?si=gn9-p4DtAEh8OjdG)
 - [blessed.rs](https://blessed.rs/crates)
 - [Pitfalls of Safe Rust](https://corrode.dev/blog/pitfalls-of-safe-rust/)
+- [Great explanation of core Rust concepts for experienced programmers](https://youtu.be/QQzAWxYKPSE?si=9_yfJ9ubt-CIU8Rw)
