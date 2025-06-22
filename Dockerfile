@@ -1,4 +1,4 @@
-FROM archlinux:latest as builder
+FROM archlinux:latest AS builder
 RUN pacman -Syu --noconfirm git graphviz wget \
   blas gcc poetry pkgconf \
   python python-cairo graphviz zola \
