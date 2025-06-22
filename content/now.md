@@ -6,6 +6,10 @@ tags: journal, programming, culture
 <!-- > Listening: -->
 <!-- > -->
 <!-- > - Genesis Owusu - No Looking Back -->
+<!-- > -->
+<!-- > Watching: -->
+<!-- > -->
+<!-- > - Prospect (2018) -->
 
 ```
 2X.06
@@ -22,12 +26,16 @@ My notes and observations are noted [here](/reqsnake).
 
 ---
 
-Attempting to understand how Blindsight was shaped by [Being No One with Thomas
+Attempting to understand how Blindsight was shaped by [the thoughts of Thomas
 Metzinger](https://youtu.be/mthDxnFXs9k?si=cgENR_MUPJH-1QZY).
 
 > Listening:
 >
 > - Hiatus Kaiyote - Chivalry Is Not Dead
+>
+> Watching:
+>
+> - [Richard Penrose- Why Intelligence Is Not a Computational Process](https://youtu.be/iTVN6tFknCg?si=f_8wIdZ4dRsz_qpi)
 
 ```
 1X.06
