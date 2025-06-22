@@ -3,6 +3,10 @@ title: 2025's Devlog
 tags: journal, programming, culture
 ---
 
+<!-- > Listening: -->
+<!-- > -->
+<!-- > - Genesis Owusu - No Looking Back -->
+
 ```
 2X.06
 ```
@@ -14,7 +18,7 @@ coding agents. The UX of [Cursor](https://www.cursor.com/) has been really nice
 so far!
 
 5 days later, there we are! [ReqSnake](https://github.com/wint3rmute/reqsnake).
-**TODO:** Write a larger note about my experiences with AI-assisted coding.
+My notes and observations are noted [here](/reqsnake).
 
 ---
 
