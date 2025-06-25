@@ -153,3 +153,15 @@ Some quotes I simply enjoyed.
 > ~ Peter Watts - Blindsight
 >
 > **...actually this might be a rephrasing of Steven Pinker's quote from How the Mind Works, not sure 100%**
+
+---
+
+> I'm living in an age
+>
+> That screams my name at night
+>
+> But when I get to the doorway
+>
+> There's no one in sight
+>
+> ~ Peter Gabriel

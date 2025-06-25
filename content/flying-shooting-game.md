@@ -50,3 +50,4 @@ tags: programming
 # Notes/materials
 
 - https://docs.godotengine.org/en/stable/tutorials/3d/particles/trails.html
+- https://docs.godotengine.org/en/stable/tutorials/3d/spring_arm.html
