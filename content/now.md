@@ -3,13 +3,16 @@ title: 2025's Devlog
 tags: journal, programming, culture
 ---
 
-<!-- > Listening: -->
-<!-- > -->
-<!-- > - Genesis Owusu - No Looking Back -->
-<!-- > -->
-<!-- > Watching: -->
-<!-- > -->
-<!-- > - Prospect (2018) -->
+Confused by [Thermodynamic Computing](https://knowm.org/thermodynamic-computing/).
+
+> Listening:
+>
+> - Genesis Owusu - No Looking Back
+>
+> Watching:
+>
+> - Prospect (2018)
+
 
 ```
 2X.06
