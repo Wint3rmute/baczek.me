@@ -3,7 +3,15 @@ title: 2025's Devlog
 tags: journal, programming, culture
 ---
 
+```
+3X.06
+```
+
 Confused by [Thermodynamic Computing](https://knowm.org/thermodynamic-computing/).
+
+Discovered [Carceri d'invenzione](https://en.m.wikipedia.org/wiki/Carceri_d%27invenzione),
+strangely similar to my beloved [Blame](https://en.wikipedia.org/wiki/Blame!),
+but 300 years younger.
 
 > Listening:
 >
@@ -12,7 +20,7 @@ Confused by [Thermodynamic Computing](https://knowm.org/thermodynamic-computing/
 > Watching:
 >
 > - Prospect (2018)
-
+> - Nausicaä of the Valley of the Wind (1984)
 
 ```
 2X.06
