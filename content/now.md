@@ -4,6 +4,15 @@ tags: journal, programming, culture
 ---
 
 ```
+0X.07
+```
+
+> Listening:
+>
+> - Together - Pejzaż Remix
+> - Thievery Corporation - Temple of I&I
+
+```
 3X.06
 ```
 
@@ -46,7 +55,7 @@ Metzinger](https://youtu.be/mthDxnFXs9k?si=cgENR_MUPJH-1QZY).
 >
 > Watching:
 >
-> - [Richard Penrose- Why Intelligence Is Not a Computational Process](https://youtu.be/iTVN6tFknCg?si=f_8wIdZ4dRsz_qpi)
+> - [Richard Penrose - Why Intelligence Is Not a Computational Process](https://youtu.be/iTVN6tFknCg?si=f_8wIdZ4dRsz_qpi)
 
 ```
 1X.06
