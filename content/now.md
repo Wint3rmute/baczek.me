@@ -7,6 +7,18 @@ tags: journal, programming, culture
 0X.07
 ```
 
+Continuing with my vibe-coding detour with [ReqSnake](/reqsnake). Migrated away
+from Cursor free tier to Claude Code and I am blown away with the experience.
+The comparison is no way fair, as I moved from free-tier Cursor to paid-tier
+Claude, but I am still blown away. Claud suggests multiple useful patterns and
+implements them quite effortlessly. It taught me about a future of Python I did
+not know - [Protocols](https://typing.python.org/en/latest/spec/protocol.html).
+
+By the way, I'm absolutely loving [ruff](https://docs.astral.sh/ruff/) right
+now. While working with Claude, I've been tweaking its configuration while the
+AI was coding. The feature set of Ruff is out of this world, autofixes work
+flawlessly and it all runs **so darn fast**.
+
 > Listening:
 >
 > - Together - Pejzaż Remix
