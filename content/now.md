@@ -4,6 +4,18 @@ tags: journal, programming, culture
 ---
 
 ```
+1X.07
+```
+
+{{image (src="/squash_stroke.jpg" small=true title="Squash Stroke by Harold Edgerton.")}}
+
+I will use this image when writing about data visualisation.
+
+> Watching:
+>
+> - A Bronx Tale (1993)
+
+```
 0X.07
 ```
 
@@ -11,7 +23,7 @@ Continuing with my vibe-coding detour with [ReqSnake](/reqsnake). Migrated away
 from Cursor free tier to Claude Code and I am blown away with the experience.
 The comparison is no way fair, as I moved from free-tier Cursor to paid-tier
 Claude, but I am still blown away. Claud suggests multiple useful patterns and
-implements them quite effortlessly. It taught me about a future of Python I did
+implements them quite effortlessly. It taught me about a feature of Python I did
 not know - [Protocols](https://typing.python.org/en/latest/spec/protocol.html).
 
 By the way, I'm absolutely loving [ruff](https://docs.astral.sh/ruff/) right
