@@ -3,6 +3,24 @@ title: 2025's Devlog
 tags: journal, programming, culture
 ---
 
+<!---->
+<!-- Placeholder for my end of 2025 notes: -->
+<!---->
+<!-- I have never been more active in a year. Paste some Garmin stats regarding -->
+<!-- running/gym My career into a leading/managing role is progressing quite -->
+<!-- smoothly. I can delegate effectively, a skill I find the most important. -->
+<!---->
+<!-- Secondly, compared to the previous year, I think I have more patience and -->
+<!-- kindness towards people around me, as communication is becoming more and more -->
+<!-- important. -->
+<!---->
+<!-- I moved away from figuring out how implement a piece of code and make multiple -->
+<!-- pieces work together. I now figure out how to teach a team member how to -->
+<!-- operate within some domain space and how to effectively arrange diverse -->
+<!-- interests of my coworkers together, giving them space to learn and achieve -->
+<!-- great things! -->
+<!---->
+
 ```
 1X.07
 ```
@@ -14,6 +32,7 @@ I will use this image when writing about data visualisation.
 > Watching:
 >
 > - A Bronx Tale (1993)
+> - Escaflowne (2000)
 
 ```
 0X.07

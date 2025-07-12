@@ -18,3 +18,5 @@ Nexus page linking to all of my never finished project ideas, so I can get them 
 - **[Custom Hardware Synth](/synth)** - learned soldering while tinkering on this!
 
 - **[GPU Synth](/gpu-synth)** - honestly I'm never gonna learn physical modeling, let alone on a GPU.
+
+- **Graph-based life simulation** - TODO: write on this one
