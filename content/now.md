@@ -29,6 +29,8 @@ tags: journal, programming, culture
 
 I will use this image when writing about data visualisation.
 
+Run my first 10k in under 1h.
+
 > Watching:
 >
 > - A Bronx Tale (1993)
