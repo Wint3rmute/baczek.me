@@ -22,14 +22,14 @@ and gradually move them to this page.
 
 {{dictionary_letter(letter="B")}}
 
-{{definition(word="Bespectacled" definition="wearing, or having the face adorned with, eyeglasses or an eyeglass", source="Disco Elysium")}}
+{{definition(word="Bespectacled" definition="Wearing, or having the face adorned with, eyeglasses or an eyeglass", source="Disco Elysium")}}
 
 {{dictionary_letter(letter="C")}}
 
-{{definition(word="Carapace" definition="a bony or chitinous case or shield covering the back or part of the back of an animal (such as a turtle or crab)", source="Peter Watts - Blindsight")}}
-{{definition(word="Carceral" definition="relating to a prison. You probably know a similar word: ,,incarceration''", source="Simulacra and Simulation")}}
+{{definition(word="Carapace" definition="A bony or chitinous case or shield covering the back or part of the back of an animal (such as a turtle or crab)", source="Peter Watts - Blindsight")}}
+{{definition(word="Carceral" definition="Relating to a prison. You probably know a similar word: ,,incarceration''", source="Simulacra and Simulation")}}
 {{definition(word="Circumvolution" definition="A winding movement, especially of one thing round another", source="Simulacra and Simulation")}}
-{{definition(word="Cloister" definition="Klasztor", source="Simulacra and Simulation")}}
+{{definition(word="Cloister" definition="Residence that is a place of religious seclusion (such as a monastery)", source="Simulacra and Simulation")}}
 {{definition(word="Collective Effervescence" definition="Spontaneus participation in the same action", source="Simulacra and Simulation")}}
 {{definition(word="Confinement" definition="Imprisonment, restraint, restriction", source="Simulacra and Simulation")}}
 
@@ -37,10 +37,11 @@ and gradually move them to this page.
 
 {{definition(word="De Jure" definition="Practices, which are legally recognized", source="Starość Aksolotla")}}
 {{definition(word="Defenestration" definition="The act of throwing someone or something out of a window", source="JJay")}}
-{{definition(word="Defunct" definition="Zmarły, zlikwidowany (?)", source="Simulacra and Simulation")}}
+{{definition(word="Defunct" definition="No longer existing, living, or working correctly", source="Simulacra and Simulation")}}
 {{definition(word="Deterrence" definition="Odstraszenie", source="Oppenheimer (2023)")}}
 
 {{dictionary_letter(letter="F")}}
+
 {{definition(word="Fulcrum" definition="The point on which a lever turns or is supported. The most important part of an activity or a situation", source="The Psychological Significance of the Biblical Stories")}}
 
 {{dictionary_letter(letter="G")}}
@@ -49,7 +50,7 @@ and gradually move them to this page.
 
 {{dictionary_letter(letter="H")}}
 
-{{definition(word="Hapax Legomenon" definition="a word with a special meaning used for a special occasion/a word or an expression that occurs only once within a context", source="[How to Speak by Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)")}}
+{{definition(word="Hapax Legomenon" definition="A word with a special meaning used for a special occasion/a word or an expression that occurs only once within a context", source="[How to Speak by Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)")}}
 
 {{dictionary_letter(letter="I")}}
 
@@ -58,26 +59,31 @@ and gradually move them to this page.
 {{dictionary_letter(letter="L")}}
 
 {{definition(word="Liminality" definition="todo: write", source="The Backrooms Wiki")}}
+
 {{definition(word="Locus" definition="The place where something happens or the central area of interest in something", source="The Psychological Significance of the Biblical Stories")}}
+
 {{definition(word="Languid" definition="Lacking force or quickness of movement", source="Kadhja Bonet - Honeycomb")}}
 
 {{dictionary_letter(letter="M")}}
 
 {{definition(word="Merveilles" definition="French word for wonders/miracles", source="[merveilles.town](https://merveilles.town/)")}}
+
 {{definition(word="Metastasize" definition="To be changed or transformed, especially dangerously", source="A Rainy Day In New York (2019)")}}
+
 {{definition(word="Modus vivendi" definition="Way of life - coexistance of conflicting parties", source="Dark (2017)")}}
 
 {{dictionary_letter(letter="N")}}
 
-{{definition(word="Noblesse oblige" definition="Szlachectwo zobowiązuje", source="Some book by Jacek Dukaj")}}
-{{definition(word="Non sequitur" definition="Błąd formalny", source="Some book by Jacek Dukaj")}}
+{{definition(word="Noblesse oblige" definition="The obligation of those of high rank to be honorable and generous", source="Some book by Jacek Dukaj")}}
+
+{{definition(word="Non sequitur" definition="Formal error. Alternatively: a reply that has no relevance to what preceded it", source="Some book by Jacek Dukaj")}}
 
 {{dictionary_letter(letter="P")}}
 
-{{definition(word="Persona non grata" definition="person not welcome (in some place, institution)", source="Can't remember")}}
+{{definition(word="Persona non grata" definition="Person not welcome (in some place, institution) ", source="Can't remember")}}
 {{definition(word="Petrichor" definition="Specific ,,earthy'' scent produced when rain falls on dry soil", source="Preset name on Minilougue xd")}}
 {{definition(word="Putrefaction" definition="Rot, decay", source="Simulacra and Simulation")}}
-{{definition(word="Pyrrhic victory" definition="victory that inflicts such a devastating toll on the victor that it is tantamount to defeat", source="Valis")}}
+{{definition(word="Pyrrhic victory" definition="Victory that inflicts such a devastating toll on the victor that it is tantamount to defeat", source="Valis")}}
 {{definition(word="Portmanteau" definition="Blend word, a word formed by combining sounds and meanings of two or more words", source="Kokorobot.ca")}}
 
 {{dictionary_letter(letter="R")}}

@@ -29,6 +29,8 @@ tags: journal, programming, culture
 
 I will use this image when writing about data visualisation.
 
+---
+
 Run my first 10k in under 1h.
 
 > Watching:
@@ -50,7 +52,8 @@ not know - [Protocols](https://typing.python.org/en/latest/spec/protocol.html).
 By the way, I'm absolutely loving [ruff](https://docs.astral.sh/ruff/) right
 now. While working with Claude, I've been tweaking its configuration while the
 AI was coding. The feature set of Ruff is out of this world, autofixes work
-flawlessly and it all runs **so darn fast**.
+flawlessly and it all runs **so darn fast**. Best tool I've seen when it comes
+to force LLMs to write quality code without a ton of prompts.
 
 > Listening:
 >
