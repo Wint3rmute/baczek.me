@@ -47,6 +47,12 @@ tags: programming
   - Dash last-second
   - The enemies crash into the building
 
+# Music
+
+- I love how Ultrakill synchronizes game with music
+- Add pitch-shifting effects when taking damage?
+- Music should changed based on the state od the game
+
 # Notes/materials
 
 - https://docs.godotengine.org/en/stable/tutorials/3d/particles/trails.html
