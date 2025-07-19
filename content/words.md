@@ -32,6 +32,7 @@ and gradually move them to this page.
 {{definition(word="Cloister" definition="Residence that is a place of religious seclusion (such as a monastery)", source="Simulacra and Simulation")}}
 {{definition(word="Collective Effervescence" definition="Spontaneus participation in the same action", source="Simulacra and Simulation")}}
 {{definition(word="Confinement" definition="Imprisonment, restraint, restriction", source="Simulacra and Simulation")}}
+{{definition(word="Conjectural" definition="Based on how something seems and not on proof", source="The Colonel - Peter Watts")}}
 
 {{dictionary_letter(letter="D")}}
 

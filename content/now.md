@@ -33,6 +33,10 @@ I will use this image when writing about data visualisation.
 
 Run my first 10k in under 1h.
 
+> Reading:
+>
+> - Peter Watts - The Colonel
+>
 > Watching:
 >
 > - A Bronx Tale (1993)
