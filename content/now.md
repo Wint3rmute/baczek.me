@@ -35,12 +35,15 @@ Run my first 10k in under 1h.
 
 > Reading:
 >
-> - Peter Watts - The Colonel
+> - Peter Watts - [The Colonel](https://reactormag.com/the-colonel-peter-watts/)
+> - Pater Watts - [Some People Just Want to Watch the Internet Burn](https://www.rifters.com/crawl/?p=11220)
 >
 > Watching:
 >
 > - A Bronx Tale (1993)
 > - Escaflowne (2000)
+> - The French Dispatch (2021)
+
 
 ```
 0X.07
