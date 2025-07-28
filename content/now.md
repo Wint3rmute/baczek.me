@@ -22,6 +22,15 @@ tags: journal, programming, culture
 <!---->
 
 ```
+2X.07
+```
+
+> Reading:
+>
+> - [Lenia - Biology of Artificial Life](https://arxiv.org/abs/1812.05433)
+> - Peter Watts - Echopraxia (second time, original English version)
+
+```
 1X.07
 ```
 
@@ -43,7 +52,6 @@ Run my first 10k in under 1h.
 > - A Bronx Tale (1993)
 > - Escaflowne (2000)
 > - The French Dispatch (2021)
-
 
 ```
 0X.07
