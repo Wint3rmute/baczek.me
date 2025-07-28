@@ -29,6 +29,11 @@ tags: journal, programming, culture
 >
 > - [Lenia - Biology of Artificial Life](https://arxiv.org/abs/1812.05433)
 > - Peter Watts - Echopraxia (second time, original English version)
+>
+> Listening:
+>
+> - Baasch - Uwaga (Idę do Ciebie)
+> - Quebonafide - PÓŁNOC/POŁUDNIE
 
 ```
 1X.07
