@@ -9,16 +9,10 @@ tags: culture, collection
 >
 > ~ Peter Gabriel - This is the Picture
 
-Being a non-native English speaker, I'm always striving to expand my foreign
+Being a non-native English speaker, I strive to expand my foreign
 vocabulary by collecting various interesting words/phrases from books and other
 reading/listening materials. I usually write them down in a personal notebook
 and gradually move them to this page.
-
-<center>
-    <b>
-        Some of the definitions are still in polish. I'm working on them.
-    </b>
-</center>
 
 {{dictionary_letter(letter="B")}}
 
@@ -86,6 +80,7 @@ and gradually move them to this page.
 {{definition(word="Putrefaction" definition="Rot, decay", source="Simulacra and Simulation")}}
 {{definition(word="Pyrrhic victory" definition="Victory that inflicts such a devastating toll on the victor that it is tantamount to defeat", source="Valis")}}
 {{definition(word="Portmanteau" definition="Blend word, a word formed by combining sounds and meanings of two or more words", source="Kokorobot.ca")}}
+{{definition(word="Par excellence" definition="You describe something as par excellence when it is the best example of its type", source="Probably one of Wes Anderson's movies")}}
 
 {{dictionary_letter(letter="R")}}
 
