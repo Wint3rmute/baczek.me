@@ -10,6 +10,7 @@ tags: journal, meta, culture, programming
 This is where I keep ideas, movies, music, and other things that I plan to
 research more in-depth in the future.
 
+- Aku no Hana (listen to the ending song!)
 - Failure Is Not an Option: Mission Control From Mercury to Apollo 13 and Beyond
 - Eyes Wide Shut
 - Olaf Stapledon - Last and First Men
