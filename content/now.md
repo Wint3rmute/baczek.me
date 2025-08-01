@@ -22,6 +22,14 @@ tags: journal, programming, culture
 <!---->
 
 ```
+0X.08
+```
+
+> Watching:
+>
+> - Tokyo Godfathers (2003)
+
+```
 2X.07
 ```
 
