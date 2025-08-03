@@ -58,3 +58,4 @@ tags: programming
 - https://docs.godotengine.org/en/stable/tutorials/3d/particles/trails.html
 - https://docs.godotengine.org/en/stable/tutorials/3d/spring_arm.html
 - Godot settings allow for defining blender-style shortcuts, see "begin transformation"
+- Blender: Noise & Displacement modifiers
