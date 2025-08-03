@@ -165,3 +165,11 @@ Some quotes I simply enjoyed.
 > There's no one in sight
 >
 > ~ Peter Gabriel
+
+---
+
+> I don't have much to say about it because the arguments seem so clear-cut as
+> to be almost uninteresting. Neurons do not fire themselves. [...] The switch
+> cannot flip itself. QED.
+>
+> Peter Watts (on free will) - Echopraxia
