@@ -99,7 +99,8 @@ and gradually move them to this page.
 {{definition(word="Schlaraffenland" definition="A land of plenty in medieval myth, an imaginary place of extreme luxury", source="Summa Technologiae")}}
 {{definition(word="Salient" definition="Something that projects outward or upward from its surroundings", source="[How to speak](https://www.youtube.com/watch?v=Unzc731iCUY)")}}
 {{definition(word="Sonification" definition="Sonification is the use of non-speech audio to convey information or perceptualize data", source="")}}
-{{definition(word="Schadenfreude" definition="Delight in another person's misfortune", source="")}}
+{{definition(word="Schadenfreude" definition="Delight in another person's misfortune", source="Dwie Lewe Ręce Podcast")}}
+{{definition(word="Spoke" definition="any of the rods that join the edge of a wheel to its center to strengthen it", source="Peter Watts - Echopraxia")}}
 
 {{dictionary_letter(letter="T")}}
 {{definition(word="Tantrum" definition="Intense emotional outburst. Commonly used wording: temper tantrum", source="Can't remember")}}
