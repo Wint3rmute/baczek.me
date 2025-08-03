@@ -49,6 +49,7 @@ and gradually move them to this page.
 
 {{dictionary_letter(letter="I")}}
 
+{{definition(word="Incandescence" definition="The act of producing a bright light from a heated part", source="Peter Watts - Echopraxia")}}
 {{definition(word="Incessant" definition="Continual, unceasing, permanent, perpetual", source="Simulacra and Simulation")}}
 
 {{dictionary_letter(letter="L")}}
