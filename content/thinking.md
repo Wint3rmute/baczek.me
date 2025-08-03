@@ -93,17 +93,10 @@ Some quotes I simply enjoyed.
 
 ---
 
-> Dripping golden blood from important arteries as I smash through once again
->
-> Screaming, "More love, less hate"
->
-> The words rattling my boney ribcage
->
-> At that moment, I realize I'm actually in my apartment wearing yеsterday's clothes
->
-> ~ Louis Cole - Quality Over Opinion
->
-> **This one actually goes on for much longer, but I don't want to paste it all here for sake of brevity.**
+I cannot extract any specific fragment which would do it justice and the
+entirety is too long to paste here.
+
+**Louis Cole - Quality Over Opinion.**
 
 ---
 
@@ -114,6 +107,8 @@ Some quotes I simply enjoyed.
 > whittling away all the life in it.
 >
 > ~ Jacob Collier - [Logic Session Breakdown: Little Blue](https://youtu.be/M-Ii2_GgdRs?si=Mik_xJahM9wZ0Sup)
+
+---
 
 > Machines, after all, are conceived, designed, and constructed by people. By
 > human standards, machines are pretty limited. They do not maintain the same
@@ -138,6 +133,8 @@ Some quotes I simply enjoyed.
 > arbitrary, meaningless dictates of machines.
 >
 > ~ Don Norman - The Design Of Everyday Things
+
+---
 
 > The most effective way of helping people remember is to make it unnecessary.
 >
