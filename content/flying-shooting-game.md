@@ -59,5 +59,5 @@ tags: programming
 - https://docs.godotengine.org/en/stable/tutorials/3d/spring_arm.html
 - Godot settings allow for defining blender-style shortcuts, see "begin transformation"
 - Blender: Noise & Displacement modifiers
-
+- [Manual 2D drawing in Godot UI](https://docs.godotengine.org/en/4.4/tutorials/2d/custom_drawing_in_2d.html#doc-custom-drawing-in-2d)
 - [Simple Physics-based Flight Simulation with C++](https://www.jakobmaier.at/posts/flight-simulation/)
