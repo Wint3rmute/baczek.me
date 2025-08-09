@@ -25,9 +25,14 @@ tags: journal, programming, culture
 0X.08
 ```
 
+> Listening:
+>
+> - Ryuichi Sakamoto - `async`
+>
 > Watching:
 >
 > - Tokyo Godfathers (2003)
+> - True Detective (2014)
 
 ```
 2X.07
