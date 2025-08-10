@@ -13,5 +13,6 @@ tags: culture, collection
 - The Screwtape Letters
 - Blame!
 - Jonathan Haidt - The Righteus Mind
+- Blindsight
 
 I'm logging the things I am currently reading in the [log](/now).
