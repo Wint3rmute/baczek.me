@@ -61,3 +61,4 @@ tags: programming
 - Blender: Noise & Displacement modifiers
 - [Manual 2D drawing in Godot UI](https://docs.godotengine.org/en/4.4/tutorials/2d/custom_drawing_in_2d.html#doc-custom-drawing-in-2d)
 - [Simple Physics-based Flight Simulation with C++](https://www.jakobmaier.at/posts/flight-simulation/)
+- [Lighting in Godot](https://www.youtube.com/watch?v=aRdiiWpA0AA)
