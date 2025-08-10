@@ -22,6 +22,15 @@ tags: journal, programming, culture
 <!---->
 
 ```
+1X.08
+```
+
+
+> Watching:
+>
+> - [Robert Sapolsky - Biological underpinnings of religiosity](https://youtu.be/4WwAQqWUkpI?si=E80yerLIix5bC-Cf)
+
+```
 0X.08
 ```
 
