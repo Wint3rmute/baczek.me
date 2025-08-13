@@ -35,6 +35,10 @@ and gradually move them to this page.
 {{definition(word="Defunct" definition="No longer existing, living, or working correctly", source="Simulacra and Simulation")}}
 {{definition(word="Deterrence" definition="Odstraszenie", source="Oppenheimer (2023)")}}
 
+{{dictionary_letter(letter="E")}}
+
+{{definition(word="Euergetism" definition="Ancient practice of high-status and wealthy individuals in society distributing part of their wealth to the community", source="Marcin Giełzak - Dwie Lewe Ręce Podcast")}}
+
 {{dictionary_letter(letter="F")}}
 
 {{definition(word="Fulcrum" definition="The point on which a lever turns or is supported. The most important part of an activity or a situation", source="The Psychological Significance of the Biblical Stories")}}
