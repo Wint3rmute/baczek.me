@@ -10,6 +10,7 @@ tags: journal, meta, culture, programming
 This is where I keep ideas, movies, music, and other things that I plan to
 research more in-depth in the future.
 
+- The Disappearance of Eleanor Rigby
 - Aku no Hana (listen to the ending song!)
 - Failure Is Not an Option: Mission Control From Mercury to Apollo 13 and Beyond
 - Eyes Wide Shut
