@@ -107,6 +107,7 @@ and gradually move them to this page.
 {{definition(word="Sonification" definition="Sonification is the use of non-speech audio to convey information or perceptualize data", source="")}}
 {{definition(word="Schadenfreude" definition="Delight in another person's misfortune", source="Dwie Lewe Ręce Podcast")}}
 {{definition(word="Spoke" definition="any of the rods that join the edge of a wheel to its center to strengthen it", source="Peter Watts - Echopraxia")}}
+{{definition(word="Syllogism" definition="form of deductive reasoning in which a conclusion is drawn from two or more premises", source="The Origin of Consciousness in the Breakdown of the Bicameral Mind")}}
 
 {{dictionary_letter(letter="T")}}
 {{definition(word="Tantrum" definition="Intense emotional outburst. Commonly used wording: temper tantrum", source="Can't remember")}}
