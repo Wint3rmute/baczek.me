@@ -25,7 +25,10 @@ tags: journal, programming, culture
 1X.08
 ```
 
-
+> Reading:
+>
+> Julian Jaynes - The Origin of Consciousness in the Breakdown of the Bicameral Mind
+>
 > Watching:
 >
 > - [Robert Sapolsky - Biological underpinnings of religiosity](https://youtu.be/4WwAQqWUkpI?si=E80yerLIix5bC-Cf)
