@@ -22,6 +22,15 @@ tags: journal, programming, culture
 <!---->
 
 ```
+2X.08
+```
+
+> Listening:
+>
+> - Baasch - Woda
+> - Dorian Concept - Hide
+
+```
 1X.08
 ```
 
