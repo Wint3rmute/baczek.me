@@ -27,6 +27,7 @@ tags: journal, programming, culture
 
 > Listening:
 >
+> - Kae Tempest - Firesmoke
 > - Baasch - Woda
 > - Dorian Concept - Hide
 
