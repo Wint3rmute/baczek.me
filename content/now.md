@@ -25,6 +25,9 @@ tags: journal, programming, culture
 2X.08
 ```
 
+Disturbed by Peter Watts' [In Defense of Religious
+Belief](https://www.rifters.com/crawl/?p=3197).
+
 > Listening:
 >
 > - Kae Tempest - Firesmoke
