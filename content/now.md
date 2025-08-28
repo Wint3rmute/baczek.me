@@ -28,6 +28,8 @@ tags: journal, programming, culture
 Disturbed by Peter Watts' [In Defense of Religious
 Belief](https://www.rifters.com/crawl/?p=3197).
 
+Delighted by [State-Space Magic](https://youtu.be/YGLNyHd2w10?si=oxpVAVfBGxQTqbs0).
+
 > Listening:
 >
 > - Kae Tempest - Firesmoke
