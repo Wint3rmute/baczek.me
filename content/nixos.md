@@ -7,23 +7,28 @@ tags: programming, collection
 
 NixOs is a Linux distro based on a fully declarative package manager, Nix.
 Forget about keeping a script for setting up your system or storing your
-dotfiles in a repository, Nix will take care of it.
+dotfiles in a repository. Forget about clearing up old configuration files. No
+more conflicts between package versions. Nix will take care of it.
 
-I am currently using NixOs on my server/homelab infrastructure. From my
-experience so far, it is a step up from Ansible playbooks or similar tools. I
-am reluctant to switch my main laptops to NixOs, as it's not as easy to program
-on NixOs as it is to deploy software on it. Hopefully this will change in the
+I am currently using NixOs on my server/homelab infrastructure. It is a step up
+from Ansible playbooks, I even dare to say that it's a paradigm shift. I am
+reluctant to switch my main laptops to NixOs, as it's not as easy to program on
+NixOs as it is to deploy software on it. Hopefully this will change in the
 future :)
 
 Useful links:
 
-- [VimJoyer YouTube channel](https://youtube.com/@vimjoyer) - high quality Nix tutorials
-- [Nix-ld](https://github.com/Mic92/nix-ld) - running "normal" binaries on NixOs
-- [An overview of Nix in practice](https://www.slice.zone/blog/nix-in-practice)
-- [MyNixOs](https://mynixos.com/) - comfy search engine for NixOs configuration
-  options
-- [NixOs egui](https://scvalex.net/posts/63/)
+- [search.nixos.org](https://search.nixos.org/) - search engine for NixOs
+  configuration options
 - [Nix Pills](https://nixos.org/guides/nix-pills/)
+- [VimJoyer YouTube channel](https://youtube.com/@vimjoyer) - high quality Nix
+  tutorials
+- [An overview of Nix in practice](https://www.slice.zone/blog/nix-in-practice)
+- [Nix-ld](https://github.com/Mic92/nix-ld) - running "normal" binaries on
+  NixOs
+- [Nix Phd thesis from Eelco Dolstra, the author of
+  Nix](https://edolstra.github.io/pubs/phd-thesis.pdf)
+- [NixOs egui](https://scvalex.net/posts/63/)
 
 # Tips & notes
 

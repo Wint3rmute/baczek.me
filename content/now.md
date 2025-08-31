@@ -22,6 +22,26 @@ tags: journal, programming, culture
 <!---->
 
 ```
+3X.08
+```
+
+Migrated my image gallery to [Immich](https://immich.app/), as NextCloud is
+noticably slow and the mobile application often behaves weirdly when browsing
+through large folders of images. Nextcloud is still great for all my other file
+management needs, it seems like there's no mature open source replacement for
+it as of now.
+
+On the other hand, Immich is lightning fast, running on the same machine as
+Nextcloud. The mobile app is on-par with Google Photos. Immich's machine
+learning module recognizes the _"Pepe"_ keyword and lets me quickly browse
+through the collection of the green frogs we all know and love. The future is
+here.
+
+As expected, I [self-host](/decentralisation) Immich on my [NixOS](/nixos)
+homelab. If you're using Immich, I suggest supporting them at
+[buy.immich.app](https://buy.immich.app/)!
+
+```
 2X.08
 ```
 

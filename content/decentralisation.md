@@ -18,26 +18,25 @@ Check out my [bookmarks](/bookmarks)!
 I'm running self-hosted online services. They are public, you can
 use them too :)
 
-- [Invidious](https://invidious.baczek.me), an alternate YouTube frontend
+- [Redlib](https://redlib.baczek.me), alternative Reddit frontend
 
 - [SearX](https://searx.baczek.me), a meta-search engine
 
+- [Invidious](https://invidious.baczek.me), an alternate YouTube frontend
+
 - [LibreY](https://librey.baczek.me), another meta-search engine
-
-- [Redlib](https://redlib.baczek.me), alternative Reddit frontend
-
 
 I also recommend the following services for private use:
 
+- [Immich](https://immich.app/)
+
 - [NextCloud](https://nextcloud.com/)
 
-- [Matrix](https://github.com/matrix-org/synapse/) 
+- [Matrix](https://github.com/matrix-org/synapse/)
 
 - [Gitea](https://gitea.com/)
 
-
->some random thoughts on search - [registry-based search engine manifesto](/search-registry-manifesto)
-
+> some random thoughts on search - [registry-based search engine manifesto](/search-registry-manifesto)
 
 ## Notes on self-hosting, suggested software
 
@@ -46,5 +45,5 @@ I also recommend the following services for private use:
 3. Ping everything from time to time (Blackbox exporter)
 4. Setup notifications when a service goes down
 5. Automate everything from the start, you won't regret it
-6. As your infrastructure (and knowledge) grows, you will eventually need *infrastructure as code*
-    - Or even better, just use [NixOs](/nixos)
+6. As your infrastructure (and knowledge) grows, you will eventually need _infrastructure as code_
+   - Or even better, just use [NixOs](/nixos)
