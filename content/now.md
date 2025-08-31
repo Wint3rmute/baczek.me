@@ -41,6 +41,9 @@ As expected, I [self-host](/decentralisation) Immich on my [NixOS](/nixos)
 homelab. If you're using Immich, I suggest supporting them at
 [buy.immich.app](https://buy.immich.app/)!
 
+Exploring [Copyparty](https://github.com/9001/copyparty) as a lightweight
+Nextcloud alternative.
+
 ```
 2X.08
 ```
