@@ -10,6 +10,8 @@ tags: journal, meta, culture, programming
 This is where I keep ideas, movies, music, and other things that I plan to
 research more in-depth in the future.
 
+- Scavengers Reign
+- November (2017 film)
 - Nexus: A Brief History of Information Networks from the Stone Age to AI
 - The Disappearance of Eleanor Rigby
 - Aku no Hana (listen to the ending song!)
