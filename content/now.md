@@ -22,6 +22,16 @@ tags: journal, programming, culture
 <!---->
 
 ```
+0X.09
+```
+
+Traveling to Japan. *to do:* picture.
+
+> Listening:
+>
+> - Nujabes et al - 2nd Collection
+
+```
 3X.08
 ```
 
