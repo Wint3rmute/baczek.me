@@ -25,7 +25,7 @@ tags: journal, programming, culture
 0X.09
 ```
 
-Traveling to Japan. *to do:* picture.
+Traveling to Japan. *Todo: picture*.
 
 > Listening:
 >
@@ -36,13 +36,10 @@ Traveling to Japan. *to do:* picture.
 ```
 
 Migrated my image gallery to [Immich](https://immich.app/), as NextCloud is
-noticably slow and the mobile application often behaves weirdly when browsing
-through large folders of images. Nextcloud is still great for all my other file
-management needs, it seems like there's no mature open source replacement for
-it as of now.
+too slow for me. Taking up to few seconds just to load a webpage with a list of files/folders is unacceptable. Apart from that, the Nextcloud mobile application often behaves weirdly when browsing through large folders of images. Sadly, it seems like there's no mature open source replacement for Nextcloud as of now.
 
-On the other hand, Immich is lightning fast, running on the same machine as
-Nextcloud. The mobile app is on-par with Google Photos. Immich's machine
+On the other hand, Immich is lightning fast when running on the same machine as
+Nextcloud. The mobile app is on-par with Google Photos. To my surprise, Immich's machine
 learning module recognizes the _"Pepe"_ keyword and lets me quickly browse
 through the collection of the green frogs we all know and love. The future is
 here.
