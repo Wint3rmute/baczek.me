@@ -5,10 +5,11 @@ title: NixOs
 tags: programming, collection
 ---
 
-NixOs is a Linux distro based on a fully declarative package manager, Nix.
-Forget about keeping a script for setting up your system or storing your
-dotfiles in a repository. Forget about clearing up old configuration files. No
-more conflicts between package versions. Nix will take care of it.
+NixOS is a Linux distro which follows a path radically different from Ubuntu/Fedora/Arch/Gentoo, etc. The system configuration is no longer a stateful, imperative process. Instead, you describe your system using the Nix configuration language and a fresh *system generation* (something like a system image) is built.
+
+Simplifying, you can think about it as getting a completely fresh system on every change, except the directories when data is kept: `/home` `/var` `log`.
+
+What does that mean in practice? Forget about keeping a script for setting up your system or your dotfiles. Forget about clearing up old configuration files. No more conflicts between package versions. If you have multiple machines, treat them like build configurations in programming languages and freely reuse modules with configuration. Same users on multiple systems? Done. Same configuration for a specific app? Done!
 
 I am currently using NixOs on my server/homelab infrastructure. It is a step up
 from Ansible playbooks, I even dare to say that it's a paradigm shift. I am
