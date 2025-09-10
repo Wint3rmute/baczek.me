@@ -1,25 +1,36 @@
 ---
 created: 2022-06-13T23:48:37+02:00
 modified: 2022-10-27T22:56:27+02:00
-title: NixOs
+title: NixOS
 tags: programming, collection
 ---
 
-NixOS is a Linux distro which follows a path radically different from Ubuntu/Fedora/Arch/Gentoo, etc. The system configuration is no longer a stateful, imperative process. Instead, you describe your system using the Nix configuration language and a fresh *system generation* (something like a system image) is built.
+[NixOS](https://nixos.org/) is a Linux distro which follows a path radically
+different from Ubuntu/Fedora/Arch/Gentoo, etc. The system configuration is no
+longer a stateful, imperative process. Instead, you describe your system using
+the Nix configuration language and a fresh _system generation_ (something like
+a system image) is built and activated each time you're making a change to the
+system.
 
-Simplifying, you can think about it as getting a completely fresh system on every change, except the directories when data is kept: `/home` `/var` `log`.
+Simplifying, you can think about it as getting a completely fresh system on
+every change, except the directories when data is kept: `/home`, `/var`, `log`.
 
-What does that mean in practice? Forget about keeping a script for setting up your system or your dotfiles. Forget about clearing up old configuration files. No more conflicts between package versions. If you have multiple machines, treat them like build configurations in programming languages and freely reuse modules with configuration. Same users on multiple systems? Done. Same configuration for a specific app? Done!
+What does that mean in practice? Forget about keeping a script for setting up
+your system or your dotfiles. Forget about clearing up old configuration files.
+No more conflicts between package versions. If you have multiple machines,
+treat them like build configurations in programming languages and freely reuse
+modules with configuration. Same users on multiple systems? Done. Same
+configuration for a specific service/app? Done!
 
-I am currently using NixOs on my server/homelab infrastructure. It is a step up
-from Ansible playbooks, I even dare to say that it's a paradigm shift. I am
-reluctant to switch my main laptops to NixOs, as it's not as easy to program on
-NixOs as it is to deploy software on it. Hopefully this will change in the
-future :)
+From 2023, I have been using NixOS for my server/homelab infrastructure. It is
+a step up from Ansible playbooks, I even dare to say that it's a paradigm
+shift. I am reluctant to switch my main laptops to NixOS, as it's not as easy
+to program on NixOS as it is to deploy software on it. Hopefully this will
+change in the future :)
 
 Useful links:
 
-- [search.nixos.org](https://search.nixos.org/) - search engine for NixOs
+- [search.nixos.org](https://search.nixos.org/) - search engine for NixOS
   configuration options
 - [Nix Pills](https://nixos.org/guides/nix-pills/)
 - [VimJoyer YouTube channel](https://youtube.com/@vimjoyer) - high quality Nix
@@ -33,12 +44,17 @@ Useful links:
 
 # Tips & notes
 
-- NixOS has excellent support for ZFS, arguably the most advanced filesystem currently on the market. [Article about ZFS on the unofficial NixOS wiki](https://nixos.wiki/wiki/Main_Page)
-- Convert your system configuration into flake-based as soon as possible. It makes your system fully reproducible and makes it easier to use stuff like Agenix
+- NixOS has excellent support for ZFS, arguably the most advanced filesystem
+  currently on the market. [Article about ZFS on the unofficial NixOS
+  wiki](https://nixos.wiki/wiki/Main_Page)
+- Convert your system configuration into flake-based as soon as possible. It
+  makes your system fully reproducible and makes it easier to use stuff like
+  [Agenix](https://github.com/ryantm/agenix)
   - https://wiki.nixos.org/wiki/Flakes
 - Creating and maintaining custom SystemD services/timers is a breeze in NixOS
   - https://wiki.nixos.org/wiki/Systemd/User_Services
-- There is a `formatter` key in Flake configuration. If you set it to a formatter program, use `nix fmt` to format your code
+- There is a `formatter` key in Flake configuration. If you set it to a
+  formatter program, use `nix fmt` to format your code
 
 ## Switching configurations with confidence
 
