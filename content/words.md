@@ -104,7 +104,7 @@ and gradually move them to this page.
 {{definition(word="Synesthesia" definition="Perceptual phenomenon in which stimulation of one sensory leads to involuntary experiences in a second sensory", source="Can't remember, started experiencing it at childhood while listening to Yazoo and Bryan Ferry")}}
 {{definition(word="Schlaraffenland" definition="A land of plenty in medieval myth, an imaginary place of extreme luxury", source="Summa Technologiae")}}
 {{definition(word="Salient" definition="Something that projects outward or upward from its surroundings", source="[How to speak](https://www.youtube.com/watch?v=Unzc731iCUY)")}}
-{{definition(word="Sonification" definition="Sonification is the use of non-speech audio to convey information or perceptualize data", source="")}}
+{{definition(word="Sonification" definition="Sonification is the use of non-speech audio to convey information or perceptualize data", source="Wikipedia Rabbit Holes")}}
 {{definition(word="Schadenfreude" definition="Delight in another person's misfortune", source="Dwie Lewe Ręce Podcast")}}
 {{definition(word="Spoke" definition="any of the rods that join the edge of a wheel to its center to strengthen it", source="Peter Watts - Echopraxia")}}
 {{definition(word="Syllogism" definition="form of deductive reasoning in which a conclusion is drawn from two or more premises", source="The Origin of Consciousness in the Breakdown of the Bicameral Mind")}}
@@ -115,6 +115,7 @@ and gradually move them to this page.
 {{dictionary_letter(letter="V")}}
 
 {{definition(word="Veritable" definition="Real, true, authentic, very", source="Simulacra and Simulation")}}
+{{definition(word="Vestigial" definition="Being a small remaining part or amount, usually used to describe something, especially a part of the body, that has not developed completely, or has stopped being used and has almost disappeared", source="The Origin of Consciousness in the Breakdown of the Bicameral Mind")}}
 
 {{dictionary_letter(letter="Y")}}
 
