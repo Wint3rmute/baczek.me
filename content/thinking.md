@@ -174,7 +174,9 @@ entirety is too long to paste here.
 ---
 
 > We found our way to the end of youth
+>
 > It's a whispered voice now piercing through
+>
 > It’s a brighter wound, it's a brighter wound It's a brighter wound
 > 
 > ~ Son Lux - Yesterday's Wake
