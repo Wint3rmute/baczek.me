@@ -169,4 +169,12 @@ entirety is too long to paste here.
 > to be almost uninteresting. Neurons do not fire themselves. [...] The switch
 > cannot flip itself. QED.
 >
-> Peter Watts (on free will) - Echopraxia
+> ~ Peter Watts, on free will - Echopraxia
+
+---
+
+> We found our way to the end of youth
+> It's a whispered voice now piercing through
+> It’s a brighter wound, it's a brighter wound It's a brighter wound
+> 
+> ~ Son Lux - Yesterday's Wake
