@@ -22,7 +22,7 @@ tags: journal, programming, culture
 <!---->
 
 ```
-0X.09
+1X.09
 ```
 
 Traveling to Japan. *Todo: picture*.
@@ -30,6 +30,7 @@ Traveling to Japan. *Todo: picture*.
 > Listening:
 >
 > - Nujabes et al - 2nd Collection
+> - Gorillaz, Sparks - The Happy Dictator
 
 ```
 3X.08
