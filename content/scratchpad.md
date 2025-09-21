@@ -19,4 +19,6 @@ Nexus page linking to all of my never finished project ideas, so I can get them 
 
 - **[GPU Synth](/gpu-synth)** - honestly I'm never gonna learn physical modeling, let alone on a GPU.
 
+- **[MBSE](/mbse)** - Project on Model-Based Systems Engineering
+
 - **Graph-based life simulation** - TODO: write on this one

@@ -2,16 +2,26 @@
   --content_foreground: rgba(255, 255, 255, 0.74);
   --headers_foreground: rgba(255, 255, 255, 0.84);
   --background: #263238;
-  --background-light: #37474F;
-  --accent: #82AAFF;
-  --accent2: #C3E88D;
+  --background-light: #37474f;
+  --accent: #82aaff;
+  --accent2: #c3e88d;
   --header-height: 2vh;
 }
 
 body {
   background-color: var(--background);
   color: var(--content_foreground);
-  font-family: Roboto, Cantarell, -apple-system, BlinkMacSystemFont, segoe ui, Oxygen, Ubuntu, open sans, helvetica neue, sans-serif;
+  font-family:
+    Roboto,
+    Cantarell,
+    -apple-system,
+    BlinkMacSystemFont,
+    segoe ui,
+    Oxygen,
+    Ubuntu,
+    open sans,
+    helvetica neue,
+    sans-serif;
   font-size: 17px;
   height: 100vh;
   flex-direction: column;
@@ -45,7 +55,6 @@ h4,
 h5 {
   color: var(--headers_foreground);
 }
-
 
 th,
 td {
@@ -84,7 +93,7 @@ a.hidden {
 a,
 button {
   color: white;
-  transition: .5s;
+  transition: 0.5s;
 }
 
 a {
@@ -101,7 +110,7 @@ button:hover {
 }
 
 a:hover {
-  color: var(--accent)
+  color: var(--accent);
 }
 
 footer>p>a {
@@ -144,6 +153,13 @@ main {
   margin-right: auto;
   line-height: 1.7;
   width: 94%;
+}
+
+/* All `code` blocks are wrapped in `pre`, which actually
+* determines the line height. For some reason, changing it at the
+* `code` element does not work. */
+pre {
+  line-height: 1;
 }
 
 blockquote>* {
@@ -267,7 +283,6 @@ hr {
   margin-top: -15px;
   margin-bottom: 30px;
 }
-
 
 .dictionary-letter {
   font-family: serif;

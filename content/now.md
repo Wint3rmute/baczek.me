@@ -22,10 +22,16 @@ tags: journal, programming, culture
 <!---->
 
 ```
+2X.09
+```
+
+Thinking about [MBSE](/mbse).
+
+```
 1X.09
 ```
 
-Traveling to Japan. *Todo: picture*.
+Traveling to Japan. _Todo: picture_.
 
 > Listening:
 >
