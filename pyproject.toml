@@ -8,11 +8,11 @@ authors = ["wint3rmute <mateusz.baczek1998@gmail.com>"]
 python = ">3.12,<=3.14"
 graphviz = "^0.21"
 matplotlib = "^3.6.0"
-umap-learn = "0.5.7"
 beautifulsoup4 = "^4.11.1"
 markdown = "^3.4.1"
 sentence-transformers = "^5.1.0"
 gitpython = "^3.1.43"
+umap-learn = "^0.5.9.post2"
 
 [tool.poetry.group.dev.dependencies]
 ruff = "^0.13"
