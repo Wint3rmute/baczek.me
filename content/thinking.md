@@ -94,7 +94,7 @@ Some quotes I simply enjoyed.
 ---
 
 I cannot extract any specific fragment which would do it justice and the
-entirety is too long to paste here.
+entirety is too long to paste here. Anyway, the lyrics are **fire**.
 
 **Louis Cole - Quality Over Opinion.**
 
@@ -109,6 +109,8 @@ entirety is too long to paste here.
 > ~ Jacob Collier - [Logic Session Breakdown: Little Blue](https://youtu.be/M-Ii2_GgdRs?si=Mik_xJahM9wZ0Sup)
 
 ---
+
+_TODO:_ shorten this stuff, cmon man.
 
 > Machines, after all, are conceived, designed, and constructed by people. By
 > human standards, machines are pretty limited. They do not maintain the same
@@ -178,5 +180,5 @@ entirety is too long to paste here.
 > It's a whispered voice now piercing through
 >
 > It’s a brighter wound, it's a brighter wound It's a brighter wound
-> 
+>
 > ~ Son Lux - Yesterday's Wake

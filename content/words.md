@@ -39,6 +39,8 @@ and gradually move them to this page.
 
 {{definition(word="Euergetism" definition="Ancient practice of high-status and wealthy individuals in society distributing part of their wealth to the community", source="Marcin Giełzak - Dwie Lewe Ręce Podcast")}}
 
+_>This one seems to be important in the current state of the world..._
+
 {{dictionary_letter(letter="F")}}
 
 {{definition(word="Fulcrum" definition="The point on which a lever turns or is supported. The most important part of an activity or a situation", source="The Psychological Significance of the Biblical Stories")}}
@@ -82,6 +84,7 @@ and gradually move them to this page.
 
 {{definition(word="Persona non grata" definition="Person not welcome (in some place, institution) ", source="Can't remember")}}
 {{definition(word="Petrichor" definition="Specific ,,earthy'' scent produced when rain falls on dry soil", source="Preset name on Minilougue xd")}}
+{{definition(word="Pharmakon" definition="In Jacques Derrida's philosophical concept, pharmakon is a Greek word that carries a dual meaning, signifying both remedy and poison", source="Gorillaz - The Happy Dictator")}}
 {{definition(word="Putrefaction" definition="Rot, decay", source="Simulacra and Simulation")}}
 {{definition(word="Pyrrhic victory" definition="Victory that inflicts such a devastating toll on the victor that it is tantamount to defeat", source="Valis")}}
 {{definition(word="Portmanteau" definition="Blend word, a word formed by combining sounds and meanings of two or more words", source="Kokorobot.ca")}}
