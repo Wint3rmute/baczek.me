@@ -12,19 +12,63 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 'Checkout'
-        uses: actions/checkout@master
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      
+      - name: Setup Poetry
+        uses: abatilo/actions-poetry@v2
+        with:
+          poetry-version: "1.8.5"
+      
+      - name: Setup system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y graphviz
+      
+      - name: Install Zola
+        uses: taiki-e/install-action@v2
+        with:
+          tool: zola@0.19.2
+      
+      - name: Cache Poetry dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pypoetry
+          key: ${{ runner.os }}-poetry-${{ hashFiles('**/poetry.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-poetry-
+      
+      - name: Cache embeddings
+        uses: actions/cache@v4
+        with:
+          path: generated/embeddings_cache
+          key: ${{ runner.os }}-embeddings-${{ hashFiles('content/**/*.md') }}
+          restore-keys: |
+            ${{ runner.os }}-embeddings-
+      
+      - name: Install Python dependencies
+        run: poetry install --only main
+      
       - name: Build the website
-        run: ./scripts/build_docker.sh
+        run: ./scripts/build.sh
+      
       - name: Zip the website
         run: mkdir docs && zip -r docs/site.zip public
+      
       - name: Setup Pages
         uses: actions/configure-pages@v3
+      
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: 'docs'
+      
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
