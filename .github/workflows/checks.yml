@@ -4,16 +4,15 @@ jobs:
   python:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: "Checkout"
+        uses: actions/checkout@master
+      - name: Install poetry
+        run: pipx install poetry
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.13"
-      - name: Run black
-        uses: abatilo/actions-poetry@v2
-        with:
-          poetry-version: "1.8.5"
-      - name: Install deps
-        run: poetry install --only dev
+          cache: "poetry"
+      - run: poetry install
       - name: Run linters
         run: |
           # Formatting
