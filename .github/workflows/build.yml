@@ -11,12 +11,30 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: 'Checkout'
+      - name: "Checkout"
         uses: actions/checkout@master
         with:
           fetch-depth: 0
+      - name: Install poetry
+        run: pipx install poetry
+      - name: Setup Graphviz
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y graphviz
+      - name: Install Zola
+        uses: taiki-e/install-action@v2
+        with:
+          tool: zola@0.19.2
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+          cache: "poetry"
+      - run: poetry install
       - name: Build the website
-        run: ./scripts/build_docker.sh
+        run: |
+          poetry run python -m exocortex
+          zola build
+      #   run: ./scripts/build_docker.sh
       - name: Zip the website
         run: mkdir docs && zip -r docs/site.zip public
       - name: Setup Pages
@@ -24,7 +42,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: 'docs'
+          path: "docs"
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
