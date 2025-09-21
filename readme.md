@@ -7,10 +7,16 @@ You should make one for yourself too :)
 I'm using [Zola](https://www.getzola.org/) + some extra scripts to build my
 [site map and related pages](https://baczek.me/map).
 
-If you have [Poetry](https://python-poetry.org/) installed, simply run `poetry
-install` and `poetry run python -m exocortex`, then `zola serve` or `zola
-build`.
+If you have [Poetry](https://python-poetry.org/) and [Zola](https://www.getzola.org/) installed, simply run:
 
-If you prefer to keep everything isolated, use the [`Dockerfile`](./Dockerfile)
-to build an image which can then run the commands above. Refer to the [CI build
-job definition](./.github/workflows/zola.yml) for details.
+```bash
+poetry install
+poetry run python -m exocortex
+zola serve  # for development
+# or
+zola build  # for production
+```
+
+You can also use the convenient build script: `./scripts/build.sh`
+
+Refer to the [CI build job definition](./.github/workflows/build.yml) for details on the complete build process.
