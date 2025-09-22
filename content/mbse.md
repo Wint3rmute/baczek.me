@@ -13,28 +13,28 @@ For a prototype tool for markdown-driven requirements management, see
 
 ## Problem statement
 
-We lack tools for high-level system modeling, which validate a high-level system
-model and allow placing useful constraints on the model, not merely diagramming
-a bunch of blocks and arrows. Currently existing tools are stuck in a hell of
-desktop GUI apps with license servers and other typical issues related with
-large corporate software.
+We lack tools for system modeling, which can validate both low and high-level
+system model, allow placing useful constraints on the model, running tests on
+the model; not merely diagramming a bunch of blocks and arrows. Existing tools
+are stuck in a hell of desktop GUI apps with license servers and other typical
+issues related with large corporate software.
 
 While programming tools get better, compilers get smarter and linters get
-stricter, we're still representing knowledge about systems using documents
-with screenshots of hastily sketched DrawIO diagrams. Time to put an end
-to the tyranny of the underspecified and the tribally-known. Release the system
+stricter, **we're still representing knowledge about systems using documents
+with screenshots of hastily sketched DrawIO diagrams**. Time to put an end to
+the tyranny of the underspecified and the tribally-known! Release the system
 model & knowledge from the restraints of pre-hypertext mediums.
 
-Embrace the rhizomatic and the gradually-typed! Hyperconnect and hypervalidate!
+Embrace the [rhizomatic](https://en.wikipedia.org/wiki/Rhizome_%28philosophy%29) and the gradually-typed! Hyperconnect and hypervalidate!
 
-Let's model systems like its the XXI century AD.
+Let's model systems like it's XXI century AD.
 
 ## Solution statement
 
 Build a system which joins together:
 
 - Knowledge management in a form of a interconnected network
-- System modelling tool with a focus on connections
+- System modelling tool with a focus on connections:
   - Protocols
   - Interfaces/ports
   - Encapsulation
@@ -58,11 +58,12 @@ SE.
 
 ### Points of interest
 
-From what I've seen, SE tools tend to mix together too many things into a
+From what I've seen, SE tools tend to mix together too many contexts into a
 single box, often with wildly different abstraction levels. Proper separation
 of business and engineering concerns is a thing of rigor, but the tool at hand
-often affects the craftsman. The end user should be able to filter out the
-things they have no interest in.
+often affects the craftsman, leading to more or less organized result. The end
+user should be able to filter out the things they have no interest in, only
+viewing the context relevant to them.
 
 **Conclusion:** the system shall implement definable _Views_, which would
 essentially be filters applied onto the system model.
@@ -107,15 +108,15 @@ From the [OnShape forums](https://forum.onshape.com/discussion/25425/what-does-f
 > explicitly how to calculate the position of every point, line, arc etc. which
 > exists in your sketch when changes are made to the model.
 
-This concept can be useful in terms of MBSE. For example, during prototyping
+This concept can be useful in terms of MBSE. During prototyping
 phase, one might define some kind of information to be sent from a system to
-system, for example a `User` in a `SocialMedia` might want to send information
+system, for example a `User` of a `SocialMedia` might want to send information
 of type `Image` from their `Phone` to the `SocialMedia`. Such relationship can
 be easily understood by high-level executives. It is valid in the business
 sense, **but not in engineering sense**. It is therefore not _fully defined_.
 The system shall still allow business people work in high-level concepts, but
 once an architect or an engineer sits down to determine the details, the system
-should point out the missing pieces.
+should point out the missing pieces: request formats, protocols, etc.
 
 **Conclusion:** The system shall support something similar to [Gradual
 typing](https://en.wikipedia.org/wiki/Gradual_typing) of the model, allowing
@@ -131,7 +132,7 @@ I would like to check if some domain-specific entity will be able to **reach**
 the desired recipient through the defined structure of interfaces and
 connections. Perhaps someone mistakenly plugged in the frontend directly into a
 database? The modeling tool should catch that error and raise
-`IncompatibleInterfacesException`.
+a `IncompatibleInterfaceException`.
 
 ### Permission model
 
