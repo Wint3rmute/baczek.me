@@ -28,6 +28,17 @@ Embrace the rhizomatic and the gradually-typed! Hyperconnect and hypervalidate!
 
 Let's model systems like its the XXI century AD.
 
+## Solution statement
+
+Build a system which joins together:
+
+- Knowledge management in a form of a interconnected network
+- System modelling tool with a focus on connections
+  - Protocols
+  - Interfaces/ports
+  - Encapsulation
+- System exploration tool with an interactive diagram generator
+
 ## 💢 Core issues
 
 ### GUI
