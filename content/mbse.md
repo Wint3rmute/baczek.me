@@ -11,6 +11,23 @@ and [Model-based Systems Engineering (MBSE)](https://en.wikipedia.org/wiki/Model
 For a prototype tool for markdown-driven requirements management, see
 [ReqSnake](/reqsnake).
 
+## Problem statement
+
+We lack tools for high-level system modeling, which allow placing useful
+constraints, not merely to diagram a bunch of blocks and arrows.
+Currently existing tools are stuck in a hell of desktop GUI apps with license
+servers and other typical issues related with large corporate apps.
+
+While programming tools get better, compilers get smarter and linters get
+stricter, we're still representing knowledge about a system with documents
+containing screenshots of hastily sketched DrawIO diagrams. Time to put an end
+to the tyranny of the underspecified and the tribally-known. Release the system
+model & knowledge from the restraints of pre-hypertext mediums.
+
+Embrace the rhizomatic and the gradually-typed! Hyperconnect and hypervalidate!
+
+Let's model systems like its the XXI century AD.
+
 ## 💢 Core issues
 
 ### GUI
