@@ -13,14 +13,15 @@ For a prototype tool for markdown-driven requirements management, see
 
 ## Problem statement
 
-We lack tools for high-level system modeling, which allow placing useful
-constraints, not merely to diagram a bunch of blocks and arrows.
-Currently existing tools are stuck in a hell of desktop GUI apps with license
-servers and other typical issues related with large corporate apps.
+We lack tools for high-level system modeling, which validate a high-level system
+model and allow placing useful constraints on the model, not merely diagramming
+a bunch of blocks and arrows. Currently existing tools are stuck in a hell of
+desktop GUI apps with license servers and other typical issues related with
+large corporate software.
 
 While programming tools get better, compilers get smarter and linters get
-stricter, we're still representing knowledge about a system with documents
-containing screenshots of hastily sketched DrawIO diagrams. Time to put an end
+stricter, we're still representing knowledge about systems using documents
+with screenshots of hastily sketched DrawIO diagrams. Time to put an end
 to the tyranny of the underspecified and the tribally-known. Release the system
 model & knowledge from the restraints of pre-hypertext mediums.
 
