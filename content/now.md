@@ -27,6 +27,11 @@ tags: journal, programming, culture
 
 Thinking about [MBSE](/mbse).
 
+> Listening:
+>
+> - Chick Corea - Crystal Silence
+
+
 ```
 1X.09
 ```
