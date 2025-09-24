@@ -145,9 +145,10 @@ _TODO:_ shorten this stuff, cmon man.
 ---
 
 > Brains are survival engines, not truth detectors. If self-deception promotes
-> fitness, the brain lies. Stops noticing— irrelevant things. Truth never matters.
-> Only fitness. By now you don't experience the world as it exists at all. You
-> experience a simulation built from assumptions.
+> fitness, the brain lies. Stops noticing— irrelevant things. Truth never
+> matters. Only fitness. By now you don't experience the world as it exists
+> at all. You experience a simulation built from assumptions. Shortcuts. Lies.
+> Whole species is agnosiac by default.
 >
 > ~ Peter Watts - Blindsight
 >
