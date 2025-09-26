@@ -183,3 +183,15 @@ _TODO:_ shorten this stuff, cmon man.
 > It’s a brighter wound, it's a brighter wound It's a brighter wound
 >
 > ~ Son Lux - Yesterday's Wake
+
+---
+
+> Chaos darkened the holy brightnesses of the unconscious world. Hierarchies
+> crumpled. And between the act and its divine source came the shadow, the
+> pause that profaned, the dreadful loosen-ing that made the gods unhappy,
+> recriminatory, jealous. Until, finally, the screening off of their tyranny was
+> effected by the invention on the basis of language of an analog space with an
+> analog 'I'. The careful elaborate structures of the bicameral mind had been
+> shaken into consciousness.
+>
+> ~ The Origin of Consciousness in the Breakdown of the Bicameral Mind
