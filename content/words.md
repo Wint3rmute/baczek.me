@@ -16,6 +16,7 @@ and gradually move them to this page.
 
 {{dictionary_letter(letter="B")}}
 
+{{definition(word="Bellicose" definition="Having or showing a ready disposition to fight", source="The Origin of Consciousness in the Breakdown of the Bicameral Mind")}}
 {{definition(word="Bespectacled" definition="Wearing, or having the face adorned with, eyeglasses or an eyeglass", source="Disco Elysium")}}
 
 {{dictionary_letter(letter="C")}}
