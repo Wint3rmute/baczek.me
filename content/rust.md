@@ -10,6 +10,7 @@ developer experience, powerful type system and a wide range
 of libraries. Here are some of the libraries that I'm using
 for my projects and can recommend:
 
+- [Blessed.rs](https://blessed.rs/crates) - recommended crate directory
 - [Macroquad](https://macroquad.rs/), a minimalist game engine that deserves more attention
 - [Rodio](https://github.com/RustAudio/rodio), easy to use sound playback library.
   I've used it to code a [sampler](https://github.com/Wint3rmute/libretakt) and a [synthesiser](https://github.com/Wint3rmute/nosna)
