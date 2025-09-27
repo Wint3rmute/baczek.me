@@ -1,5 +1,5 @@
 ---
-title: Resources on audio & DSP
+title: Audio & DSP
 tags: generative, culture, programming
 ---
 
