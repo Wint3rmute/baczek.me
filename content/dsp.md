@@ -29,7 +29,7 @@ tags: generative, culture, programming
 
 - [Nosna](https://github.com/Wint3rmute/Nosna)
 - [LibreTakt](https://github.com/Wint3rmute/Libretakt)
-- _todo_: add link to mverb rust crate once finished
+- [mverb-rs](https://github.com/wint3rmute/mverb-rs)
 
 # DSP resources
 
