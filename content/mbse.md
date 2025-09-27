@@ -172,4 +172,4 @@ be marked as "abstract" while other as "base-level" or "physical"?
 Maybe do something like first-degreee requirements (completely high-level,
 product ide type), then second-degree, then (...) N-th degree as something
 that's finally "solid" and "physical", whatever that means in a context of a
-specfiic system.
+specific system.
