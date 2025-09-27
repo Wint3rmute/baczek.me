@@ -156,3 +156,20 @@ See [ReqSnake](/reqsnake).
 This standard looks like a PITA. Take a look at [the spec](https://sysml.org/sysml-specs/).
 Compare it to documentation of any sane programming language, file format or
 communication protocol. SysML, have mercy on me!
+
+## 😨 Unknown Unknowns
+
+### Systems/Models/Setups
+
+Approach to re-using the same system in multiple setups. E.x modeling the same
+project in both end-user and testing environment.
+
+### Gradual typing
+
+How should this be expressed at the system-as-code level? Some interface should
+be marked as "abstract" while other as "base-level" or "physical"?
+
+Maybe do something like first-degreee requirements (completely high-level,
+product ide type), then second-degree, then (...) N-th degree as something
+that's finally "solid" and "physical", whatever that means in a context of a
+specfiic system.
