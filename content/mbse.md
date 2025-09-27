@@ -170,6 +170,6 @@ How should this be expressed at the system-as-code level? Some interface should
 be marked as "abstract" while other as "base-level" or "physical"?
 
 Maybe do something like first-degreee requirements (completely high-level,
-product ide type), then second-degree, then (...) N-th degree as something
+product idea type), then second-degree, then (...) N-th degree as something
 that's finally "solid" and "physical", whatever that means in a context of a
 specific system.
