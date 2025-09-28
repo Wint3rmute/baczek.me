@@ -173,3 +173,12 @@ Maybe do something like first-degreee requirements (completely high-level,
 product idea type), then second-degree, then (...) N-th degree as something
 that's finally "solid" and "physical", whatever that means in a context of a
 specific system.
+
+# Existing tools
+
+- https://www.jamasoftware.com/
+- https://www.genesys.com/en-gb
+- https://www.reqview.com/
+- https://mbse-capella.org/
+- https://www.sysgit.io/
+- https://gaphor.org/
