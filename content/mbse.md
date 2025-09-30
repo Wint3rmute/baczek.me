@@ -38,6 +38,7 @@ Build a system which joins together:
   - Protocols
   - Interfaces/ports
   - Encapsulation
+- Gradual specification: from a high-level prototype to a type-checked system model
 - System exploration tool with an interactive diagram generator
 
 ## 💢 Core issues
