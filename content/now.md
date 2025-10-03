@@ -22,6 +22,15 @@ tags: journal, programming, culture
 <!---->
 
 ```
+0X.10
+```
+
+> Listening:
+>
+> - Gogo Penguin - To Drown In You
+> - Gogo Penguin - Umbra
+
+```
 2X.09
 ```
 
@@ -35,7 +44,6 @@ Thinking about [MBSE](/mbse).
 > Watching:
 >
 > - Scavengers Reign
-
 
 ```
 1X.09
