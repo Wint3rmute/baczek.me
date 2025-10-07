@@ -27,6 +27,7 @@ tags: journal, programming, culture
 
 > Listening:
 >
+> - Kaleida - Think
 > - Gogo Penguin - To Drown In You
 > - Gogo Penguin - Umbra
 
