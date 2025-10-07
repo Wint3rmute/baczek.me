@@ -25,6 +25,8 @@ tags: journal, programming, culture
 0X.10
 ```
 
+Looking in awe at [strange attractors](https://chaoticatmospheres.com/mathrules-strange-attractors).
+
 > Listening:
 >
 > - Kaleida - Think
