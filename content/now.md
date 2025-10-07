@@ -27,6 +27,8 @@ tags: journal, programming, culture
 
 Looking in awe at [strange attractors](https://chaoticatmospheres.com/mathrules-strange-attractors).
 
+{{image (src="/attractor.jpg" small=true title="Imagine having one of those as a decoration in your living room. When you come closer to it, you notice delicate air vibrations and a deep low hum. Credit to [Chaotic Atmospheres](https://chaoticatmospheres.com/mathrules-strange-attractors)")}}
+
 > Listening:
 >
 > - Kaleida - Think
