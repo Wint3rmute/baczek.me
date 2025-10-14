@@ -22,6 +22,16 @@ tags: journal, programming, culture
 <!---->
 
 ```
+1X.11
+```
+
+Sad to say that my ThinkPad x260 is near its end-of-life for a daily use laptop.
+Given 2 Firefox tabs open with Spotify in one of them, it cannot handle this + some simple programming. I know, the website bloat is to blame and all of that. But I simply don't have the means to fix any of this.
+
+Bought a MacBook Air M4. Documenting my adventures [here].
+
+
+```
 0X.10
 ```
 
