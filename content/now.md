@@ -32,6 +32,11 @@ and all of that. But I simply don't have the means to fix any of this.
 
 Bought a MacBook Air M4. Documenting my adventures [here](/m4).
 
+> Listening:
+>
+> - Gogo Penguin - v2.0
+> - Wolf Alice - Lipstick On The Glass
+
 
 ```
 0X.10
