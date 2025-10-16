@@ -10,6 +10,7 @@ tags: journal, meta, culture, programming
 This is where I keep ideas, movies, music, and other things that I plan to
 research more in-depth in the future.
 
+- Three Scientists And Their Gods
 - Lost in Translation
 - November (2017 film)
 - Nexus: A Brief History of Information Networks from the Stone Age to AI
