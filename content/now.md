@@ -37,6 +37,7 @@ Bought a MacBook Air M4. Documenting my adventures [here](/m4).
 > - Gogo Penguin - v2.0
 > - Wolf Alice - Lipstick On The Glass
 
+Struggling & enjoying playing Gogo Penguin's Hopopono on piano.
 
 ```
 0X.10
