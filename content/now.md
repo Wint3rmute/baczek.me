@@ -22,6 +22,15 @@ tags: journal, programming, culture
 <!---->
 
 ```
+2X.11
+```
+
+> Watching:
+>
+> - Common Side Effects
+
+
+```
 1X.11
 ```
 
