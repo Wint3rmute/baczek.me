@@ -20,6 +20,8 @@ tags: journal, programming, culture
 <!-- interests of my coworkers together, giving them space to learn and achieve -->
 <!-- great things! -->
 <!---->
+<!-- Consider adding the first still from Na Srebrnym Globie, it has a nice font -->
+<!---->
 
 ```
 2X.11
@@ -27,10 +29,18 @@ tags: journal, programming, culture
 
 Monitoring is paying off again. Today I woke up to a Telegram notification from
 Prometheus, saying that my "ZFS pool is unhealthy". That's due to Prometheus
-alerts coming from the ZFS exporter on my [NixOS](/nixos) homelab.
+alerts coming from the [ZFS exporter](https://github.com/pdf/zfs_exporter) on my
+[NixOS homelab](/nixos).
 
+I used [Grafana Drilldown](https://play.grafana.org/drilldown) for the first
+time, finding ZFS error metrics was quick & easy. There were no errors however!
 A quick look at `zpool status` is telling me that one of 2 drives I'm using for
-personal data storage is reporting write errors. Investigating.
+personal data storage is reporting write errors. Investigating. Run some SMART
+tests, `smartctl /dev/sda1 -a` shows that they are all passing...
+
+Right now I'm suspecting a driver issue rather than a hardware failure, it seems
+to be connected to a long uptime. I haven't touched my servers for a long time
+and I have a vague memory of a similar incident almost a year ago.
 
 > Watching:
 >
