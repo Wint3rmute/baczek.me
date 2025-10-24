@@ -25,10 +25,18 @@ tags: journal, programming, culture
 2X.11
 ```
 
+Monitoring is paying off again. Today I woke up to a Telegram notification from
+Prometheus, saying that my "ZFS pool is unhealthy". That's due to Prometheus
+alerts coming from the ZFS exporter on my [NixOS](/nixos) homelab.
+
+A quick look at `zpool status` is telling me that one of 2 drives I'm using for
+personal data storage is reporting write errors. Investigating.
+
 > Watching:
 >
 > - On the Silver Globe
 > - Common Side Effects
+> - Breaking Bad Season 1
 
 
 ```
