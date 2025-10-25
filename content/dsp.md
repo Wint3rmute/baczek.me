@@ -35,7 +35,7 @@ tags: generative, culture, programming
 
 ## General
 
-- [Timur Doumler: C++ in the Audio Industry](https://invidious.baczek.me/watch?v=boPEO2auJj4&listen=false). Recommended as a first-time video introduction to audio application architecture.
+- [Timur Doumler: C++ in the Audio Industry](https://youtube.com/watch?v=boPEO2auJj4&listen=false). Recommended as a first-time video introduction to audio application architecture.
 - [Computational Music Synthesis](https://cs.gmu.edu/~sean/book/synthesis/) - theory & algorithms behind most popular synthesis methods
 - [Lock-free rust structures](https://morestina.net/blog/742/exploring-lock-free-rust-1-locks) - useful for synchronisation for real-time processes, such as audio generating threads
 
@@ -52,7 +52,7 @@ tags: generative, culture, programming
 ## Misc/Other
 
 - [/dmc/ wiki @ NeoCities](https://dmpdoc.neocities.org/)
-- [Signal processing for sound design](https://invidious.baczek.me/watch?v=jVac5IFXpFo). Todo: watch!
+- [Signal processing for sound design](https://youtube.com/watch?v=jVac5IFXpFo). Todo: watch!
 
 # Interesting DSP/audio links
 
@@ -65,7 +65,7 @@ tags: generative, culture, programming
   - https://llllllll.co/t/generative-visuals-video-graphics-art-etc/2658/8
   - https://llllllll.co/t/mangling-manipulating-digital-physical-media-like-analog/54876
   - https://en.m.wikipedia.org/wiki/Musique_concr%C3%A8te
-- [Lessons learned from a decade of audio programming](https://invidious.baczek.me/watch?v=Vjm--AqG04Y)
+- [Lessons learned from a decade of audio programming](https://youtube.com/watch?v=Vjm--AqG04Y)
 - [DirtyWave tracker firmware](https://github.com/Dirtywave/M8HeadlessFirmware)
 - [TextBeat](https://github.com/flipcoder/textbeat)
 - [Glicol language](https://glicol.org/)

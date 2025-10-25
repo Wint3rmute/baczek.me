@@ -66,7 +66,7 @@ research more in-depth in the future.
 - [Nannou - an open-source creative-coding framework for Rust](https://nannou.cc/)
 - [Sounding secrets of AudioLM](https://www.shaped.ai/blog/sounding-the-secrets-of-audiolm)
 - [Interesting notes on memexes and related topics](https://metasyn.pw/memex)
-- [Video on geometry, from @Maciej](https://invidious.baczek.me/watch?v=utMx48aGndI)
+- [Video on geometry, from @Maciej](https://youtube.com/watch?v=utMx48aGndI)
 - [Hydra - livecoding visuals](https://github.com/hydra-synth/hydra)
 - Brian Eno - A Year with Swollen Appendices
 - Gothic flatline

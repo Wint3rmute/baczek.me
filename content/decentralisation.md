@@ -18,11 +18,7 @@ Check out my [bookmarks](/bookmarks)!
 I'm running self-hosted online services. They are public, you can
 use them too :)
 
-- [Redlib](https://redlib.baczek.me), alternative Reddit frontend
-
 - [SearX](https://searx.baczek.me), a meta-search engine
-
-- [Invidious](https://invidious.baczek.me), an alternate YouTube frontend
 
 - [LibreY](https://librey.baczek.me), another meta-search engine
 
@@ -35,6 +31,8 @@ I also recommend the following services for private use:
 - [Matrix](https://github.com/matrix-org/synapse/)
 
 - [Gitea](https://gitea.com/)
+
+- [Copyparty](https://github.com/9001/copyparty)
 
 > some random thoughts on search - [registry-based search engine manifesto](/search-registry-manifesto)
 

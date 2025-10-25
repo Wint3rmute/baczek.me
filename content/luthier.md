@@ -90,9 +90,9 @@ not be a raw array (in a structural sense), but rather a mirror-like mapping
 
 ## Useful links
 
-- [Generating Music with AI: History, Challenges, and Future Prospects](https://invidious.baczek.me/watch?v=D3XfYUUI0wc)
-- [A Rust Flavored Introduction to Audio Quality Prediction](https://invidious.baczek.me/watch?v=ZTY3fqulFQ4)
-- [Neural Audio Effects](https://invidious.baczek.me/watch?v=qy6qNvV1RZY)
+- [Generating Music with AI: History, Challenges, and Future Prospects](https://youtube.com/watch?v=D3XfYUUI0wc)
+- [A Rust Flavored Introduction to Audio Quality Prediction](https://youtube.com/watch?v=ZTY3fqulFQ4)
+- [Neural Audio Effects](https://youtube.com/watch?v=qy6qNvV1RZY)
 - https://www.christiansteinmetz.com/
 - [Modelling black-box audio effects](https://arxiv.org/pdf/2211.00497.pdf)
 - [Quantitative Analysis of a Common Audio Similarity Measure](https://www.ee.columbia.edu/~dpwe/pubs/JensCEJ09-quantmfcc.pdf)
