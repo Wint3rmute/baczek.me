@@ -18,6 +18,7 @@ tags: generative, culture, programming
 
 # Generative music
 
+- [Strudel.cc](https://strudel.cc/)
 - [CLAVIER-36](https://news.ycombinator.com/item?id=45232299)
   - Zero-installation, browser-based. Super cool!
 - [Orca](https://github.com/hundredrabbits/Orca) - the best generative music tool I've found so far
