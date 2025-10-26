@@ -24,7 +24,19 @@ tags: journal, programming, culture
 <!---->
 
 ```
-2X.11
+3X.10
+```
+
+I am no longer hosting Invidious and Redlib. The maintenance hosts were too
+high. Configuration was breaking every 2-3 months and I don't have the resources
+to keep on maintaining those applications. Hosting both Invidious and Redlib
+taught me a lot about Linux, SSL, containers, deployments in general. I have
+tremendous respect for the maintainers of both cations. Hosting both Invidious
+and Redlib taught me a lot about Linux, SSL, containers, deployments in general.
+I have tremendous respect for the maintainers of both projects.
+
+```
+2X.10
 ```
 
 Monitoring is paying off again. Today I woke up to a Telegram notification from
@@ -56,7 +68,7 @@ and I have a vague memory of a similar incident almost a year ago.
 
 
 ```
-1X.11
+1X.10
 ```
 
 Sad to say that my ThinkPad x260 is near its end-of-life for a daily use
