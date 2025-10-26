@@ -47,6 +47,12 @@ and I have a vague memory of a similar incident almost a year ago.
 > - On the Silver Globe
 > - Common Side Effects
 > - Breaking Bad Season 1
+>
+> Listening:
+>
+> - Laufey - Falling Behind
+> - Laufey - Promise
+
 
 
 ```
