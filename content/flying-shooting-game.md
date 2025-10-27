@@ -5,6 +5,10 @@ tags: programming
 
 # Scratchpad on a game idea I had recently.
 
+> Hell yes, someone actually talented in game development
+> made a similar thing already! See
+> [Delivery Must Complete](https://store.steampowered.com/app/3639060/DELIVERY_MUST_COMPLETE/)
+
 # Core ideas
 
 - You fly around a city in a jetpack-with-wings of sorts
