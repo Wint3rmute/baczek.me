@@ -24,6 +24,13 @@ tags: journal, programming, culture
 <!---->
 
 ```
+0X.00
+```
+
+Enjoyed [MYTHOLOGICS #5 : BLAME!](https://youtu.be/HiKr0-vZSIM?si=SKrqX2mMGRUClKGz).
+
+
+```
 3X.10
 ```
 
