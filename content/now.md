@@ -23,16 +23,12 @@ tags: journal, programming, culture
 <!-- Consider adding the first still from Na Srebrnym Globie, it has a nice font -->
 <!---->
 
-```
-0X.00
-```
+### 0X.00
 
 Enjoyed [MYTHOLOGICS #5 : BLAME!](https://youtu.be/HiKr0-vZSIM?si=SKrqX2mMGRUClKGz).
 
 
-```
-3X.10
-```
+### 3X.10
 
 I am no longer hosting Invidious and Redlib. The maintenance hosts were too
 high. Configuration was breaking every 2-3 months and I don't have the resources
@@ -42,9 +38,7 @@ tremendous respect for the maintainers of both cations. Hosting both Invidious
 and Redlib taught me a lot about Linux, SSL, containers, deployments in general.
 I have tremendous respect for the maintainers of both projects.
 
-```
-2X.10
-```
+### 2X.10
 
 Monitoring is paying off again. Today I woke up to a Telegram notification from
 Prometheus, saying that my "ZFS pool is unhealthy". That's due to Prometheus
@@ -74,9 +68,7 @@ and I have a vague memory of a similar incident almost a year ago.
 
 
 
-```
-1X.10
-```
+### 1X.10
 
 Sad to say that my ThinkPad x260 is near its end-of-life for a daily use
 laptop.  Given 2 Firefox tabs open with Spotify in one of them, it cannot
@@ -92,9 +84,7 @@ Bought a MacBook Air M4. Documenting my adventures [here](/m4).
 
 Struggling & enjoying playing Gogo Penguin's Hopopono on piano.
 
-```
-0X.10
-```
+### 0X.10
 
 Looking in awe at [strange attractors](https://chaoticatmospheres.com/mathrules-strange-attractors).
 
@@ -106,9 +96,7 @@ Looking in awe at [strange attractors](https://chaoticatmospheres.com/mathrules-
 > - Gogo Penguin - To Drown In You
 > - Gogo Penguin - Umbra
 
-```
-2X.09
-```
+### 2X.09
 
 Thinking about [MBSE](/mbse).
 
@@ -121,9 +109,7 @@ Thinking about [MBSE](/mbse).
 >
 > - Scavengers Reign
 
-```
-1X.09
-```
+### 1X.09
 
 Traveling to Japan. _Todo: picture_.
 
@@ -132,9 +118,7 @@ Traveling to Japan. _Todo: picture_.
 > - Nujabes et al - 2nd Collection
 > - Gorillaz, Sparks - The Happy Dictator
 
-```
-3X.08
-```
+### 3X.08
 
 Migrated my image gallery to [Immich](https://immich.app/), as NextCloud is
 too slow for me. Taking up to few seconds just to load a webpage with a list of files/folders is unacceptable. Apart from that, the Nextcloud mobile application often behaves weirdly when browsing through large folders of images. Sadly, it seems like there's no mature open source replacement for Nextcloud as of now.
@@ -152,9 +136,7 @@ homelab. If you're using Immich, I suggest supporting them at
 Exploring [Copyparty](https://github.com/9001/copyparty) as a lightweight
 Nextcloud alternative.
 
-```
-2X.08
-```
+### 2X.08
 
 Disturbed by Peter Watts' [In Defense of Religious
 Belief](https://www.rifters.com/crawl/?p=3197).
@@ -167,9 +149,7 @@ Delighted by [State-Space Magic](https://youtu.be/YGLNyHd2w10?si=oxpVAVfBGxQTqbs
 > - Baasch - Woda
 > - Dorian Concept - Hide
 
-```
-1X.08
-```
+### 1X.08
 
 > Reading:
 >
@@ -179,9 +159,7 @@ Delighted by [State-Space Magic](https://youtu.be/YGLNyHd2w10?si=oxpVAVfBGxQTqbs
 >
 > - [Robert Sapolsky - Biological underpinnings of religiosity](https://youtu.be/4WwAQqWUkpI?si=E80yerLIix5bC-Cf)
 
-```
-0X.08
-```
+### 0X.08
 
 > Listening:
 >
@@ -192,9 +170,7 @@ Delighted by [State-Space Magic](https://youtu.be/YGLNyHd2w10?si=oxpVAVfBGxQTqbs
 > - Tokyo Godfathers (2003)
 > - True Detective (2014)
 
-```
-2X.07
-```
+### 2X.07
 
 > Reading:
 >
@@ -206,9 +182,7 @@ Delighted by [State-Space Magic](https://youtu.be/YGLNyHd2w10?si=oxpVAVfBGxQTqbs
 > - Baasch - Uwaga (Idę do Ciebie)
 > - Quebonafide - PÓŁNOC/POŁUDNIE
 
-```
-1X.07
-```
+### 1X.07
 
 {{image (src="/squash_stroke.jpg" small=true title="Squash Stroke by Harold Edgerton.")}}
 
@@ -229,9 +203,7 @@ Run my first 10k in under 1h.
 > - Escaflowne (2000)
 > - The French Dispatch (2021)
 
-```
-0X.07
-```
+### 0X.07
 
 Continuing with my vibe-coding detour with [ReqSnake](/reqsnake). Migrated away
 from Cursor free tier to Claude Code and I am blown away with the experience.
@@ -255,9 +227,7 @@ to force LLMs to write quality code without a ton of prompts.
 >
 > - Tokyo Gore Police (2008)
 
-```
-3X.06
-```
+### 3X.06
 
 Confused by [Thermodynamic Computing](https://knowm.org/thermodynamic-computing/).
 
@@ -274,9 +244,7 @@ but 300 years younger.
 > - Prospect (2018)
 > - Nausicaä of the Valley of the Wind (1984)
 
-```
-2X.06
-```
+### 2X.06
 
 Vibe-coding (there, I said it!) a small application for [requirements
 management](https://en.wikipedia.org/wiki/Requirements_management) within
@@ -300,9 +268,7 @@ Metzinger](https://youtu.be/mthDxnFXs9k?si=cgENR_MUPJH-1QZY).
 >
 > - [Richard Penrose - Why Intelligence Is Not a Computational Process](https://youtu.be/iTVN6tFknCg?si=f_8wIdZ4dRsz_qpi)
 
-```
-1X.06
-```
+### 1X.06
 
 Organizing my software design & specification knowledge as my team size is
 growing. I currently manage 8 people directly and around 3 indirectly. My
@@ -327,9 +293,7 @@ and VCS integration to track status changes in Git?
 >
 > - [IEEE Standard for Information Technology - Software Design Descriptions](https://standards.ieee.org/ieee/1016/4502/)
 
-```
-0X.06
-```
+### 0X.06
 
 While playing around with 2 really nicely designed Rust frameworks,
 [Dioxus](https://dioxuslabs.com/) and [Bevy](https://bevyengine.org/), I
@@ -351,9 +315,7 @@ module. RAM issues gone. Thank you, ThinkPad!
 >
 > - Sroka - La Nuée
 
-```
-3X.05
-```
+### 3X.05
 
 Finished my second reading of Blindsight, a book unbelievably densely packed
 with philosophophical and technological concepts, hidden in a labirynth of
@@ -375,9 +337,7 @@ After reading online reviews, possible similar materials:
   - Diaspora
   - Permutation City
 
-```
-2X.05
-```
+### 2X.05
 
 Trying to get more comfortable with CAD software. Every now and then, during a
 lazy Sunday afternoon, I dedicate 2-3 hours to measure and model a random object
@@ -396,9 +356,7 @@ programming. Well, whatever works.
 >
 > - Nujabes - Luv (sic) pt2 (damn, the saxophones are so good here)
 
-```
-1X.05
-```
+### 1X.05
 
 Enjoyed [It Awaits Your Experiments by Peter Watts](https://www.rifters.com/crawl/?p=11511).
 
@@ -410,9 +368,7 @@ Enjoyed [It Awaits Your Experiments by Peter Watts](https://www.rifters.com/craw
 >
 > - Peter Watts - Blindsight (this time the original version, in English)
 
-```
-XX.04
-```
+### XX.04
 
 Focused on work and healthy lifestyle for the entire month, had no time to note
 anything here.
@@ -423,9 +379,7 @@ Run my first 10k.
 >
 > - Orphan Black, seasons 1-3
 
-```
-1X.03
-```
+### 1X.03
 
 Thinking about data sonification again. [The Digital
 Heartbeats](https://youtu.be/J81WQrIBrpw?si=nBZ0eAcowzNqSEZM) sparkled some new
@@ -448,9 +402,7 @@ slightly.
 >
 > - Blame! (1997, second time)
 
-```
-0X.03
-```
+### 0X.03
 
 > Watching:
 >
@@ -462,9 +414,7 @@ slightly.
 > - Vulfpeck - New Beastly
 > - Magdalena Bay - Mercurial World
 
-```
-2X.02
-```
+### 2X.02
 
 {{image (src="/iceland_2025.jpg" small=true title="Visiting Iceland.")}}
 
@@ -476,9 +426,7 @@ slightly.
 >
 > - Son Lux - Risks of Make Believe
 
-```
-1X.02
-```
+### 1X.02
 
 > Reading:
 >
@@ -490,9 +438,7 @@ slightly.
 >
 > - The Brutalist (2024)
 
-```
-0X.02
-```
+### 0X.02
 
 > Listening:
 >
@@ -507,9 +453,7 @@ slightly.
 >
 > - Pat Helland - Immutability Changes Everything
 
-```
-2X.01
-```
+### 2X.01
 
 Took a small movie-making (or rather video-tutorial-making) task at work, to
 get a break from programming/managing/whatever it is that im currently doing.
@@ -530,9 +474,7 @@ leaving the comfort of my Arch setup.
 > - [Testing Angular](https://testing-angular.com/)
 > - [Lars Wirzenius - 40 years of programming](https://liw.fi/40/)
 
-```
-1X.01
-```
+### 1X.01
 
 > Watching:
 >
@@ -540,9 +482,7 @@ leaving the comfort of my Arch setup.
 > - Dune: Prophecy (2024)
 > - El Topo (1970)
 
-```
-0X.01
-```
+### 0X.01
 
 Using last free days after christmas/new year to do some work on my infrastructure:
 
