@@ -40,7 +40,6 @@ Some quotes I simply enjoyed.
 >
 > ~ Richard Penrose
 
----
 
 > it is only the way it is until we discover
 > the new way it is, and then that is the way
@@ -69,7 +68,6 @@ Some quotes I simply enjoyed.
 >
 > ~ my own rumblings
 
----
 
 > All to often in life, we see people do what we want them to do and we say
 > nothing, assuming that the behavior has become natural for them, as easy
@@ -81,7 +79,6 @@ Some quotes I simply enjoyed.
 >
 > ~ Patrick Lencioni - The Ideal Team Player
 
----
 
 > Maybe there's no ends, maybe just infinity
 >
@@ -91,14 +88,12 @@ Some quotes I simply enjoyed.
 >
 > **Hell yes, [rhizomes](<https://en.wikipedia.org/wiki/Rhizome_(philosophy)>) explained in a hip hop song about space!**
 
----
 
-I cannot extract any specific fragment which would do it justice and the
-entirety is too long to paste here. Anyway, the lyrics are **fire**.
+> I cannot extract any specific fragment which would do it justice and the
+> entirety is too long to paste here. Anyway, the lyrics are **fire**.
+>
+> **~Louis Cole - Quality Over Opinion.**
 
-**Louis Cole - Quality Over Opinion.**
-
----
 
 > People aren't actually moved by competence at all. Competence is actually one
 > of the least moving things in the world. You're moved by something being
@@ -108,7 +103,6 @@ entirety is too long to paste here. Anyway, the lyrics are **fire**.
 >
 > ~ Jacob Collier - [Logic Session Breakdown: Little Blue](https://youtu.be/M-Ii2_GgdRs?si=Mik_xJahM9wZ0Sup)
 
----
 
 _TODO:_ shorten this stuff, cmon man.
 
@@ -136,13 +130,11 @@ _TODO:_ shorten this stuff, cmon man.
 >
 > ~ Don Norman - The Design Of Everyday Things
 
----
 
 > The most effective way of helping people remember is to make it unnecessary.
 >
 > ~ Don Norman - The Design Of Everyday Things
 
----
 
 > Brains are survival engines, not truth detectors. If self-deception promotes
 > fitness, the brain lies. Stops noticing— irrelevant things. Truth never
@@ -154,7 +146,6 @@ _TODO:_ shorten this stuff, cmon man.
 >
 > **...actually this might be a rephrasing of Steven Pinker's quote from How the Mind Works, not sure 100%**
 
----
 
 > I'm living in an age
 >
@@ -166,7 +157,6 @@ _TODO:_ shorten this stuff, cmon man.
 >
 > ~ Peter Gabriel
 
----
 
 > I don't have much to say about it because the arguments seem so clear-cut as
 > to be almost uninteresting. Neurons do not fire themselves. [...] The switch
@@ -174,7 +164,6 @@ _TODO:_ shorten this stuff, cmon man.
 >
 > ~ Peter Watts, on free will - Echopraxia
 
----
 
 > We found our way to the end of youth
 >
@@ -184,7 +173,6 @@ _TODO:_ shorten this stuff, cmon man.
 >
 > ~ Son Lux - Yesterday's Wake
 
----
 
 > Chaos darkened the holy brightnesses of the unconscious world. Hierarchies
 > crumpled. And between the act and its divine source came the shadow, the

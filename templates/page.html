@@ -14,7 +14,7 @@
 
 <article>
 
-<h1 class="post-title">
+<header class="post-title">
   {% if related_posts %}
     <span style="color: {{ related_posts.color }};">○</span>
     <span style="text-decoration: underline {{ related_posts.color }} 1px;"/>
@@ -23,7 +23,7 @@
   {% endif %}
 
   {{ page.title | markdown(inline=True) | safe }}
-</h1>
+</header>
 
 {{ page.content | safe }}
 

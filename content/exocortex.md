@@ -12,6 +12,9 @@ As many other people, I'm building a website storing pieces of knowledge which
 I find interesting, mostly notes on technical, artistic and philosphical
 matters. I'm also using the website as a journal.
 
+{{image (src="/graphviz_happy_accident.jpg" small=true noshadow=true
+title="Ideas & links, labels not rendered due to a coding error. Looked cool so I put it there.")}}
+
 In my case, it is neither a blog nor a
 _[Zettelkasten-like](https://en.wikipedia.org/wiki/Zettelkasten)_ system. I
 built a custom visualisation software, utilising natural language processing
@@ -23,9 +26,6 @@ as widespread and common as they are now :)
 
 To put it shortly: I'm building a system which will automatically
 group my thoughts and infer connections between them.
-
-{{image (src="/graphviz_happy_accident.jpg" small=true noshadow=true
-title="Ideas & links, labels not rendered due to a coding error. Looked cool so I put it there.")}}
 
 Apart from the cool-sounding plans about mind map generation, I'm constantly
 trying to improve both the [website experience](/experience) and my

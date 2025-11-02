@@ -32,8 +32,6 @@ tags: journal, meta
 
 _TL;DR ends here, full version below_
 
----
-
 ## 🛰️ Space
 
 I am currently leading the Mission Control team at [Creotech

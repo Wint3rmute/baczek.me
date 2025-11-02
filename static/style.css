@@ -42,10 +42,25 @@ footer {
   text-align: center;
 }
 
-header,
-nav,
-ul {
-  overflow: hidden;
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-left,
+.nav-right {
+  display: flex;
+}
+
+.nav-link {
+  color: white;
+  padding: 0.4rem 0.4rem;
+}
+
+article > header {
+  padding-top: 3rem;
+  padding-bottom: 2rem;
 }
 
 header,
@@ -62,22 +77,26 @@ td {
   padding: 8px;
 }
 
-h1.title {
+header.index-page-title {
   font-size: 200%;
-
-  text-decoration: underline var(--background-light) 1px;
-  text-underline-offset: 10px;
+  text-decoration: underline 1px;
 }
 
-h2, h3, h4 {
+h1, h2, h3, h4 {
   display: flex;
   align-items: center;
   gap: 20px; /* Space between text and line */
 }
 
-h2::after, h3::after, h4::after {
+h1::after, h2::after, h3::after, h4::after {
     content: '';
     flex-grow: 1; /* Makes the line fill remaining space */
+    border-radius: 1px;
+}
+
+h1::after {
+    height: 4px;
+    background-color: var(--background-light);
 }
 
 h2::after {
@@ -139,12 +158,13 @@ footer>p>a {
   text-decoration: none;
 }
 
-nav>ul {
-  padding-left: 0px;
+nav {
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 nav>ul>li {
-  display: block;
+  display: flex;
   float: right;
   padding: 5px;
 }
@@ -164,6 +184,8 @@ svg {
 figcaption {
   text-align: center;
   font-style: italic;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
 .logo {
@@ -189,10 +211,10 @@ blockquote>* {
 }
 
 blockquote {
+  border-left: 2px solid var(--accent);
   background-color: var(--background-light);
   padding: 5px;
-  margin: 0px;
-  border-radius: 10px;
+  border-radius: 0px 10px 10px 0px;
   font-style: italic;
 }
 
@@ -272,10 +294,10 @@ hr {
 }
 
 @media only screen and (min-width: 768px) {
-  header {
-    width: 55%;
+  nav {
+    padding-left: 25%;
+    padding-right: 25%;
   }
-
   main {
     width: 40%;
   }
@@ -310,6 +332,9 @@ hr {
   font-family: serif;
   border-top: 1px solid white;
   border-bottom: 1px solid white;
+  padding-left: 1%;
+  padding-right: 1%;
+  margin-right: 98%;
 }
 
 li.recently-updated-item {

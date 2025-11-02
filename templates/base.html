@@ -21,28 +21,16 @@
 </head>
 
 <body>
-  <header>
     <nav>
-      <ul>
-        <li class="logo">
-          <a href="/">
-            Mateusz Bączek
-          </a>
-        </li>
-        <li>
-        </li>
-        <li>
-          <a href="/about">About</a>
-        </li>
-        <li>
-          <a href="/now">Devlog</a>
-        </li>
-        <li>
-          <a href="/map">Map</a>
-        </li>
-      </ul>
+      <div class="nav-left">
+        <a href="/" class="nav-link">Mateusz Bączek</a>
+      </div>
+      <div class="nav-right">
+        <a href="/about" class="nav-link">About</a>
+        <a href="/now" class="nav-link">Devlog</a>
+        <a href="/map" class="nav-link">Map</a>
+      </div>
     </nav>
-  </header>
 
   <main>
     {% block content %}
