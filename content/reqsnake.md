@@ -300,7 +300,7 @@ directory, then use the Python interface of SnakeReq to call functions and
 validate returned results.
 
 The AI implemented both kinds of tests. In hindsight, starting scenario-based
-testing as early as possible was the biggest life saver. It's no surprise, the
+testing as early as possible was the biggest lifesaver. It's no surprise, the
 same is true for non-vibecoded projects.
 
 ### What the AI got right
@@ -381,17 +381,17 @@ This got me to a point where I could run:
 Despite specified requirements, the agent **completely ignored** my
 instructions regarding cycle detection. When asked about it, it responded that
 it is in fact not implemented and quickly coded a DFS. It seems to be working,
-although it requires more tests at this point. I'm counting this as slightly
+although it requires more tests at this point. I'm counting this as slightly wrong.
 
 #### ⚠️ Blockquote parsing
 
 To my surprise, AI did not understand the idea behind making a specific
 blockquote-based syntax for requirement definitions. It assumed that **all
 blockquotes** in the documentation shall be valid requirememnts. I had to
-pinpoint this fact then the AI implemented a medium-quality heuristic deciding
+pinpoint this fact then the AI implemented a somewhat sloppy heuristic deciding
 when to raise an error and when to assume that the blockquote definitely does
-not contain a requirement. Only time will tell whether this approach is
-correct. Slightly wrong.
+not contain a requirement. Only time will tell whether this heuristic is
+correct. Again, slightly wrong.
 
 ### What the AI got completely wrong
 
@@ -403,7 +403,7 @@ Python has decitated syntax for multilines strings:
 ```python
 long_string = """Hello
 So basically
-  I am very long.
+I am very long.
 """
 ```
 
