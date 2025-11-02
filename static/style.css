@@ -69,10 +69,32 @@ h1.title {
   text-underline-offset: 10px;
 }
 
+h2, h3, h4 {
+  display: flex;
+  align-items: center;
+  gap: 20px; /* Space between text and line */
+}
+
+h2::after, h3::after, h4::after {
+    content: '';
+    flex-grow: 1; /* Makes the line fill remaining space */
+}
+
+h2::after {
+    height: 2px;
+    background-color: var(--background-light);
+}
+
+h3::after {
+    height: 1px;
+    background-color: var(--background-light);
+}
+
 .post-title {
   font-size: 200%;
   color: white;
   text-underline-offset: 10px;
+  text-align: center;
 }
 
 button {

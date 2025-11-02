@@ -15,15 +15,14 @@
 <article>
 
 <h1 class="post-title">
+  {% if related_posts %}
+    <span style="color: {{ related_posts.color }};">○</span>
+    <span style="text-decoration: underline {{ related_posts.color }} 1px;"/>
+  {% else %}
+    <span style="text-decoration: underline var(--background-light) 1px;"/>
+  {% endif %}
 
-{% if related_posts %}
-  <span style="color: {{ related_posts.color }};">○</span>
-  <span style="text-decoration: underline {{ related_posts.color }} 1px;">
-{% else %}
-  <span style="text-decoration: underline var(--background-light) 1px;">
-{% endif %}
-    {{ page.title | markdown(inline=True) | safe }}
-  <span>
+  {{ page.title | markdown(inline=True) | safe }}
 </h1>
 
 {{ page.content | safe }}
