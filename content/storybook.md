@@ -47,3 +47,12 @@ float Q_rsqrt( float number )
 At last, [an external link](https://detondev.com). Alternatively [an internal
 link](/now).
 
+### Table
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
+*...do I even use tables anywhere?*

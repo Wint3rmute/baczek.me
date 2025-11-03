@@ -1,6 +1,6 @@
 :root {
-  --content_foreground: rgba(255, 255, 255, 0.74);
-  --headers_foreground: rgba(255, 255, 255, 0.84);
+  --foreground-color: rgba(255, 255, 255, 0.74);
+  --foreground-headers: rgba(255, 255, 255, 0.84);
   --background: #263238;
   --background-light: #37474f;
   --accent: #82aaff;
@@ -10,7 +10,7 @@
 
 body {
   background-color: var(--background);
-  color: var(--content_foreground);
+  color: var(--foreground-color);
   font-family:
     Roboto,
     Cantarell,
@@ -26,6 +26,7 @@ body {
   height: 100vh;
   flex-direction: column;
   margin: 0;
+  line-height: 1.7;
 }
 
 header,
@@ -33,13 +34,11 @@ main,
 footer {
   margin-left: auto;
   margin-right: auto;
-  padding-left: 5px;
-  padding-right: 5px;
 }
 
 footer {
   border-top: 1px solid var(--background-light);
-  margin-top: 5vh;
+  margin-top: 3rem;
   text-align: center;
 }
 
@@ -50,11 +49,17 @@ nav {
   left: 0;
   right: 0;
 
+  /* Position above the rest */
+  z-index: 1;
+
   justify-content: space-between;
   align-items: center;
   background-color: var(--background);
-  margin-bottom: 1px;
+
   border-bottom: 1px solid transparent;
+  animation: nav-border ease-in both;
+  animation-timeline: scroll();
+  animation-range: 10px 100px;
 }
 
 @keyframes nav-border {
@@ -62,13 +67,6 @@ nav {
     border-bottom: 1px solid var(--background-light);
   }
 }
-
-nav {
-  animation: nav-border ease-in both;
-  animation-timeline: scroll();
-  animation-range: 10px 100px;
-}
-
 
 .nav-left,
 .nav-right {
@@ -80,28 +78,28 @@ nav {
   padding: 0.4rem 0.4rem;
 }
 
-article > header {
-  padding-top: 3rem;
-  padding-bottom: 2rem;
-}
-
 header,
 h2,
 h3,
 h4,
 h5 {
-  color: var(--headers_foreground);
+  color: var(--foreground-headers);
+}
+
+table {
+  margin: 0 auto;
 }
 
 th,
 td {
   border-bottom: 1px solid var(--background-light);
-  padding: 8px;
+  padding: 0.5rem;
 }
 
-header.index-page-title {
+.index-page-title {
+  text-decoration: underline var(--background-light) 1px !important;
+  text-underline-offset: 10px;
   font-size: 200%;
-  text-decoration: underline 1px;
 }
 
 h1, h2, h3, h4 {
@@ -113,7 +111,7 @@ h1, h2, h3, h4 {
 h1::after, h2::after, h3::after, h4::after {
     content: '';
     flex-grow: 1; /* Makes the line fill remaining space */
-    border-radius: 1px;
+    border-radius: 3px;
 }
 
 h1::after {
@@ -132,6 +130,8 @@ h3::after {
 }
 
 .post-title {
+  padding-top: 5rem;
+  padding-bottom: 3rem;
   font-size: 200%;
   color: white;
   text-underline-offset: 10px;
@@ -176,19 +176,8 @@ a:hover {
   color: var(--accent);
 }
 
-footer>p>a {
-  text-decoration: none;
-}
-
-nav {
-  padding-left: 10px;
-  padding-right: 10px;
-}
-
-nav>ul>li {
-  display: flex;
-  float: right;
-  padding: 5px;
+footer a {
+  text-decoration: none !important;
 }
 
 svg {
@@ -197,10 +186,10 @@ svg {
 }
 
 .svg-icon {
-  width: 30px;
-  height: 30px;
-  padding-left: 5px;
-  padding-right: 5px;
+  width: 1.8rem;
+  height: 1.8rem;
+  padding-left: 0.2rem;
+  padding-right: 0.2rem;
 }
 
 figcaption {
@@ -210,25 +199,14 @@ figcaption {
   padding-right: 10%;
 }
 
-.logo {
-  float: left;
-}
-
 main {
   margin-left: auto;
   margin-right: auto;
-  line-height: 1.7;
+  /* Important for mobile view. Don't remove! */
   width: 94%;
 }
 
-/* All `code` blocks are wrapped in `pre`, which actually
-* determines the line height. For some reason, changing it at the
-* `code` element does not work. */
-pre {
-  line-height: 1;
-}
-
-blockquote>* {
+blockquote > * {
   margin: 5px;
 }
 
@@ -244,10 +222,6 @@ blockquote {
   text-align: left;
   display: flex;
   justify-content: center;
-}
-
-ul>li {
-  margin-left: 0px;
 }
 
 .index-div {
@@ -302,17 +276,46 @@ figure {
   color: black;
 }
 
+/* This wraps each `code` element */
 pre {
   padding-top: 5px;
   padding-bottom: 5px;
   border-top: 1px solid var(--background-light);
   border-bottom: 1px solid var(--background-light);
   background-color: transparent !important;
+
+  /* All `code` blocks are wrapped in `pre`, which actually
+  * determines the line height. For some reason, changing it at the
+  * `code` element does not work. */
+  line-height: 1;
 }
 
 hr {
   border: 1px solid var(--background-light);
   width: 80%;
+}
+
+.dictionary-word {
+  font-family: serif;
+}
+
+.dictionary-source {
+  font-size: 80%;
+  margin-top: -15px;
+  margin-bottom: 30px;
+}
+
+.dictionary-letter {
+  font-family: serif;
+  border-top: 1px solid white;
+  border-bottom: 1px solid white;
+  padding-left: 1%;
+  padding-right: 1%;
+  margin-right: 98%;
+}
+
+.recently-updated-item {
+  list-style-type: circle;
 }
 
 @media only screen and (min-width: 768px) {
@@ -338,27 +341,4 @@ hr {
   blockquote {
     margin: 5%;
   }
-}
-
-.dictionary-word {
-  font-family: serif;
-}
-
-.dictionary-source {
-  font-size: 80%;
-  margin-top: -15px;
-  margin-bottom: 30px;
-}
-
-.dictionary-letter {
-  font-family: serif;
-  border-top: 1px solid white;
-  border-bottom: 1px solid white;
-  padding-left: 1%;
-  padding-right: 1%;
-  margin-right: 98%;
-}
-
-li.recently-updated-item {
-  list-style-type: circle;
 }
