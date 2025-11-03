@@ -27,6 +27,15 @@ tags: journal, programming, culture
 
 Enjoyed [MYTHOLOGICS #5 : BLAME!](https://youtu.be/HiKr0-vZSIM?si=SKrqX2mMGRUClKGz).
 
+Gave the website a moderate CSS overhaul to improve visual gripping. Reading
+longer pages felt like battling a wall of text, hopefully it no longer feels
+that way.
+
+> Listening:
+>
+> Yasmine Hamdan - I remember I forget
+> Bedouin Burger, Zeid Hamdan, Lynn Adib - Harir
+
 
 ### 3X.10
 
