@@ -38,15 +38,37 @@ footer {
 }
 
 footer {
+  border-top: 1px solid var(--background-light);
   margin-top: 5vh;
   text-align: center;
 }
 
 nav {
+  position: fixed;
   display: flex;
+  top: 0;
+  left: 0;
+  right: 0;
+
   justify-content: space-between;
   align-items: center;
+  background-color: var(--background);
+  margin-bottom: 1px;
+  border-bottom: 1px solid transparent;
 }
+
+@keyframes nav-border {
+  to {
+    border-bottom: 1px solid var(--background-light);
+  }
+}
+
+nav {
+  animation: nav-border ease-in both;
+  animation-timeline: scroll();
+  animation-range: 10px 100px;
+}
+
 
 .nav-left,
 .nav-right {
