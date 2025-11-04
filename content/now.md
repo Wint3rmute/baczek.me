@@ -33,8 +33,8 @@ that way.
 
 > Listening:
 >
-> Yasmine Hamdan - I remember I forget
-> Bedouin Burger, Zeid Hamdan, Lynn Adib - Harir
+> - Yasmine Hamdan - I remember I forget
+> - Bedouin Burger, Zeid Hamdan, Lynn Adib - Harir
 
 
 ### 3X.10
