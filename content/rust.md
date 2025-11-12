@@ -2,7 +2,6 @@
 created: 2022-06-16T00:10:36+02:00
 modified: 2022-08-01T22:41:08+02:00
 title: Rust
-tags: programming
 ---
 
 Rust is my current language of choice - it offers great

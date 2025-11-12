@@ -1,6 +1,5 @@
 ---
 title: Excellent Words
-tags: culture, collection
 ---
 
 > Long words, excellent words

@@ -1,6 +1,5 @@
 ---
 title: Map
-tags: journal, generative, programming
 ---
 
 {{svg (src="generated/connections.svg")}}

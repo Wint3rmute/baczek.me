@@ -1,6 +1,5 @@
 ---
 title: The Ławka Initiative
-tags: culture, collection
 ---
 
 {{definition(word="Ławka" definition="Polish word which means ,,bench''", source="")}}

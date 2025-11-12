@@ -1,6 +1,5 @@
 ---
 title: Storybook
-tags: meta
 ---
 
 This page displays all the building blocks of the site. I use it for visual

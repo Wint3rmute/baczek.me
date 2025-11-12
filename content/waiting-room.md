@@ -2,7 +2,6 @@
 created: 2022-05-01T22:47:19+02:00
 modified: 2023-05-18T21:37:14+02:00
 title: The Waiting room
-tags: journal, meta, culture, programming
 ---
 
 {{image (src="/waiting_room.jpg" title="") }}

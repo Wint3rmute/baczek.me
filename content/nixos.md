@@ -2,7 +2,6 @@
 created: 2022-06-13T23:48:37+02:00
 modified: 2022-10-27T22:56:27+02:00
 title: NixOS
-tags: programming, collection
 ---
 
 [NixOS](https://nixos.org/) is a Linux distro which follows a path radically

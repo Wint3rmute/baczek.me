@@ -1,6 +1,5 @@
 ---
 title: Making music on Linux
-tags: programming
 ---
 
 *Trying to build a productive music-making environment as a Linux purist.*

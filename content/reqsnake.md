@@ -1,6 +1,5 @@
 ---
 title: ReqSnake
-tags: programming, project
 ---
 
 # Requirements Management System

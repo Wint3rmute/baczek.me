@@ -2,7 +2,6 @@
 created: 2022-05-28T13:55:05+02:00
 modified: 2022-05-28T14:00:58+02:00
 title: Custom synth
-tags: culture
 ---
 
 ## Idea dump for a custom hardware synth

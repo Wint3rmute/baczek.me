@@ -2,7 +2,6 @@
 created: 2025-09-02T11:01:19+02:00
 modified: 2025-09-02T11:08:25+02:00
 title: Model-Based Systems Engineering
-tags: programming, engineering
 ---
 
 My observations & ideas on tooling for [Systems Engineering](https://en.wikipedia.org/wiki/Systems_engineering)

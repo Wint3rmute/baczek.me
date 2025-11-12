@@ -2,7 +2,6 @@
 created: 2022-07-29T12:33:09+02:00
 modified: 2023-04-30T12:53:05+02:00
 title: Luthier
-tags: culture, programming, generative
 ---
 
 # Generative sound timbre design

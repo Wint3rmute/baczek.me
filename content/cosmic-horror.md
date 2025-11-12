@@ -1,6 +1,5 @@
 ---
 title: Cosmic Horror
-tags: culture, collection
 ---
 
 Cosmic horror explores the idea that the higher forces of the universe

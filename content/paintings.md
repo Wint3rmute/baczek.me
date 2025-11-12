@@ -1,6 +1,5 @@
 ---
 title: Paintings
-tags: culture, collection
 ---
 
 One day, I'd like to have more free space at home, so I can fill it with

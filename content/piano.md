@@ -1,6 +1,5 @@
 ---
 title: Piano
-tags: culture, collection
 ---
 
 Collection of piano pieces which strike a good balance between being easy to

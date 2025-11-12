@@ -1,6 +1,5 @@
 ---
 title: 2025's Devlog
-tags: journal, programming, culture
 ---
 
 <!---->

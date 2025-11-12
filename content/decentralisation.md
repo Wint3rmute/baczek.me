@@ -1,6 +1,5 @@
 ---
 title: Decentralisation
-tags: programming
 ---
 
 As many other people who run their own websites (and often other

@@ -2,7 +2,6 @@
 created: 2022-06-16T00:10:36+02:00
 modified: 2022-10-27T23:34:42+02:00
 title: Caddy
-tags: programming
 ---
 
 [Caddy](https://caddyserver.com/) is an open source web server, an alternative to the well known NGINX.

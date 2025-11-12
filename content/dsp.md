@@ -1,6 +1,5 @@
 ---
 title: Audio & DSP
-tags: generative, culture, programming
 ---
 
 {{image (src="/fm_harmonic_amplitudes.png" title="Frequency modulation harmonic amplitudes, taken from [Smith, J.O. Spectral Audio Signal Processing](https://ccrma.stanford.edu/~jos/sasp/FM_Harmonic_Amplitudes_Bessel.html)" noshadow=true)}}
