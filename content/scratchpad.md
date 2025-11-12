@@ -9,6 +9,8 @@ tags: culture, collection, programming
 
 Nexus page linking to all of my never finished project ideas, so I can get them out from my head.
 
+- **[Sonification](/sonification)** - command line tool converting your logs to melodies.
+
 - **[Flying Shooting Game](/flying-shooting-game)** - jetpack meets Ultrakill meets outrun style meets attack on titan.
 
 - **[Lab Assistant Game](/assistant)** - AI agents were all over the place, so I wanted to prototype a game around them.
