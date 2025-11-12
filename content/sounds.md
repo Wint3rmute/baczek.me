@@ -1,6 +1,5 @@
 ---
 title: Sounds & Melodies
-tags: culture, programming, generative
 ---
 
 - [Transcribing music](/transcribing) with open-source tools

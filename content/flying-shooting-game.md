@@ -1,6 +1,5 @@
 ---
 title: Flying Shooting Game
-tags: programming
 ---
 
 # Scratchpad on a game idea I had recently.

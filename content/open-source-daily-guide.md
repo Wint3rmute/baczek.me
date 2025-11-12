@@ -2,7 +2,6 @@
 created: 2022-06-26T22:51:04+02:00
 modified: 2022-07-27T17:48:13+02:00
 title: Daily open-source software guide
-tags: programming, collection
 ---
 
 I've found that lots of people are writing extensive lists of tools they use to

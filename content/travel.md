@@ -1,7 +1,6 @@
 
 ---
 title: Travel
-tags: collection
 ---
 
 Notes on travel, places I visited and the ones I'd like to visit.

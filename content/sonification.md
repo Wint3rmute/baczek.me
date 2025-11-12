@@ -1,6 +1,5 @@
 ---
 title: Sonification
-tags: programming
 ---
 
 Notes on [data sonification](https://en.wikipedia.org/wiki/Sonification).

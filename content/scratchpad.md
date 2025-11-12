@@ -2,7 +2,6 @@
 created: 2023-05-02T11:01:19+02:00
 modified: 2023-05-02T11:08:25+02:00
 title: Scratchpad
-tags: culture, collection, programming
 ---
 
 > [Notes apps are where ideas go to die. And that’s good](https://www.reproof.app/blog/notes-apps-help-us-forget).

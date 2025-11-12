@@ -1,6 +1,5 @@
 ---
 title: Registry-based search engine
-tags: project, culture, programming
 ---
 
 *Bringing human-run sites back into search results*.

@@ -1,6 +1,5 @@
 ---
 title: Listening
-tags: culture, collection
 ---
 
 ## All-time favourites

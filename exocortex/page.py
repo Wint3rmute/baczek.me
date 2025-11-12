@@ -2,7 +2,6 @@ import hashlib
 import logging
 import math
 import subprocess
-import warnings
 from dataclasses import dataclass, field
 from pathlib import Path
 
@@ -84,20 +83,6 @@ def extract_title(file_path: Path, content: str) -> str:
     return title
 
 
-def extract_tags(file_path: Path, content: str) -> list[str]:
-    tags = []
-
-    for line in content.split("\n"):
-        if line.startswith("tags: "):
-            tags = line.replace("tags: ", "").split(",")
-            tags = [tag.strip() for tag in tags]
-
-    if len(tags) == 0:
-        warnings.warn(f"No tags defined for {file_path}")
-
-    return tags
-
-
 @dataclass
 class RelatedPost:
     similarity: float
@@ -113,7 +98,6 @@ class Post:
     recently_modified: bool
 
     embeddings: numpy.ndarray
-    tags: list[str] = field(default_factory=list)
     related_posts: list[RelatedPost] = field(default_factory=list)
 
     length_normalized: float = 0
@@ -168,14 +152,12 @@ class Post:
             content = html_tree.text
 
             title = extract_title(path, content_raw)
-            tags = extract_tags(path, content_raw)
 
         elif path.suffix == ".html":
             content_raw = path.read_text()
             html_tree = BeautifulSoup(content_raw, features="html.parser")
             html_tree.nav.decompose()
             content = html_tree.text.replace("\n", "")
-            tags = []
 
             title = path.name
 
@@ -189,7 +171,6 @@ class Post:
             content=content,
             path=path,
             recently_modified=was_recently_modified(path),
-            tags=tags,
             embeddings=embeddings,
         )
 

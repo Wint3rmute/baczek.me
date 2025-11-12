@@ -2,7 +2,6 @@
 created: 2022-10-27T23:13:55+02:00
 modified: 2023-04-25T22:05:57+02:00
 title: Software alternatives
-tags: programming, collection
 ---
 
 Here's a small list of programs which I use as alternatives to classic

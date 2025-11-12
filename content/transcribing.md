@@ -2,7 +2,6 @@
 created: 2022-06-16T00:10:36+02:00
 modified: 2022-06-16T00:12:52+02:00
 title: Music Transcribing 
-tags: culture, programming
 ---
 
 Writing down notes for an unnotated piece of music is called
