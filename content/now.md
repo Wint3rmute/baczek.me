@@ -22,7 +22,17 @@ title: 2025's Devlog
 <!-- Consider adding the first still from Na Srebrnym Globie, it has a nice font -->
 <!---->
 
-### 0X.00
+### 1X.11
+
+Organized a seminar and workshops about Generative Art in my workplace. Run live
+satellite telemetry into a drum machine with a darktechno preset. Good times.
+
+> Listening:
+>
+> - Charli xcx, John Cale - House
+
+
+### 0X.11
 
 Enjoyed [MYTHOLOGICS #5 : BLAME!](https://youtu.be/HiKr0-vZSIM?si=SKrqX2mMGRUClKGz).
 
