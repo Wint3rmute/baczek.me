@@ -22,6 +22,13 @@ title: 2025's Devlog
 <!-- Consider adding the first still from Na Srebrnym Globie, it has a nice font -->
 <!---->
 
+### 2X.11
+
+> Listening:
+>
+> - Louis Cole - [Weird Moments](https://youtu.be/u-dicKzcCF0?si=Djm17H1Gel0Y1Nz7)
+
+
 ### 1X.11
 
 Organized a seminar and workshops about Generative Art in my workplace. Run live
