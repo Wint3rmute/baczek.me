@@ -24,9 +24,17 @@ title: 2025's Devlog
 
 ### 2X.11
 
+Finally had the time to migrate all my homelab secrets to proper
+[agenix](https://github.com/ryantm/agenix) secrets. I feel bad just
+thinking about how long i procrastinated on this one. Learned more
+about [git-filter-repo](https://github.com/newren/git-filter-repo) and
+[gitleaks](https://github.com/gitleaks/gitleaks) in the process!
+
 > Listening:
 >
+> - Richard Henshall - Mu Vol. I
 > - Louis Cole - [Weird Moments](https://youtu.be/u-dicKzcCF0?si=Djm17H1Gel0Y1Nz7)
+> - MEITEI - Nº 47 Sen’nyū
 
 
 ### 1X.11
