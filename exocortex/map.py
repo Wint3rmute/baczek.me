@@ -18,12 +18,23 @@ COLOR_MAP_BLUES = matplotlib.pyplot.get_cmap("Blues")
 COLOR_MAP_REDS = matplotlib.pyplot.get_cmap("Reds")
 
 NODE_ATTR = {
-    "shape": "box",
+    "shape": "plaintext",
+    "color": "blue",
     "nodesep": "0.55",
-    "fontname": "Roboto",
+    "fontname": """Roboto,
+Cantarell,
+-apple-system,
+BlinkMacSystemFont,
+segoe ui,
+Oxygen,
+Ubuntu,
+open sans,
+helvetica neue,
+sans-serif"""
 }
 
 GRAPH_ATTR = {
+    # Background for the entire graph
     "bgcolor": "transparent",
     "overlap": "false",
     "outputorder": "edgesfirst",
@@ -44,11 +55,8 @@ def make_node(graph: graphviz.Graph, post: Post, accent_style: bool = False):
 
     graph.node(
         post.title,
-        # label="< <B>" + graphviz.nohtml(post.title) + "</B> >",
         label="\n".join(textwrap.wrap(post.title, width=16)),
         color=color,
-        fillcolor="#263238",
-        style="filled",
         fontcolor=ACCENT_COLOR if accent_style else color,
         penwidth="2.0" if accent_style else "0.6",
         xlabel=xlabel,
