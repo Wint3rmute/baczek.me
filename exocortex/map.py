@@ -20,7 +20,6 @@ COLOR_MAP_REDS = matplotlib.pyplot.get_cmap("Reds")
 NODE_ATTR = {
     "shape": "plaintext",
     "color": "blue",
-    "nodesep": "0.55",
     "fontname": """Roboto,
 Cantarell,
 -apple-system,
@@ -127,7 +126,7 @@ def render_maps(all_posts: list[Post]):
     for current_post in all_posts:
         graph = graphviz.Graph(
             comment="Relations for node",
-            graph_attr=GRAPH_ATTR | {"defaultdist": "0.02"},
+            graph_attr=GRAPH_ATTR | {"nodesep": "0.1", "ranksep": "0.1"},
             format="svg",
             node_attr=NODE_ATTR,
             engine="neato",
