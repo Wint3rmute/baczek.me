@@ -22,7 +22,31 @@ title: 2025's Devlog
 <!-- Consider adding the first still from Na Srebrnym Globie, it has a nice font -->
 <!---->
 
+## 3X.11
+
+Finally figured out how to make simple abstraction in the Nix language by
+making a tiny module for [managing `/etc/hosts` on macOS](https://github.com/Wint3rmute/darwin/commit/8a0bd0abedc8a2067ccce67299c4f3c45792bcd7).
+It's a small piece of code, but it demonstrates how different of a language Nix
+is compared to what people usually expect. Determining a configuration option
+in one module, "mutating it" (not really) from a different module, having it all
+affect the final system build. All of this in a suspiciously small package in
+LoC terms, yet it seems to "flow" so naturally.
+
+
 ### 2X.11
+
+Launching satellites again! *TODO: pic*.
+
+I had to get some rest for a couple days to regain energy. Had a
+blast-to-the-past, running a Minecraft server with a couple of friends, all
+managed declaratively by [NixOS](/nixos). Comparing the experience of how
+easy it is for me to set up a server compared to ~12 years ago got me into
+a nostalgic mood. I remember barely understanding the idea of an IP address,
+VPNs were dark arts of wizardry to me. Now, spinning up a new NixOS service and
+setting up an nftables rule to expose the server took me less than an hour.
+
+(of course, I had to get the [Prometheus metrics](https://github.com/sladkoff/minecraft-prometheus-exporter)
+mod to satisfy my monitoring addiction)
 
 Finally had the time to migrate all my homelab secrets to proper
 [agenix](https://github.com/ryantm/agenix) secrets. I feel bad just
@@ -35,6 +59,8 @@ about [git-filter-repo](https://github.com/newren/git-filter-repo) and
 > - Richard Henshall - Mu Vol. I
 > - Louis Cole - [Weird Moments](https://youtu.be/u-dicKzcCF0?si=Djm17H1Gel0Y1Nz7)
 > - MEITEI - Nº 47 Sen’nyū
+> - Charli XCX - House feat. John Cale
+> - John Cale - Spinning Away
 
 
 ### 1X.11
