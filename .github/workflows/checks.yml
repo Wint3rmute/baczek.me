@@ -6,17 +6,19 @@ jobs:
     steps:
       - name: "Checkout"
         uses: actions/checkout@master
-      - name: Install poetry
-        run: pipx install poetry
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          version: "latest"
       - uses: actions/setup-python@v6
         with:
-          cache: "poetry"
-      - run: poetry install
+          python-version: "3.12"
+      - run: uv sync --group dev
       - name: Run linters
         run: |
           # Formatting
-          poetry run ruff format --check .
+          uv run ruff format --check .
           # Import sorting
-          poetry run ruff check --select I .
+          uv run ruff check --select I .
           # Lint
-          poetry run ruff check .
+          uv run ruff check .

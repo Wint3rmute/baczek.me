@@ -1,17 +1,21 @@
 FROM archlinux:latest AS builder
 RUN pacman -Syu --noconfirm git graphviz wget \
-  blas gcc poetry pkgconf \
-  python python-cairo graphviz zola \
+  blas gcc pkgconf \
+  python python-cairo graphviz zola python-pip \
   && pacman -Sc --noconfirm
 
+RUN pip install --break-system-packages uv
+
 WORKDIR /build
-COPY pyproject.toml poetry.lock poetry.toml /build/
-RUN poetry install --only main --no-root && rm -rf ~/.cache/pypoetry
+COPY pyproject.toml uv.lock /build/
+RUN uv sync --no-dev && rm -rf ~/.cache/uv
 
 FROM archlinux:latest
 RUN pacman -Syu --noconfirm git graphviz wget \
   blas \
-  poetry python python-cairo graphviz zola \
+  python python-cairo graphviz zola python-pip \
   && pacman -Sc --noconfirm
+
+RUN pip install --break-system-packages uv
 
 COPY --from=builder /build /build
