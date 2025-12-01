@@ -8,7 +8,7 @@ RUN pip install --break-system-packages uv
 
 WORKDIR /build
 COPY pyproject.toml uv.lock /build/
-RUN uv sync --no-dev && rm -rf ~/.cache/uv
+RUN uv sync && rm -rf ~/.cache/uv
 
 FROM archlinux:latest
 RUN pacman -Syu --noconfirm git graphviz wget \
