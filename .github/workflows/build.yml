@@ -19,6 +19,7 @@ jobs:
         uses: astral-sh/setup-uv@v5
         with:
           version: "latest"
+          enable-cache: true
       - name: Setup Graphviz
         run: |
           sudo apt-get update
