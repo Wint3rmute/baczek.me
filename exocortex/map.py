@@ -29,7 +29,7 @@ Oxygen,
 Ubuntu,
 open sans,
 helvetica neue,
-sans-serif"""
+sans-serif""",
 }
 
 GRAPH_ATTR = {
