@@ -28,6 +28,6 @@ build-backend = "hatchling.build"
 [tool.hatch.build.targets.wheel]
 packages = ["exocortex"]
 
-[tool.lint.ruff]
+[tool.ruff]
 include = ["*.py", "*.pyi", "**/pyproject.toml"]
-ignore = ['E501']
+lint.ignore = ['E501']
