@@ -10,6 +10,7 @@ jobs:
         uses: astral-sh/setup-uv@v5
         with:
           version: "latest"
+          enable-cache: true
       - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
