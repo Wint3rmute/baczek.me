@@ -20,8 +20,8 @@ zola serve # or `zola build`
 
 ## Notes
 
-Show dependency tree:
+Show outdated top-level deps:
 
 ```bash
-uv tree
+uv tree --outdated --depth 1
 ```
