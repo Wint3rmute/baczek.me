@@ -15,8 +15,10 @@ jobs:
         uses: actions/checkout@master
         with:
           fetch-depth: 0
-      - name: Install poetry
-        run: pipx install poetry
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          version: "latest"
       - name: Setup Graphviz
         run: |
           sudo apt-get update
@@ -27,11 +29,11 @@ jobs:
           tool: zola@0.19.2
       - uses: actions/setup-python@v6
         with:
-          cache: "poetry"
-      - run: poetry install
+          python-version: "3.12"
+      - run: uv sync
       - name: Build the website
         run: |
-          poetry run python -m exocortex
+          uv run python -m exocortex
           zola build
       #   run: ./scripts/build_docker.sh
       - name: Zip the website

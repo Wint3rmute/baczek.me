@@ -5,13 +5,13 @@ You should make one for yourself too :)
 ## Dependencies
 
 1. Install [Zola](https://www.getzola.org/documentation/getting-started/installation/)
-2. Install [Poetry](https://python-poetry.org/)
-3. Run `poetry install`
+2. Install [uv](https://docs.astral.sh/uv/getting-started/installation/)
+3. Run `uv sync`
 
 ## Building the site
 
 ```bash
-poetry run python -m exocortex
+uv run python -m exocortex
 zola serve # or `zola build`
 ```
 
@@ -23,5 +23,5 @@ zola serve # or `zola build`
 Show outdated top-level deps:
 
 ```bash
-poetry show -To
+uv tree --outdated
 ```
