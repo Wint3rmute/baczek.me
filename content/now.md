@@ -22,6 +22,12 @@ title: 2025's Devlog
 <!-- Consider adding the first still from Na Srebrnym Globie, it has a nice font -->
 <!---->
 
+## 0X.12
+
+> Reading:
+>
+> Peter Watts - [Siren Songs](https://www.rifters.com/crawl/?p=11581)
+
 ## 3X.11
 
 Finally figured out how to make simple abstraction in the Nix language by
