@@ -22,6 +22,13 @@ title: 2025's Devlog
 <!-- Consider adding the first still from Na Srebrnym Globie, it has a nice font -->
 <!---->
 
+## 1X.12
+
+> Watching:
+>
+> - Frankenstein (2025)
+
+
 ## 0X.12
 
 > Reading:
