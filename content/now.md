@@ -26,7 +26,12 @@ title: 2025's Devlog
 
 > Reading:
 >
-> Peter Watts - [Siren Songs](https://www.rifters.com/crawl/?p=11581)
+> - Peter Watts - [Siren Songs](https://www.rifters.com/crawl/?p=11581)
+>
+> Listening:
+>
+> - Paul Kalkbrenner - Sky and Sand
+
 
 ## 3X.11
 
