@@ -22,6 +22,7 @@ and gradually move them to this page.
 
 {{definition(word="Carapace" definition="A bony or chitinous case or shield covering the back or part of the back of an animal (such as a turtle or crab)", source="Peter Watts - Blindsight")}}
 {{definition(word="Carceral" definition="Relating to a prison. You probably know a similar word: ,,incarceration''", source="Simulacra and Simulation")}}
+{{definition(word="Charnel House" definition="Morgue, place where corpses or bones are piled", source="Frankenstein (2025)")}}
 {{definition(word="Circumvolution" definition="A winding movement, especially of one thing round another", source="Simulacra and Simulation")}}
 {{definition(word="Cloister" definition="Residence that is a place of religious seclusion (such as a monastery)", source="Simulacra and Simulation")}}
 {{definition(word="Collective Effervescence" definition="Spontaneus participation in the same action", source="Simulacra and Simulation")}}
