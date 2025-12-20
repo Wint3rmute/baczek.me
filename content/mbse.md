@@ -12,19 +12,27 @@ For a prototype tool for markdown-driven requirements management, see
 
 ## Problem statement
 
-We lack tools for system modeling, which can validate both low and high-level
-system model, allow placing useful constraints on the model, running tests on
-the model; not merely diagramming a bunch of blocks and arrows. Existing tools
-are stuck in a hell of desktop GUI apps with license servers and other typical
-issues related with large corporate software.
+The whole idea is coming from me - a person with 5+ years of experience in
+architecting and developing hardware/software systems (mostly on the software
+side though).
+
+My experience in defining software architectures and communicating them to
+engineers shows that we lack tools for system modeling. Tools which can validate
+both low and high-level system model, allow placing useful constraints on the
+model, running tests on the model; not merely diagramming a bunch of blocks
+and arrows. Existing tools can be roughly split into 2 categories:
+
+- Useful but very simple diagramming tools (DrawIO, Excalidraw)
+- Unfriendly GUI behemoths for large corporate software
 
 While programming tools get better, compilers get smarter and linters get
-stricter, **we're still representing knowledge about systems using documents
-with screenshots of hastily sketched DrawIO diagrams**. Time to put an end to
-the tyranny of the underspecified and the tribally-known! Release the system
-model & knowledge from the restraints of pre-hypertext mediums.
+stricter, **we're still representing knowledge about architectures using
+documents with screenshots of hastily sketched DrawIO diagrams**. Time to put
+an end to the tyranny of the underspecified and the tribally-known! Release the
+system model & knowledge from the restraints of pre-hypertext mediums.
 
-Embrace the [rhizomatic](https://en.wikipedia.org/wiki/Rhizome_%28philosophy%29) and the gradually-typed! Hyperconnect and hypervalidate!
+Embrace the [rhizomatic](https://en.wikipedia.org/wiki/Rhizome_%28philosophy%29)
+and the gradually-typed! Hyperconnect and hypervalidate!
 
 Let's model systems like it's XXI century AD.
 
