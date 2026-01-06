@@ -56,22 +56,22 @@ GUI-based tools don't scale and give a false sense of simplicity, which causes
 explosion of complexity each time a non-trivial system has to be modeled. GUIs
 are perfect for **exploration**, but they tend to be lacking for **structured
 and disciplined creation**, which is absolutely required when exercising proper
-SE.
+Systems Engineering.
 
 **Conclusions:**
 
-- the system shall generate GUI-based views or even interactive system
+- The system shall generate GUI-based views or even interactive system
   exploration tools
-- the system shall feature code-first system model editing
+- The system shall feature code-first system model editing
 
 ### Points of interest
 
-From what I've seen, SE tools tend to mix together too many contexts into a
-single box, often with wildly different abstraction levels. Proper separation
-of business and engineering concerns is a thing of rigor, but the tool at hand
-often affects the craftsman, leading to more or less organized result. The end
-user should be able to filter out the things they have no interest in, only
-viewing the context relevant to them.
+From what I've seen, Architecture and Systems Engineering tools tend to mix
+together too many contexts into a single box, often with wildly different
+abstraction levels. Proper separation of business and engineering concerns is
+a thing of rigor, but the tool at hand often affects the craftsman, leading to
+more or less organized result. The end user should be able to filter out the
+things they have no interest in, only viewing the context relevant to them.
 
 **Conclusion:** the system shall implement definable _Views_, which would
 essentially be filters applied onto the system model.
