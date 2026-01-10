@@ -4,6 +4,12 @@ title: 2026's Devlog
 
 ## 1X.01
 
+> Listening:
+>
+> - Fisz Emade Tworzywo - Mamut
+
+## 0X.01
+
 > Watching:
 >
 > - Jodorowsky's Dune (2013)
