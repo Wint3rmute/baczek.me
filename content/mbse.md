@@ -195,3 +195,5 @@ specific system.
 - https://www.archimatetool.com/
 - https://github.com/structurizr
 - https://d2lang.com/
+- https://github.com/tesserato/Tect
+- https://sensmetry.com

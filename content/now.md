@@ -7,6 +7,8 @@ title: 2026's Devlog
 > Listening:
 >
 > - Fisz Emade Tworzywo - Mamut
+> - DjRUM - Under Tangled Silence
+
 
 ## 0X.01
 
