@@ -7,9 +7,6 @@ title: Model-Based Systems Engineering
 My observations & ideas on tooling for [Systems Engineering](https://en.wikipedia.org/wiki/Systems_engineering)
 and [Model-based Systems Engineering (MBSE)](https://en.wikipedia.org/wiki/Model-based_systems_engineering).
 
-For a prototype tool for markdown-driven requirements management, see
-[ReqSnake](/reqsnake).
-
 ## Problem statement
 
 The whole idea is coming from me - a person with 5+ years of experience in
@@ -46,7 +43,7 @@ Build a system which joins together:
   - Interfaces/ports
   - Encapsulation
 - Gradual specification: from a high-level prototype to a type-checked system model
-- System exploration tool with an interactive diagram generator
+- System exploration with interactive diagrams
 
 ## 💢 Core issues
 
@@ -118,11 +115,11 @@ From the [OnShape forums](https://forum.onshape.com/discussion/25425/what-does-f
 
 This concept can be useful in terms of MBSE. During prototyping
 phase, one might define some kind of information to be sent from a system to
-system, for example a `User` of a `SocialMedia` might want to send information
-of type `Image` from their `Phone` to the `SocialMedia`. Such relationship can
+system. For example a `User` of a `SocialMedia` might want to send information
+of type `Image` from their `Phone` to `SocialMedia`. Such relationship can
 be easily understood by high-level executives. It is valid in the business
 sense, **but not in engineering sense**. It is therefore not _fully defined_.
-The system shall still allow business people work in high-level concepts, but
+The system shall allow business people work in high-level concepts, but
 once an architect or an engineer sits down to determine the details, the system
 should point out the missing pieces: request formats, protocols, etc.
 
@@ -197,3 +194,8 @@ specific system.
 - https://d2lang.com/
 - https://github.com/tesserato/Tect
 - https://sensmetry.com
+
+## Notes
+
+For a prototype tool for markdown-driven requirements management, see
+[ReqSnake](/reqsnake).
