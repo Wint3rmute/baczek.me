@@ -2,6 +2,15 @@
 title: 2026's Devlog
 ---
 
+## 2X.01
+
+[Transcribing](/transcribing) some simple stuff again:
+[Kept](https://github.com/wint3rmute/kept).
+
+> Listening:
+>
+> - Michael Mayo - You and You
+
 ## 1X.01
 
 > Listening:
