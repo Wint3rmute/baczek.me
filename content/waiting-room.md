@@ -7,10 +7,10 @@ title: The Waiting room
 {{image (src="/waiting_room.jpg" title="") }}
 
 This is where I keep ideas, movies, music, and other things that I plan to
-research more in-depth in the future.
+watch/listen/research more in the future.
 
+- https://corrode.dev/podcast/s05e09-gama-space/
 - Three Scientists And Their Gods
-- Lost in Translation
 - November (2017 film)
 - Nexus: A Brief History of Information Networks from the Stone Age to AI
 - The Disappearance of Eleanor Rigby
