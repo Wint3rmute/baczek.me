@@ -10,6 +10,11 @@ title: 2026's Devlog
 > Listening:
 >
 > - Michael Mayo - You and You
+> - Coals - batilija
+>
+> Reading:
+>
+> - [LilyPond — Essay on automated music engraving](https://lilypond.org/doc/v2.24/Documentation/essay-big-page.html)
 
 ## 1X.01
 
