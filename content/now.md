@@ -2,6 +2,13 @@
 title: 2026's Devlog
 ---
 
+## 3X.01
+
+> Watching:
+>
+> - Encounters at the End of the World  (2007)
+
+
 ## 2X.01
 
 [Transcribing](/transcribing) some simple stuff again:
