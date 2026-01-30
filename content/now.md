@@ -7,6 +7,7 @@ title: 2026's Devlog
 > Watching:
 >
 > - Encounters at the End of the World  (2007)
+> - The Babadook (2014)
 
 
 ## 2X.01
