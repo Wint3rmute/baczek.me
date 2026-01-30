@@ -20,6 +20,12 @@ zola serve # or `zola build`
 
 ## Notes
 
+Update deps:
+
+```bash
+uv lock --upgrade
+```
+
 Show outdated top-level deps:
 
 ```bash
