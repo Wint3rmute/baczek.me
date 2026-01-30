@@ -8,10 +8,17 @@ compile_sass = false
 build_search_index = false
 
 [markdown]
-# Whether to do syntax highlighting
-# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
-highlight = true
 external_links_target_blank = true
+
+[markdown.highlighting]
+theme = "github-dark"
+
+# When set to "true", missing highlight languages are treated as errors.
+# Defaults to false but recommended to set to true.
+error_on_missing_language = true
+
+# Whether to use inline hex colours (`inline`) or CSS classes (`class`)
+style = "inline"
 
 [extra]
 # Put all your custom variables here
