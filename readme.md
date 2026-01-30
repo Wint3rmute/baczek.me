@@ -11,7 +11,7 @@ You should make one for yourself too :)
 ## Building the site
 
 ```bash
-uv run python -m exocortex
+uv run exocortex
 zola serve # or `zola build`
 ```
 
