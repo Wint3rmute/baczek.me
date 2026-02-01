@@ -197,5 +197,7 @@ specific system.
 
 ## Notes
 
+Similar idea: [Company as Code](https://blog.42futures.com/p/company-as-code).
+
 For a prototype tool for markdown-driven requirements management, see
 [ReqSnake](/reqsnake).

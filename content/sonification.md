@@ -2,11 +2,12 @@
 title: Sonification
 ---
 
-Notes on [data sonification](https://en.wikipedia.org/wiki/Sonification).
-In my daily job, I am often watching over multiple streams of logs and metrics.
+Notes on [data sonification](https://en.wikipedia.org/wiki/Sonification). In
+my daily job, I am often watching over multiple streams of logs and metrics.
 Processing all this information just by eyes sounds like a waste of resources.
 We've built data visualisation tools so that we can utilize our visual cortex
-for "free" data pre-processing. Why not use other senses?
+for "free" data pre-processing. Why not offload some work to the
+[auditory cortex](https://en.wikipedia.org/wiki/Auditory_cortex)?
 
 Thinking about a rich data sonification system. Brain dump:
 

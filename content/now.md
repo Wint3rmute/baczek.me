@@ -2,11 +2,37 @@
 title: 2026's Devlog
 ---
 
+## 1X.02
+
+> Reading:
+>
+> - Peter Watts - [The Twenty-One Second God](https://www.lightspeedmagazine.com/fiction/the-twenty-one-second-god/)
+
+
+## 0X.02
+
+Going back to my [Sonification project](/sonification). Working on configuration
+system, focusing on something that's easy to start with and offers optional
+in-depth configuration. In the process, I learned about [loghub](https://github.com/logpai/loghub).
+
+Giving [nushell](https://www.nushell.sh) one more try.
+
+> Listening:
+>
+> - Ivan Lins - Qualquer Dia
+> - Kenji Kawai - Nightstalker
+>
+> Watching:
+>
+> - Lo and Behold, Reveries of the Connected World
+> - Ghost in the Shell: S.A.C. 2nd Gig
+
+
 ## 3X.01
 
 [Network drives](https://en.wikipedia.org/wiki/Network_File_System), quite
 surprisingly, are something I never had to set up in my sysadmin/devops carrier.
-Today I decided to finally stop wasting time with copying over movies via
+Today, I decided to finally stop wasting time with copying my movies via
 `rsync` or `scp`. As usual, the [NixOS Wiki](https://nixos.wiki/wiki/Samba)
 provided a great example to get me started. Within minutes, I was browsing my
 homelab's movie directory from a Finder-managed
