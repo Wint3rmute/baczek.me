@@ -31,7 +31,7 @@ important parts below.
 
 # Development
 
-- [LunarVim](https://lunarvim.org)
+- [Helix](https://helix-editor.com)
 - [Neovide](https://neovide.dev) (only sometimes, when I feel like watching the cool cursor animations)
 
 # Color Theme
