@@ -2,7 +2,14 @@
 title: 2026's Devlog
 ---
 
-## 1X.02
+## 01.02
+
+> Watching:
+>
+> - Sinners (2025)
+
+
+## 0X.02
 
 > Reading:
 >
