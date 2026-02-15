@@ -50,6 +50,9 @@ noticeable delay, I couldn't tell I'm running off a network mount.
 [Mpv player](https://mpv.io) even has a small UI widget visualising how it
 buffers the movie locally, great stuff!
 
+Android's VLC also supports Samba shares, had no trouble connecting and
+streaming vids in 1080p.
+
 > Watching:
 >
 > - Encounters at the End of the World  (2007)
