@@ -50,8 +50,10 @@ noticeable delay, I couldn't tell I'm running off a network mount.
 [Mpv player](https://mpv.io) even has a small UI widget visualising how it
 buffers the movie locally, great stuff!
 
-Android's VLC also supports Samba shares, had no trouble connecting and
-streaming vids in 1080p.
+Android's VLC also supports Samba shares, had no trouble
+connecting and streaming vids in 1080p. There's also
+[CIFS Document Provider](https://github.com/wa2c/cifs-documents-provider),
+although it seems to hang when opening 50MB+ PDFs.
 
 > Watching:
 >
