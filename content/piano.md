@@ -11,7 +11,7 @@ without problems:
 - Coldplay - Postcards From Far Away
 - A Winged Victory for the Sullen - The Haunted Victorian Pencil
 - Ryan Lott - [wintermute](https://github.com/Wint3rmute/Wintermute/blob/master/wintermute.pdf)
-- [Crystal Castles - Kept (Waltz piano)](https://youtu.be/KpF1RzgSl0c?si=N408_VsEI4eERzzO)
+- [Crystal Castles - Kept (Waltz piano)](https://github.com/Wint3rmute/Kept/blob/main/kept.pdf)
 - Cloud Atlas - Main Theme
 
 I usually find myself stressed when playing in public, even though I know most

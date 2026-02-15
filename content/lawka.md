@@ -27,6 +27,8 @@ currently have.
 
 {{image (src="/benches/ksiaz_castle.jpeg" small=false title="Poland, [Książ Castle](https://en.wikipedia.org/wiki/Ksi%C4%85%C5%BC_Castle). The castle is visible when sitting on the bench, unfortunately I wasn't able to find a good perspective to snap both the bench and the castle.")}}
 
+{{image (src="/benches/nara.jpg" small=false title="Nara, Japan. Careful not to step in deer poop!")}}
+
 _todo: add some more pictures of benches_
 
 Hey you! Yes, the one that's staring at the screen! You have any cool pictures

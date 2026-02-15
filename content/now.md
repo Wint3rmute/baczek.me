@@ -7,6 +7,10 @@ title: 2026's Devlog
 > Watching:
 >
 > - Sinners (2025)
+>
+> Listening:
+>
+> - We Are Jazz - did we actually make it?
 
 
 ## 0X.02
@@ -53,7 +57,7 @@ buffers the movie locally, great stuff!
 Android's VLC also supports Samba shares, had no trouble
 connecting and streaming vids in 1080p. There's also
 [CIFS Document Provider](https://github.com/wa2c/cifs-documents-provider),
-although it seems to hang when opening 50MB+ PDFs.
+although it lacks in the UX department and tends to hang when opening 50MB+ PDFs.
 
 > Watching:
 >
