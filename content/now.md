@@ -7,6 +7,10 @@ title: 2026's Devlog
 > Watching:
 >
 > - Sinners (2025)
+>
+> Listening:
+>
+> - We Are Jazz - did we actually make it?
 
 
 ## 0X.02
