@@ -27,7 +27,7 @@ I also recommend the following services for private use:
 
 - [NextCloud](https://nextcloud.com/)
 
-- [Matrix](https://github.com/matrix-org/synapse/)
+- [Actual](https://actualbudget.org/)
 
 - [Gitea](https://gitea.com/)
 

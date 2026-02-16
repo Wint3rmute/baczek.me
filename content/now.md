@@ -4,6 +4,10 @@ title: 2026's Devlog
 
 ## 01.02
 
+Setting up [Unbound](https://www.nlnetlabs.nl/projects/unbound/about/)
+on [NixOs](https://wiki.nixos.org/wiki/Unbound)
+to simplify navigation in my internal services.
+
 > Watching:
 >
 > - Sinners (2025)
