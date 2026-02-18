@@ -11,10 +11,13 @@ to simplify navigation in my internal services.
 > Watching:
 >
 > - Sinners (2025)
+> - Dark Star - HR Giger's World
 >
 > Listening:
 >
 > - We Are Jazz - did we actually make it?
+> - Charli xcx - Wuthering Heights
+> - Myele Manzanza, Marble Sun - Homesick (Marble Sun Remix )
 
 
 ## 0X.02
