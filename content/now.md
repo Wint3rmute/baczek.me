@@ -2,6 +2,16 @@
 title: 2026's Devlog
 ---
 
+## 2X.02
+
+Setting up [OpenClaw](https://openclaw.ai) — giving the [Claws](https://x.com/karpathy/status/2024987174077432126) idea a try.
+Configuring skills, tools, and automations. Experimenting with diffusion models from Inception Labs.
+
+> Listening:
+>
+> - Linkin Park - Breaking the Habit
+> - Ryuichi Sakamoto - Rain
+
 ## 01.02
 
 Setting up [Unbound](https://www.nlnetlabs.nl/projects/unbound/about/)
