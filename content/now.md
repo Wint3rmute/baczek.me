@@ -2,6 +2,14 @@
 title: 2026's Devlog
 ---
 
+## 27.02
+
+Quick week: coding, small infra fixes. Listening while debugging and writing notes.
+
+> Listening:
+>
+> - Gorillaz - The Mountain
+
 ## 2X.02
 
 Setting up [OpenClaw](https://openclaw.ai) — giving the [Claws](https://x.com/karpathy/status/2024987174077432126) idea a try.
