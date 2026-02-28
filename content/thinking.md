@@ -182,3 +182,21 @@ _TODO:_ shorten this stuff, cmon man.
 > shaken into consciousness.
 >
 > ~ The Origin of Consciousness in the Breakdown of the Bicameral Mind
+
+> I wish there was a treaty we could sign
+> 
+> I do not care who takes this bloody hill
+> 
+> I'm angry and I'm tired all the time
+> 
+> I wish there was a treaty, I wish there was a treaty
+>
+> Between your love and mine
+>
+> (...)
+>
+> I'm so sorry for that ghost I made you be
+>
+> Only one of us was real and that was me
+>
+> ~ Leonard Cohen - Treaty
