@@ -128,7 +128,7 @@ _>Certainly worth bringing back from antiquity!_
 
 ---
 
-Similar lists lists:
+More words:
 
 - [wordwarriors.wayne.edu/list](https://wordwarriors.wayne.edu/list)
 - [The Meaning of Liff](https://en.m.wikipedia.org/wiki/The_Meaning_of_Liff)
