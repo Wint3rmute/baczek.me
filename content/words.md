@@ -40,7 +40,7 @@ and gradually move them to this page.
 
 {{definition(word="Euergetism" definition="Ancient practice of high-status and wealthy individuals in society distributing part of their wealth to the community", source="Marcin Giełzak - Dwie Lewe Ręce Podcast")}}
 
-_>This one seems to be important in the current state of the world..._
+_>Certainly worth bringing back from antiquity!_
 
 {{dictionary_letter(letter="F")}}
 
