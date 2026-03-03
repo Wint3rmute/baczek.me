@@ -1,5 +1,5 @@
 ---
-title: Excellent Words
+title: Words
 ---
 
 > Long words, excellent words
