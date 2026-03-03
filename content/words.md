@@ -97,6 +97,7 @@ _>This one seems to be important in the current state of the world..._
 {{definition(word="Rejuvenate" definition="To make younger", source="Simulacra and Simulation")}}
 {{definition(word="Reticular" definition="(especially of a structure in the body) arranged or having a pattern like a net of lines", source="The Origin of Consciousness in the Breakdown of the Bicameral Mind")}}
 {{definition(word="Rhizome" definition="A nonlinear network that ,,connects any **point** to any other point'', used to describe concepts such as structures of language and knowledge, social relationships, etc. Used in opposition to hierarchical models", source="Explaining Deleuze with drum machines")}}
+{{definition(word="Recalcitrant" definition="Stubbornly resistant to authority or control, disobedient", source="The Origin of Consciousness in the Breakdown of the Bicameral Mind")}}
 {{definition(word="Reverie" definition="A state of thinking about pleasant things, almost as though you are dreaming. Daydreaming.", source="Son Lux - [Prophecy](https://www.youtube.com/watch?v=Lr3T3BxxSVA)")}}
 
 {{dictionary_letter(letter="S")}}
