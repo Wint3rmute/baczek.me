@@ -2,6 +2,18 @@
 title: 2026's Devlog
 ---
 
+## 0X.03
+
+> Watching:
+>
+> - KPop Demon Hunters
+>
+> Listening:
+>
+> - TWICE - Strategy
+> - HUNTR/X - Golden
+
+
 ## 2X.02
 
 Setting up [OpenClaw](https://openclaw.ai) — giving the [Claws](https://x.com/karpathy/status/2024987174077432126) idea a try.
