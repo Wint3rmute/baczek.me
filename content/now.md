@@ -12,6 +12,7 @@ title: 2026's Devlog
 >
 > - TWICE - Strategy
 > - HUNTR/X - Golden
+> - GoGo Penguin - Kai Dao
 
 
 ## 2X.02
