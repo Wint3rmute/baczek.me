@@ -1,6 +1,13 @@
 ---
 title: 2026's Devlog
 ---
+## 1X.03
+
+{{image (src="/gy_be.jpg" small=false title="GY!BE - Centrum Koncertowe A2, Wrocław")}}
+
+> Listening:
+>
+> - Godspeed You! Black Emperor
 
 ## 0X.03
 
