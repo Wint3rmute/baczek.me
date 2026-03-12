@@ -8,6 +8,11 @@ title: 2026's Devlog
 > Listening:
 >
 > - Godspeed You! Black Emperor
+>
+> Reading:
+>
+> -  Simon Willison - [Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/)
+
 
 ## 0X.03
 
