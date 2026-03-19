@@ -13,6 +13,10 @@ vocabulary by collecting various interesting words/phrases from books and other
 reading/listening materials. I usually write them down in a personal notebook
 and gradually move them to this page.
 
+{{dictionary_letter(letter="A")}}
+
+{{definition(word="Accrue" definition="to increase in number or amount over a period of time", source="The Origin of Consciousness in the Breakdown of the Bicameral Mind")}}
+
 {{dictionary_letter(letter="B")}}
 
 {{definition(word="Bellicose" definition="Having or showing a ready disposition to fight", source="The Origin of Consciousness in the Breakdown of the Bicameral Mind")}}
@@ -115,7 +119,9 @@ _>Certainly worth bringing back from antiquity!_
 {{definition(word="Syllogism" definition="form of deductive reasoning in which a conclusion is drawn from two or more premises", source="The Origin of Consciousness in the Breakdown of the Bicameral Mind")}}
 
 {{dictionary_letter(letter="T")}}
+
 {{definition(word="Tantrum" definition="Intense emotional outburst. Commonly used wording: temper tantrum", source="Can't remember")}}
+{{definition(word="Temerity" definition="Boldness arising from rashness and contempt of danger", source="The Origin of Consciousness in the Breakdown of the Bicameral Mind")}}
 
 {{dictionary_letter(letter="V")}}
 
