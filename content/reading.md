@@ -13,5 +13,6 @@ title: Reading
 - Blame!
 - Jonathan Haidt - The Righteus Mind
 - Blindsight
+- The Origin of Consciousness in the Breakdown of the Bicameral Mind
 
 I'm logging the things I am currently reading in the [log](/now).

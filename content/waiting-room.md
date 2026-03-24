@@ -9,6 +9,7 @@ title: The Waiting room
 This is where I keep ideas, movies, music, and other things that I plan to
 watch/listen/research more in the future.
 
+- IIT 4.0
 - https://corrode.dev/podcast/s05e09-gama-space/
 - Three Scientists And Their Gods
 - November (2017 film)
@@ -27,10 +28,7 @@ watch/listen/research more in the future.
 - The Place Beyond the Pines (2012)
 - Witold Lipiński's architecture
 - Erich Neumann - The Origins and History of Consciousness
-- Labirynth (1986)
 - [gwern.net](https://gwern.net/)
-- [Gaphor](https://gaphor.org/) - UML, SysML, RAAML, and C4 modeling application
-- Julian Jayes - The Origin of Consciousness in the Breakdown of the Bicameral Mind
 - [Hypermedia.systems](https://hypermedia.system)
 - [DrNostromo](http://www.drnostromo.com/movies) - niche sci-fi movies list
 - The Unicorn Project
@@ -43,7 +41,6 @@ watch/listen/research more in the future.
 - [Non-linear analog modeling papers & talks](https://cytomic.com/technical-papers/)
 - Simon Stålenhag - The Labyrinth
 - Tetsuo: The Iron Man (1989)
-- [Little languages for music](https://www.usenix.org/legacy/publications/compsystems/1990/spr_langston.pdf)
 - The User Illusion - Tor Norretranders
 - The Diamond Age - Neal Stephenson
 - Jaroslaw Grzedowicz - Hel 3
@@ -62,8 +59,6 @@ watch/listen/research more in the future.
   1. Snezhnaya Koroleva (1957)
 - Detonator Orgun
 - [Anju Singh](https://www.anjusingh.com/)
-- [Nannou - an open-source creative-coding framework for Rust](https://nannou.cc/)
-- [Sounding secrets of AudioLM](https://www.shaped.ai/blog/sounding-the-secrets-of-audiolm)
 - [Interesting notes on memexes and related topics](https://metasyn.pw/memex)
 - [Video on geometry, from @Maciej](https://youtube.com/watch?v=utMx48aGndI)
 - [Hydra - livecoding visuals](https://github.com/hydra-synth/hydra)
@@ -78,7 +73,6 @@ watch/listen/research more in the future.
 - The Sublime Object of Ideology
 - [Escape From Freedom](https://en.m.wikipedia.org/wiki/Escape_from_Freedom)
 - Possessor 2022
-- Baasch - neurotransmisja
 - Carl Jung - Aion
 - Miasto Światłości, Mieczysław Smolarski
 - Kobieta w czerni 2012
@@ -106,8 +100,6 @@ watch/listen/research more in the future.
 - Allo allo
 - Psychologia Ewolucyjna, Buss
 - Willard Van Orman Quine
-- Richard Rorty
-- Irlandczyk 2019
 - Megazone23
 - On Contingency - Liebniz
 - The Affair, TV series recomendation from Jacek Dukaj
