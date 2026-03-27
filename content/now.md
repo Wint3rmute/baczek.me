@@ -1,6 +1,13 @@
 ---
 title: 2026's Devlog
 ---
+
+## 2X.03
+
+> Watching:
+>
+> - Trailer Park Boys
+
 ## 1X.03
 
 {{image (src="/gy_be.jpg" small=false title="GY!BE - Centrum Koncertowe A2, Wrocław")}}
