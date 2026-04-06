@@ -2,6 +2,13 @@
 title: 2026's Devlog
 ---
 
+## 01.04
+
+> Enjoying:
+>
+> - Paintings of [Aleksander Rostov](https://www.artstation.com/rostovjanka)
+
+
 ## 2X.03
 
 > Watching:
