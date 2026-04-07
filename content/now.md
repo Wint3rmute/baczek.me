@@ -7,6 +7,10 @@ title: 2026's Devlog
 > Enjoying:
 >
 > - Paintings of [Aleksander Rostov](https://www.artstation.com/rostovjanka)
+>
+> Watching:
+>
+> - Trailer Park Boys (S01, S02, S03)
 
 
 ## 2X.03
