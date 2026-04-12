@@ -9,6 +9,7 @@ title: The Waiting room
 This is where I keep ideas, movies, music, and other things that I plan to
 watch/listen/research more in the future.
 
+- Steve Silberman - Neurotribes
 - IIT 4.0
 - https://corrode.dev/podcast/s05e09-gama-space/
 - Three Scientists And Their Gods
