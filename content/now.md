@@ -2,7 +2,14 @@
 title: 2026's Devlog
 ---
 
-## 01.04
+## 1X.04
+
+> Listening:
+>
+> - Dominique Fils-Aimé - Je t'aimais, je t'aime, je t'aimerai
+
+
+## 2X.04
 
 > Enjoying:
 >
@@ -10,7 +17,7 @@ title: 2026's Devlog
 >
 > Watching:
 >
-> - Trailer Park Boys (S01, S02, S03)
+> - Trailer Park Boys (S01, S02, S03, S04)
 
 
 ## 2X.03
