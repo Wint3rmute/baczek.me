@@ -4,23 +4,31 @@ title: 2026's Devlog
 
 ## 1X.04
 
+{{image (src="/cambridge.jpg" small=true title="Charmed by Cambridge")}}
+
+Thanks for the jam and for the conversations, *W.W.W.*!
+
 > Listening:
 >
 > - Dominique Fils-Aimé - Je t'aimais, je t'aime, je t'aimerai
+>
+> Watching:
+>
+> - Weapons (2025)
 
 
 ## 2X.04
 
-> Enjoying:
->
-> - Paintings of [Aleksander Rostov](https://www.artstation.com/rostovjanka)
->
+Enjoying the paintings of [Aleksander Rostov](https://www.artstation.com/rostovjanka).
+
 > Watching:
 >
-> - Trailer Park Boys (S01, S02, S03, S04)
+> - Trailer Park Boys (S01, S02, S03, S04, S05)
 
 
 ## 2X.03
+
+{{image (src="/malta.jpg" small=true title="Strolling through calming streets of Malta")}}
 
 > Watching:
 >
