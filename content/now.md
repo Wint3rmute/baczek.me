@@ -4,7 +4,7 @@ title: 2026's Devlog
 
 ## 1X.04
 
-{{image (src="/cambridge.jpg" small=true title="Charmed by Cambridge")}}
+{{image (src="/cambridge.jpg" small=false title="Charmed by Cambridge")}}
 
 Thanks for the jam and for the conversations, *W.W.W.*!
 
@@ -28,7 +28,7 @@ Enjoying the paintings of [Aleksander Rostov](https://www.artstation.com/rostovj
 
 ## 2X.03
 
-{{image (src="/malta.jpg" small=true title="Strolling through calming streets of Malta")}}
+{{image (src="/malta.jpg" small=true title="Strolling through cozy streets of Malta")}}
 
 > Watching:
 >

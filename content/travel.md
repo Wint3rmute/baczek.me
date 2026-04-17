@@ -5,7 +5,31 @@ title: Travel
 
 Notes on travel, places I visited and the ones I'd like to visit.
 
-# Iceland - to be visited in 2025
+# UK/Cambridge - visited in 2026
+
+{{image (src="/cambridge.jpg" small=false title="Trinity College")}}
+
+- Flights from Warsaw Modlin to London Stansted are quite cheap
+- Use [Trainline](https://www.thetrainline.com) mobile app for trains.
+
+
+# Malta - visited in 2026
+
+{{image (src="/malta.jpg" small=true title="Strolling through cozy streets of Malta")}}
+
+- Get a *Tallinja* card as soon as possible
+- Use the *Tallinja* mobile app to see where buses are - Google Maps don't work well
+
+# Japan - visited in 2025
+
+{{image (src="/japan.jpg" small=false title="Tokyo, Ueno Park.")}}
+
+At this point there's so much info about traveling to Japan online that I'm not
+even gonna bother noting anything here.
+
+# Iceland - visited in 2025
+
+{{image (src="/benches/iceland.jpg" small=false title="A nice [bench](/lawka) around the eastern shore")}}
 
 - [road.is](https://road.is) - road status
 - [vedur.is](https://vedur.is) - weather status
@@ -21,6 +45,7 @@ Notes on travel, places I visited and the ones I'd like to visit.
 - We gave up while climbing Montagne Sainte-Victoire (near Aix-en-Provence) due
   to lack of proper equipment. Remember to get bring warmer clothes next time!
 
+
 # Thailand/Bangkok - visited in 2024
 
 {{image (src="/thailand_temple_trees.jpg" small=false title="")}}
@@ -30,6 +55,7 @@ Notes on travel, places I visited and the ones I'd like to visit.
   they can easily try the dishes ordered by other people. I've seen Thai people
   using primarly those "extra" plates, treating the ordered dishes as a buffet
   meal. I see it as a very positive custom, encouraging sharing and tasting different foods.
+
 
 # Norway - visited in 2023
 
@@ -49,9 +75,11 @@ Notes on travel, places I visited and the ones I'd like to visit.
 - [Weather website](https://www.yr.no/en) served by the Norwegian
   Meteorological Institute
 
+
 # Poland - my favourite places
 
-{{image (src="/muflon.jpg" small=false title="Mountain shelter Mouflon, near Duszniki Zdrój")}}
+{{image (src="/muflon.jpg" small=true title="Mountain shelter Mouflon, near Duszniki Zdrój")}}
+
 
 # Want to visit
 

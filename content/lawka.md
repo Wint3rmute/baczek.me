@@ -29,6 +29,8 @@ currently have.
 
 {{image (src="/benches/nara.jpg" small=false title="Nara, Japan. Careful not to step in deer poop!")}}
 
+{{image (src="/benches/seven_sisters.jpg" small=false title="Seven Sisters")}}
+
 _todo: add some more pictures of benches_
 
 Hey you! Yes, the one that's staring at the screen! You have any cool pictures
