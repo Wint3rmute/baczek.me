@@ -19,6 +19,8 @@ jobs:
         run: |
           # Formatting
           uv run ruff format --check .
+          # Audit
+          uv audit
           # Import sorting
           uv run ruff check --select I .
           # Lint
