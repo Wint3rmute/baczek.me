@@ -6,6 +6,7 @@ title: 2026's Devlog
 
 > Listening:
 >
+> - Jesus Molina - Departing
 > - TOMORA - COME CLOSER
 
 
