@@ -2,6 +2,13 @@
 title: 2026's Devlog
 ---
 
+## 2X.04
+
+> Listening:
+>
+> - TOMORA - COME CLOSER
+
+
 ## 1X.04
 
 {{image (src="/cambridge.jpg" small=false title="Charmed by Cambridge")}}
