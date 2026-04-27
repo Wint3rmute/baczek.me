@@ -4,8 +4,11 @@ title: 2026's Devlog
 
 ## 2X.04
 
-Gave my [Nix MacOS](/m4) configuration repo to GitHub Copilot and told me
-to audit it. Turns out that I forgot the `-d` flag in my script running
+{{image (src="/penguin.jpg" small=false title="Jumping to [GoGo Penguin](https://gogopenguin.co.uk) & [Daudi Matsiko](https://daudi.co.uk)")}}
+
+Gave my [Nix-Darwin](/m4) configuration
+[repo](https://github.com/wint3rmute/darwin) to GitHub Copilot and told
+me to audit it. Turns out that I forgot the `-d` flag in my script running
 `nix-collect-garbage`. 92497 store paths deleted, **73.0 GiB freed**, feeling
 like an idiot right now. Audit your configuration repos, its basically free at
 this point and you'll probably uncover some hidden configuration issues.
