@@ -9,6 +9,8 @@ We've built data visualisation tools so that we can utilize our visual cortex
 for "free" data pre-processing. Why not offload some work to the
 [auditory cortex](https://en.wikipedia.org/wiki/Auditory_cortex)?
 
+Turns out somebody has [already made this](https://www.usenix.org/legacy/publications/library/proceedings/lisa2000/gilfix/gilfix_html/).
+
 Thinking about a rich data sonification system. Brain dump:
 
 - For raw textual logs, flow rate as a sub-bass signal. More logs, higher
