@@ -174,7 +174,7 @@ class Post:
             embeddings=embeddings,
         )
 
-    def __hash__(self) -> None:
+    def __hash__(self) -> int:
         return hash(self.path)
 
     def distance_to(self, post: "Post") -> float:
