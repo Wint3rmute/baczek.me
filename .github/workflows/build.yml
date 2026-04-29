@@ -30,13 +30,12 @@ jobs:
           tool: zola@0.22.1
       - uses: actions/setup-python@v6
         with:
-          python-version: "3.12"
+          python-version: "3.14"
       - run: uv sync
       - name: Build the website
         run: |
           uv run python -m exocortex
           zola build
-      #   run: ./scripts/build_docker.sh
       - name: Zip the website
         run: mkdir docs && zip -r docs/site.zip public
       - name: Setup Pages
