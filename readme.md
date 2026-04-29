@@ -6,21 +6,24 @@ You should make one for yourself too :)
 
 1. Install [Zola](https://www.getzola.org/documentation/getting-started/installation/)
 2. Install [uv](https://docs.astral.sh/uv/getting-started/installation/)
-3. Run `make install`
 
-## Building the site
-
-```bash
-make build  # generate assets + zola build
-make serve  # zola serve
-```
-
-## Other commands
+## Quickstart
 
 ```bash
-make check   # run all linters and type checks
-make update  # upgrade uv dependencies
+make install  # install dependencies
+make          # build the site and serve it locally
 ```
+
+## All commands
+
+| Command | Description |
+|---|---|
+| `make install` | Install dependencies |
+| `make` | Build the site and serve it locally |
+| `make build` | Generate assets + run `zola build` |
+| `make serve` | Run `zola serve` |
+| `make check` | Run all linters and type checks |
+| `make update` | Upgrade uv dependencies |
 
 Show outdated top-level deps:
 
