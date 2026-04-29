@@ -1,4 +1,4 @@
-.PHONY: install build serve update
+.PHONY: install build serve update check
 
 install:
 	uv sync --group dev
@@ -12,3 +12,10 @@ serve:
 
 update:
 	uv lock --upgrade
+
+check:
+	uv run ruff format --check .
+	uv audit
+	uv run ruff check --select I .
+	uv run ruff check .
+	uv run ty check exocortex/
