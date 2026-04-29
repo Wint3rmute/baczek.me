@@ -86,7 +86,7 @@ def extract_title(file_path: Path, content: str) -> str:
 @dataclass
 class RelatedPost:
     similarity: float
-    post: "Post"
+    post: Post
     # level: int # 1 = very related, 2 less related, etc
 
 
@@ -177,11 +177,11 @@ class Post:
     def __hash__(self) -> int:
         return hash(self.path)
 
-    def distance_to(self, post: "Post") -> float:
+    def distance_to(self, post: Post) -> float:
         return math.sqrt((self.x - post.x) ** 2 + (self.y - post.y) ** 2)
         # return -util.cos_sim(self.embeddings, post.embeddings)
 
-    def distance_embedding(self, post: "Post") -> float:
+    def distance_embedding(self, post: Post) -> float:
         # return math.sqrt((self.x - post.x) ** 2 + (self.y - post.y) ** 2)
         result = -util.cos_sim(self.embeddings, post.embeddings)
         return float(result)
