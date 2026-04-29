@@ -1,4 +1,7 @@
-.PHONY: install build serve update check
+.PHONY: all install build serve update check
+
+all: build serve
+
 
 install:
 	uv sync --group dev
