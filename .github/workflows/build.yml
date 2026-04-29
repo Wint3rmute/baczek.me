@@ -31,11 +31,10 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: "3.14"
-      - run: uv sync
+      - name: Install dependencies
+        run: make install
       - name: Build the website
-        run: |
-          uv run python -m exocortex
-          zola build
+        run: make build
       - name: Zip the website
         run: mkdir docs && zip -r docs/site.zip public
       - name: Setup Pages

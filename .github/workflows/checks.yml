@@ -14,16 +14,6 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: "3.14"
-      - run: uv sync --group dev
+      - run: make install
       - name: Run linters
-        run: |
-          # Formatting
-          uv run ruff format --check .
-          # Audit
-          uv audit
-          # Import sorting
-          uv run ruff check --select I .
-          # Lint
-          uv run ruff check .
-          # Type check
-          uv run ty check exocortex/
+        run: make check

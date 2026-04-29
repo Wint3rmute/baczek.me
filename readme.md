@@ -6,24 +6,20 @@ You should make one for yourself too :)
 
 1. Install [Zola](https://www.getzola.org/documentation/getting-started/installation/)
 2. Install [uv](https://docs.astral.sh/uv/getting-started/installation/)
-3. Run `uv sync`
+3. Run `make install`
 
 ## Building the site
 
 ```bash
-uv run exocortex
-zola serve # or `zola build`
+make build  # generate assets + zola build
+make serve  # zola serve
 ```
 
-> [!NOTE]
-> Alternatively, refer to the [CI build job definition](./.github/workflows/build.yml).
-
-## Notes
-
-Update deps:
+## Other commands
 
 ```bash
-uv lock --upgrade
+make check   # run all linters and type checks
+make update  # upgrade uv dependencies
 ```
 
 Show outdated top-level deps:
