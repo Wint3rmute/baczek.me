@@ -1,6 +1,6 @@
 .PHONY: all install build serve update check
 
-all: build serve
+all: install build serve
 
 
 install:
