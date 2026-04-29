@@ -1,4 +1,4 @@
-.PHONY: all install build serve update check
+.PHONY: all install build serve update check outdated
 
 all: install build serve
 
@@ -25,6 +25,3 @@ check:
 
 outdated:
 	uv tree --outdated --depth 1
-
-update:
-	uv lock --upgrade
