@@ -159,7 +159,8 @@ class Post:
         elif path.suffix == ".html":
             content_raw = path.read_text()
             html_tree = BeautifulSoup(content_raw, features="html.parser")
-            html_tree.nav.decompose()
+            if html_tree.nav:
+                html_tree.nav.decompose()
             content = html_tree.text.replace("\n", "")
 
             title = path.name

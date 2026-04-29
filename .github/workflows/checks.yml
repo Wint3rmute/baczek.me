@@ -25,3 +25,5 @@ jobs:
           uv run ruff check --select I .
           # Lint
           uv run ruff check .
+          # Type check
+          uv run ty check exocortex/
