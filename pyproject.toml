@@ -5,7 +5,7 @@ description = "Wires my thoughts together in a (hopefully) graceful way"
 authors = [
     { name = "wint3rmute", email = "mateusz.baczek1998@gmail.com" }
 ]
-requires-python = ">=3.12,<3.15"
+requires-python = ">=3.14,<3.15"
 dependencies = [
     "graphviz>=0.21,<0.22",
     "matplotlib>=3.6.0,<4.0",
