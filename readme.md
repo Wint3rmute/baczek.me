@@ -10,23 +10,21 @@ You should make one for yourself too :)
 ## Quickstart
 
 ```bash
-make install  # install dependencies
-make          # build the site and serve it locally
+make install    # install dependencies
+make build      # build the site
+make serve      # serve the website locally
 ```
 
-## All commands
-
-| Command | Description |
-|---|---|
-| `make install` | Install dependencies |
-| `make` | Build the site and serve it locally |
-| `make build` | Generate assets + run `zola build` |
-| `make serve` | Run `zola serve` |
-| `make check` | Run all linters and type checks |
-| `make update` | Upgrade uv dependencies |
+## Notes
 
 Show outdated top-level deps:
 
 ```bash
-uv tree --outdated --depth 1
+make outdated
+```
+
+Update deps:
+
+```bash
+make update
 ```

@@ -22,3 +22,9 @@ check:
 	uv run ruff check --select I .
 	uv run ruff check .
 	uv run ty check exocortex/
+
+outdated:
+	uv tree --outdated --depth 1
+
+update:
+	uv lock --upgrade
