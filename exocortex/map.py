@@ -75,7 +75,7 @@ def render_maps(all_posts: list[Post]):
         engine="neato",
     )
 
-    existing_connections: list[set[Post, Post]] = []
+    existing_connections: list[set[Post]] = []
 
     for post in all_posts:
         make_node(graph, post)
