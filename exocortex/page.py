@@ -83,6 +83,9 @@ def extract_title(file_path: Path, content: str) -> str:
     return title
 
 
+type RGB = tuple[int, int, int]
+
+
 @dataclass
 class RelatedPost:
     similarity: float
@@ -131,7 +134,7 @@ class Post:
 
         return post_link
 
-    def get_rgb(self) -> tuple[int, int, int]:
+    def get_rgb(self) -> RGB:
         red = 100 + int(155 * self.art_relatedness)
         green = 100 + int(155 * self.computers_relatedness)
         blue = 100 + int(155 * self.music_relatedness)
