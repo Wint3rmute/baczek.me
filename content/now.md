@@ -2,6 +2,10 @@
 title: 2026's Devlog
 ---
 
+## 3X.04
+
+[Zed 1.0](https://zed.dev) released, giving it a try...
+
 ## 2X.04
 
 {{image (src="/penguin.jpg" small=false title="Jumping to [GoGo Penguin](https://gogopenguin.co.uk) & [Daudi Matsiko](https://daudi.co.uk)")}}
