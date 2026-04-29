@@ -1,5 +1,6 @@
 import logging
 from datetime import datetime
+from pathlib import Path
 
 from git import Repo
 
@@ -17,7 +18,7 @@ ATOM_FEED_HEAD = """<?xml version="1.0" encoding="utf-8"?>
 <id>https://baczek.me/</id>
 """
 
-ATOM_FEED_TAIL = """ 
+ATOM_FEED_TAIL = """
 </feed>
 """
 
@@ -37,21 +38,18 @@ def generate_entry(link: str, updated: datetime, commit_hash: str) -> str:
 
 
 def generate_rss_feed():
-    with open("./static/atom.xml", "w") as feed_file:
-        repo = Repo("./")
-        devlog_changes = list(
-            repo.iter_commits(all=True, paths="./content/now.md")
-        )  # Gets the last 10 commits from all branches.
-        devlog_changes.reverse()
+    repo = Repo("./")
+    devlog_changes = list(
+        repo.iter_commits(all=True, paths="./content/now.md")
+    )  # Gets the last 10 commits from all branches.
+    devlog_changes.reverse()
 
-        feed_file.write(ATOM_FEED_HEAD)
-
-        for commit in devlog_changes:
-            logger.debug("Generating RSS entry for %s", commit.committed_datetime)
-            feed_file.write(
-                generate_entry(DEVLOG_URL, commit.committed_datetime, commit.hexsha)
-            )
-
-        feed_file.write(ATOM_FEED_TAIL)
+    entries = "".join(
+        generate_entry(DEVLOG_URL, commit.committed_datetime, commit.hexsha)
+        for commit in devlog_changes
+    )
+    Path("./static/atom.xml").write_text(
+        ATOM_FEED_HEAD + entries + ATOM_FEED_TAIL, encoding="utf-8"
+    )
 
     logger.info("RSS feed generated")

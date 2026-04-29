@@ -1,6 +1,7 @@
 import json
 import logging
 from datetime import datetime
+from pathlib import Path
 
 from exocortex.page import Post
 
@@ -14,12 +15,12 @@ def generate_recently_updated(all_posts: list[Post]):
         if post.recently_modified
     ]
 
-    with open("./generated/recently_updated.json", "w") as recent_updates_file:
-        logger.info("Recently updated JSON: %r", recent_updates)
-        json.dump(recent_updates, recent_updates_file)
+    logger.info("Recently updated JSON: %r", recent_updates)
+    Path("./generated/recently_updated.json").write_text(json.dumps(recent_updates))
 
 
 def write_build_date():
     logger.info("Writing build date...")
-    with open("./generated/build_date.txt", "w") as build_date:
-        build_date.write(datetime.strftime(datetime.now(), "%d/%m/%y %H:%M"))
+    Path("./generated/build_date.txt").write_text(
+        datetime.now().strftime("%d/%m/%y %H:%M")
+    )
