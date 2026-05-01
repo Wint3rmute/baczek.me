@@ -2,9 +2,14 @@
 title: 2026's Devlog
 ---
 
-## 3X.04
+## 0X.05
 
 [Zed 1.0](https://zed.dev) released, giving it a try...
+
+> Listening:
+>
+> - Gogo Penguin - Break
+
 
 ## 2X.04
 
