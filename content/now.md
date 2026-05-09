@@ -9,6 +9,15 @@ title: 2026's Devlog
 > Listening:
 >
 > - Gogo Penguin - Break
+> - Board of Canada - Inferno
+>
+> Watching:
+>
+> - Uncut Gems (2019)
+
+Ha, figured out that the music to Uncut Gems was composed by the one and only
+[Oneothrix Point Never](https://en.wikipedia.org/wiki/Oneohtrix_Point_Never)
+just by watching the movie and listening to the soundtrack closely!
 
 
 ## 2X.04
