@@ -2,6 +2,14 @@
 title: 2026's Devlog
 ---
 
+## 1X.05
+
+> Watching:
+>
+> - Invincible - Season 4
+> - Idiocracy (2006)
+
+
 ## 0X.05
 
 [Zed 1.0](https://zed.dev) released, giving it a try...
