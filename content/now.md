@@ -4,6 +4,15 @@ title: 2026's Devlog
 
 ## 1X.05
 
+Thinking about
+[hyperstitions](https://en.wikipedia.org/wiki/Hyperstition)
+accidentally caught in the strange world of the
+[CCRU](http://www.ccru.net/syzygy.htm),
+after a friend of a friend sent me some cursed podcasts.
+Guess I'll end up rewatching
+[Lain](https://en.wikipedia.org/wiki/Serial_Experiments_Lain)
+after all this.
+
 > Watching:
 >
 > - Invincible - Season 4
