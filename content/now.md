@@ -8,6 +8,9 @@ title: 2026's Devlog
 >
 > - Invincible - Season 4
 > - Idiocracy (2006)
+> Listening:
+>
+> - Gogo Penguin - All Res
 
 
 ## 0X.05
