@@ -2,12 +2,20 @@
 title: 2026's Devlog
 ---
 
+## 2X.05
+
+Broke my oath to stop playing video games, after I got completely hooked on
+[Deadlock](https://en.wikipedia.org/wiki/Deadlock_(video_game)),
+which barely ran with low settings on a potato PC at my family's house. Decided
+to go for a AMD-only workstation, installed NixOS on it and all my [macos](/m4)
+configuration just worked on the first try!
+
 ## 1X.05
 
 Thinking about
-[hyperstitions](https://en.wikipedia.org/wiki/Hyperstition)
+[hyperstitions](https://en.wikipedia.org/wiki/Hyperstition),
 accidentally caught in the strange world of the
-[CCRU](http://www.ccru.net/syzygy.htm),
+[CCRU](http://www.ccru.net/syzygy.htm)
 after a friend of a friend sent me some cursed podcasts.
 Guess I'll end up rewatching
 [Lain](https://en.wikipedia.org/wiki/Serial_Experiments_Lain)
@@ -17,6 +25,7 @@ after all this.
 >
 > - Invincible - Season 4
 > - Idiocracy (2006)
+>
 > Listening:
 >
 > - Gogo Penguin - All Res
