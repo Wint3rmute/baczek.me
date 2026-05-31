@@ -21,11 +21,10 @@ treat them like build configurations in programming languages and freely reuse
 modules with configuration. Same users on multiple systems? Done. Same
 configuration for a specific service/app? Done!
 
-From 2023, I have been using NixOS for my server/homelab infrastructure. It is
-a step up from Ansible playbooks, I even dare to say that it's a paradigm
-shift. I am reluctant to switch my main laptops to NixOS, as it's not as easy
-to program on NixOS as it is to deploy software on it. Hopefully this will
-change in the future :)
+I have been using NixOS since 2023 for my homelab infrastructure. It is a step
+up from Ansible playbooks, I even dare to say that it's a paradigm shift. Since
+2025, I'm also using it for my personal computers, see the
+[machines repo](http://github.com/wint3rmute/machines).
 
 Useful links:
 
@@ -48,24 +47,23 @@ Useful links:
   wiki](https://nixos.wiki/wiki/Main_Page)
 - Convert your system configuration into flake-based as soon as possible. It
   makes your system fully reproducible and makes it easier to use stuff like
-  [Agenix](https://github.com/ryantm/agenix)
-  - https://wiki.nixos.org/wiki/Flakes
+  [Agenix](https://github.com/ryantm/agenix) - [Flakes on NixOs Wiki](https://wiki.nixos.org/wiki/Flakes)
 - Creating and maintaining custom SystemD services/timers is a breeze in NixOS
-  - https://wiki.nixos.org/wiki/Systemd/User_Services
-- There is a `formatter` key in Flake configuration. If you set it to a
-  formatter program, use `nix fmt` to format your code
+  - [SystemD entry in NixOS Wiki](https://wiki.nixos.org/wiki/Systemd/User_Services)
+- There's `formatter` key in Flake configuration. If you set it to a formatter
+  program, use `nix fmt` to format your code
 
 ## Switching configurations with confidence
 
 My homelab consists of a VPS with a static IP and a server at my place. If I
-mess something up with the networking configuration (which happened more than I
-initially thought), I might break the VPN configuration to my homeserver. This
-would be far from perfect when I'm away from home as I'm unable to log in
+mess something up with the networking configuration (which happens more often
+than I initially thought), I might break the VPN configuration to my homeserver.
+This would be far from perfect when I'm away from home as I'm unable to log in
 locally and fix the networking configuration.
 
 I didn't want to install something like [Tailscale](https://tailscale.com/) or
-[ZeroTier](https://www.zerotier.com/) ~~because I'm a purist~~ because it's my
-homelab and I wanted to be independent!
+[ZeroTier](https://www.zerotier.com/) ~~because I'm a obnoxious self-hoster~~
+because it's my homelab and I wanted to be independent!
 
 The deployment procedure has been working for me for over 2 years and survived multiple configuration mishaps:
 

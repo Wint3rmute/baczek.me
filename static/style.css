@@ -104,6 +104,7 @@ td {
 
 h1, h2, h3, h4 {
   display: flex;
+  font-weight: normal;
   align-items: center;
   gap: 20px; /* Space between text and line */
 }

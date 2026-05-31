@@ -8,38 +8,43 @@ title: System configuration
 
 # Repo
 
-[It's all hosted on GitHub](https://github.com/Wint3rmute/dotfiles), with an
-Ansible playbook for auto-deployments. You can read the breakdown of the most
-important parts below.
+[It's all hosted on GitHub](https://github.com/Wint3rmute/machines).
+It's all Nix, so configuration is shared across my machines.
 
 # Hardware
 
-- ThinkPad x260 + Asus GL553VE
-- Keyboard: Keychron K1 Slim
+- MacBook Air M4
+- Desktop Workstation: Ryzen 5 + RX 9060 XT
+- Keychron K1 Slim
 
 # Distro + Essentials
 
-- Arch Linux/[NixOS](/nixos) (transition on hold)
+- [Nix](/nixos)
+- [Nushell](https://www.nushell.sh/) - structured & fast Rust-based shell
+- [Zoxide](https://github.com/ajeetdsouza/zoxide) for a smarter `cd`
+- [Helix](https://helix-editor.com) or [Zed](https://zed.dev/) (when I need AI)
+- Firefox (yes, you should be using it instead of anything Chromium-based)
+
+# Development
+
+
+# Notes on older setups
+
+## Previously used programs
+
 - [LeftWm](http://leftwm.org/) - part of [better alternatives to C
   software](/alternatives)
 - [Wezterm](https://wezfurlong.org/wezterm/) as a terminal - Enjoying the
   GPU-accelerated performance and the ligatures
-- [Zoxide](https://github.com/ajeetdsouza/zoxide) for a smarter `cd`
-- Firefox (yes, you should be using it instead of anything Chromium-based)
-- [Bitwig](https://www.bitwig.com/) for jamming & [making
-  sounds](/making-music-linux).
-
-# Development
-
-- [Helix](https://helix-editor.com)
 - [Neovide](https://neovide.dev) (only sometimes, when I feel like watching the cool cursor animations)
+- [Bitwig](https://www.bitwig.com/) for jamming & [making sounds](/making-music-linux).
 
-# Color Theme
+## Color Theme
 
-I'm using a uniform colour scheme for every piece of software I'm using
+I've been using a uniform colour scheme for every piece of software I'm using
 (browser, code editors, terminals, GTK and QT apps, this website, etc).
-It's based on the color scheme from [Material Theme](https://material-theme.com/).
+It was based on the color scheme from [Material Theme](https://material-theme.com/).
 
----
+After finishing university, I gave up on it, focusing more on work & life :)
 
 {{image (src="/old_theme_dwm.jpg" title="My older DWM theme. I wrote a patch which would semi-randomly assign colors to window frames. Looked fancy, but wasn't pleasant to use since it was too hard to figure out which window was focused :)" noshadow=true)}}

@@ -2,22 +2,37 @@
 title: 2026's Devlog
 ---
 
+## 0X.06
+
+Something I noticed after switching from zsh to [Nushell](https://nushell.sh/)
+and from default GNOME Terminal to [Ghostty](https://ghostty.org/): the performance difference **is noticeable**.
+It's not just a *"woo it's written in Rust"* or *"GPU accelerated"* - it's a real quality-of-life improvement.
+After noticing much lower latency between hitting a key and seeing the result, it's hard to go back.
+
+
+## 3X.05
+
+Yet another smooth migration to [NixOS 26.05](https://nixos.org/blog/announcements/2026/nixos-2605/),
+making me even more convinced that Nix is the most painless
+distribution to run for a homelab which *"just works"*.
+Trying out [rqbit](https://github.com/ikatson/rqbit), a bittorrent client in Rust.
+Downloading things works just fine, but the UI feels not quite there yet, compared to my current
+[Transmission](https://transmissionbt.com/) setup.
+
+
 ## 2X.05
 
 Broke my oath to stop playing video games, after I got completely hooked on
 [Deadlock](https://en.wikipedia.org/wiki/Deadlock_(video_game)),
 which barely ran with low settings on a potato PC at my family's house. Decided
 to go for a AMD-only workstation, installed NixOS on it and all my [macos](/m4)
-configuration just worked on the first try!
+[configuration](https://github.com/wint3rmute/machines) just worked on the first try!
 
 ## 1X.05
 
-Thinking about
-[hyperstitions](https://en.wikipedia.org/wiki/Hyperstition),
-accidentally caught in the strange world of the
-[CCRU](http://www.ccru.net/syzygy.htm)
-after a friend of a friend sent me some cursed podcasts.
-Guess I'll end up rewatching
+Thinking about [hyperstitions](https://en.wikipedia.org/wiki/Hyperstition),
+accidentally caught in the strange world of the [CCRU](http://www.ccru.net/syzygy.htm)
+after a friend of a friend sent me some cursed podcasts. Guess I'll end up rewatching
 [Lain](https://en.wikipedia.org/wiki/Serial_Experiments_Lain)
 after all this.
 
@@ -113,6 +128,11 @@ Enjoying the paintings of [Aleksander Rostov](https://www.artstation.com/rostovj
 > Reading:
 >
 > -  Simon Willison - [Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/)
+
+A cheatcode from *Agentic Engineering Patterns*, short but effective prompt:
+`"implement using red/green TDD"`. Seriously, try it out - it forces the model
+to continuously run unit tests during development, which does an amazing job
+with helping it stay on track.
 
 
 ## 0X.03
