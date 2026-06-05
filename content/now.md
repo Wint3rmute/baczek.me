@@ -2,12 +2,35 @@
 title: 2026's Devlog
 ---
 
+## 1X.06
+
+Enjoying the art and music of [Marathon (2026)](https://www.marathonthegame.com/).
+Real shame I'll never play it  due to its
+[windows-exclusive kernel-level anti-cheat](https://www.protondb.com/app/3065800).
+
+> Watching:
+>
+> - [Marathon | Reveal Cinematic Short](https://youtu.be/fvbEnWLRo1s?si=k6jqWG9LS9LSzmrr)
+>
+> Listening:
+>
+> - Johann Sebastian Bach - Concerto in D Minor, BWV 974 - 2. Adagio
+>
+> Pondering:
+>
+> - [Ozymandias](https://en.wikipedia.org/wiki/Ozymandias)
+
+
 ## 0X.06
 
 Something I noticed after switching from zsh to [Nushell](https://nushell.sh/)
 and from default GNOME Terminal to [Ghostty](https://ghostty.org/): the performance difference **is noticeable**.
 It's not just a *"woo it's written in Rust"* or *"GPU accelerated"* - it's a real quality-of-life improvement.
 After noticing much lower latency between hitting a key and seeing the result, it's hard to go back.
+
+> Watching:
+>
+> - They Live (1988)
 
 
 ## 3X.05
