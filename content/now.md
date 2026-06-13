@@ -2,6 +2,24 @@
 title: 2026's Devlog
 ---
 
+## 2X.06
+
+Attempting to convert the internal networking of my homelab into
+[IPv6](https://en.wikipedia.org/wiki/IPv6)
+as a small learning experience.
+
+Modeling my soon-to-be new new home in [OnShape](https://www.onshape.com/en/)
+and trying to render it nicely with [Blender](https://www.blender.org).
+
+> Watching:
+>
+> - Caravaggio (2025)
+>
+> Listening:
+>
+> - Hinode Tapes - Ita
+
+
 ## 1X.06
 
 Enjoying the art and music of [Marathon (2026)](https://www.marathonthegame.com/).
