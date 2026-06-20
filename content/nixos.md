@@ -73,3 +73,21 @@ The deployment procedure has been working for me for over 2 years and survived m
 4. Run VPN connectivity tests (simple pings via some script or via `ansible`)
 5. Cancel the scheduled reboot
 6. Run `nixos-rebuild switch`
+
+# Notes on installing on OVH
+
+I run my VPS on [OVH](https://www.ovhcloud.com/), as they are an European
+company with datacenters available in Poland. OVH does not support NixOS as a base image,
+nor does it allow for custom VM images.
+
+As I'm to lazy to learn [nixos-anywhere](https://github.com/nix-community/nixos-anywhere/),
+I use the following workaround (hack?) to install NixOS on an OVH VM:
+
+1. Create a new VM
+2. Reboot the VM in rescue mode
+3. Install `nix` on the rescue image (some basic Debian)
+4. Mount filesystems
+5. Remove all unnecessary files from the rescue image to make space for Nix packages
+6. Install `nixos-install-tools`
+7. Bootstrap nixos
+8. Reboot
