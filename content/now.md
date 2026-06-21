@@ -2,7 +2,19 @@
 title: 2026's Devlog
 ---
 
+## 3X.06
+
+Dipping my toes in Polish art market, exploring:
+
+- [Desa Unicum](https://bid.desa.pl/)
+- [Pakamera](https://www.pakamera.pl/)
+
+
 ## 2X.06
+
+Probably the biggest news of the year - I have my own place now!
+
+{{image (src="/new_place_2026.jpg" small=false title="Sketching, planning, layouting.")}}
 
 Attempting to convert the internal networking of my homelab into
 [IPv6](https://en.wikipedia.org/wiki/IPv6)
