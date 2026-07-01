@@ -2,6 +2,13 @@
 title: 2026's Devlog
 ---
 
+## 0X.07
+
+> Watching:
+>
+> - A Man Named Otto (2022)
+
+
 ## 3X.06
 
 Dipping my toes in Polish art market, exploring:
