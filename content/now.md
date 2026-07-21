@@ -2,6 +2,19 @@
 title: 2026's Devlog
 ---
 
+## 2X.07
+
+> Watching:
+>
+> - Backrooms (2026)
+
+## 1X.07
+
+Yet another satellite successfully launched and contacted by my team :)
+
+TODO: write something about it.
+
+
 ## 0X.07
 
 > Watching:
