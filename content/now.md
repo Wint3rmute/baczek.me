@@ -2,6 +2,13 @@
 title: 2026's Devlog
 ---
 
+## 23X.07
+
+> Reading:
+>
+> - Jacek Dukaj - Linia Oporu
+
+
 ## 2X.07
 
 > Watching:
