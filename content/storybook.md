@@ -2,8 +2,7 @@
 title: Storybook
 ---
 
-This page displays all the building blocks of the site. I use it for visual
-inspection when changing the [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS).
+Visual inspection site. All building blocks are here to check when the style changes.
 
 # H1 Header
 
