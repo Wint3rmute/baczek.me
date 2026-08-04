@@ -3,34 +3,31 @@
 {% block content %}
 {% set recently_updated_posts = load_data(path="./generated/recently_updated.json", required=true) %}
 
+
 <div class="index-div">
-  <div class="index-image"></div>
   <header class="index-page-title">
-    Mateusz 
-    Bączek
+    dreaming.systems
   </header>
-
-  Programming/designing/thinking about:
-
   <div class="index-list-container">
   <ul>
-    <li><a href="/exocortex">Exocortexes</a> (this page being one)</li>
-    <li><a href="/now">Journaling</a></li>
-    <li><a href="/sounds">Sounds & Melodies</a></li>
-    <li><a href="/linux">Linux setups</a></li>
+    <li><a href="/exocortex">Exocortex</a></li>
+    <li><a href="/now">Journal</a></li>
+    <li><a href="/sounds">Auditorium</a></li>
+    <li><a href="/about">Persona</a></li>
+    <li><a href="/linux">Machines</a></li>
 
-    <br>
     Recently edited:
 
     {% for post in recently_updated_posts -%}
+    <ul class="recently-updated-list">
       <li class="recently-updated-item"><a href="{{ post.url }}">{{ post.title }}</a></li>
+    </ul>
     {%- endfor %}
     </ul>
   </div>
 
   <br>
   <a href="/about">
-    <button>Read more about my work</button>
   </a>
 
 </div>

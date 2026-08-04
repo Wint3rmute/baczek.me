@@ -12,6 +12,19 @@
 {% set related_map_file_path = ["generated", related_map_file_name ] | join(sep="/") -%}
 {% set related_map_posts = load_data(path=related_map_file_path, required=true, format="plain") -%}
 
+<nav>
+  <div class="nav-left">
+    <a href="/" class="nav-link">dreaming.systems</a>
+  </div>
+  <div class="nav-right">
+    <a href="/about" class="nav-link">about</a>
+    <a href="/now" class="nav-link">devlog</a>
+    <a href="/map" class="nav-link">cartography</a>
+  </div>
+</nav>
+
+
+<main>
 <article>
 
 <header class="post-title">
@@ -29,6 +42,7 @@
 
 <hr>
 </article>
+<main>
 
 {% if related_posts %}
 <aside>
