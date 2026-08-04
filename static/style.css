@@ -1,152 +1,162 @@
+/* ============================================================
+ * Light theme (default)
+ * ============================================================ */
 :root {
-  --foreground-color: rgba(255, 255, 255, 0.74);
-  --foreground-headers: rgba(255, 255, 255, 0.84);
-  --background: #263238;
-  --background-light: #37474f;
-  --accent: #82aaff;
-  --accent2: #c3e88d;
-  --header-height: 2vh;
+  --background:        #f9f9f7;
+  --surface:          #eeeeec;
+  --surface-low:      #f4f4f2;
+  --on-background:    #1a1c1b;
+  --on-surface:       #1a1c1b;
+  --on-surface-muted: #444748;
+  --outline:          #c4c7c7;
+  --accent:           #0000ff;
+  --accent-hover:     #0000cc;
+  --header-bg:        rgba(249, 249, 247, 0.85);
+}
+
+/* ============================================================
+ * Dark theme (via prefers-color-scheme)
+ * ============================================================ */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background:        #131313;
+    --surface:          #1f2020;
+    --surface-low:      #1b1c1c;
+    --on-background:    #e4e2e1;
+    --on-surface:       #e4e2e1;
+    --on-surface-muted: #c4c7c7;
+    --outline:          #444748;
+    --accent:           #c9c6c5;
+    --accent-hover:     #e5e2e1;
+    --header-bg:        rgba(19, 19, 19, 0.9);
+  }
+}
+
+/* ============================================================
+ * Base reset & typography
+ * ============================================================ */
+*, *::before, *::after {
+  box-sizing: border-box;
 }
 
 body {
   background-color: var(--background);
-  color: var(--foreground-color);
-  font-family:
-    Roboto,
-    Cantarell,
-    -apple-system,
-    BlinkMacSystemFont,
-    segoe ui,
-    Oxygen,
-    Ubuntu,
-    open sans,
-    helvetica neue,
-    sans-serif;
+  color: var(--on-background);
+  font-family: "Times New Roman", Times, serif;
   font-size: 17px;
-  height: 100vh;
-  flex-direction: column;
-  margin: 0;
   line-height: 1.7;
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow-x: hidden;
 }
 
-header,
+::selection {
+  background: var(--accent);
+  color: var(--background);
+}
+
+/* ============================================================
+ * Layout containers
+ * ============================================================ */
+nav,
 main,
 footer {
   margin-left: auto;
   margin-right: auto;
 }
 
-footer {
-  border-top: 1px solid var(--background-light);
-  margin-top: 3rem;
-  text-align: center;
+main {
+  width: 94%;
+  flex: 1;
+  padding-top: 5rem; /* space below fixed nav */
 }
 
+/* ============================================================
+ * Navigation
+ * ============================================================ */
 nav {
   position: fixed;
-  display: flex;
   top: 0;
   left: 0;
   right: 0;
-
-  /* Position above the rest */
-  z-index: 1;
-
+  z-index: 10;
+  display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: var(--background);
-
+  background-color: var(--header-bg);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
   border-bottom: 1px solid transparent;
+  padding: 0.6rem 4%;
   animation: nav-border ease-in both;
   animation-timeline: scroll();
   animation-range: 10px 100px;
 }
 
 @keyframes nav-border {
-  to {
-    border-bottom: 1px solid var(--background-light);
-  }
+  to { border-bottom: 1px solid var(--outline); }
 }
 
 .nav-left,
 .nav-right {
   display: flex;
+  align-items: center;
 }
 
 .nav-link {
-  color: white;
-  padding: 0.4rem 0.4rem;
+  color: var(--on-background);
+  text-decoration: none;
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  font-weight: 500;
+  text-transform: uppercase;
+  padding: 0.4rem 0.6rem;
+  transition: color 0.2s;
 }
 
-header,
-h2,
-h3,
-h4,
-h5 {
-  color: var(--foreground-headers);
+.nav-link:hover {
+  color: var(--accent);
+  text-decoration: none;
 }
 
-table {
-  margin: 0 auto;
-}
-
-th,
-td {
-  border-bottom: 1px solid var(--background-light);
-  padding: 0.5rem;
-}
-
-.index-page-title {
-  text-decoration: underline var(--background-light) 1px !important;
-  text-underline-offset: 10px;
-  font-size: 200%;
+/* ============================================================
+ * Headings
+ * ============================================================ */
+h1, h2, h3, h4, h5 {
+  color: var(--on-surface);
+  font-weight: normal;
 }
 
 h1, h2, h3, h4 {
   display: flex;
-  font-weight: normal;
   align-items: center;
-  gap: 20px; /* Space between text and line */
+  gap: 1rem;
 }
 
 h1::after, h2::after, h3::after, h4::after {
-    content: '';
-    flex-grow: 1; /* Makes the line fill remaining space */
-    border-radius: 3px;
+  content: '';
+  flex-grow: 1;
+  border-radius: 2px;
+  background-color: var(--outline);
 }
 
-h1::after {
-    height: 4px;
-    background-color: var(--background-light);
+h1::after { height: 4px; }
+h2::after { height: 2px; }
+h3::after { height: 1px; }
+
+/* ============================================================
+ * Links
+ * ============================================================ */
+a {
+  color: var(--on-background);
+  text-underline-offset: 2px;
+  transition: color 0.2s;
 }
 
-h2::after {
-    height: 2px;
-    background-color: var(--background-light);
-}
-
-h3::after {
-    height: 1px;
-    background-color: var(--background-light);
-}
-
-.post-title {
-  padding-top: 5rem;
-  padding-bottom: 3rem;
-  font-size: 200%;
-  color: white;
-  text-underline-offset: 10px;
-  text-align: center;
-}
-
-button {
-  background-color: var(--background-light);
-  padding: 10px;
-  border-radius: 5px;
-  border: none;
-  font-size: 15px;
-  cursor: pointer;
-  box-shadow: 0px 0px 25px -10px black;
+a:hover {
+  color: var(--accent);
 }
 
 a.hidden {
@@ -154,31 +164,105 @@ a.hidden {
   color: inherit;
 }
 
-a,
-button {
-  color: white;
-  transition: 0.5s;
-}
-
-a {
-  text-underline-offset: 2px;
-}
-
 a[target="_blank"] {
-  text-decoration: underline white 1px dashed;
+  text-decoration-style: dashed;
   text-underline-offset: 2px;
 }
 
-button:hover {
-  background-color: var(--accent);
-}
-
-a:hover {
-  color: var(--accent);
+/* ============================================================
+ * Footer
+ * ============================================================ */
+footer {
+  border-top: 1px solid var(--outline);
+  margin-top: 3rem;
+  padding: 1.5rem 4%;
+  text-align: center;
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--on-surface-muted);
 }
 
 footer a {
-  text-decoration: none !important;
+  text-decoration: none;
+  color: var(--on-surface-muted);
+}
+
+footer a:hover {
+  color: var(--accent);
+}
+
+/* ============================================================
+ * Tables
+ * ============================================================ */
+table {
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+th, td {
+  border-bottom: 1px solid var(--outline);
+  padding: 0.5rem;
+}
+
+/* ============================================================
+ * Buttons
+ * ============================================================ */
+button {
+  background-color: var(--surface);
+  color: var(--on-background);
+  border: 1px solid var(--outline);
+  padding: 0.6rem 1rem;
+  border-radius: 4px;
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+button:hover {
+  background-color: var(--on-background);
+  color: var(--background);
+}
+
+/* ============================================================
+ * Images & figures
+ * ============================================================ */
+img {
+  object-fit: contain;
+  max-width: 100%;
+  height: auto;
+}
+
+figure {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+figcaption {
+  text-align: center;
+  font-style: italic;
+  font-size: 13px;
+  color: var(--on-surface-muted);
+  padding: 0.5rem 10%;
+}
+
+.image {
+  object-fit: contain;
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.small {
+  display: block;
+  max-width: 80%;
+  margin: 0 auto;
+}
+
+.shadow {
+  box-shadow: 0 0 50px -10px rgba(0, 0, 0, 0.4);
 }
 
 svg {
@@ -189,34 +273,73 @@ svg {
 .svg-icon {
   width: 1.8rem;
   height: 1.8rem;
-  padding-left: 0.2rem;
-  padding-right: 0.2rem;
+  padding: 0 0.2rem;
 }
 
-figcaption {
-  text-align: center;
+/* ============================================================
+ * Code
+ * ============================================================ */
+pre {
+  padding: 5px 0;
+  border-top: 1px solid var(--outline);
+  border-bottom: 1px solid var(--outline);
+  background-color: transparent !important;
+  line-height: 1;
+  overflow-x: auto;
+}
+
+/* ============================================================
+ * Blockquote
+ * ============================================================ */
+blockquote {
+  border-left: 2px solid var(--accent);
+  background-color: var(--surface);
+  padding: 0.5rem 0.75rem;
+  border-radius: 0 8px 8px 0;
   font-style: italic;
-  padding-left: 10%;
-  padding-right: 10%;
-}
-
-main {
-  margin-left: auto;
-  margin-right: auto;
-  /* Important for mobile view. Don't remove! */
-  width: 94%;
+  margin: 1rem 0;
 }
 
 blockquote > * {
-  margin: 5px;
+  margin: 4px 0;
 }
 
-blockquote {
-  border-left: 2px solid var(--accent);
-  background-color: var(--background-light);
-  padding: 5px;
-  border-radius: 0px 10px 10px 0px;
-  font-style: italic;
+/* ============================================================
+ * Horizontal rule
+ * ============================================================ */
+hr {
+  border: none;
+  border-top: 1px solid var(--outline);
+  width: 80%;
+  margin: 2rem auto;
+}
+
+/* ============================================================
+ * Index page
+ * ============================================================ */
+.index-div {
+  margin-top: 6vh;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.index-page-title {
+  font-size: 2rem;
+  font-weight: 400;
+  color: var(--on-surface);
+  text-underline-offset: 10px;
+}
+
+.index-image {
+  background-image: url("https://github.com/wint3rmute.png");
+  background-position: center center;
+  background-size: cover;
+  width: 24vh;
+  height: 24vh;
+  margin: 0 auto 1.5rem;
+  border-radius: 50%;
+  border: 1px solid var(--outline);
 }
 
 .index-list-container {
@@ -225,105 +348,54 @@ blockquote {
   justify-content: center;
 }
 
-.index-div {
-  margin-top: 8vh;
-  margin-left: auto;
-  margin-right: auto;
+.recently-updated-item {
+  list-style-type: circle;
+}
+
+/* ============================================================
+ * Post page
+ * ============================================================ */
+.post-title {
+  padding-top: 4rem;
+  padding-bottom: 2rem;
+  font-size: 2rem;
+  line-height: 1.2;
+  color: var(--on-surface);
   text-align: center;
 }
 
-.index-image {
-  background-image: url("https://github.com/wint3rmute.png");
-  background-position: center center;
-  background-size: cover;
-  width: 30vh;
-  height: 30vh;
-  margin-left: auto;
-  margin-right: auto;
-  border-radius: 50%;
-  box-shadow: 0px 0px 35px -10px black;
-}
-
-.image {
-  object-fit: contain;
-  max-width: 100%;
-  height: auto;
-  border-radius: 7px;
-}
-
-.small {
-  display: block;
-  max-width: 80%;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.shadow {
-  box-shadow: 0px 0px 50px -10px black;
-}
-
-img {
-  object-fit: contain;
-  max-width: 100%;
-}
-
-figure {
-  margin-left: 0px;
-  margin-right: 0px;
-}
-
-::selection {
-  background: var(--accent);
-  color: black;
-}
-
-/* This wraps each `code` element */
-pre {
-  padding-top: 5px;
-  padding-bottom: 5px;
-  border-top: 1px solid var(--background-light);
-  border-bottom: 1px solid var(--background-light);
-  background-color: transparent !important;
-
-  /* All `code` blocks are wrapped in `pre`, which actually
-  * determines the line height. For some reason, changing it at the
-  * `code` element does not work. */
-  line-height: 1;
-}
-
-hr {
-  border: 1px solid var(--background-light);
-  width: 80%;
-}
-
+/* ============================================================
+ * Dictionary / special content
+ * ============================================================ */
 .dictionary-word {
-  font-family: serif;
+  font-family: "Times New Roman", serif;
 }
 
 .dictionary-source {
   font-size: 80%;
   margin-top: -15px;
   margin-bottom: 30px;
+  color: var(--on-surface-muted);
 }
 
 .dictionary-letter {
-  font-family: serif;
-  border-top: 1px solid white;
-  border-bottom: 1px solid white;
-  padding-left: 1%;
-  padding-right: 1%;
+  font-family: "Times New Roman", serif;
+  border-top: 1px solid var(--outline);
+  border-bottom: 1px solid var(--outline);
+  padding: 0 1%;
   margin-right: 98%;
+  color: var(--on-surface-muted);
 }
 
-.recently-updated-item {
-  list-style-type: circle;
-}
-
+/* ============================================================
+ * Desktop breakpoint
+ * ============================================================ */
 @media only screen and (min-width: 768px) {
   nav {
     padding-left: 25%;
     padding-right: 25%;
   }
+
   main {
     width: 40%;
   }
@@ -340,6 +412,6 @@ hr {
   }
 
   blockquote {
-    margin: 5%;
+    margin: 1rem 5%;
   }
 }
