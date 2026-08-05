@@ -214,7 +214,7 @@ figure {
 figcaption {
   text-align: center;
   font-style: italic;
-  font-size: 13px;
+  font-size: 90%;
   color: var(--on-surface-muted);
   padding: 0.5rem 10%;
 }
@@ -223,7 +223,6 @@ figcaption {
   object-fit: contain;
   max-width: 100%;
   height: auto;
-  border-radius: 4px;
 }
 
 .small {
@@ -298,7 +297,7 @@ hr {
 .index-page-title {
   font-weight: 400;
   color: var(--on-surface);
-  opacity: 0.5;
+  opacity: 0.4;
   text-underline-offset: 10px;
 }
 
@@ -399,11 +398,11 @@ hr {
 
   .index-page-title {
     position: absolute;
-    font-size: 3rem;
+    font-size: 2rem;
     top: 0px;
     left: 0px;
-    margin-top: 3vh;
-    margin-left: 4vh;
+    margin-top: 1vh;
+    margin-left: 2vh;
   }
 
   main {
