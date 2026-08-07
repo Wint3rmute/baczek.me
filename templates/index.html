@@ -3,27 +3,6 @@
 {% block content %}
 {% set recently_updated_posts = load_data(path="./generated/recently_updated.json", required=true) %}
 
-<style>
-body {
-	background: linear-gradient(-45deg, var(--background), var(--surface));
-	background-size: 400% 400%;
-	animation: gradient 15s ease infinite;
-	height: 100vh;
-}
-
-@keyframes gradient {
-	0% {
-		background-position: 0% 50%;
-	}
-	50% {
-		background-position: 100% 50%;
-	}
-	100% {
-		background-position: 0% 50%;
-	}
-}
-</style>
-
 <div class="index-div">
   <header class="index-page-title">
     dreaming.systems
