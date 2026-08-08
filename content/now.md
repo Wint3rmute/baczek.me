@@ -4,7 +4,7 @@ title: 2026's Devlog
 
 ## 0X.08
 
-Renaming, rebranding, reshaping. *baczek.me ⇒ dreaming.systems*.
+Renaming, rebranding, reshaping. *baczek.me ⇒ [dreaming.systems](https://dreaming.systems/)*.
 
 > Watching:
 >
