@@ -144,8 +144,9 @@ def render_maps(all_posts: list[Post]):
 
         for connection in existing_connections:
             if len(connection & nodes_in_graph) == 2:
-                node_1 = list(connection)[0]
-                node_2 = list(connection)[1]
+                connection_nodes = iter(connection)
+                node_1 = next(connection_nodes)
+                node_2 = next(connection_nodes)
 
                 logger.debug("Linking %s with %s", node_1.title, node_2.title)
                 graph.edge(

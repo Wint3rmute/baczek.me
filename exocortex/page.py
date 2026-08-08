@@ -59,7 +59,7 @@ logger.debug("Recently modified:")
 for line in RECENTLY_MODIFIED_FILES.split("\n")[
     :-1
 ]:  # Last line is empty, skip it with :-1
-    logger.debug("-", line)
+    logger.debug("%s", line)
 
 
 def was_recently_modified(file_path: Path) -> bool:
@@ -210,8 +210,8 @@ def get_all_posts() -> list[Post]:
     # from sklearn.decomposition import PCA
     # umap_result = PCA(n_components=2).fit_transform(numpy.array(embeddings))
 
-    for post, umap_result in zip(all_posts, umap_result):
-        post._x, post._y = umap_result
+    for post, umap_coordinates in zip(all_posts, umap_result):
+        post._x, post._y = umap_coordinates
 
     art_embedding = _sentence_transformer.encode("art, beauty")
     musicality_embedding = _sentence_transformer.encode("music, melodies")
