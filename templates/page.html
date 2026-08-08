@@ -14,7 +14,7 @@
 
 <nav>
   <div class="nav-left">
-    <a href="/" class="nav-link">~</a>
+    <a href="/" class="nav-link"><b>~</b></a>
   </div>
   <div class="nav-right">
     <a href="/about" class="nav-link">about</a>
@@ -42,17 +42,17 @@
 
 <hr>
 </article>
-</main>
 
 {% if related_posts %}
-<aside>
-<p><a class="hidden" href="/map">Related</a> posts:</p>
+  <aside>
+  <p><a class="hidden" href="/map">Related</a> posts:</p>
 
-<center>
-{{ related_map_posts | safe }}
-</center>
+  <center>
+  {{ related_map_posts | safe }}
+  </center>
 
-</aside>
+  </aside>
 {% else %}{% endif %}
 
+</main>
 {% endblock content %}

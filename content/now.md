@@ -6,6 +6,10 @@ title: 2026's Devlog
 
 Renaming, rebranding, reshaping. *baczek.me ⇒ [dreaming.systems](https://dreaming.systems/)*.
 
+> Reading:
+>
+> - Jean Baudrillard - Forget Foucault
+>
 > Watching:
 >
 > - Obsession (2026)
