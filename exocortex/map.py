@@ -22,11 +22,7 @@ Times,
 serif
 """
 
-NODE_ATTR = {
-    "shape": "plaintext",
-    "color": "blue",
-    "fontname": FONT
-}
+NODE_ATTR = {"shape": "plaintext", "color": "blue", "fontname": FONT}
 
 GRAPH_ATTR = {
     # Background for the entire graph
