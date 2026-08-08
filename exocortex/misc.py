@@ -1,6 +1,6 @@
 import json
 import logging
-from datetime import datetime
+from datetime import UTC, datetime
 from pathlib import Path
 
 from exocortex.page import Post
@@ -22,5 +22,5 @@ def generate_recently_updated(all_posts: list[Post]):
 def write_build_date():
     logger.info("Writing build date...")
     Path("./generated/build_date.txt").write_text(
-        datetime.now().strftime("%d/%m/%y %H:%M")
+        datetime.now(tz=UTC).strftime("%d/%m/%y %H:%M")
     )
