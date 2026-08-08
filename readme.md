@@ -1,30 +1,30 @@
-# [My Personal Website](https://baczek.me)
+### [Personal Website](https://baczek.me)
 
 You should make one for yourself too :)
 
-## Dependencies
+### Dependencies
 
 1. Install [Zola](https://www.getzola.org/documentation/getting-started/installation/)
 2. Install [uv](https://docs.astral.sh/uv/getting-started/installation/)
 
-## Quickstart
+### Quickstart
 
 ```bash
-make install    # install dependencies
-make build      # build the site
-make serve      # serve the website locally
+just install    # install dependencies
+just build      # build the site
+just serve      # serve the website locally
 ```
 
-## Notes
+### Notes
 
 Show outdated top-level deps:
 
 ```bash
-make outdated
+just outdated
 ```
 
 Update deps:
 
 ```bash
-make update
+just update
 ```
