@@ -9,20 +9,20 @@ logger = logging.getLogger(__name__)
 ATOM_FEED_HEAD = """<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-<title>Baczek.me Devlog</title>
-<link href="https://baczek.me/"/>
+<title>dreaming.systems journal</title>
+<link href="https://dreaming.systems/"/>
 <updated>2003-12-13T18:30:02Z</updated>
 <author>
-<name>Mateusz Bączek</name>
+<name>dreaming.systems</name>
 </author>
-<id>https://baczek.me/</id>
+<id>https://dreaming.systems/</id>
 """
 
 ATOM_FEED_TAIL = """
 </feed>
 """
 
-DEVLOG_URL = "https://baczek.me/now"
+DEVLOG_URL = "https://dreaming.systems/now"
 
 
 def generate_entry(link: str, updated: datetime, commit_hash: str) -> str:
@@ -32,7 +32,7 @@ def generate_entry(link: str, updated: datetime, commit_hash: str) -> str:
         <link href="{link}"/>
         <updated>{updated.isoformat()}</updated>
         <summary>DevLog available at {link}</summary>
-        <id>https://baczek.me/now#f{commit_hash}</id>
+        <id>https://dreaming.systems/now#f{commit_hash}</id>
       </entry>
   """
 

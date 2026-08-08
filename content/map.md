@@ -13,7 +13,7 @@ You can click on each node, they are links!
 This is an automatically generated graph containing all pages on my website,
 along with the [connections](https://en.m.wikipedia.org/wiki/Intertwingularity)
 calculated using sentence embeddings. If you're interested, you can read the
-[source code](https://github.com/Wint3rmute/baczek.me/blob/main/exocortex).
+[source code](https://github.com/Wint3rmute/dreaming.systems/blob/main/exocortex).
 
 
 ## How is this thing generated?

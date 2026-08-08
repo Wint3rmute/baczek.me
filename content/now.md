@@ -11,9 +11,15 @@ title: 2026's Devlog
 
 ## 3X.07
 
-Organising thoughts on [Jacek Dukaj](/dukaj), after *Line of Resistance* showed me a hauntingly real picture of a human from a post-literature and post-scarcity age. Effortlessly breaking the lines between the real and the digital, intertwined with tons of religious metaphors, Dukaj brings a breath of fresh air to the science fiction genre. A new anthem for the chronically online, as only they have soaked in the vocabulary used as the foundation for the story.
+Organising thoughts on [Jacek Dukaj](/dukaj), after *Line of Resistance* showed
+me a hauntingly real picture of a human from a post-literature and post-scarcity
+age. Effortlessly breaking the lines between the real and the digital,
+intertwined with tons of religious metaphors, Dukaj brings a breath of fresh air
+to the science fiction genre. A new anthem for the chronically online, as only
+they have soaked in the vocabulary used as the foundation for the story.
 
-This probably sounds overly pretentious and enthusiastic, but I can't help myself. Only Dukaj and Watts give me that very special spark :)
+This probably sounds overly pretentious and enthusiastic, but I can't help
+myself. Only Dukaj and Watts give me that very special spark :)
 
 > Reading:
 >
