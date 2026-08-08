@@ -37,9 +37,12 @@ myself. Only Dukaj and Watts give me that very special spark :)
 
 ## 1X.07
 
-Yet another satellite successfully launched and contacted by my team :)
+Yet another satellite successfully launched and contacted by my team, our infra,
+our software! This time it's a military mission, no more R&D and technology
+demos. Without going into LinkedIn bragging mode, I feel both honored and
+responsible to support my country and be its eye in the sky.
 
-TODO: write something about it.
+{{image (src="/mgb01.jpg" small=false title="Mikroglob-01, moments before deployment.")}}
 
 
 ## 0X.07
