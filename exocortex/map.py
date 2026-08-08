@@ -17,19 +17,15 @@ COLOR_MAP_GREENS = matplotlib.pyplot.get_cmap("Greens")
 COLOR_MAP_BLUES = matplotlib.pyplot.get_cmap("Blues")
 COLOR_MAP_REDS = matplotlib.pyplot.get_cmap("Reds")
 
+FONT = """Times New Roman,
+Times,
+serif
+"""
+
 NODE_ATTR = {
     "shape": "plaintext",
     "color": "blue",
-    "fontname": """Roboto,
-Cantarell,
--apple-system,
-BlinkMacSystemFont,
-segoe ui,
-Oxygen,
-Ubuntu,
-open sans,
-helvetica neue,
-sans-serif""",
+    "fontname": FONT
 }
 
 GRAPH_ATTR = {
