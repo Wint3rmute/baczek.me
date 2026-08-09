@@ -11,7 +11,7 @@ dependencies = [
     "matplotlib>=3.6.0,<4.0",
     "beautifulsoup4>=4.15.0,<5.0",
     "markdown>=3.4.1,<4.0",
-    "sentence-transformers>=5.6.1,<6.0",
+    "sentence-transformers>=5.7.0,<6.0",
     "gitpython>=3.1.58,<4.0",
     "umap-learn>=0.5.9.post2,<0.6",
 ]

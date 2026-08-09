@@ -206,7 +206,7 @@ requires-dist = [
     { name = "graphviz", specifier = ">=0.21,<0.22" },
     { name = "markdown", specifier = ">=3.4.1,<4.0" },
     { name = "matplotlib", specifier = ">=3.6.0,<4.0" },
-    { name = "sentence-transformers", specifier = ">=5.6.1,<6.0" },
+    { name = "sentence-transformers", specifier = ">=5.7.0,<6.0" },
     { name = "umap-learn", specifier = ">=0.5.9.post2,<0.6" },
 ]
 
