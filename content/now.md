@@ -4,6 +4,8 @@ title: 2026's Devlog
 
 ## 0X.08
 
+<!-- {{video (src="/infohazard.mp4" title="In my dream, I saw him. The man without a head.")}} -->
+
 Renaming, rebranding, reshaping. *baczek.me ⇒ [dreaming.systems](https://dreaming.systems/)*.
 
 > Reading:

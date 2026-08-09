@@ -197,9 +197,13 @@ button:hover {
   color: var(--background);
 }
 
-/* ============================================================
- * Images & figures
- * ============================================================ */
+video {
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+  height: auto;
+}
+
 img {
   object-fit: contain;
   max-width: 100%;
