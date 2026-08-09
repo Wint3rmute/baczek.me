@@ -8,7 +8,7 @@ authors = [
 requires-python = ">=3.14,<3.15"
 dependencies = [
     "graphviz>=0.21,<0.22",
-    "matplotlib>=3.6.0,<4.0",
+    "matplotlib>=3.11.1,<4.0",
     "beautifulsoup4>=4.15.0,<5.0",
     "markdown>=3.4.1,<4.0",
     "sentence-transformers>=5.6.1,<6.0",
