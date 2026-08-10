@@ -11,3 +11,5 @@ some day.
 - Logos is a useful idea
 - Objective reality
 - There's no free will
+- Scepticism towards the [Anthropic Principle](https://en.wikipedia.org/wiki/Anthropic_principle)
+
