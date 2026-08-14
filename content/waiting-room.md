@@ -9,6 +9,7 @@ title: The Waiting room
 This is where I keep ideas, movies, music, and other things that I plan to
 watch/listen/research more in the future.
 
+- Greg Egan - *Diaspora* and other books
 - Bugonia (2025)
 - Steve Silberman - Neurotribes
 - The King in Yellow
