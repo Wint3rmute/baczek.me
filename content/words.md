@@ -123,6 +123,10 @@ _>Certainly worth bringing back from antiquity!_
 {{definition(word="Tantrum" definition="Intense emotional outburst. Commonly used wording: temper tantrum", source="Can't remember")}}
 {{definition(word="Temerity" definition="Boldness arising from rashness and contempt of danger", source="The Origin of Consciousness in the Breakdown of the Bicameral Mind")}}
 
+{{dictionary_letter(letter="U")}}
+
+{{definition(word="Umwelt" definition="specific way in which organisms of a particular species perceive and experience the world, shaped by the capabilities of their sensory organs and perceptual systems.", source="Some interview with Jacek Dukaj")}}
+
 {{dictionary_letter(letter="V")}}
 
 {{definition(word="Veritable" definition="Real, true, authentic, very", source="Simulacra and Simulation")}}
