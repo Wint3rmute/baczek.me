@@ -21,8 +21,8 @@ Renaming, rebranding, reshaping. *baczek.me ⇒ [dreaming.systems](https://dream
 
 Organising thoughts on [Jacek Dukaj](/dukaj), after *Line of Resistance* hit me
 with a hauntingly real picture of a human from a post-literature & post-scarcity
-age. Effortlessly breaking the lines between the real and the digital (meta
-+ literally!), intertwined with tons of religious metaphors, Dukaj keeps
+age. Effortlessly breaking the lines between the real and the digital,
+intertwined with tons of religious metaphors, Dukaj keeps
 bringing a breath of fresh air to the science fiction genre. A new anthem for
 the chronically online, as only they have soaked in the vocabulary used as the
 foundation for the storytelling style.
