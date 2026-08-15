@@ -2,9 +2,16 @@
 title: 2026's Devlog
 ---
 
-## 0X.08
-
 <!-- {{video (src="/infohazard.mp4" title="In my dream, I saw him. The man without a head.")}} -->
+
+## 1X.08
+
+> Watching:
+>
+> - Pantheon (2022)
+
+
+## 0X.08
 
 Renaming, rebranding, reshaping. *baczek.me ⇒ [dreaming.systems](https://dreaming.systems/)*.
 

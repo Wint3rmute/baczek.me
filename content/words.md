@@ -16,6 +16,7 @@ and gradually move them to this page.
 {{dictionary_letter(letter="A")}}
 
 {{definition(word="Accrue" definition="to increase in number or amount over a period of time", source="The Origin of Consciousness in the Breakdown of the Bicameral Mind")}}
+{{definition(word="Apotheosis" definition="Ascention of a subject (most often a person) to a god-like status", source="Seven from the game Deadlock")}}
 
 {{dictionary_letter(letter="B")}}
 
@@ -36,7 +37,7 @@ and gradually move them to this page.
 {{dictionary_letter(letter="D")}}
 
 {{definition(word="De Jure" definition="Practices, which are legally recognized", source="Starość Aksolotla")}}
-{{definition(word="Defenestration" definition="The act of throwing someone or something out of a window", source="JJay")}}
+{{definition(word="Defenestration" definition="The act of throwing someone or something out of a window", source="JJay. If you're reading this, have a nice day btw!")}}
 {{definition(word="Defunct" definition="No longer existing, living, or working correctly", source="Simulacra and Simulation")}}
 {{definition(word="Deterrence" definition="Odstraszenie", source="Oppenheimer (2023)")}}
 
@@ -44,7 +45,9 @@ and gradually move them to this page.
 
 {{definition(word="Euergetism" definition="Ancient practice of high-status and wealthy individuals in society distributing part of their wealth to the community", source="Marcin Giełzak - Dwie Lewe Ręce Podcast")}}
 
-_>Certainly worth bringing back from antiquity!_
+>↑ Certainly worth bringing back from antiquity ↑
+
+{{definition(word="Exuberance" definition="The quality of feeling energetic, or the behaviour of someone who feels this way", source="Drifter from the game Deadlock")}}
 
 {{dictionary_letter(letter="F")}}
 
