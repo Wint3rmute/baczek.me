@@ -10,6 +10,18 @@ title: 2026's Devlog
 >
 > - Pantheon (2022)
 
+Gosh, Pantheon **has no chill** when it comes to hard sci-fi concepts. Real
+interested to see the problems of conciousness transfer being explored with
+seriousness and rigor in this series. If you're eager for more, similar themes
+are present in [Jacek Dukaj's](/dukaj)
+[*The Old Axolotl*](https://en.wikipedia.org/wiki/The_Old_Axolotl).
+
+On the side note, really enjoying all the references so far:
+
+- Caspian using [Gage](https://en.wikipedia.org/wiki/Phineas_Gage) as his nickname
+- Laurie Howell looking just like [Motoko from Ghost in The Shell](https://en.wikipedia.org/wiki/Motoko_Kusanagi)
+- the NERD/NERV sticker
+
 
 ## 0X.08
 
@@ -108,6 +120,8 @@ Real shame I'll never play it  due to its
 > Listening:
 >
 > - Johann Sebastian Bach - Concerto in D Minor, BWV 974 - 2. Adagio
+>
+>    (I recommend the version by Alexandra Strelinski)
 >
 > Pondering:
 >
