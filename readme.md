@@ -4,8 +4,9 @@ You should make one for yourself too :)
 
 ### Dependencies
 
-1. Install [Zola](https://www.getzola.org/documentation/getting-started/installation/)
-2. Install [uv](https://docs.astral.sh/uv/getting-started/installation/)
+1. Install [Just](https://github.com/casey/just)
+2. Install [Zola](https://www.getzola.org/documentation/getting-started/installation/)
+3. Install [Uv](https://docs.astral.sh/uv/getting-started/installation/)
 
 ### Quickstart
 
