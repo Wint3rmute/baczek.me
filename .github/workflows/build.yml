@@ -32,9 +32,9 @@ jobs:
         with:
           python-version: "3.14"
       - name: Install dependencies
-        run: make install
+        run: just install
       - name: Build the website
-        run: make build
+        run: just build
       - name: Zip the website
         run: mkdir docs && zip -r docs/site.zip public
       - name: Setup Pages
