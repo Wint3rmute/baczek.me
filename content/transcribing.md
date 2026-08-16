@@ -13,7 +13,7 @@ I am currently transcribing [**wintermute**](https://ryanlott.bandcamp.com/track
 written by [Ryan Lott](https://ryan-lott.com/). You can track my progress and get the notes
 [here](https://github.com/Wint3rmute/Wintermute).
 
-{{image (src="/wip_transcription.png" noshadow=true small=false title="I still fink that I got the key wrong")}}
+{{image (src="/wip_transcription.png" small=false title="I still think that I got the key wrong")}}
 
 ## Writing your own sheet music
 
@@ -47,6 +47,6 @@ upper = \relative c'' {
 ...
 ```
 
-TODO: In the future, check whether someone has developed a
-[Typst](https://github.com/qjcg/awesome-typst) package for writing music.
+> TODO: In the future, check whether someone has developed a
+> [Typst](https://github.com/qjcg/awesome-typst) package for writing music.
 

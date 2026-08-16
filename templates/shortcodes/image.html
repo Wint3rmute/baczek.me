@@ -7,6 +7,10 @@
 {% set classes = classes | concat(with="small") %}
 {% endif %}
 
+{% if invert_on_white_theme %}
+{% set classes = classes | concat(with="invert-on-white-theme") %}
+{% endif %}
+
 
 <figure>
   <img class="{{classes | join(sep=' ')}}" src="{{src}}">

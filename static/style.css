@@ -210,6 +210,12 @@ img {
   height: auto;
 }
 
+@media (prefers-color-scheme: light) {
+  img.invert-on-white-theme {
+      filter: invert(1);
+    }
+}
+
 figure {
   margin-left: 0;
   margin-right: 0;
