@@ -194,6 +194,7 @@ specific system.
 - https://d2lang.com/
 - https://github.com/tesserato/Tect
 - https://sensmetry.com
+- https://en.wikipedia.org/wiki/XML_Metadata_Interchange
 
 ## Notes
 
