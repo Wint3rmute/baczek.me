@@ -4,11 +4,30 @@ title: 2026's Devlog
 
 <!-- {{video (src="/infohazard.mp4" title="In my dream, I saw him. The man without a head.")}} -->
 
+## 2X.08
+
+Second entry on Pantheon. It ended in a beautiful and graceful way. Unlike the
+usual slow death by layering yet another season on a worn and overstretched plot
+of a TV series, Pantheon ended because there was no philosophy left to explore,
+nothing which could resonate with our current [mindware](/dukaj). Somehow, in
+the (momentarily exhausting) sprawl of references, paradoxes and existential
+issues, Pantheon managed to fit in one of the most hopeful descriptions of love
+I've seen so far. I'm deeply grateful for all of it.
+
+> Watching:
+>
+> - Pantheon (season 2)
+>
+> Listening:
+>
+> - When In Rome - The Promise
+
+
 ## 1X.08
 
 > Watching:
 >
-> - Pantheon (2022)
+> - Pantheon (season 1)
 
 Gosh, Pantheon **has no chill** when it comes to hard sci-fi concepts. Real
 interested to see the problems of conciousness transfer being explored with
@@ -21,6 +40,7 @@ On the side note, really enjoying all the references so far:
 - Caspian using [Gage](https://en.wikipedia.org/wiki/Phineas_Gage) as his nickname
 - Laurie Howell looking just like [Motoko from Ghost in The Shell](https://en.wikipedia.org/wiki/Motoko_Kusanagi)
 - the NERD/NERV sticker
+- ..there's much more, those are just off the top of my head
 
 
 ## 0X.08
