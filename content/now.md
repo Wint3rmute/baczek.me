@@ -4,6 +4,17 @@ title: 2026's Devlog
 
 <!-- {{video (src="/infohazard.mp4" title="In my dream, I saw him. The man without a head.")}} -->
 
+## 3X.08
+
+> Reading:
+>
+> - The Machine Divine: Thoughts on Embodying the Omnipotence of Digital Realms
+>
+> Listening:
+>
+> - Jon Bellion - All Time Low
+
+
 ## 2X.08
 
 Second entry on Pantheon. It ended in a beautiful and graceful way. Unlike the

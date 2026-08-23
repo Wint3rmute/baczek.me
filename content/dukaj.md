@@ -26,7 +26,7 @@ transmitted over brain implants or similar means.
 
 **In a half-blind** (*pöłzaślep*) - when a character augumented with a brain implant is using around half of their perception to interact with the digital world, only partially present in reality. Examples: characters piloting complex machines, characters discussing and gathering related data at the same time.
 
-**In a full blind** (*pełny zaślep*) - next step from being in a *half-blind* - allocating the entirety of your perception apparatus to the digital realms. Deep work/research, computer games.
+**In a full-blind** (*pełny zaślep*) - next step from being in a *half-blind* - allocating the entirety of your perception apparatus to the digital realms. Deep work/research, computer games.
 
 ---
 
