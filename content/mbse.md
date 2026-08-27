@@ -195,6 +195,7 @@ specific system.
 - https://github.com/tesserato/Tect
 - https://sensmetry.com
 - https://en.wikipedia.org/wiki/XML_Metadata_Interchange
+- https://en.wikipedia.org/wiki/Design_rule_checking
 
 ## Notes
 
