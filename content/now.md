@@ -6,6 +6,12 @@ title: 2026's Devlog
 
 ## 3X.08
 
+Excited for the upcoming
+[ONTOS](https://youtu.be/ll4ZPxUzPhc?si=w9tDSQ5bdAexkABD)
+game, by the creators of the excellent
+[Soma](https://en.wikipedia.org/wiki/Soma_%28video_game%29).
+Keep on cooking manmade horrors beyond my comprehention!
+
 > Reading:
 >
 > - The Machine Divine: Thoughts on Embodying the Omnipotence of Digital Realms
