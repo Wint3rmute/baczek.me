@@ -4,6 +4,24 @@ title: 2026's Devlog
 
 <!-- {{video (src="/infohazard.mp4" title="In my dream, I saw him. The man without a head.")}} -->
 
+## 0X.09
+
+Deepseek V4 Flash is for me the milestone of cheap and actually useful AI. This
+thing costs nearly nothing and carries out all the frontend work I throw at it.
+Sure, it requires a tiny bit more handholding than Gemini/ChatGPT/Claude, but it
+comes at a **fraction** of their cost.
+
+I'm using all that nice cheap AI to build
+[rhizz](https://github.com/Wint3rmute/rhizz), following my favorite agentic
+coding practices:
+
+- Red-green TDD (learned this short & powerful prompt from [Simon](https://simonwillison.net/))
+- Shitton of lints, checkers, strict harnesses
+- UI tests with [Chromatic](https://www.chromatic.com/), can't recommend them enough
+
+{{image (src="/rhizz_apollo11.png" small=false title="Finally, a frontend I'm not ashamed to show off!")}}
+
+
 ## 3X.08
 
 Excited for the upcoming
