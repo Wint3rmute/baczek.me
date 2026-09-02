@@ -21,6 +21,11 @@ coding practices:
 
 {{image (src="/rhizz_apollo11.png" small=false title="Finally, a frontend I'm not ashamed to show off!")}}
 
+> Listening:
+>
+> - Ninajirashi - iPod Touch - Madeon Remix
+>   (what the hell are those harmonies around 1:29???)
+
 
 ## 3X.08
 
