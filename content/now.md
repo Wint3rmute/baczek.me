@@ -4,6 +4,20 @@ title: 2026's Devlog
 
 <!-- {{video (src="/infohazard.mp4" title="In my dream, I saw him. The man without a head.")}} -->
 
+## 1X.09
+
+Reached a very comfortable and productive place with my agentic coding setup:
+
+1. Riding a train with shitty 4G/5G coverage.
+2. Talking to my [Pi coding agent](https://pi.dev) over [telegram messages](https://pi.dev/packages/@llblab/pi-telegram).
+3. Using extremally cheap but also effective Deepseek Flash over [Openrouter](https://openrouter.ai).
+4. Pi is running on an isolated account on my VPS, thanks [NixOs](/nixos)!
+5. Everything goes through usual Git/CI/CD, ends up as a [Fly.io](https://fly.io) deployment.
+6. [Chromatic](https://chromatic.com) lets me verify LLM's work with high confidence.
+
+Haven't changed anything in this setup for almost a month now, hoping that it
+will last me at least another year.
+
 ## 0X.09
 
 Deepseek V4 Flash is for me the milestone of cheap and actually useful AI. This
